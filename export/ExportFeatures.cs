@@ -1,6 +1,6 @@
-using System.IO;
-using System.Text;
 using Autodesk.AutoCAD.DatabaseServices;
+using Autodesk.AutoCAD.ApplicationServices;
+using System.IO;
 
 namespace CadQa.Export
 {
@@ -8,30 +8,25 @@ namespace CadQa.Export
     {
         public static void DumpText(Database db, Transaction tr, string csvPath)
         {
-            var sb = new StringBuilder();
-            sb.AppendLine("Handle,ObjType,TextString,Layer,TextHeight");
+            using var sw = new StreamWriter(csvPath);
+            sw.WriteLine("Handle,ObjType,TextString,Layer,TextHeight");
 
             var bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
-            var ms = (BlockTableRecord)tr.GetObject(
-                bt[BlockTableRecord.ModelSpace],
-                OpenMode.ForRead);
+            var ms = (BlockTableRecord)tr.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead);
 
             foreach (ObjectId id in ms)
             {
-                var ent = tr.GetObject(id, OpenMode.ForRead) as Entity;
-                if (ent is DBText dbText)
+                var ent = tr.GetObject(id, OpenMode.ForRead);
+                switch (ent)
                 {
-                    sb.AppendLine(
-                        $"{dbText.Handle},DBText,\"{dbText.TextString}\",{dbText.Layer},{dbText.Height}");
-                }
-                else if (ent is MText mtext)
-                {
-                    sb.AppendLine(
-                        $"{mtext.Handle},MText,\"{mtext.Text}\",{mtext.Layer},{mtext.TextHeight}");
+                    case DBText t:
+                        sw.WriteLine($"{id.Handle},{nameof(DBText)},\"{t.TextString}\",{t.Layer},{t.Height}");
+                        break;
+                    case MText m:
+                        sw.WriteLine($"{id.Handle},{nameof(MText)},\"{m.Contents}\",{m.Layer},{m.TextHeight}");
+                        break;
                 }
             }
-
-            File.WriteAllText(csvPath, sb.ToString());
         }
     }
 }

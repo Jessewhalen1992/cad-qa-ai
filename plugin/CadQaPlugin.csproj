@@ -5,9 +5,16 @@
     <Platforms>x64</Platforms>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
+
   <ItemGroup>
-    <Reference Include="acdbmgd"        HintPath="$(ACADSDK)\acdbmgd.dll"        Private="false" />
-    <Reference Include="acmgd"          HintPath="$(ACADSDK)\acmgd.dll"          Private="false" />
-    <Reference Include="ManagedMapApi"  HintPath="$(ACADSDK)\ManagedMapApi.dll"  Private="false" />
+    <Reference Include="acdbmgd"
+               HintPath="$(ACADSDK)\acdbmgd.dll"
+               Private="false" />
+    <Reference Include="acmgd"
+               HintPath="$(ACADSDK)\acmgd.dll"
+               Private="false" />
+    <Reference Include="ManagedMapApi"
+               HintPath="$(ACADSDK)\ManagedMapApi.dll"
+               Private="false" />
   </ItemGroup>
 </Project>
