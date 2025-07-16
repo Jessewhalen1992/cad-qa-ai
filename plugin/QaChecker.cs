@@ -4,6 +4,7 @@ using System.Text.Json;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.Runtime;
+using CadQa.Export;
 using CadQa.Rules;
 
 namespace CadQaPlugin
@@ -28,17 +29,20 @@ namespace CadQaPlugin
                 .SelectMany(r => r.Evaluate(db, tr))
                 .ToList();
 
-            var jsonPath = $"{db.Filename}.qa.json";
-            var json = JsonSerializer.Serialize(
-                issues,
-                new JsonSerializerOptions { WriteIndented = true });
+            // Dump text features to CSV
+            ExportFeatures.DumpText(
+                db,
+                tr,
+                Path.ChangeExtension(db.Filename, ".features.csv"));
 
-            File.WriteAllText(jsonPath, json);
+            // Write QA issues to indented JSON
+            var jsonPath = Path.ChangeExtension(db.Filename, ".qa.json");
+            var opts = new JsonSerializerOptions { WriteIndented = true };
+            File.WriteAllText(jsonPath, JsonSerializer.Serialize(issues, opts));
 
-            Application.DocumentManager
-                .MdiActiveDocument
-                .Editor
-                .WriteMessage($"\nQA issues: {issues.Count}");
+            // Echo summary to command line
+            Application.DocumentManager.MdiActiveDocument.Editor
+                .WriteMessage($"\nQA issues found: {issues.Count}");
         }
     }
 }
