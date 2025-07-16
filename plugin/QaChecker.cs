@@ -1,4 +1,6 @@
+using System.IO;
 using System.Linq;
+using System.Text.Json;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.Runtime;
@@ -26,7 +28,17 @@ namespace CadQaPlugin
                 .SelectMany(r => r.Evaluate(db, tr))
                 .ToList();
 
-            // TODO: write JSON next to drawing
+            var jsonPath = $"{db.Filename}.qa.json";
+            var json = JsonSerializer.Serialize(
+                issues,
+                new JsonSerializerOptions { WriteIndented = true });
+
+            File.WriteAllText(jsonPath, json);
+
+            Application.DocumentManager
+                .MdiActiveDocument
+                .Editor
+                .WriteMessage($"\nQA issues: {issues.Count}");
         }
     }
 }
