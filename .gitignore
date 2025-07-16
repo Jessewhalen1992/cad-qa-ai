@@ -1,0 +1,10 @@
+bin/
+obj/
+.vs/
+__pycache__/
+.ipynb_checkpoints/
+.env/
+.venv/
+.idea/
+*.user
+*.suo
