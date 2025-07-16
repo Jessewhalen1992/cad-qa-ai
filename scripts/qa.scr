@@ -1,0 +1,3 @@
+(command "_.NETLOAD" "CadQaPlugin.dll")
+(command "RUNQAAUDIT")
+(command "QUIT" "Y")
