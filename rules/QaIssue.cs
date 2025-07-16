@@ -13,6 +13,6 @@ namespace CadQa.Rules
 
         public string Message { get; set; } = string.Empty;
 
-        public Action FixAction { get; set; }
+        public Action? FixAction { get; set; }
     }
 }
