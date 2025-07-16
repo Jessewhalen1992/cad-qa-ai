@@ -1,6 +1,6 @@
+using System.Collections.Generic;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
-using System.Collections.Generic;
 
 namespace CadQa.Rules
 {
