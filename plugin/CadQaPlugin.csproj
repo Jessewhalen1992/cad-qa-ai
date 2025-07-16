@@ -1,27 +1,13 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
     <TargetFramework>net48</TargetFramework>
-    <OutputType>Library</OutputType>
     <AssemblyName>CadQaPlugin</AssemblyName>
-    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>x64</Platforms>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
-
   <ItemGroup>
-    <Compile Include="..\rules\*.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Reference Include="acdbmgd">
-      <HintPath>$(ACADSDK)\acdbmgd.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="acmgd">
-      <HintPath>$(ACADSDK)\acmgd.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="ManagedMapApi">
-      <HintPath>$(ACADSDK)\ManagedMapApi.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
+    <Reference Include="acdbmgd"        HintPath="$(ACADSDK)\acdbmgd.dll"        Private="false" />
+    <Reference Include="acmgd"          HintPath="$(ACADSDK)\acmgd.dll"          Private="false" />
+    <Reference Include="ManagedMapApi"  HintPath="$(ACADSDK)\ManagedMapApi.dll"  Private="false" />
   </ItemGroup>
 </Project>
