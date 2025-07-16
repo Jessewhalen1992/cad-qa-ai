@@ -1,0 +1,9 @@
+name: cad-qa-ai
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - scikit-learn
+  - joblib
+  - jupyter
