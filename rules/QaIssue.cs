@@ -1,10 +1,14 @@
+using Autodesk.AutoCAD.DatabaseServices;
+using System;
+
 namespace CadQa.Rules
 {
     public class QaIssue
     {
         public int Id { get; set; }
-        public string Type { get; set; }
-        public string Message { get; set; }
-        public string FixAction { get; set; }
+        public IssueType Type { get; set; }
+        public ObjectId EntityId { get; set; }
+        public string Message { get; set; } = string.Empty;
+        public Action FixAction { get; set; }
     }
 }
