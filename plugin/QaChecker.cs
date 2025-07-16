@@ -11,10 +11,21 @@ namespace CadQaPlugin
         [CommandMethod("RUNQAAUDIT")]
         public static void RunQaAudit()
         {
-            var db = Application.DocumentManager.MdiActiveDocument.Database;
+            var db = Application.DocumentManager
+                .MdiActiveDocument
+                .Database;
+
             using var tr = db.TransactionManager.StartTransaction();
-            var rules = new RuleBase[] { new TextStyleRule() };
-            var issues = rules.SelectMany(r => r.Evaluate(db, tr)).ToList();
+
+            var rules = new RuleBase[]
+            {
+                new TextStyleRule()
+            };
+
+            var issues = rules
+                .SelectMany(r => r.Evaluate(db, tr))
+                .ToList();
+
             // TODO: write JSON next to drawing
         }
     }
