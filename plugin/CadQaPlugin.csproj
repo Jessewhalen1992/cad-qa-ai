@@ -1,8 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
+    <!-- build for old AutoCAD and new .NET8-based AutoCAD 2025 -->
     <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
-    <AssemblyName>CadQaPlugin</AssemblyName>
     <Platforms>x64</Platforms>
+    <AssemblyName>CadQaPlugin</AssemblyName>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
