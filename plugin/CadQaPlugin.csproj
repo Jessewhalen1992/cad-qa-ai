@@ -27,6 +27,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
-    <PackageReference Include="System.Text.Json" Version="6.0.20" />
+    <!-- align with AutoCAD 2025's .NET 8 assemblies -->
+    <PackageReference Include="System.Text.Json" Version="8.0.0" />
   </ItemGroup>
 </Project>
