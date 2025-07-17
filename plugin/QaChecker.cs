@@ -30,10 +30,7 @@ namespace CadQaPlugin
                 .ToList();
 
             // Dump text features to CSV
-            ExportFeatures.DumpText(
-                db,
-                tr,
-                Path.ChangeExtension(db.Filename, ".features.csv"));
+            ExportFeatures.DumpText(db, tr, Path.ChangeExtension(db.Filename, ".features.csv"));
 
             // Write QA issues to indented JSON
             var jsonPath = Path.ChangeExtension(db.Filename, ".qa.json");
