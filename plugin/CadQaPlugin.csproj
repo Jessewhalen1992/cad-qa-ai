@@ -8,21 +8,23 @@
   </PropertyGroup>
   <ItemGroup>
     <!-- AutoCAD SDK references -->
-    <Reference Include="acdbmgd"
-               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\Acdbmgd.dll"
-               Private="false" />
-    <Reference Include="acmgd"
-               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\Acmgd.dll"
-               Private="false" />
-    <Reference Include="ManagedMapApi"
-               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\ManagedMapApi.dll"
-               Private="false" />
 
     <!-- include rule and exporter source files -->
     <Compile Include="..\rules\**\*.cs" />
     <Compile Include="..\export\**\*.cs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="6.0.20" />
+    <PackageReference Include="System.Text.Json" Version="6.0.11" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Acdbmgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
+    </Reference>
+    <Reference Include="Acmgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acmgd.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedMapApi">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\Map\ManagedMapApi.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>
