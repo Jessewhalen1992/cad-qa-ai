@@ -3,7 +3,7 @@ using System.Linq;
 using System.Text.Json;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
-using Autodesk.AutoCAD.Runtime;
+using Autodesk.AutoCAD.Runtime;   // CommandMethod attribute
 using CadQa.Export;
 using CadQa.Rules;
 
