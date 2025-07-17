@@ -1,9 +1,9 @@
+using Autodesk.AutoCAD.Runtime;   // for [CommandMethod]
 using System.IO;
 using System.Linq;
 using System.Text.Json;
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
-using Autodesk.AutoCAD.Runtime;   // CommandMethod attribute
 using CadQa.Export;
 using CadQa.Rules;
 
