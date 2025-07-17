@@ -7,15 +7,21 @@
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="acdbmgd"       HintPath="$(ACADSDK)\acdbmgd.dll"       Private="false" />
-    <Reference Include="acmgd"         HintPath="$(ACADSDK)\acmgd.dll"         Private="false" />
-    <Reference Include="ManagedMapApi" HintPath="$(ACADSDK)\ManagedMapApi.dll" Private="false" />
+    <Reference Include="acdbmgd"
+               HintPath="$(ACADSDK)\Managed\Legacy\Acdbmgd.dll"
+               Private="false" />
+    <Reference Include="acmgd"
+               HintPath="$(ACADSDK)\Managed\Legacy\Acmgd.dll"
+               Private="false" />
+    <Reference Include="ManagedMapApi"
+               HintPath="$(ACADSDK)\Managed\Legacy\ManagedMapApi.dll"
+               Private="false" />
 
     <!-- include rule and exporter source files -->
     <Compile Include="..\rules\**\*.cs" />
     <Compile Include="..\export\**\*.cs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="System.Text.Json" Version="7.0.2" />
+    <PackageReference Include="System.Text.Json" Version="6.0.20" />
   </ItemGroup>
 </Project>
