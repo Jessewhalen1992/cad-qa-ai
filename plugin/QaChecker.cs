@@ -32,10 +32,20 @@ namespace CadQaPlugin
             // Dump text features to CSV
             ExportFeatures.DumpText(db, tr, Path.ChangeExtension(db.Filename, ".features.csv"));
 
-            // Write QA issues to indented JSON
+            // Project to simple DTOs before serializing
+            var simpleIssues = issues.Select(i => new
+            {
+                i.Id,
+                Type = i.Type.ToString(),
+                Handle = i.EntityId.ToString(),
+                i.Message
+            }).ToList();
+
             var jsonPath = Path.ChangeExtension(db.Filename, ".qa.json");
             var opts = new JsonSerializerOptions { WriteIndented = true };
-            File.WriteAllText(jsonPath, JsonSerializer.Serialize(issues, opts));
+            File.WriteAllText(
+                jsonPath,
+                JsonSerializer.Serialize(simpleIssues, opts));
 
             // Echo summary to command line
             Application.DocumentManager.MdiActiveDocument.Editor
