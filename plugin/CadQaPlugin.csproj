@@ -4,6 +4,7 @@
     <AssemblyName>CadQaPlugin</AssemblyName>
     <Platforms>x64</Platforms>
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="acdbmgd"       HintPath="$(ACADSDK)\acdbmgd.dll"       Private="false" />
@@ -13,5 +14,8 @@
     <!-- include rule and exporter source files -->
     <Compile Include="..\rules\**\*.cs" />
     <Compile Include="..\export\**\*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.Text.Json" Version="7.0.2" />
   </ItemGroup>
 </Project>
