@@ -7,14 +7,15 @@
     <LangVersion>8.0</LangVersion>
   </PropertyGroup>
   <ItemGroup>
+    <!-- AutoCAD SDK references -->
     <Reference Include="acdbmgd"
-               HintPath="$(ACADSDK)\Managed\Legacy\Acdbmgd.dll"
+               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\Acdbmgd.dll"
                Private="false" />
     <Reference Include="acmgd"
-               HintPath="$(ACADSDK)\Managed\Legacy\Acmgd.dll"
+               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\Acmgd.dll"
                Private="false" />
     <Reference Include="ManagedMapApi"
-               HintPath="$(ACADSDK)\Managed\Legacy\ManagedMapApi.dll"
+               HintPath="C:\Program Files\Autodesk\AutoCAD 2025\Managed\Legacy\ManagedMapApi.dll"
                Private="false" />
 
     <!-- include rule and exporter source files -->
