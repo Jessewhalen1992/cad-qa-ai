@@ -6,8 +6,12 @@
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="acdbmgd"        HintPath="$(ACADSDK)\acdbmgd.dll"        Private="false" />
-    <Reference Include="acmgd"          HintPath="$(ACADSDK)\acmgd.dll"          Private="false" />
-    <Reference Include="ManagedMapApi"  HintPath="$(ACADSDK)\ManagedMapApi.dll"  Private="false" />
+    <Reference Include="acdbmgd"       HintPath="$(ACADSDK)\acdbmgd.dll"       Private="false" />
+    <Reference Include="acmgd"         HintPath="$(ACADSDK)\acmgd.dll"         Private="false" />
+    <Reference Include="ManagedMapApi" HintPath="$(ACADSDK)\ManagedMapApi.dll" Private="false" />
+
+    <!-- include rule and exporter source files -->
+    <Compile Include="..\rules\**\*.cs" />
+    <Compile Include="..\export\**\*.cs" />
   </ItemGroup>
 </Project>
