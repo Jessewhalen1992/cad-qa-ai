@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <!-- build for old AutoCAD and new .NET8-based AutoCAD 2025 -->
+    <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
+    <Platforms>x64</Platforms>
+    <AssemblyName>CadQaPlugin</AssemblyName>
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <Nullable>enable</Nullable>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <!-- AutoCAD SDK references -->
+
+    <!-- include rule and exporter source files -->
+    <Compile Include="..\rules\**\*.cs" />
+    <Compile Include="..\export\**\*.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Acdbmgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
+    </Reference>
+    <Reference Include="Acmgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acmgd.dll</HintPath>
+    </Reference>
+    <Reference Include="ManagedMapApi">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\Map\ManagedMapApi.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
+    <!-- align with AutoCAD 2025's .NET 8 assemblies -->
+    <PackageReference Include="System.Text.Json" Version="6.0.10" />
+  </ItemGroup>
+</Project>
