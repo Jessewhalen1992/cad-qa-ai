@@ -1,6 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <PropertyGroup>
-    <!-- build for old AutoCAD and new .NET8-based AutoCAD 2025 -->
+    <!-- build for old AutoCAD (net48) and new .NET8-based AutoCAD 2025 -->
     <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
     <Platforms>x64</Platforms>
     <AssemblyName>CadQaPlugin</AssemblyName>
@@ -8,16 +8,45 @@
     <Nullable>enable</Nullable>
     <LangVersion>latest</LangVersion>
   </PropertyGroup>
-  <ItemGroup>
-    <!-- AutoCAD SDK references -->
 
-    <!-- include rule and exporter source files -->
+  <!-- include your rules and export source -->
+  <ItemGroup>
     <Compile Include="..\rules\**\*.cs" />
     <Compile Include="..\export\**\*.cs" />
   </ItemGroup>
-  <ItemGroup>
+
+  <!-- AutoCAD DLL references for net48 (Legacy folder) -->
+
+  <!-- AutoCAD DLL references for net8.0-windows (Managed folder) -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'net8.0-windows'">
     <Reference Include="Acdbmgd">
-      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
+      <HintPath>$(ACADSDK)\Managed\acdbmgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="Acmgd">
+      <HintPath>$(ACADSDK)\Managed\acmgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="ManagedMapApi">
+      <HintPath>$(ACADSDK)\Managed\ManagedMapApi.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="accoremgd">
+      <HintPath>$(ACADSDK)\Managed\accoremgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- System.Text.Json only for net48 (patched 6.x line, no CVE) -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
+    <PackageReference Include="System.Text.Json" Version="6.0.11" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="accoremgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2022\accoremgd.dll</HintPath>
+    </Reference>
+    <Reference Include="Acdbmgd">
+      <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2022\acdbmgd.dll</HintPath>
     </Reference>
     <Reference Include="Acmgd">
       <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\acmgd.dll</HintPath>
@@ -25,9 +54,5 @@
     <Reference Include="ManagedMapApi">
       <HintPath>..\..\..\..\..\Program Files\Autodesk\AutoCAD 2025\Map\ManagedMapApi.dll</HintPath>
     </Reference>
-  </ItemGroup>
-  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
-    <!-- align with AutoCAD 2025's .NET 8 assemblies -->
-    <PackageReference Include="System.Text.Json" Version="8.0.0" />
   </ItemGroup>
 </Project>
