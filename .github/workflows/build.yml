@@ -1,0 +1,25 @@
+name: Build plugin
+
+on:
+  push:
+    branches: [ main, feat/** ]
+  pull_request:
+
+jobs:
+  build:
+    runs-on: windows-latest
+    env:
+      ACADSDK: ${{ secrets.ACADSDK }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '8.0.x'
+      - name: Restore and build
+        run: dotnet build plugin/CadQaPlugin.csproj -c Release
+      - name: Upload plugin
+        uses: actions/upload-artifact@v4
+        with:
+          name: CadQaPlugin
+          path: |
+            plugin/bin/Release/net8.0-windows/CadQaPlugin.dll
