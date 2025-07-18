@@ -1,0 +1,5 @@
+Handle,ObjType,TextString,Layer,TextHeight
+1,DBText,"GATE VALVE",L-MECH,0.09
+2,MText,"FIRE HYDRANT",L-SYMB,0.12
+3,DBText,"CATCH BASIN",L-UTIL,0.08
+4,MText,"DRAIN",L-UTIL,0.1
