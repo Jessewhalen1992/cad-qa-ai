@@ -19,43 +19,47 @@ namespace CadQa.Export
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
 
-                // ── NEW: ignore any entity on a “Z‑” layer ────────────────
+                // ── ignore Z‑ layers ────────────────────────────
                 if (ent is Entity e &&
                     e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
                     continue;
-                // ──────────────────────────────────────────────────────────
+                // ────────────────────────────────────────────────
 
                 switch (ent)
                 {
                     case DBText t:
-                        var txt = t.TextString;
-                        if (IsMostlyNumeric(txt))
-                            continue;
-                        sw.WriteLine(
-                            $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
-                        break;
+                        {
+                            string txt = t.TextString;
+                            if (IsMostlyNumeric(txt)) break;
+
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
+                            break;
+                        }
 
                     case MText m:
-                        var txt = m.Text;
-                        if (IsMostlyNumeric(txt))
-                            continue;
-                        sw.WriteLine(
-                            $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
-                        break;
+                        {
+                            string txt = m.Text;          // duplicates are fine in a new scope
+                            if (IsMostlyNumeric(txt)) break;
+
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
+                            break;
+                        }
                 }
             }
-        }
 
-        static bool IsMostlyNumeric(string s)
-        {
-            if (string.IsNullOrWhiteSpace(s)) return true;
-            int digit = 0, alpha = 0;
-            foreach (char c in s)
+            static bool IsMostlyNumeric(string s)
             {
-                if (char.IsDigit(c)) digit++;
-                else if (char.IsLetter(c)) alpha++;
+                if (string.IsNullOrWhiteSpace(s)) return true;
+                int digit = 0, alpha = 0;
+                foreach (char c in s)
+                {
+                    if (char.IsDigit(c)) digit++;
+                    else if (char.IsLetter(c)) alpha++;
+                }
+                return digit > 0 && alpha == 0;
             }
-            return digit > 0 && alpha == 0;
         }
     }
 }
