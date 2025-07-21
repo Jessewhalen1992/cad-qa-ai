@@ -28,16 +28,34 @@ namespace CadQa.Export
                 switch (ent)
                 {
                     case DBText t:
+                        var txt = t.TextString;
+                        if (IsMostlyNumeric(txt))
+                            continue;
                         sw.WriteLine(
-                            $"{id.Handle},{nameof(DBText)},\"{t.TextString}\",{t.Layer},{t.Height}");
+                            $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
                         break;
 
                     case MText m:
+                        var txt = m.Text;
+                        if (IsMostlyNumeric(txt))
+                            continue;
                         sw.WriteLine(
-                            $"{id.Handle},{nameof(MText)},\"{m.Text}\",{m.Layer},{m.TextHeight}");
+                            $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
                         break;
                 }
             }
+        }
+
+        static bool IsMostlyNumeric(string s)
+        {
+            if (string.IsNullOrWhiteSpace(s)) return true;
+            int digit = 0, alpha = 0;
+            foreach (char c in s)
+            {
+                if (char.IsDigit(c)) digit++;
+                else if (char.IsLetter(c)) alpha++;
+            }
+            return digit > 0 && alpha == 0;
         }
     }
 }
