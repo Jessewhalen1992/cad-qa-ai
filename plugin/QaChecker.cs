@@ -28,7 +28,7 @@ namespace CadQaPlugin
                 .ToList();
 
             // 2 dump features
-            ExportFeatures.DumpText(
+            ExportFeatures.DumpFeatures(
                 db, tr,
                 Path.ChangeExtension(db.Filename, ".features.csv"));
 
