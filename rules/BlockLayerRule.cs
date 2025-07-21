@@ -36,7 +36,7 @@ namespace CadQa.Rules
                     {
                         yield return new QaIssue
                         {
-                            Id       = id.Handle.Value.ToInt(),
+                            Id = unchecked((int)id.Handle.Value),
                             Type     = IssueType.Layer,
                             EntityId = id,
                             Message  = $"Block '{br.Name}' should be on layer '{kvp.Value}' (found '{br.Layer}')."
