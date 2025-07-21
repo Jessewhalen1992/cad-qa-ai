@@ -32,6 +32,7 @@ namespace CadQaPlugin
                 db, tr,
                 Path.ChangeExtension(db.Filename, ".features.csv"));
 
+
             // 3️⃣  collect annotation strings
             var texts = new List<string>();
             var bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
@@ -63,7 +64,7 @@ namespace CadQaPlugin
                     using (Py.GIL())
                     {
                         dynamic joblib = Py.Import("joblib");
-                        dynamic model = joblib.load("ml/artifacts/layer_clf.pkl");
+                        dynamic model = joblib.load("ml/artifacts/layer_clf.pl");
                         dynamic preds = model.predict(texts.ToArray());
 
                         for (int i = 0; i < texts.Count; i++)
@@ -96,7 +97,9 @@ namespace CadQaPlugin
                 Path.ChangeExtension(db.Filename, ".qa.json"),
                 JsonSerializer.Serialize(simple, new JsonSerializerOptions { WriteIndented = true }));
 
+            
             doc.Editor.WriteMessage($"\nQA issues found: {issues.Count}");
         }
     }
 }
+
