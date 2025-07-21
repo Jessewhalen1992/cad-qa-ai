@@ -49,8 +49,8 @@ namespace CadQaPlugin
                 if (ent is DBText t && !string.IsNullOrWhiteSpace(t.TextString))
                     texts.Add(t.TextString);
 
-                else if (ent is MText m && !string.IsNullOrWhiteSpace(m.Contents))
-                    texts.Add(m.Contents);
+                else if (ent is MText m && !string.IsNullOrWhiteSpace(m.Text))
+                    texts.Add(m.Text);
             }
 
             // 4 machine-learning suggestions
