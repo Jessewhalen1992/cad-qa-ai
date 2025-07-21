@@ -7,10 +7,10 @@ namespace CadQa.Export
 {
     public static class ExportFeatures
     {
-        public static void DumpText(Database db, Transaction tr, string csvPath)
+        public static void DumpFeatures(Database db, Transaction tr, string csvPath)
         {
             using var sw = new StreamWriter(csvPath);
-            sw.WriteLine("Handle,ObjType,TextString,Layer,TextHeight");
+            sw.WriteLine("Handle,ObjType,Content,Layer,Extra");
 
             var bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
             var ms = (BlockTableRecord)tr.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead);
@@ -28,24 +28,50 @@ namespace CadQa.Export
                 switch (ent)
                 {
                     case DBText t:
-                        {
-                            string txt = t.TextString;
-                            if (IsMostlyNumeric(txt)) break;
+                    {
+                        string txt = t.TextString;
+                        if (IsMostlyNumeric(txt)) break;
 
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
-                            break;
-                        }
+                        sw.WriteLine(
+                            $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
+                        break;
+                    }
 
                     case MText m:
-                        {
-                            string txt = m.Text;          // duplicates are fine in a new scope
-                            if (IsMostlyNumeric(txt)) break;
+                    {
+                        string txt = m.Text;          // duplicates are fine in a new scope
+                        if (IsMostlyNumeric(txt)) break;
 
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
-                            break;
-                        }
+                        sw.WriteLine(
+                            $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
+                        break;
+                    }
+
+                    case BlockReference br:
+                    {
+                        sw.WriteLine(
+                            $"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
+                        break;
+                    }
+
+                    case Dimension dim:
+                    {
+                        string txt = dim.DimensionText?.Trim() ?? "";
+                        if (IsMostlyNumeric(txt)) break;
+                        sw.WriteLine(
+                            $"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
+                        break;
+                    }
+
+                    case Leader l when l.HasArrowHead:
+                    case MLeader ml:
+                    {
+                        string txt = (ent is MLeader mld ? mld.MText?.Text : ((Leader)ent).Annotation?.TextString) ?? "";
+                        if (IsMostlyNumeric(txt)) break;
+                        sw.WriteLine(
+                            $"{id.Handle},{ent.GetType().Name},\"{txt}\",{((Entity)ent).Layer},");
+                        break;
+                    }
                 }
             }
 
