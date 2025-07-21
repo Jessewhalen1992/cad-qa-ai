@@ -1,4 +1,4 @@
-﻿using Autodesk.AutoCAD.Runtime;       // [CommandMethod]
+using Autodesk.AutoCAD.Runtime; // [CommandMethod]
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
 using CadQa.Export;
@@ -22,17 +22,17 @@ namespace CadQaPlugin
 
             using var tr = db.TransactionManager.StartTransaction();
 
-            // 1️⃣  deterministic rules
-            var issues = new RuleBase[] { new TextStyleRule() }
+            // 1 deterministic rules
+            var issues = new RuleBase[] { new TextStyleRule(), new BlockLayerRule() }
                 .SelectMany(r => r.Evaluate(db, tr))
                 .ToList();
 
-            // 2️⃣  dump features
+            // 2 dump features
             ExportFeatures.DumpText(
                 db, tr,
                 Path.ChangeExtension(db.Filename, ".features.csv"));
 
-            // 3️⃣  collect annotation strings
+            // 3 collect annotation strings
             var texts = new List<string>();
             var bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
             var ms = (BlockTableRecord)tr.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead);
@@ -41,11 +41,10 @@ namespace CadQaPlugin
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
 
-                // ── NEW: ignore any entity on a “Z‑” layer ────────────────
+                // ignore any entity on a "Z-" layer
                 if (ent is Entity e &&
                     e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
                     continue;
-                // ──────────────────────────────────────────────────────────
 
                 if (ent is DBText t && !string.IsNullOrWhiteSpace(t.TextString))
                     texts.Add(t.TextString);
@@ -54,7 +53,7 @@ namespace CadQaPlugin
                     texts.Add(m.Contents);
             }
 
-            // 4️⃣  machine‑learning suggestions
+            // 4 machine-learning suggestions
             if (texts.Count > 0)
             {
                 try
@@ -69,7 +68,7 @@ namespace CadQaPlugin
                         for (int i = 0; i < texts.Count; i++)
                         {
                             doc.Editor.WriteMessage(
-                                $"\nML suggestion: '{texts[i]}' → '{preds[i]}'");
+                                $"\nML suggestion: '{texts[i]}' -> '{preds[i]}'");
                         }
                     }
                 }
@@ -84,7 +83,7 @@ namespace CadQaPlugin
                 }
             }
 
-            // 5️⃣  write deterministic issues
+            // 5 write deterministic issues
             var simple = issues.Select(i => new
             {
                 i.Id,
