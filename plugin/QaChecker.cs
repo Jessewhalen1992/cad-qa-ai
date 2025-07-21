@@ -47,10 +47,18 @@ namespace CadQaPlugin
                     continue;
 
                 if (ent is DBText t && !string.IsNullOrWhiteSpace(t.TextString))
-                    texts.Add(t.TextString);
+                {
+                    var txt = t.TextString;
+                    if (!IsMostlyNumeric(txt))
+                        texts.Add(txt);
+                }
 
                 else if (ent is MText m && !string.IsNullOrWhiteSpace(m.Text))
-                    texts.Add(m.Text);
+                {
+                    var txt = m.Text;
+                    if (!IsMostlyNumeric(txt))
+                        texts.Add(txt);
+                }
             }
 
             // 4 machine-learning suggestions
@@ -96,6 +104,18 @@ namespace CadQaPlugin
                 JsonSerializer.Serialize(simple, new JsonSerializerOptions { WriteIndented = true }));
 
             doc.Editor.WriteMessage($"\nQA issues found: {issues.Count}");
+        }
+
+        static bool IsMostlyNumeric(string s)
+        {
+            if (string.IsNullOrWhiteSpace(s)) return true;
+            int digit = 0, alpha = 0;
+            foreach (char c in s)
+            {
+                if (char.IsDigit(c)) digit++;
+                else if (char.IsLetter(c)) alpha++;
+            }
+            return digit > 0 && alpha == 0;
         }
     }
 }
