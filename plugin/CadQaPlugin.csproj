@@ -1,62 +1,89 @@
 <Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- ───────────── Global settings ───────────── -->
   <PropertyGroup>
-    <!-- Build for old AutoCAD (net48) and AutoCAD 2025+ (net8.0-windows) -->
+    <!-- Build for legacy AutoCAD (net48) and AutoCAD 2025+ (net8.0‑windows) -->
     <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
     <Platforms>x64</Platforms>
     <AssemblyName>CadQaPlugin</AssemblyName>
+
+    <!-- Copy NuGet DLLs so NETLOAD can find them -->
     <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
-    <Nullable>enable</Nullable>
+
+    <!-- Modern C# & nullable refs -->
     <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+
+    <!-- .NET Framework: generate binding redirects automatically -->
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
 
-  <!-- Include rule and export source files -->
+  <!-- Shared source files -->
   <ItemGroup>
     <Compile Include="..\rules\**\*.cs" />
     <Compile Include="..\export\**\*.cs" />
   </ItemGroup>
 
-  <!-- References for .NET Framework 4.8 builds (use AutoCAD 2022 DLLs) -->
-  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
-    <Reference Include="acdbmgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2022\acdbmgd.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="acmgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2022\acmgd.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="accoremgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2022\accoremgd.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <Reference Include="ManagedMapApi">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2022\Map\ManagedMapApi.dll</HintPath>
-      <Private>false</Private>
-    </Reference>
-    <!-- JSON and Pythonnet for .NET Framework 4.8 -->
-    <PackageReference Include="System.Text.Json" Version="6.0.11" />
+  <!-- Shared NuGet packages -->
+  <ItemGroup>
+    <!-- pythonnet 3.0.5 recognises Python 3.7‑3.13 ABIs -->
     <PackageReference Include="pythonnet" Version="3.0.5" />
   </ItemGroup>
 
-  <!-- References for .NET 8.0‑windows builds (use AutoCAD 2025 DLLs) -->
-  <ItemGroup Condition="'$(TargetFramework)' == 'net8.0-windows'">
+  <!-- ────── .NET Framework 4.8 – AutoCAD 2022 DLLs ────── -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
+    <!-- System.Text.Json isn’t in the BCL for net48 -->
+    <PackageReference Include="System.Text.Json" Version="6.0.11" />
+
     <Reference Include="acdbmgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2022\acdbmgd.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="acmgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2025\acmgd.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2022\acmgd.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="accoremgd">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2025\accoremgd.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2022\accoremgd.dll</HintPath>
       <Private>false</Private>
     </Reference>
     <Reference Include="ManagedMapApi">
-      <HintPath>C:\Program Files\Autodesk\AutoCAD 2025\Map\ManagedMapApi.dll</HintPath>
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2022\Map\ManagedMapApi.dll</HintPath>
       <Private>false</Private>
     </Reference>
-    <!-- Pythonnet for .NET 8.0 (System.Text.Json is built-in) -->
-    <PackageReference Include="pythonnet" Version="3.0.0" />
   </ItemGroup>
+
+  <!-- ────── .NET 8.0‑windows – AutoCAD 2025 DLLs ────── -->
+  <ItemGroup Condition="'$(TargetFramework)' == 'net8.0-windows'">
+    <Reference Include="acdbmgd">
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="acmgd">
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2025\acmgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="accoremgd">
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2025\accoremgd.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+    <Reference Include="ManagedMapApi">
+      <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2025\Map\ManagedMapApi.dll</HintPath>
+      <Private>false</Private>
+    </Reference>
+  </ItemGroup>
+
+  <!-- ────── Post‑build: copy ML model beside every DLL ────── -->
+  <Target Name="CopyModel" AfterTargets="Build">
+    <!-- relative path to the model inside the repo -->
+    <ItemGroup>
+      <ModelFile Include="..\ml\artifacts\layer_clf.pkl" />
+    </ItemGroup>
+
+    <!-- ensure destination dir exists, then copy -->
+    <MakeDir Directories="$(OutputPath)ml\artifacts" />
+    <Copy SourceFiles="@(ModelFile)"
+          DestinationFolder="$(OutputPath)ml\artifacts" />
+  </Target>
+
 </Project>
