@@ -1,5 +1,6 @@
-using Autodesk.AutoCAD.DatabaseServices;
+﻿using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.ApplicationServices;
+using System;
 using System.IO;
 
 namespace CadQa.Export
@@ -17,13 +18,23 @@ namespace CadQa.Export
             foreach (ObjectId id in ms)
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
+
+                // ── NEW: ignore any entity on a “Z‑” layer ────────────────
+                if (ent is Entity e &&
+                    e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
+                    continue;
+                // ──────────────────────────────────────────────────────────
+
                 switch (ent)
                 {
                     case DBText t:
-                        sw.WriteLine($"{id.Handle},{nameof(DBText)},\"{t.TextString}\",{t.Layer},{t.Height}");
+                        sw.WriteLine(
+                            $"{id.Handle},{nameof(DBText)},\"{t.TextString}\",{t.Layer},{t.Height}");
                         break;
+
                     case MText m:
-                        sw.WriteLine($"{id.Handle},{nameof(MText)},\"{m.Contents}\",{m.Layer},{m.TextHeight}");
+                        sw.WriteLine(
+                            $"{id.Handle},{nameof(MText)},\"{m.Contents}\",{m.Layer},{m.TextHeight}");
                         break;
                 }
             }

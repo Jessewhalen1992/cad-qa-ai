@@ -1,5 +1,0 @@
-Handle,ObjType,TextString,Layer,TextHeight
-1,MText,"HYDRANT",L-SYMB,0.1
-2,DBText,"VALVE",L-MECH,0.08
-3,DBText,"DRAIN",L-UTIL,0.08
-4,MText,"MANHOLE",L-MECH,0.1

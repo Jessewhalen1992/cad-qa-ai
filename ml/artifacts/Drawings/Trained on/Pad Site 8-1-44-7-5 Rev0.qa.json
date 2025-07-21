@@ -1,0 +1,1058 @@
+[
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732893632)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732893648)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732893680)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732893696)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894048)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894064)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894096)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894112)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894416)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894496)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732894576)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732895008)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732909744)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732911328)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732911344)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732914928)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915216)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915232)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915248)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915264)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915328)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732915344)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732902016)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732902048)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156732942800)",
+    "Message": "Text style should be ROMANS, found BOLD"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750733680)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750733696)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734320)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734736)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734752)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734768)",
+    "Message": "Text style should be ROMANS, found 175L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734864)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734880)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734896)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750734912)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750735040)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255467776)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255467808)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255467888)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468272)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468288)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468304)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468336)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468640)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468656)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468672)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468704)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468736)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468752)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468768)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468800)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468832)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468864)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468896)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468928)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468960)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255468992)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255469024)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255469056)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255469424)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459328)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459344)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459472)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459488)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459536)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459552)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459568)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255459584)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460288)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460304)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460576)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460784)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460800)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460832)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460864)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255460896)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461120)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461136)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461152)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461168)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461184)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156255461200)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323488)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323504)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323520)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323536)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323552)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323584)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228323888)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228324384)",
+    "Message": "Text style should be ROMANS, found 80LS"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228324832)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352608)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352752)",
+    "Message": "Text style should be ROMANS, found BOLD"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352784)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352800)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352816)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352832)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352880)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228352896)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228353136)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156228353280)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749217840)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218000)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218064)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218256)",
+    "Message": "Text style should be ROMANS, found 80"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218288)",
+    "Message": "Text style should be ROMANS, found 80"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218320)",
+    "Message": "Text style should be ROMANS, found 80"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218656)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218672)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218736)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218752)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218864)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218880)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218896)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218912)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218928)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156749218944)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205280)",
+    "Message": "Text style should be ROMANS, found BOLD"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205328)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205664)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205680)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205696)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205712)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205760)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205776)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205792)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205808)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205824)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205840)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156747205856)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742624)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742656)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742704)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742768)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742784)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742800)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742832)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742912)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742928)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742944)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750742976)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743008)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743024)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743040)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743072)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743104)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743136)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743168)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743200)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743232)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743264)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743296)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743328)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743360)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743376)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743392)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156750743408)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297785344)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297785360)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786064)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786080)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786096)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786112)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786128)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786144)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786160)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786176)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786192)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786208)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786224)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786240)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786384)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297786416)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297782144)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297782176)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2156297790688)",
+    "Message": "Text style should be ROMANS, found 80CG"
+  }
+]

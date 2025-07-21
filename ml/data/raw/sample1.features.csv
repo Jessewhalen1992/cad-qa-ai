@@ -1,5 +1,0 @@
-Handle,ObjType,TextString,Layer,TextHeight
-1,DBText,"CL 100 PVC",L-ANNO,0.08
-2,MText,"EXISTING HYDRANT",L-SYMB,0.1
-3,DBText,"MH-01",L-ANNO,0.08
-4,MText,"VALVE",L-MECH,0.1
