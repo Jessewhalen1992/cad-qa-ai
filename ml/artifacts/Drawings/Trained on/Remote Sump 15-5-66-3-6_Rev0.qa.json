@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821790656)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821790912)",
+    "Message": "Text style should be ROMANS, found 175L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821790960)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821791248)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821791280)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821791312)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821791344)",
+    "Message": "Text style should be ROMANS, found 100L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821786176)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821786368)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821786400)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821786432)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821786976)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821787072)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821787104)",
+    "Message": "Text style should be ROMANS, found 80L"
+  },
+  {
+    "Id": 0,
+    "Type": "TextStyle",
+    "Handle": "(2157821769888)",
+    "Message": "Text style should be ROMANS, found 80L"
+  }
+]
