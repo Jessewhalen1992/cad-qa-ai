@@ -34,7 +34,7 @@ namespace CadQa.Export
 
                     case MText m:
                         sw.WriteLine(
-                            $"{id.Handle},{nameof(MText)},\"{m.Contents}\",{m.Layer},{m.TextHeight}");
+                            $"{id.Handle},{nameof(MText)},\"{m.Text}\",{m.Layer},{m.TextHeight}");
                         break;
                 }
             }
