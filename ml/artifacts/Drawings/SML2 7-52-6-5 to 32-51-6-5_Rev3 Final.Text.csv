@@ -1,33 +1,22 @@
 Handle,ObjType,Content,Layer,Extra
-86F546,AlignedDimension,"Sun Gro\P20.00 Drainage Ditch R/W\PEZE 990135",C-EZE-T,Compass 5 000
-870095,MText,"Bonterra
-8-5 (Surface)
-MSL 070762",F-WS-T,9.999999999999943
-870540,AlignedDimension,"Bonterra\P20.00 A/R\PMSL 070762",F-WS-T,Compass 5 000
-87059F,AlignedDimension,"Tourmaline\P15.00 A/R\PLOC 931065",F-AR-T,Compass 5 000
-8705C5,MText,"Tourmaline
-16-5 (Surface)
-MSL 931665",F-WS-T,9.999999999999943
-870B4E,AlignedDimension,"Tourmaline\P15.00 A/R\PLOC 931065",F-AR-T,Compass 5 000
-870B6A,AlignedDimension,"Brixton\P20.00 A/R\PLOC 910149\P(Expired)",F-AR-T,Compass 5 000
-87112F,MText,"Sinopec
-16-6 (Surface)
-MSL 062266",F-WS-T,9.999999999999943
-87116F,MText,"Sun Gro
-Commercial Development
-DML 860120
-(To be Cancelled)",C-WS-T,9.999999999999943
-87161A,AlignedDimension,"Brixton\P20.00 A/R\PLOC 910149\P(Expired)",F-AR-T,Compass 5 000
-871B42,AlignedDimension,"Equs Rea\P5.00 Vegetation Control R/W\PVCE 060016",F-VCE-T,Compass 5 000
-872014,AlignedDimension,"Equs Rea\P10.00 Power Line R/W\PREA 060002",F-EZE-T,Compass 5 000
-872057,AlignedDimension,"Tourmaline\P15.00 A/R\PLOC 931065",F-AR-T,Compass 5 000
-8725A2,AlignedDimension,"30.48 Road\PPlan 782 0199",L-TITLEDB-T,Compass 5 000
-873036,AlignedDimension,"Adanac\P20.00 A/R\PLOC 900578",F-AR-T,Compass 5 000
-873059,MText,"Adanac
-14-8 (Surface)
-MSL 900733",F-WS-T,9.999999999999943
-87305A,AlignedDimension,"Cenovus\P10.00 P/L R/W\PPlan 952 1509\PPLA 941168",F-RW-T,Compass 5 000
-8730BE,AlignedDimension,"30.48 Road\PPlan 762 2339",L-TITLEDB-T,Compass 5 000
+86F546,AlignedDimension,"Sun Gro 20.00 Drainage Ditch R/W  990135",C-EZE-T,Compass 5 000
+870095,MText,"Bonterra 8-5 (Surface) MSL 070762",F-WS-T,9.999999999999943
+870540,AlignedDimension,"Bonterra 20.00 A/R  070762",F-WS-T,Compass 5 000
+87059F,AlignedDimension,"Tourmaline 15.00 A/R  931065",F-AR-T,Compass 5 000
+8705C5,MText,"Tourmaline 16-5 (Surface) MSL 931665",F-WS-T,9.999999999999943
+870B4E,AlignedDimension,"Tourmaline 15.00 A/R  931065",F-AR-T,Compass 5 000
+870B6A,AlignedDimension,"Brixton 20.00 A/R  910149 (Expired)",F-AR-T,Compass 5 000
+87112F,MText,"Sinopec 16-6 (Surface) MSL 062266",F-WS-T,9.999999999999943
+87116F,MText,"Sun Gro Commercial Development DML 860120 (To be Cancelled)",C-WS-T,9.999999999999943
+87161A,AlignedDimension,"Brixton 20.00 A/R  910149 (Expired)",F-AR-T,Compass 5 000
+871B42,AlignedDimension,"Equs Rea 5.00 Vegetation Control R/W  060016",F-VCE-T,Compass 5 000
+872014,AlignedDimension,"Equs Rea 10.00 Power Line R/W  060002",F-EZE-T,Compass 5 000
+872057,AlignedDimension,"Tourmaline 15.00 A/R  931065",F-AR-T,Compass 5 000
+8725A2,AlignedDimension,"30.48 Road  782 0199",L-TITLEDB-T,Compass 5 000
+873036,AlignedDimension,"Adanac 20.00 A/R  900578",F-AR-T,Compass 5 000
+873059,MText,"Adanac 14-8 (Surface) MSL 900733",F-WS-T,9.999999999999943
+87305A,AlignedDimension,"Cenovus 10.00 P/L R/W  952 1509  941168",F-RW-T,Compass 5 000
+8730BE,AlignedDimension,"30.48 Road  762 2339",L-TITLEDB-T,Compass 5 000
 873ADD,BlockReference,"L-SECLBL",L-SECLBL,1
 873AE3,BlockReference,"L-SECLBL",L-SECLBL,1
 873AE9,BlockReference,"L-SECLBL",L-SECLBL,1
@@ -88,17 +77,16 @@ MSL 900733",F-WS-T,9.999999999999943
 87AFB3,BlockReference,"PLI",L-MON,4.999999999999972
 87AFB8,BlockReference,"PLI",L-MON,4.999999999999972
 87C919,BlockReference,"Hybrid_RC",L-MON,4.998619999999972
-87E09D,MText,"Fd.I. Mp.
-N.E. 29",L-MON,9.99999999999995
+87E09D,MText,"Fd.I. Mp. N.E. 29",L-MON,9.99999999999995
 884FB5,BlockReference,"FDI",L-MON,4.998619999999972
-88C11C,AlignedDimension,"Sun Gro\P9.14 Drainage Ditch R/W\PDLO 800843",C-AR-T,Compass 5 000
-88C13B,AlignedDimension,"Sun Gro\P10.06 A/R\PDLO 871053",C-AR-T,Compass 5 000
-88C148,AlignedDimension,"Sun Gro\P10.06 A/R\PDLO 871053",C-AR-T,Compass 5 000
-88C179,AlignedDimension,"Sun Gro\P9.14 Drainage Ditch R/W\PDLO 800843",C-AR-T,Compass 5 000
-88C198,AlignedDimension,"Sun Gro\P9.14 Drainage Ditch R/W\PDLO 800843",C-AR-T,Compass 5 000
-88C1D6,AlignedDimension,"Sun Gro\P9.14 Drainage Ditch R/W\PDLO 800843",C-AR-T,Compass 5 000
-88C1F5,AlignedDimension,"Sun Gro\P9.14 Drainage Ditch R/W\PDLO 800843",C-AR-T,Compass 5 000
-88C6E3,AlignedDimension,"Sun Gro\PVariable Width Drainage Ditch R/W\PEZE 940046\P(To Be Amended)",C-AR-T,Compass 5 000
+88C11C,AlignedDimension,"Sun Gro 9.14 Drainage Ditch R/W  800843",C-AR-T,Compass 5 000
+88C13B,AlignedDimension,"Sun Gro 10.06 A/R  871053",C-AR-T,Compass 5 000
+88C148,AlignedDimension,"Sun Gro 10.06 A/R  871053",C-AR-T,Compass 5 000
+88C179,AlignedDimension,"Sun Gro 9.14 Drainage Ditch R/W  800843",C-AR-T,Compass 5 000
+88C198,AlignedDimension,"Sun Gro 9.14 Drainage Ditch R/W  800843",C-AR-T,Compass 5 000
+88C1D6,AlignedDimension,"Sun Gro 9.14 Drainage Ditch R/W  800843",C-AR-T,Compass 5 000
+88C1F5,AlignedDimension,"Sun Gro 9.14 Drainage Ditch R/W  800843",C-AR-T,Compass 5 000
+88C6E3,AlignedDimension,"Sun Gro  Width Drainage Ditch R/W  940046 (To Be Amended)",C-AR-T,Compass 5 000
 88DFD6,BlockReference,"PLI",L-MON,4.998619999999975
 890718,BlockReference,"Hybrid_Point",L-MON,4.998619999999975
 890720,BlockReference,"Hybrid_Point",L-MON,4.998619999999975
@@ -312,142 +300,41 @@ N.E. 29",L-MON,9.99999999999995
 925E0A,BlockReference,"Hybrid_RC",L-MON,4.9986199999999785
 928ED1,DBText,"88%%D",L-BD1,9.997239999999959
 929952,DBText,"88%%D23'35''",L-BD1,9.997239999999959
-9299E7,MText,"SEE
-DETAIL
-'C'",DETAIL-T,15.995583999999914
+9299E7,MText,"SEE DETAIL 'C'",DETAIL-T,15.995583999999914
 92A313,BlockReference,"Hybrid_RC",L-MON,4.9986199999999785
-92B653,MText,"Re-est. Position
-By Plans 932 2505
-& 782 0199
-(Road)
-N.E. 12",L-MON,9.997239999999959
-92B65B,MText,"Fd.I. (Disturbed)
-Re-est. Position
-By Plan 102 4045
-(Beaver Dam)
-N.E. 1",L-MON,9.997239999999959
-92C02C,MText,"Re-est. Position
-By Plan 892 0056
-N.E. 8",L-MON,9.997239999999959
-92C4D0,MText,"Re-est. Position
-By Plan 762 2339
-(Road)
-N.1/4 8",L-MON,9.997239999999959
-92C4D9,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 8",L-MON,9.997239999999959
-92C96C,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 7",L-MON,9.997239999999959
-92C974,MText,"Fd.I. Mp.
-E.1/4 12",L-MON,9.997239999999959
-92C98D,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-(Road)
-N.1/4 7",L-MON,9.997239999999959
-92CE1D,AlignedDimension,"Sun Gro\P12.19 P/L R/W\PPlan 762 2087\PPLA 5898\P(To be Amended)",C-RW-T,Compass 5 000
-92CE4D,MText,"SEE
-DETAIL
-'A'",DETAIL-T,15.995583999999914
-92D93A,MText,"Est. Position
-By Proportion
-N.1/4 6",L-MON,9.997239999999959
-92DDCF,MText,"Est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3N)
-(Marked 6-52-6)
-N.E. 6",L-MON,9.997239999999959
-92DDD7,MText,"Est. Position
-By Proportion
-N.1/4 5",L-MON,9.997239999999959
-92DDE5,MText,"Fd.I. Pit M. (Bent)
-Straightened
-N.E. 5",L-MON,9.997239999999959
-92E27A,MText,"Fd. Pit
-Pl.I. Mp.(0.3N)
-(Marked 1/4)
-E.1/4 5",L-MON,9.997239999999959
-92E7E9,MText,"Fd.I. Mp.
-E.1/4 1",L-MON,9.997239999999959
-92E7F1,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 6",L-MON,9.997239999999959
-92E7F9,MText,"Fd.I. Hole
-2N Pits
-Pl.I. Mp.
-(Marked 32-51-6)
-N.E. 32",L-MON,9.997239999999959
-92EC8E,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3N)
-(Marked 1/4)
-N.1/4 32",L-MON,9.997239999999959
-92EC96,MText,"Fd.I. Mp.
-N.E. 31",L-MON,9.997239999999959
-92EC9E,MText,"Fd.I. Mp.
-N.E. 36",L-MON,9.997239999999959
-92ECA6,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-(Drainage Ditch)
-N.1/4 31",L-MON,9.997239999999959
-92F145,MText,"Fd.I.
-E.1/4 36",L-MON,9.997239999999959
-92F6B3,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 31",L-MON,9.997239999999959
-92F6BB,MText,"Fd.I. c.s.
-N.E. 25",L-MON,9.997239999999959
-92F6C3,MText,"Est. Position
-By Proportion
-N.1/4 30",L-MON,9.997239999999959
-92F6D1,MText,"Est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3N)
-(Marked 30-51-6)
-N.E. 30",L-MON,9.997239999999959
-92FB71,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 32",L-MON,9.997239999999959
-92FB79,MText,"Est. Position
-By Proportion
-Pl.I. Mp.
-N.1/4 29",L-MON,9.997239999999959
-93046D,MText,"Fd.I. Mp.
-R20",L-MON,9.997239999999959
-930475,MText,"Fd.I. Mp.
-R21",L-MON,9.997239999999959
-93047D,MText,"Fd. No Mk.
-Re-est. Position
-By Plan 962 0186
-Left No Mk.
-N.E. 19",L-MON,9.997239999999959
-93048B,MText,"Fd. No Mk.
-Re-est. Position
-By Twp. Plan
-By Proportion
-P.l. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 30",L-MON,9.997239999999959
+92B653,MText,"Re-est. Position By Plans 932 2505 & 782 0199 (Road) N.E. 12",L-MON,9.997239999999959
+92B65B,MText,"Fd.I. (Disturbed) Re-est. Position By Plan 102 4045 (Beaver Dam) N.E. 1",L-MON,9.997239999999959
+92C02C,MText,"Re-est. Position By Plan 892 0056 N.E. 8",L-MON,9.997239999999959
+92C4D0,MText,"Re-est. Position By Plan 762 2339 (Road) N.1/4 8",L-MON,9.997239999999959
+92C4D9,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 8",L-MON,9.997239999999959
+92C96C,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 7",L-MON,9.997239999999959
+92C974,MText,"Fd.I. Mp. E.1/4 12",L-MON,9.997239999999959
+92C98D,MText,"Re-est. Position By Twp. Plan By Proportion (Road) N.1/4 7",L-MON,9.997239999999959
+92CE1D,AlignedDimension,"Sun Gro 12.19 P/L R/W  762 2087  5898 (To be Amended)",C-RW-T,Compass 5 000
+92CE4D,MText,"SEE DETAIL 'A'",DETAIL-T,15.995583999999914
+92D93A,MText,"Est. Position By Proportion N.1/4 6",L-MON,9.997239999999959
+92DDCF,MText,"Est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3N) (Marked 6-52-6) N.E. 6",L-MON,9.997239999999959
+92DDD7,MText,"Est. Position By Proportion N.1/4 5",L-MON,9.997239999999959
+92DDE5,MText,"Fd.I. Pit M. (Bent) Straightened N.E. 5",L-MON,9.997239999999959
+92E27A,MText,"Fd. Pit Pl.I. Mp.(0.3N) (Marked 1/4) E.1/4 5",L-MON,9.997239999999959
+92E7E9,MText,"Fd.I. Mp. E.1/4 1",L-MON,9.997239999999959
+92E7F1,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 6",L-MON,9.997239999999959
+92E7F9,MText,"Fd.I. Hole 2N Pits Pl.I. Mp. (Marked 32-51-6) N.E. 32",L-MON,9.997239999999959
+92EC8E,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3N) (Marked 1/4) N.1/4 32",L-MON,9.997239999999959
+92EC96,MText,"Fd.I. Mp. N.E. 31",L-MON,9.997239999999959
+92EC9E,MText,"Fd.I. Mp. N.E. 36",L-MON,9.997239999999959
+92ECA6,MText,"Re-est. Position By Twp. Plan By Proportion (Drainage Ditch) N.1/4 31",L-MON,9.997239999999959
+92F145,MText,"Fd.I. E.1/4 36",L-MON,9.997239999999959
+92F6B3,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 31",L-MON,9.997239999999959
+92F6BB,MText,"Fd.I. c.s. N.E. 25",L-MON,9.997239999999959
+92F6C3,MText,"Est. Position By Proportion N.1/4 30",L-MON,9.997239999999959
+92F6D1,MText,"Est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3N) (Marked 30-51-6) N.E. 30",L-MON,9.997239999999959
+92FB71,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 32",L-MON,9.997239999999959
+92FB79,MText,"Est. Position By Proportion Pl.I. Mp. N.1/4 29",L-MON,9.997239999999959
+93046D,MText,"Fd.I. Mp. R20",L-MON,9.997239999999959
+930475,MText,"Fd.I. Mp. R21",L-MON,9.997239999999959
+93047D,MText,"Fd. No Mk. Re-est. Position By Plan 962 0186 Left No Mk. N.E. 19",L-MON,9.997239999999959
+93048B,MText,"Fd. No Mk. Re-est. Position By Twp. Plan By Proportion P.l. Mp.(0.3E) (Marked 1/4) E.1/4 30",L-MON,9.997239999999959
 93132F,DBText,"88%%D",L-BD,9.997239999999959
 9322AD,DBText,"88%%D21'55''",L-BD,9.997239999999959
 93366E,DBText,"88%%D",L-BD,9.997239999999959
@@ -456,20 +343,12 @@ E.1/4 30",L-MON,9.997239999999959
 9366F7,DBText,"358%%D",L-BD,9.99723999999996
 936B76,DBText,"178%%D13'25''",L-BD,9.99723999999996
 937477,BlockReference,"PLI",L-MON,4.999999999999972
-937478,MText,"Re-est. Position
-By Twp. Plan
-By Proportion
-Pl.I. Mp.(0.3E)
-(Marked 1/4)
-E.1/4 30",L-MON,9.997239999999959
+937478,MText,"Re-est. Position By Twp. Plan By Proportion Pl.I. Mp.(0.3E) (Marked 1/4) E.1/4 30",L-MON,9.997239999999959
 93792E,BlockReference,"FDI",L-MON,4.999999999999972
 93792F,BlockReference,"FDI",L-MON,4.999999999999972
-937933,MText,"Re-est. Position
-By Plan 962 0186
-(Road)
-N.E. 19",L-MON,9.997239999999959
-9379A3,AlignedDimension,"Parkland County\P5.00 Road\PPlan 962 0186",L-TITLEDB,Compass 5 000
-9379DE,AlignedDimension,"5.00 Road\PPlan 962 0186",L-TITLEDB,Compass 5 000
+937933,MText,"Re-est. Position By Plan 962 0186 (Road) N.E. 19",L-MON,9.997239999999959
+9379A3,AlignedDimension,"Parkland County 5.00 Road  962 0186",L-TITLEDB,Compass 5 000
+9379DE,AlignedDimension,"5.00 Road  962 0186",L-TITLEDB,Compass 5 000
 937A3F,DBText,"Government Road Allowance",L-ROAD-T,9.99723999999996
 937A40,DBText,"(Paved)",T-TEXT,9.99723999999996
 93831C,BlockReference,"FDI",L-MON,4.999999999999972
@@ -478,22 +357,16 @@ N.E. 19",L-MON,9.997239999999959
 938384,BlockReference,"FDI",L-MON,4.99861999999998
 938DA3,MText,"Government Road Allowance",L-ROAD-T,9.999999999999941
 938DA5,MText,"(Paved)",T-TEXT,9.999999999999941
-938DA9,MText,"30.48 Road
-Plan 782 0199",L-TITLEDB-T,9.99723999999996
-939B9F,AlignedDimension,"Sun Gro\P12.19 P/L R/W\PPlan 762 2087\PPLA 5898\P{\A0;(To be Amended)}",C-RW-T,Compass 5 000
+938DA9,MText,"30.48 Road Plan 782 0199",L-TITLEDB-T,9.99723999999996
+939B9F,AlignedDimension,"Sun Gro 12.19 P/L R/W  762 2087  5898 { 0;(To be Amended)}",C-RW-T,Compass 5 000
 93A112,BlockReference,"*U65",DETAIL-T,0.999724
 93A120,MText,"DETAIL 'A'",DETAIL-T,19.99447999999992
 93AB6A,BlockReference,"PLI",L-MON,4.99861999999998
 93AB6D,BlockReference,"Hybrid_RC",L-MON,4.99861999999998
-93B0D8,MText,"30.48 Road
-Plan 762 2339",L-TITLEDB-T,9.99723999999996
+93B0D8,MText,"30.48 Road Plan 762 2339",L-TITLEDB-T,9.99723999999996
 93B0E2,MText,"Government Road Allowance",L-ROAD-T,9.999999999999954
 93B0E3,DBText,"(Undeveloped)",T-TEXT,9.999999999999954
-93BF97,MText,"Est. Position
-By Plans 762 2339
-& 892 0056
-(Road)
-N.E. 7",L-MON,9.997239999999959
+93BF97,MText,"Est. Position By Plans 762 2339 & 892 0056 (Road) N.E. 7",L-MON,9.997239999999959
 93D914,BlockReference,"label_road_undeveloped",CG-NOTES,0.999724
 93D928,BlockReference,"Hybrid_Point",L-MON,4.997240380879958
 93D929,BlockReference,"Hybrid_Point",L-MON,4.997240380879958
@@ -504,7 +377,7 @@ N.E. 7",L-MON,9.997239999999959
 93DF19,MText,"DETAIL 'C'",DETAIL-T,19.99447999999992
 9436F6,BlockReference,"*U69",35,1
 943719,BlockReference,"*U67",35,1
-943E66,AlignedDimension,"Sun Gro\PVariable Width Drainage Ditch R/W\PEZE 940046\P(To Be Amended)",C-AR-T,Compass 5 000
+943E66,AlignedDimension,"Sun Gro  Width Drainage Ditch R/W  940046 (To Be Amended)",C-AR-T,Compass 5 000
 9476BE,BlockReference,"Hybrid_RC",L-MON,4.998619999999981
 947C96,BlockReference,"FDI",L-MON,4.999999999999972
 94A76E,BlockReference,"nezd point",L-TIE,1
@@ -520,21 +393,20 @@ N.E. 7",L-MON,9.997239999999959
 952ED3,DBText,"calc.",L-BD1,9.997239999999957
 9534E3,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999968
 9534E4,DBText,"(Undeveloped)",T-TEXT,9.999999999999968
-956282,AlignedDimension,"40.00 Road\PPlan 932 2505",L-TITLEDB-T,Compass 5 000
-9562D4,AlignedDimension,"40.00 Road\PPlan 892 0056",L-TITLEDB-T,Compass 5 000
-956323,AlignedDimension,"30.48 Road\PPlan 762 2339",L-TITLEDB-T,Compass 5 000
-95632F,AlignedDimension,"40.00 Road\PPlan 892 0056",L-TITLEDB-T,Compass 5 000
+956282,AlignedDimension,"40.00 Road  932 2505",L-TITLEDB-T,Compass 5 000
+9562D4,AlignedDimension,"40.00 Road  892 0056",L-TITLEDB-T,Compass 5 000
+956323,AlignedDimension,"30.48 Road  762 2339",L-TITLEDB-T,Compass 5 000
+95632F,AlignedDimension,"40.00 Road  892 0056",L-TITLEDB-T,Compass 5 000
 956378,MText,"Government Road Allowance",L-ROAD-T,9.999999999999941
 956379,MText,"(Paved)",T-TEXT,9.999999999999941
-95637A,AlignedDimension,"30.48 Road\PPlan 782 0199",L-TITLEDB-T,Compass 5 000
-956386,AlignedDimension,"40.00 Road\PPlan 932 2505",L-TITLEDB-T,Compass 5 000
-956D6B,AlignedDimension,"Equs Rea\P10.00 Power Line R/W\PREA 060002",F-EZE-T,Compass 5 000
-956D78,AlignedDimension,"Equs Rea\P5.00 Vegetation Control R/W\PVCE 060016",F-VCE-T,Compass 5 000
+95637A,AlignedDimension,"30.48 Road  782 0199",L-TITLEDB-T,Compass 5 000
+956386,AlignedDimension,"40.00 Road  932 2505",L-TITLEDB-T,Compass 5 000
+956D6B,AlignedDimension,"Equs Rea 10.00 Power Line R/W  060002",F-EZE-T,Compass 5 000
+956D78,AlignedDimension,"Equs Rea 5.00 Vegetation Control R/W  060016",F-VCE-T,Compass 5 000
 9584DE,DBText,"N.W.1/4 Sec. 7-52-6-W.5M.",C-SYMBOL,19.994479999999943
 9584DF,DBText,"N.E.1/4 Sec. 8-52-6-W.5M.",C-SYMBOL,19.994479999999943
 9584E0,DBText,"S.W.1/4 Sec. 31-51-6-W.5M.",C-SYMBOL,19.994479999999943
-9591AF,MText,"93.2
-calc.",P-TXT,9.997239999999959
+9591AF,MText,"93.2 calc.",P-TXT,9.997239999999959
 95B0FC,BlockReference,"label_road_undeveloped",CG-NOTES,1
 95B629,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999954
 95B62A,DBText,"(Undeveloped)",T-TEXT,9.999999999999954
@@ -669,16 +541,10 @@ calc.",P-TXT,9.997239999999959
 95F472,BlockReference,"nezd point",C-RW-T,1
 95F477,BlockReference,"nezd point",C-RW-T,1
 95F47C,BlockReference,"nezd point",C-RW-T,1
-96BACC,MText,"40.00 Road
-Plan 892 0056",L-TITLEDB-T,9.999999999999972
-96BC37,MText,"40.00 Road
-Plan 932 2505",L-TITLEDB-T,9.997239999999973
-97647B,MText,"Re-est. Position
-By Twp. Plan
-Wit.(1S)",L-MON,9.997239999999959
-9782FA,MText,"Re-est. Position
-By Twp. Plan
-Wit.(2N)",L-MON,9.997239999999959
+96BACC,MText,"40.00 Road Plan 892 0056",L-TITLEDB-T,9.999999999999972
+96BC37,MText,"40.00 Road Plan 932 2505",L-TITLEDB-T,9.997239999999973
+97647B,MText,"Re-est. Position By Twp. Plan Wit.(1S)",L-MON,9.997239999999959
+9782FA,MText,"Re-est. Position By Twp. Plan Wit.(2N)",L-MON,9.997239999999959
 981D6E,MText,"Ditch",AS-GENERAL,9.997239999999985
 981D82,MText,"Ditch",AS-GENERAL,9.997239999999985
 987BD2,BlockReference,"PLI",L-MON,4.999999999999993
@@ -702,24 +568,17 @@ Wit.(2N)",L-MON,9.997239999999959
 989A5A,MText,"L.S. 8",L-SECTION-LSD,9.997239999999989
 989A5B,MText,"L.S. 7",L-SECTION-LSD,9.997239999999989
 989ECF,BlockReference,"PLI",L-MON,4.9986199999999945
-989EDC,MText,"Est. Position
-N.E. Corner LSD
-3-6-52-6-5",L-MON,9.997239999999959
-98A336,MText,"Est. Position
-Center of Sec. 6",L-MON,9.997239999999959
+989EDC,MText,"Est. Position N.E. Corner LSD 3-6-52-6-5",L-MON,9.997239999999959
+98A336,MText,"Est. Position Center of Sec. 6",L-MON,9.997239999999959
 98A86B,BlockReference,"PLI",L-MON,4.9986199999999945
 98AF2E,MText,"L.S. 9",L-SECTION-LSD,9.99723999999999
 98AF30,MText,"L.S. 10",L-SECTION-LSD,9.99723999999999
 98AF32,MText,"L.S. 16",L-SECTION-LSD,9.99723999999999
 98AF34,MText,"L.S. 15",L-SECTION-LSD,9.99723999999999
 98AF36,BlockReference,"PLI",L-MON,4.998619999999995
-98B39A,MText,"Est. Position
-N.E. Corner LSD
-13-6-52-6-5",L-MON,9.997239999999959
+98B39A,MText,"Est. Position N.E. Corner LSD 13-6-52-6-5",L-MON,9.997239999999959
 98BD2A,BlockReference,"PLI",L-MON,4.998619999999995
-98BD2B,MText,"Est. Position
-N.E. Corner LSD
-3-6-52-6-5",L-MON,9.997239999999959
+98BD2B,MText,"Est. Position N.E. Corner LSD 3-6-52-6-5",L-MON,9.997239999999959
 98BD2F,MText,"L.S. 3",L-SECTION-LSD,9.99723999999999
 98BD31,MText,"L.S. 4",L-SECTION-LSD,9.99723999999999
 98BD33,MText,"L.S. 6",L-SECTION-LSD,9.99723999999999
@@ -727,8 +586,7 @@ N.E. Corner LSD
 98BD51,BlockReference,"PLI",L-MON,4.998619999999995
 98C41F,BlockReference,"PLI",L-MON,4.998619999999996
 98C420,BlockReference,"PLI",L-MON,4.998619999999996
-98C882,MText,"Est. Position
-Center of Sec. 5",L-MON,9.997239999999959
+98C882,MText,"Est. Position Center of Sec. 5",L-MON,9.997239999999959
 98C887,BlockReference,"PLI",L-MON,4.998619999999996
 98D758,BlockReference,"PLI",L-MON,4.998619999999996
 98D75B,MText,"L.S. 9",L-SECTION-LSD,9.997239999999993
@@ -741,19 +599,13 @@ Center of Sec. 5",L-MON,9.997239999999959
 98D76B,MText,"L.S. 7",L-SECTION-LSD,9.997239999999993
 98D76D,BlockReference,"PLI",L-MON,4.998619999999996
 98DBD3,BlockReference,"PLI",L-MON,4.998619999999996
-98DBDF,MText,"Est. Position
-N.E. Corner LSD
-7-7-52-6-5",L-MON,9.997239999999959
+98DBDF,MText,"Est. Position N.E. Corner LSD 7-7-52-6-5",L-MON,9.997239999999959
 98E043,MText,"L.S. 9",L-SECTION-LSD,9.997239999999993
 98E045,MText,"L.S. 10",L-SECTION-LSD,9.997239999999993
 98E047,MText,"L.S. 16",L-SECTION-LSD,9.997239999999993
 98E049,MText,"L.S. 15",L-SECTION-LSD,9.997239999999993
-98E595,MText,"Est. Position
-N.E. Corner LSD
-15-7-52-6-5",L-MON,9.997239999999959
-98E9FF,MText,"Est. Position
-N.E. Corner LSD
-9-7-52-6-5",L-MON,9.997239999999959
+98E595,MText,"Est. Position N.E. Corner LSD 15-7-52-6-5",L-MON,9.997239999999959
+98E9FF,MText,"Est. Position N.E. Corner LSD 9-7-52-6-5",L-MON,9.997239999999959
 98F2D9,BlockReference,"PLI",L-MON,4.998619999999996
 990FE1,MText,"L.S. 1",L-SECTION-LSD,9.997239999999994
 990FE2,MText,"L.S. 2",L-SECTION-LSD,9.997239999999994
@@ -996,8 +848,7 @@ N.E. Corner LSD
 9B12B7,BlockReference,"PLI",L-MON,4.999999999999999
 9B12C3,DBText,"178%%D20'10''",L-BD1,9.997239999999948
 9B173C,DBText,"178%%D20'10''",L-BD1,9.997239999999948
-9B173D,MText,"SEE
-DETAIL 'B'",DETAIL-T,15.995583999999914
+9B173D,MText,"SEE DETAIL 'B'",DETAIL-T,15.995583999999914
 9B212E,MText,"Area Required = 65.1 ha  161.9 Ac.",L-AREAREQUIRED,10.999999999999932
 9B2136,MText,"Area Required = 17.290 ha  42.72 Ac.",L-AREAREQUIRED,10.999999999999932
 9B213F,MText,"Area Required = 65.0 ha  160.6 Ac.",L-AREAREQUIRED,10.999999999999932
@@ -1020,93 +871,27 @@ DETAIL 'B'",DETAIL-T,15.995583999999914
 9B2642,MText,"Area Required = 65.0 ha  160.6 Ac.",L-AREAREQUIRED,10.999999999999932
 9B264A,MText,"Area Required = 32.5 ha  80.3 Ac.",L-AREAREQUIRED,10.999999999999932
 9B2653,MText,"Area Required = 50.4 ha  124.5 Ac.",L-AREAREQUIRED,10.999999999999932
-9BC8D9,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8DA,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8DB,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E0,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E1,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E3,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E4,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E5,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E6,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E7,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E8,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8E9,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8EA,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8EB,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9BC8EC,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9C8FD4,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
+9BC8D9,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8DA,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8DB,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E0,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E1,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E3,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E4,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E5,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E6,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E7,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E8,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8E9,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8EA,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8EB,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9BC8EC,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9C8FD4,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
 9C8FD8,MText,"824.03 (N.1/4 32 to Center of Sec. 5)",L-BD,9.997239999999993
-9C94AD,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9C94AE,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9C94AF,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9C94B0,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9C94B1,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
-9CC7FF,MText,"Sun Gro
-Surface Materials - Peat
-SML 780114
-(To be Amended)",C-AR-T,9.999999999999998
+9C94AD,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9C94AE,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9C94AF,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9C94B0,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9C94B1,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
+9CC7FF,MText,"Sun Gro Surface Materials - Peat SML 780114 (To be Amended)",C-AR-T,9.999999999999998
 9D0C67,BlockReference,"Disclaimer_Legal",L-BD,0.8

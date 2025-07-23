@@ -1,131 +1,89 @@
 Handle,ObjType,Content,Layer,Extra
 AFA8BA,BlockReference,"L-SECLBL",L-SECLBL,1
 AFD99E,BlockReference,"GAS",F-WS-S,4.997325200000118
-AFD99F,MText,"Paramount
-4-24 (Surface)
-MSL 407",F-WS-T,10.005352463353931
-AFD9A9,MText,"Trace
-Waste Management Site
-MLL 190059
-(Expired)",F-RW-T,9.994650400000266
-AFD9BC,MText,"Trace
-8.00 A/R
-LOC 190533
-(Expired)",F-AR-T,10.005352463353931
-AFD9D1,AlignedDimension,"Paramount\P22.86 P/L R/W\PPlan 911 RS\PPLA 3235",F-RW-T,Compass 5 000
-AFDA11,AlignedDimension,"ATCO\P7.50 Vegetation Control R/W\PEZE 890416",F-EZE-T,Compass 5 000
-AFDA39,AlignedDimension,"Texcal\P30.48 A/R\PMSL 9776",F-AR-T,Compass 5 000
-AFE274,AlignedDimension,"Texcal\P7.62 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-AFE2EE,AlignedDimension,"Texcal\P20.12 P/L R/W\PPLA 4038",F-RW-T,Compass 5 000
-AFE31E,MText,"Northward
-Tower Site
-DML 000018",F-WS-T,10.005352463353931
-AFE320,AlignedDimension,"ATCO\P15.00 Power Line R/W\PEZE 000187",F-EZE-T,Compass 5 000
-AFE39E,AlignedDimension,"PGI\P50.48 A/R\PLOC 2439",F-WS-T,Compass 5 000
-AFE3E5,AlignedDimension,"Telus\P20.12 Cable R/W\PDLO 3568",F-RW-T,Compass 5 000
-AFEC7C,AlignedDimension,"Paramount\P20.12 A/R\PLOC 1035",F-AR-T,Compass 5 000
-AFF59B,AlignedDimension,"ATCO\P6.10 Power Line R/W\PEZE 2527",F-EZE-T,Compass 5 000
-AFF5CC,AlignedDimension,"Texcal\P30.48 A/R\PMSL 6516\P(Expired)",F-AR-T,Compass 5 000
-AFF642,AlignedDimension,"Texcal\P15.00 P/L R/W\PPlan 892 0544\PPLA 880372",F-RW-T,Compass 5 000
-AFF66F,AlignedDimension,"Texcal\P10.06 P/L R/W\PPLA 4037",F-RW-T,Compass 5 000
-AFF69B,MText,"Texcal
-Plant Site
-MLL 3071
-(Expired)",F-RW-T,9.994650400000266
-AFFE8A,AlignedDimension,"Texcal\P10.06 P/L R/W\PPlan 752 1416\PPLA 5577",F-RW-T,Compass 5 000
-AFFEE8,AlignedDimension,"Texcal\P10.00 P/L R/W\PPLA 050859",F-RW-T,Compass 5 000
-AFFF32,AlignedDimension,"Paramount\P15.24 P/L R/W\PPlan 782 1151\PPLA 770641",F-RW-T,Compass 5 000
-AFFF85,AlignedDimension,"Pembina\P15.24 P/L R/W\PPlan 5009 TR\PPLA 4961",F-RW-T,Compass 5 000
-AFFFE3,AlignedDimension,"Texcal\P5.00 P/L R/W\PPlan 932 1861\PPLA 930342",F-RW-T,Compass 5 000
-B00830,MText,"Texcal
-3-24 (Surface)
-MSL 6878",F-WS-T,10.005352463353931
+AFD99F,MText,"Paramount 4-24 (Surface) MSL 407",F-WS-T,10.005352463353931
+AFD9A9,MText,"Trace Waste Management Site MLL 190059 (Expired)",F-RW-T,9.994650400000266
+AFD9BC,MText,"Trace 8.00 A/R LOC 190533 (Expired)",F-AR-T,10.005352463353931
+AFD9D1,AlignedDimension,"Paramount 22.86 P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+AFDA11,AlignedDimension,"ATCO 7.50 Vegetation Control R/W  890416",F-EZE-T,Compass 5 000
+AFDA39,AlignedDimension,"Texcal 30.48 A/R  9776",F-AR-T,Compass 5 000
+AFE274,AlignedDimension,"Texcal 7.62 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+AFE2EE,AlignedDimension,"Texcal 20.12 P/L R/W  4038",F-RW-T,Compass 5 000
+AFE31E,MText,"Northward Tower Site DML 000018",F-WS-T,10.005352463353931
+AFE320,AlignedDimension,"ATCO 15.00 Power Line R/W  000187",F-EZE-T,Compass 5 000
+AFE39E,AlignedDimension,"PGI 50.48 A/R  2439",F-WS-T,Compass 5 000
+AFE3E5,AlignedDimension,"Telus 20.12 Cable R/W  3568",F-RW-T,Compass 5 000
+AFEC7C,AlignedDimension,"Paramount 20.12 A/R  1035",F-AR-T,Compass 5 000
+AFF59B,AlignedDimension,"ATCO 6.10 Power Line R/W  2527",F-EZE-T,Compass 5 000
+AFF5CC,AlignedDimension,"Texcal 30.48 A/R  6516 (Expired)",F-AR-T,Compass 5 000
+AFF642,AlignedDimension,"Texcal 15.00 P/L R/W  892 0544  880372",F-RW-T,Compass 5 000
+AFF66F,AlignedDimension,"Texcal 10.06 P/L R/W  4037",F-RW-T,Compass 5 000
+AFF69B,MText,"Texcal Plant Site MLL 3071 (Expired)",F-RW-T,9.994650400000266
+AFFE8A,AlignedDimension,"Texcal 10.06 P/L R/W  752 1416  5577",F-RW-T,Compass 5 000
+AFFEE8,AlignedDimension,"Texcal 10.00 P/L R/W  050859",F-RW-T,Compass 5 000
+AFFF32,AlignedDimension,"Paramount 15.24 P/L R/W  782 1151  770641",F-RW-T,Compass 5 000
+AFFF85,AlignedDimension,"Pembina 15.24 P/L R/W  5009 TR  4961",F-RW-T,Compass 5 000
+AFFFE3,AlignedDimension,"Texcal 5.00 P/L R/W  932 1861  930342",F-RW-T,Compass 5 000
+B00830,MText,"Texcal 3-24 (Surface) MSL 6878",F-WS-T,10.005352463353931
 B00839,BlockReference,"GAS",F-WS-S,4.997325200000118
-B01029,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 922 1491\PPLA 910421",F-RW-T,Compass 5 000
-B0107A,AlignedDimension,"Texcal\P15.24 P/L R/W\PPlan 752 1416\PPLA 5577",F-RW-T,Compass 5 000
-B018D2,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 952 2554\PPLA 940411",F-RW-T,Compass 5 000
-B0191C,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 872 1557\PPLA 860678",F-RW-T,Compass 5 000
-B01990,AlignedDimension,"Texcal\P15.00 P/L R/W\PPlan 862 1552\PPLA 850824",F-RW-T,Compass 5 000
-B021E9,AlignedDimension,"Texcal\P15.24 P/L R/W\PPLA 3983",F-RW-T,Compass 5 000
+B01029,AlignedDimension,"Texcal 10.00 P/L R/W  922 1491  910421",F-RW-T,Compass 5 000
+B0107A,AlignedDimension,"Texcal 15.24 P/L R/W  752 1416  5577",F-RW-T,Compass 5 000
+B018D2,AlignedDimension,"Texcal 10.00 P/L R/W  952 2554  940411",F-RW-T,Compass 5 000
+B0191C,AlignedDimension,"Texcal 10.00 P/L R/W  872 1557  860678",F-RW-T,Compass 5 000
+B01990,AlignedDimension,"Texcal 15.00 P/L R/W  862 1552  850824",F-RW-T,Compass 5 000
+B021E9,AlignedDimension,"Texcal 15.24 P/L R/W  3983",F-RW-T,Compass 5 000
 B02242,BlockReference,"GAS",F-WS-S,5.000000000000116
 B02243,BlockReference,"GAS",F-WS-S,5.000000000000116
-B02254,MText,"Texcal 
-7-24 (Surface)
-MSL 962214",F-RW-T,9.994650400000266
-B02294,AlignedDimension,"Texcal\P20.00 A/R\PMSL 962214",F-AR-T,Compass 5 000
-B022EE,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 932 0624\PPLA 920316",F-RW-T,Compass 5 000
-B02B4A,AlignedDimension,"Texcal\P5.00 P/L R/W\PPlan 012 2312\PPLA 970414",F-RW-T,Compass 5 000
-B02BBA,MText,"Town of Fox Creek
-Water Well
-DML 040053",F-RW-T,9.994650400000266
-B02BC6,MText,"Hybrid
-Tower Site
-Plan 092 8769
-DML 2831",F-RW-T,9.994650400000266
-B033BB,AlignedDimension,"ATCO\P15.00 Power Line R/W\PEZE 970024",F-EZE-T,Compass 5 000
-B0340D,AlignedDimension,"Texcal\P30.48 A/R\PMSL 6815",F-AR-T,Compass 5 000
-B03C58,MText,"Whitecap
-FC661 7-24 (Surface)
-MSL 231768",C-WS-T,10.005352463353937
-B04470,AlignedDimension,"Whitecap\P20.00 A/R\PLOC 232212",C-AR-T,Compass 5 000
-B044B2,AlignedDimension,"Texcal\P30.48 A/R\PMSL 6516\P(Expired)",F-AR-T,Compass 5 000
-B044FF,AlignedDimension,"Pembina\P15.00 P/L R/W\PPLA 120877",F-RW-T,Compass 5 000
-B04549,AlignedDimension,"PGI\P17.00 P/L R/W\PPlan 802 0194\PPLA 780509",F-RW-T,Compass 5 000
-B04575,AlignedDimension,"Texcal\P15.24 P/L R/W\PPLA 4865",F-RW-T,Compass 5 000
-B04DF0,AlignedDimension,"Pembina\P21.34 P/L R/W\PPlan 297 RS\PPLA 3018",F-RW-T,Compass 5 000
-B04E3A,AlignedDimension,"Texcal\P15.24 P/L R/W\PPLA 3983",F-RW-T,Compass 5 000
-B04E5E,AlignedDimension,"PGI\P7.00 A/R\PLOC 241184",F-AR-T,Compass 5 000
-B04EB8,MText,"PGI
-Riser Site
-PIL 240201",F-AR-T,10.005352463353937
-B04EC3,AlignedDimension,"Texcal\P15.25 Flowline R/W\PPLA 3983",F-FLOWLINE-T,Compass 5 000
+B02254,MText,"Texcal  7-24 (Surface) MSL 962214",F-RW-T,9.994650400000266
+B02294,AlignedDimension,"Texcal 20.00 A/R  962214",F-AR-T,Compass 5 000
+B022EE,AlignedDimension,"Texcal 10.00 P/L R/W  932 0624  920316",F-RW-T,Compass 5 000
+B02B4A,AlignedDimension,"Texcal 5.00 P/L R/W  012 2312  970414",F-RW-T,Compass 5 000
+B02BBA,MText,"Town of Fox Creek Water Well DML 040053",F-RW-T,9.994650400000266
+B02BC6,MText,"Hybrid Tower Site Plan 092 8769 DML 2831",F-RW-T,9.994650400000266
+B033BB,AlignedDimension,"ATCO 15.00 Power Line R/W  970024",F-EZE-T,Compass 5 000
+B0340D,AlignedDimension,"Texcal 30.48 A/R  6815",F-AR-T,Compass 5 000
+B03C58,MText,"Whitecap FC661 7-24 (Surface) MSL 231768",C-WS-T,10.005352463353937
+B04470,AlignedDimension,"Whitecap 20.00 A/R  232212",C-AR-T,Compass 5 000
+B044B2,AlignedDimension,"Texcal 30.48 A/R  6516 (Expired)",F-AR-T,Compass 5 000
+B044FF,AlignedDimension,"Pembina 15.00 P/L R/W  120877",F-RW-T,Compass 5 000
+B04549,AlignedDimension,"PGI 17.00 P/L R/W  802 0194  780509",F-RW-T,Compass 5 000
+B04575,AlignedDimension,"Texcal 15.24 P/L R/W  4865",F-RW-T,Compass 5 000
+B04DF0,AlignedDimension,"Pembina 21.34 P/L R/W  297 RS  3018",F-RW-T,Compass 5 000
+B04E3A,AlignedDimension,"Texcal 15.24 P/L R/W  3983",F-RW-T,Compass 5 000
+B04E5E,AlignedDimension,"PGI 7.00 A/R  241184",F-AR-T,Compass 5 000
+B04EB8,MText,"PGI Riser Site PIL 240201",F-AR-T,10.005352463353937
+B04EC3,AlignedDimension,"Texcal 15.25 Flowline R/W  3983",F-FLOWLINE-T,Compass 5 000
 B04F24,BlockReference,"GAS",F-WS-S,5.000000000000116
-B04F25,MText,"Texcal
-10.00 P/L R/W
-PLA 231028",F-RW-T,10.005352463353931
-B0571E,AlignedDimension,"ATCO\P10.50 Power Line R/W\PEZE 930316",F-EZE-T,Compass 5 000
-B05782,MText,"Texcal
-2-24 (Surface)
-MSL 6516
-(Expired)",F-WS-T,9.994650400000266
-B05784,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 932 1857\PPLA 930314",F-RW-T,Compass 5 000
-B057D8,AlignedDimension,"Texcal\P20.00 A/R\PLOC 920968\P(Expired)",F-AR-T,Compass 5 000
-B0601E,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 942 3477\PPLA 940173",F-RW-T,Compass 5 000
-B0608F,MText,"Town of
-Fox Creek
-Water Well
-DML 040053",F-WS-T,9.994650400000266
-B06092,AlignedDimension,"Paramount\P15.00 P/L R/W\PPlan 072 4127\PPLA 021689",F-RW-T,Compass 5 000
-B060DC,AlignedDimension,"Paramount\P15.00 P/L R/W\PPlan 042 1274\PPLA 982399",F-RW-T,Compass 5 000
+B04F25,MText,"Texcal 10.00 P/L R/W PLA 231028",F-RW-T,10.005352463353931
+B0571E,AlignedDimension,"ATCO 10.50 Power Line R/W  930316",F-EZE-T,Compass 5 000
+B05782,MText,"Texcal 2-24 (Surface) MSL 6516 (Expired)",F-WS-T,9.994650400000266
+B05784,AlignedDimension,"Texcal 10.00 P/L R/W  932 1857  930314",F-RW-T,Compass 5 000
+B057D8,AlignedDimension,"Texcal 20.00 A/R  920968 (Expired)",F-AR-T,Compass 5 000
+B0601E,AlignedDimension,"Texcal 10.00 P/L R/W  942 3477  940173",F-RW-T,Compass 5 000
+B0608F,MText,"Town of Fox Creek Water Well DML 040053",F-WS-T,9.994650400000266
+B06092,AlignedDimension,"Paramount 15.00 P/L R/W  072 4127  021689",F-RW-T,Compass 5 000
+B060DC,AlignedDimension,"Paramount 15.00 P/L R/W  042 1274  982399",F-RW-T,Compass 5 000
 B06135,BlockReference,"GAS",F-WS-S,5.000000000000116
 B06136,BlockReference,"GAS",F-WS-S,5.000000000000116
-B06148,MText,"Paramount
-8-24 (Surface)
-MSL 982083",F-RW-T,9.994650400000266
-B0614A,AlignedDimension,"Paramount\P15.00 A/R\PLOC 981548",F-AR-T,Compass 5 000
-B061A3,MText,"Texcal 
-8-24 (Surface)
-MSL 930440",F-RW-T,9.994650400000266
-B0699F,AlignedDimension,"Texcal\P20.00 A/R\PMSL 930440",F-AR-T,Compass 5 000
-B069E9,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 932 1861\PPLA 930342",F-RW-T,Compass 5 000
-B06A3B,AlignedDimension,"Town of Fox Creek\P15.00 Waterline R/W\PDPL 150018",F-RW-T,Compass 5 000
-B06A85,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 932 0624\PPLA 920316",F-RW-T,Compass 5 000
-B06AD6,AlignedDimension,"Texcal\P8.00 P/L R/W\PPlan 922 1491\PPLA 910421",F-RW-T,Compass 5 000
-B06B2F,AlignedDimension,"Texcal\P15.24 P/L R/W\PPlan 752 1416\PPLA 5577",F-RW-T,Compass 5 000
-B07C30,AlignedDimension,"Whitecap\P20.00 P/L R/W\PPLA 240720",C-AR-T,Compass 5 000
-B07C72,AlignedDimension,"CNRL\P28.00 P/L R/W\PPLA 180405",F-RW-T,Compass 5 000
-B085B6,AlignedDimension,"Alliance\P32.00 P/L R/W\PPlan 002 3490\PDPL 981096",F-RW-T,Compass 5 000
-B0862F,AlignedDimension,"Keyera\P30.00 P/L R/W\PPLA 200152",F-RW-T,Compass 5 000
-B08E60,AlignedDimension,"CNRL\P30.00 P/L R/W\PPLA 180405",F-RW-T,Compass 5 000
-B08ED8,AlignedDimension,"ATCO\P6.00 Power Line R/W\PEZE 180169",F-EZE-T,Compass 5 000
-B0AAD1,MText,"Whitecap
-FC661-Ext 7-24 (Surface)
-MSL 240995",C-WS-T,10.005352463353937
+B06148,MText,"Paramount 8-24 (Surface) MSL 982083",F-RW-T,9.994650400000266
+B0614A,AlignedDimension,"Paramount 15.00 A/R  981548",F-AR-T,Compass 5 000
+B061A3,MText,"Texcal  8-24 (Surface) MSL 930440",F-RW-T,9.994650400000266
+B0699F,AlignedDimension,"Texcal 20.00 A/R  930440",F-AR-T,Compass 5 000
+B069E9,AlignedDimension,"Texcal 10.00 P/L R/W  932 1861  930342",F-RW-T,Compass 5 000
+B06A3B,AlignedDimension,"Town of Fox Creek 15.00 Waterline R/W  150018",F-RW-T,Compass 5 000
+B06A85,AlignedDimension,"Texcal 10.00 P/L R/W  932 0624  920316",F-RW-T,Compass 5 000
+B06AD6,AlignedDimension,"Texcal 8.00 P/L R/W  922 1491  910421",F-RW-T,Compass 5 000
+B06B2F,AlignedDimension,"Texcal 15.24 P/L R/W  752 1416  5577",F-RW-T,Compass 5 000
+B07C30,AlignedDimension,"Whitecap 20.00 P/L R/W  240720",C-AR-T,Compass 5 000
+B07C72,AlignedDimension,"CNRL 28.00 P/L R/W  180405",F-RW-T,Compass 5 000
+B085B6,AlignedDimension,"Alliance 32.00 P/L R/W  002 3490  981096",F-RW-T,Compass 5 000
+B0862F,AlignedDimension,"Keyera 30.00 P/L R/W  200152",F-RW-T,Compass 5 000
+B08E60,AlignedDimension,"CNRL 30.00 P/L R/W  180405",F-RW-T,Compass 5 000
+B08ED8,AlignedDimension,"ATCO 6.00 Power Line R/W  180169",F-EZE-T,Compass 5 000
+B0AAD1,MText,"Whitecap FC661-Ext 7-24 (Surface) MSL 240995",C-WS-T,10.005352463353937
 B0AB1C,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
-B0AB1E,MText,"Theor. S.W.1/4 
-Sec. 24-62-20-W.5M.",C-SYMBOL,20.010704926707874
-B0BCBB,MText,"Theor. S.E.1/4 
-Sec. 24-62-20-W.5M.",C-SYMBOL,19.989300800000514
+B0AB1E,MText,"Theor. S.W.1/4  Sec. 24-62-20-W.5M.",C-SYMBOL,20.010704926707874
+B0BCBB,MText,"Theor. S.E.1/4  Sec. 24-62-20-W.5M.",C-SYMBOL,19.989300800000514
 B0BCBC,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
 B0BCE8,BlockReference,"HRV",CG-NOTES,0.9994650400000189
 B0C606,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999885
@@ -141,8 +99,8 @@ B11DE2,BlockReference,"Route_Letters",CG-NOTES,1
 B14DAC,BlockReference,"*U83",0,1
 B244AE,BlockReference,"*U84",CG-NOTES,0.999485
 B3A845,BlockReference,"*U85",0,0.9989510452182907
-B3A85F,AlignedDimension,"ATCO\P6.10 Power Line R/W\PEZE 2382",F-EZE-T,Compass 5 000
-B42DDF,AlignedDimension,"Whitecap\P2.00 Water Line\PRTF248882",P-TEMP-BLUE,Compass 5 000
+B3A85F,AlignedDimension,"ATCO 6.10 Power Line R/W  2382",F-EZE-T,Compass 5 000
+B42DDF,AlignedDimension,"Whitecap 2.00 Water Line 248882",P-TEMP-BLUE,Compass 5 000
 B6E2BB,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.997325200000076
 B6E2BC,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.997325200000076
 B6E300,BlockReference,"*U91",AS-POWER-T,0.9989303661822055
@@ -161,44 +119,37 @@ B9378B,BlockReference,"L-SECLBL",L-SECLBL,1
 B93791,BlockReference,"L-SECLBL",L-SECLBL,1
 B938B5,BlockReference,"L-SECLBL",L-SECLBL,1
 B949C4,BlockReference,"*U92",CG-NOTES,1
-B94B5D,AlignedDimension,"Texcal\P6.10 Communication \PCable R/W\PDLO 780800",F-RW-T,Compass 5 000
-B94E08,AlignedDimension,"Alliance\P32.00 P/L R/W\PPlan 002 3489\PDPL 981095",F-RW-T,Compass 5 000
-B94E4D,AlignedDimension,"ATCO\P6.10 Power Line R/W\PEZE 3054",F-EZE-T,Compass 5 000
-B94FC1,AlignedDimension,"ATCO\P15.00 Power Line R/W\PEZE 170159",F-EZE-T,Compass 5 000
-B95028,AlignedDimension,"ATCO\P15.00 Power Line R/W\PEZE 170159",F-EZE-T,Compass 5 000
-B9518C,AlignedDimension,"ATCO\P10.50 Power Line R/W\PEZE 190147",F-EZE-T,Compass 5 000
-B95BAC,AlignedDimension,"ATCO\P7.50 Vegetation Control R/W\PEZE 890416",F-EZE-T,Compass 5 000
-B95BD4,AlignedDimension,"ATCO\P10.50 Power Line R/W\PEZE 890428",F-EZE-T,Compass 5 000
-B95C05,AlignedDimension,"ATCO\P7.50 Vegetation Control R/W\PEZE 890430",F-EZE-T,Compass 5 000
-B95C41,AlignedDimension,"ATCO\P7.50 Vegetation Control R/W\PEZE 890542",F-EZE-T,Compass 5 000
-B95C85,AlignedDimension,"ATCO\P10.50 Power Line R/W\PEZE 930316",F-EZE-T,Compass 5 000
-B95DD4,AlignedDimension,"CRR\P30.48 A/R\PLOC 2443",F-EZE-T,Compass 5 000
-B95E04,AlignedDimension,"Sprocket\P15.00 A/R\PLOC 100369",F-AR-T,Compass 5 000
-B960CB,AlignedDimension,"Murphy\X20.00 A/R\PLOC 170679",F-AR-T,Compass 5 000
-B9690E,AlignedDimension,"CNRL\X20.00 A/R\PLOC 180265",F-AR-T,Compass 5 000
-B96966,MText,"Trace
-27.00 A/R
-LOC 190533
-(Expired)",F-AR-T,10.005352463353931
-B96969,AlignedDimension,"PGI\X12.00 A/R\PLOC 200765",F-AR-T,Compass 5 000
-B969AC,AlignedDimension,"PGI\X12.00 A/R\PLOC 201084",F-AR-T,Compass 5 000
-B96B15,MText,"Theor. S.E.1/4 
-Sec. 23-62-20-W.5M.",C-SYMBOL,20
-B96B16,MText,"Theor. S.W.1/4 
-Sec. 23-62-20-W.5M.",C-SYMBOL,20
-B96B17,MText,"Theor. N.E.1/4 
-Sec. 14-62-20-W.5M.",C-SYMBOL,20
+B94B5D,AlignedDimension,"Texcal 6.10 Communication   R/W  780800",F-RW-T,Compass 5 000
+B94E08,AlignedDimension,"Alliance 32.00 P/L R/W  002 3489  981095",F-RW-T,Compass 5 000
+B94E4D,AlignedDimension,"ATCO 6.10 Power Line R/W  3054",F-EZE-T,Compass 5 000
+B94FC1,AlignedDimension,"ATCO 15.00 Power Line R/W  170159",F-EZE-T,Compass 5 000
+B95028,AlignedDimension,"ATCO 15.00 Power Line R/W  170159",F-EZE-T,Compass 5 000
+B9518C,AlignedDimension,"ATCO 10.50 Power Line R/W  190147",F-EZE-T,Compass 5 000
+B95BAC,AlignedDimension,"ATCO 7.50 Vegetation Control R/W  890416",F-EZE-T,Compass 5 000
+B95BD4,AlignedDimension,"ATCO 10.50 Power Line R/W  890428",F-EZE-T,Compass 5 000
+B95C05,AlignedDimension,"ATCO 7.50 Vegetation Control R/W  890430",F-EZE-T,Compass 5 000
+B95C41,AlignedDimension,"ATCO 7.50 Vegetation Control R/W  890542",F-EZE-T,Compass 5 000
+B95C85,AlignedDimension,"ATCO 10.50 Power Line R/W  930316",F-EZE-T,Compass 5 000
+B95DD4,AlignedDimension,"CRR 30.48 A/R  2443",F-EZE-T,Compass 5 000
+B95E04,AlignedDimension,"Sprocket 15.00 A/R  100369",F-AR-T,Compass 5 000
+B960CB,AlignedDimension,"Murphy 20.00 A/R  170679",F-AR-T,Compass 5 000
+B9690E,AlignedDimension,"CNRL 20.00 A/R  180265",F-AR-T,Compass 5 000
+B96966,MText,"Trace 27.00 A/R LOC 190533 (Expired)",F-AR-T,10.005352463353931
+B96969,AlignedDimension,"PGI 12.00 A/R  200765",F-AR-T,Compass 5 000
+B969AC,AlignedDimension,"PGI 12.00 A/R  201084",F-AR-T,Compass 5 000
+B96B15,MText,"Theor. S.E.1/4  Sec. 23-62-20-W.5M.",C-SYMBOL,20
+B96B16,MText,"Theor. S.W.1/4  Sec. 23-62-20-W.5M.",C-SYMBOL,20
+B96B17,MText,"Theor. N.E.1/4  Sec. 14-62-20-W.5M.",C-SYMBOL,20
 B96B18,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
 B96B1A,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
 B96B1C,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
-B96B1E,AlignedDimension,"CRR\X20.12 A/R\PLOC 211108",F-AR-T,Compass 5 000
-B96C98,AlignedDimension,"Paramount\X20.00 A/R\PLOC 851714",F-AR-T,Compass 5 000
-B96CF1,AlignedDimension,"Texcal\P20.00 A/R\PLOC 920968\P(Expired)",F-AR-T,Compass 5 000
-B96D2D,MText,"Theor. S.W.1/4 
-Sec. 19-62-19-W.5M.",C-SYMBOL,20
+B96B1E,AlignedDimension,"CRR 20.12 A/R  211108",F-AR-T,Compass 5 000
+B96C98,AlignedDimension,"Paramount 20.00 A/R  851714",F-AR-T,Compass 5 000
+B96CF1,AlignedDimension,"Texcal 20.00 A/R  920968 (Expired)",F-AR-T,Compass 5 000
+B96D2D,MText,"Theor. S.W.1/4  Sec. 19-62-19-W.5M.",C-SYMBOL,20
 B96D2E,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
-B97513,AlignedDimension,"Sprocket\X30.48 A/R\PMSL 2732",F-AR-T,Compass 5 000
-B9755F,AlignedDimension,"Texcal\X30.48 A/R\PMSL 3232",F-AR-T,Compass 5 000
+B97513,AlignedDimension,"Sprocket 30.48 A/R  2732",F-AR-T,Compass 5 000
+B9755F,AlignedDimension,"Texcal 30.48 A/R  3232",F-AR-T,Compass 5 000
 B97D91,MText,"L.S. 3",L-SECTION-LSD,10
 B97D93,MText,"L.S. 4",L-SECTION-LSD,10
 B97D95,MText,"L.S. 6",L-SECTION-LSD,10
@@ -207,97 +158,68 @@ B97D9B,MText,"L.S. 9",L-SECTION-LSD,10
 B97D9D,MText,"L.S. 10",L-SECTION-LSD,10
 B97D9F,MText,"L.S. 16",L-SECTION-LSD,10
 B97DA1,MText,"L.S. 15",L-SECTION-LSD,10
-B97EBF,MText,"Sprocket
-6-23 (Surface)
-MSL 4591",F-WS-T,10
-B97EC0,AlignedDimension,"Sprocket\X30.48 A/R\PMSL 4591",F-AR-T,Compass 5 000
-B97F71,AlignedDimension,"Texcal\X30.48 A/R\PMSL 6674",F-AR-T,Compass 5 000
-B988E5,MText,"Sprocket
-2-23 (Surface)
-MSL 9179
-(Expired)",F-WS-T,10
+B97EBF,MText,"Sprocket 6-23 (Surface) MSL 4591",F-WS-T,10
+B97EC0,AlignedDimension,"Sprocket 30.48 A/R  4591",F-AR-T,Compass 5 000
+B97F71,AlignedDimension,"Texcal 30.48 A/R  6674",F-AR-T,Compass 5 000
+B988E5,MText,"Sprocket 2-23 (Surface) MSL 9179 (Expired)",F-WS-T,10
 B988E6,MText,"L.S. 1",L-SECTION-LSD,10
 B988E7,MText,"L.S. 2",L-SECTION-LSD,10
 B988E9,MText,"L.S. 8",L-SECTION-LSD,10
 B988EA,MText,"L.S. 7",L-SECTION-LSD,10
-B98908,AlignedDimension,"Texcal\P30.48 A/R\PMSL 9776",F-AR-T,Compass 5 000
-B98938,MText,"Texcal
-8-23 (Surface)
-MSL 9776",F-WS-T,10.005352463353931
-B9893A,MText,"Sprocket
-15-14 (Surface)
-MSL 071364",F-WS-T,10
-B98A55,MText,"Sprocket
-1-23 (Surface)
-MSL 100498",F-WS-T,10
-B98A56,MText,"Sprocket
-9-14 (Surface)
-MSL 100505",F-WS-T,10
-B98A57,MText,"Murphy
-11-14 (Surface)
-MSL 170592",F-WS-T,10
-B98A58,MText,"CNRL 
-4-19 (Surface)
-MSL 180231",F-RW-T,9.994650400000266
+B98908,AlignedDimension,"Texcal 30.48 A/R  9776",F-AR-T,Compass 5 000
+B98938,MText,"Texcal 8-23 (Surface) MSL 9776",F-WS-T,10.005352463353931
+B9893A,MText,"Sprocket 15-14 (Surface) MSL 071364",F-WS-T,10
+B98A55,MText,"Sprocket 1-23 (Surface) MSL 100498",F-WS-T,10
+B98A56,MText,"Sprocket 9-14 (Surface) MSL 100505",F-WS-T,10
+B98A57,MText,"Murphy 11-14 (Surface) MSL 170592",F-WS-T,10
+B98A58,MText,"CNRL  4-19 (Surface) MSL 180231",F-RW-T,9.994650400000266
 B98A5A,MText,"L.S. 3",L-SECTION-LSD,10
 B98A5C,MText,"L.S. 4",L-SECTION-LSD,10
 B98A5E,MText,"L.S. 6",L-SECTION-LSD,10
 B98A60,MText,"L.S. 5",L-SECTION-LSD,10
-B98B7E,MText,"Texcal 
-4-19 (Surface)
-MSL 921213",F-RW-T,9.994650400000266
-B98B96,MText,"Paramount 
-4-19 (Surface)
-MSL 983566",F-RW-T,9.994650400000266
-B9945B,MText,"PGI
-Riser Site
-PIL 200192",F-WS-T,10
-B994A4,MText,"PGI
-Riser Site
-PIL 200194",F-WS-T,10
-B994A6,MText,"PGI
-Riser Site
-PIL 200274",F-WS-T,10
-B994A8,MText,"PGI
-Riser Site
-PIL 200291",F-WS-T,10
-B995D1,AlignedDimension,"Paramount\P22.86 P/L R/W\PPlan 911 RS\PPLA 3235",F-RW-T,Compass 5 000
-B995F9,AlignedDimension,"Paramount\P22.86 P/L R/W\PPlan 911 RS\PPLA 3235",F-RW-T,Compass 5 000
-B997CB,AlignedDimension,"Texcal\P10.06 P/L R/W\PPLA 4037",F-RW-T,Compass 5 000
-B997FC,AlignedDimension,"Texcal\P10.06 P/L R/W\PPLA 4037",F-RW-T,Compass 5 000
-B99877,AlignedDimension,"Sprocket\X20.12 P/L R/W\PPlan 3915 TR\PPLA 4864",F-RW-T,Compass 5 000
-B99A37,AlignedDimension,"Texcal\X15.24 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-B99A8C,AlignedDimension,"Texcal\P7.62 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-B99BCF,AlignedDimension,"Texcal\X15.24 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-B99BFA,AlignedDimension,"Texcal\X15.24 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-B99C4C,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 092 3095\PPLA 071492",F-RW-T,Compass 5 000
-B99DA0,AlignedDimension,"Sprocket\X15.00 P/L R/W\PPLA 100945",F-RW-T,Compass 5 000
-B99DC8,AlignedDimension,"Sprocket\X5.00 P/L R/W\PPLA 100883",F-RW-T,Compass 5 000
-B99E05,AlignedDimension,"Sprocket\X5.00 P/L R/W\PPLA 100883",F-RW-T,Compass 5 000
-B99E26,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPLA 100942",F-RW-T,Compass 5 000
-B99E58,AlignedDimension,"PGI\X18.00 P/L R/W\PPLA 131563",F-RW-T,Compass 5 000
-B99E84,AlignedDimension,"PGI\X18.00 P/L R/W\PPLA 131563",F-RW-T,Compass 5 000
-B99FD1,AlignedDimension,"Pembina\X12.19 P/L R/W\PPLA 150783",F-RW-T,Compass 5 000
-B9A14D,AlignedDimension,"Secure\X15.00 P/L R/W\PPLA 195161",F-RW-T,Compass 5 000
-B9A179,AlignedDimension,"Secure\X15.00 P/L R/W\PPLA 195161",F-RW-T,Compass 5 000
-B9A1AE,AlignedDimension,"Keyera\X30.00 P/L R/W\PPLA 200152",F-RW-T,Compass 5 000
-B9A1EF,AlignedDimension,"Murphy\X10.00 P/L R/W\PPLA 230135",F-RW-T,Compass 5 000
-B9A20B,AlignedDimension,"Murphy\X10.00 P/L R/W\PPLA 230135",F-RW-T,Compass 5 000
-B9A22F,AlignedDimension,"PGI\X15.00 P/L R/W\PPLA 200319",F-RW-T,Compass 5 000
-B9A253,AlignedDimension,"PGI\X15.00 P/L R/W\PPLA 200319",F-RW-T,Compass 5 000
-B9A3AD,AlignedDimension,"Whitecap\X20.00 P/L R/W\PPLA 240720",C-AR-T,Compass 5 000
-B9A4E5,AlignedDimension,"Whitecap\X20.00 P/L R/W\PPLA 241243",C-RW-T,Compass 5 000
-B9A56E,AlignedDimension,"Texcal\X10.00 P/L R/W\PPlan 842 0383\PPLA 830377",F-RW-T,Compass 5 000
-B9A5D5,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 852 1526\PPLA 840781",F-RW-T,Compass 5 000
-B9A740,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 852 1526\PPLA 840781",F-RW-T,Compass 5 000
-B9A941,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 932 1857\PPLA 930314",F-RW-T,Compass 5 000
-B9A9A0,AlignedDimension,"Sprocket\X5.00 P/L R/W\PPlan 992 5762\PPLA 931257",F-RW-T,Compass 5 000
-B9A9EC,AlignedDimension,"Sprocket\X5.00 P/L R/W\PPlan 992 5762\PPLA 931257",F-RW-T,Compass 5 000
-B9B324,AlignedDimension,"Sprocket\X12.00 P/L R/W\PPlan 982 3534\PPLA 971844",F-RW-T,Compass 5 000
-B9B380,AlignedDimension,"Sprocket\X12.00 P/L R/W\PPlan 982 3534\PPLA 971844",F-RW-T,Compass 5 000
-B9B3CD,AlignedDimension,"Paramount\X15.00 P/L R/W\PPlan 022 6084\PPLA 990477",F-RW-T,Compass 5 000
-B9B526,AlignedDimension,"Cenovus\X15.00 P/L R/W\PPLA 991761",F-RW-T,Compass 5 000
-B9B54E,AlignedDimension,"Pembina\X12.19 P/L R/W\PPlan 1132 KS\PROE 2587",F-RW-T,Compass 5 000
+B98B7E,MText,"Texcal  4-19 (Surface) MSL 921213",F-RW-T,9.994650400000266
+B98B96,MText,"Paramount  4-19 (Surface) MSL 983566",F-RW-T,9.994650400000266
+B9945B,MText,"PGI Riser Site PIL 200192",F-WS-T,10
+B994A4,MText,"PGI Riser Site PIL 200194",F-WS-T,10
+B994A6,MText,"PGI Riser Site PIL 200274",F-WS-T,10
+B994A8,MText,"PGI Riser Site PIL 200291",F-WS-T,10
+B995D1,AlignedDimension,"Paramount 22.86 P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+B995F9,AlignedDimension,"Paramount 22.86 P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+B997CB,AlignedDimension,"Texcal 10.06 P/L R/W  4037",F-RW-T,Compass 5 000
+B997FC,AlignedDimension,"Texcal 10.06 P/L R/W  4037",F-RW-T,Compass 5 000
+B99877,AlignedDimension,"Sprocket 20.12 P/L R/W  3915 TR  4864",F-RW-T,Compass 5 000
+B99A37,AlignedDimension,"Texcal 15.24 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+B99A8C,AlignedDimension,"Texcal 7.62 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+B99BCF,AlignedDimension,"Texcal 15.24 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+B99BFA,AlignedDimension,"Texcal 15.24 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+B99C4C,AlignedDimension,"Sprocket 10.00 P/L R/W  092 3095  071492",F-RW-T,Compass 5 000
+B99DA0,AlignedDimension,"Sprocket 15.00 P/L R/W  100945",F-RW-T,Compass 5 000
+B99DC8,AlignedDimension,"Sprocket 5.00 P/L R/W  100883",F-RW-T,Compass 5 000
+B99E05,AlignedDimension,"Sprocket 5.00 P/L R/W  100883",F-RW-T,Compass 5 000
+B99E26,AlignedDimension,"Sprocket 10.00 P/L R/W  100942",F-RW-T,Compass 5 000
+B99E58,AlignedDimension,"PGI 18.00 P/L R/W  131563",F-RW-T,Compass 5 000
+B99E84,AlignedDimension,"PGI 18.00 P/L R/W  131563",F-RW-T,Compass 5 000
+B99FD1,AlignedDimension,"Pembina 12.19 P/L R/W  150783",F-RW-T,Compass 5 000
+B9A14D,AlignedDimension,"Secure 15.00 P/L R/W  195161",F-RW-T,Compass 5 000
+B9A179,AlignedDimension,"Secure 15.00 P/L R/W  195161",F-RW-T,Compass 5 000
+B9A1AE,AlignedDimension,"Keyera 30.00 P/L R/W  200152",F-RW-T,Compass 5 000
+B9A1EF,AlignedDimension,"Murphy 10.00 P/L R/W  230135",F-RW-T,Compass 5 000
+B9A20B,AlignedDimension,"Murphy 10.00 P/L R/W  230135",F-RW-T,Compass 5 000
+B9A22F,AlignedDimension,"PGI 15.00 P/L R/W  200319",F-RW-T,Compass 5 000
+B9A253,AlignedDimension,"PGI 15.00 P/L R/W  200319",F-RW-T,Compass 5 000
+B9A3AD,AlignedDimension,"Whitecap 20.00 P/L R/W  240720",C-AR-T,Compass 5 000
+B9A4E5,AlignedDimension,"Whitecap 20.00 P/L R/W  241243",C-RW-T,Compass 5 000
+B9A56E,AlignedDimension,"Texcal 10.00 P/L R/W  842 0383  830377",F-RW-T,Compass 5 000
+B9A5D5,AlignedDimension,"Sprocket 10.00 P/L R/W  852 1526  840781",F-RW-T,Compass 5 000
+B9A740,AlignedDimension,"Sprocket 10.00 P/L R/W  852 1526  840781",F-RW-T,Compass 5 000
+B9A941,AlignedDimension,"Texcal 10.00 P/L R/W  932 1857  930314",F-RW-T,Compass 5 000
+B9A9A0,AlignedDimension,"Sprocket 5.00 P/L R/W  992 5762  931257",F-RW-T,Compass 5 000
+B9A9EC,AlignedDimension,"Sprocket 5.00 P/L R/W  992 5762  931257",F-RW-T,Compass 5 000
+B9B324,AlignedDimension,"Sprocket 12.00 P/L R/W  982 3534  971844",F-RW-T,Compass 5 000
+B9B380,AlignedDimension,"Sprocket 12.00 P/L R/W  982 3534  971844",F-RW-T,Compass 5 000
+B9B3CD,AlignedDimension,"Paramount 15.00 P/L R/W  022 6084  990477",F-RW-T,Compass 5 000
+B9B526,AlignedDimension,"Cenovus 15.00 P/L R/W  991761",F-RW-T,Compass 5 000
+B9B54E,AlignedDimension,"Pembina 12.19 P/L R/W  1132 KS  2587",F-RW-T,Compass 5 000
 B9B72E,BlockReference,"HRV",CG-NOTES,0.9994650400000189
 B9C129,BlockReference,"GAS",F-WS-S,4.997325200000118
 B9C12A,BlockReference,"GAS",F-WS-S,4.997325200000118
@@ -356,7 +278,7 @@ B9D794,BlockReference,"xing2",P-CROSSINGS,1
 B9D79B,BlockReference,"xing2",P-CROSSINGS,1
 B9D8B8,BlockReference,"xing2",P-CROSSINGS,1
 B9D8C8,BlockReference,"xing2",P-CROSSINGS,1
-B9D8E1,AlignedDimension,"CRR\X20.12 A/R\PLOC 211108",F-AR-T,Compass 5 000
+B9D8E1,AlignedDimension,"CRR 20.12 A/R  211108",F-AR-T,Compass 5 000
 B9D900,BlockReference,"xing2",P-CROSSINGS,1
 B9D917,BlockReference,"xing2",P-CROSSINGS,1
 B9D91E,BlockReference,"xing2",P-CROSSINGS,1
@@ -394,67 +316,52 @@ B9F57C,BlockReference,"xing2",P-CROSSINGS,1
 B9F583,BlockReference,"xing2",P-CROSSINGS,1
 B9F58A,BlockReference,"xing2",P-CROSSINGS,1
 B9F591,BlockReference,"xing2",P-CROSSINGS,1
-BA27D5,AlignedDimension,"Whitecap\P2.00 Water Line\PRTF248712",P-TEMP-BLUE,Compass 5 000
+BA27D5,AlignedDimension,"Whitecap 2.00 Water Line 248712",P-TEMP-BLUE,Compass 5 000
 BA4626,BlockReference,"L-SECLBL",L-SECLBL,1
-BA49DB,AlignedDimension,"Paramount\P22.86 P/L R/W\PPlan 911 RS\PPLA 3235",F-RW-T,Compass 5 000
-BA4B5F,MText,"Theor. N.W.1/4 
-Sec. 13-62-20-W.5M.",C-SYMBOL,20
+BA49DB,AlignedDimension,"Paramount 22.86 P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+BA4B5F,MText,"Theor. N.W.1/4  Sec. 13-62-20-W.5M.",C-SYMBOL,20
 BA4B60,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00000000000041
 BA4B62,MText,"L.S. 11",L-SECTION-LSD,10
 BA4B64,MText,"L.S. 12",L-SECTION-LSD,10
 BA4B66,MText,"L.S. 14",L-SECTION-LSD,10
 BA4B67,MText,"L.S. 13",L-SECTION-LSD,10
 BA4B7B,BlockReference,"Temp_Area_Small_Pink",P-100m WELL BORE BUFFER,1
-BA4CB2,MText,"SEE
-DETAIL",DETAIL-T,16
-BA4CB4,MText,"DETAIL
-NOT TO SCALE",DETAIL-T,20
-BA4E4E,AlignedDimension,"Telus\P20.12 Cable R/W\PDLO 3568",F-RW-T,Compass 5 000
-BA4FB8,MText,"Texcal 
-3.48 Cable R/W DLO 4501",F-RW-T,10
-BA4FB9,MText,"Town of
-Fox Creek
-Water Well
-DML 040053",F-WS-T,9.994650400000266
-BA4FBB,AlignedDimension,"Texcal\P30.48 Cable R/W\PDLO 780799",F-RW-T,Compass 5 000
-BA6246,AlignedDimension,"ATCO\P6.10 Power Line R/W\PEZE 2382",F-EZE-T,Compass 5 000
-BA6272,AlignedDimension,"ATCO\P6.10 Power Line R/W\PEZE 2527",F-EZE-T,Compass 5 000
-BA629E,AlignedDimension,"ATCO\PVariable Width \PVegetation Control R/W\PEZE 890430",F-EZE-T,Compass 5 000
-BA64EF,AlignedDimension,"PGI\P30.48 A/R\PLOC 2439",F-WS-T,Compass 5 000
-BA6533,AlignedDimension,"CRR\P30.48 A/R\PLOC 2443",F-EZE-T,Compass 5 000
-BA6677,MText,"Sprocket
-12-13 (Surface)
-MSL 4771
-(Expired)",F-WS-T,10
+BA4CB2,MText,"SEE DETAIL",DETAIL-T,16
+BA4CB4,MText,"DETAIL NOT TO SCALE",DETAIL-T,20
+BA4E4E,AlignedDimension,"Telus 20.12 Cable R/W  3568",F-RW-T,Compass 5 000
+BA4FB8,MText,"Texcal  3.48 Cable R/W DLO 4501",F-RW-T,10
+BA4FB9,MText,"Town of Fox Creek Water Well DML 040053",F-WS-T,9.994650400000266
+BA4FBB,AlignedDimension,"Texcal 30.48 Cable R/W  780799",F-RW-T,Compass 5 000
+BA6246,AlignedDimension,"ATCO 6.10 Power Line R/W  2382",F-EZE-T,Compass 5 000
+BA6272,AlignedDimension,"ATCO 6.10 Power Line R/W  2527",F-EZE-T,Compass 5 000
+BA629E,AlignedDimension,"ATCO  Width   Control R/W  890430",F-EZE-T,Compass 5 000
+BA64EF,AlignedDimension,"PGI 30.48 A/R  2439",F-WS-T,Compass 5 000
+BA6533,AlignedDimension,"CRR 30.48 A/R  2443",F-EZE-T,Compass 5 000
+BA6677,MText,"Sprocket 12-13 (Surface) MSL 4771 (Expired)",F-WS-T,10
 BA667B,BlockReference,"GAS",F-WS-S,4.997325200000118
 BA667C,BlockReference,"GAS",F-WS-S,4.997325200000118
-BA6691,AlignedDimension,"Texcal\P30.48 A/R\PMSL 5967",F-AR-T,Compass 5 000
-BA67F0,MText,"Texcal
-Compressor Site
-Plan 812 2880
-PIL 810012",F-WS-T,10
-BA681A,MText,"Sprocket
-Riser Site
-PIL 140474",F-WS-T,10
-BA681C,AlignedDimension,"Paramount\P22.86 P/L R/W\PPlan 911 RS\PPLA 3235",F-RW-T,Compass 5 000
-BA6974,AlignedDimension,"Texcal\P10.06 P/L R/W\PPLA 4037",F-RW-T,Compass 5 000
-BA69B0,AlignedDimension,"Texcal\X7.62 P/L R/W\PPlan 762 2395\PPLA 6098",F-RW-T,Compass 5 000
-BA69FC,AlignedDimension,"Texcal\P22.86 P/L R/W\PPlan 752 1416\PPLA 5577",F-RW-T,Compass 5 000
-BA6C78,AlignedDimension,"Texcal\X10.06 Flow Line R/W\PPLA 4954",F-RW-T,Compass 5 000
-BA6CAC,AlignedDimension,"Texcal\P15.00 P/L R/W\PPLA 050859",F-RW-T,Compass 5 000
-BA6CF8,AlignedDimension,"Sprocket\X15.00 P/L R/W\PPlan 092 1439\PPLA 071446",F-RW-T,Compass 5 000
-BA6E48,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 092 3095\PPLA 071492",F-RW-T,Compass 5 000
-BA6E79,AlignedDimension,"Sprocket\X15.00 P/L R/W\PPlan 112 3708\PPLA 082817",F-RW-T,Compass 5 000
-BA6EB5,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPLA 110669",F-RW-T,Compass 5 000
-BA6EE9,AlignedDimension,"Saturn\X15.00 P/L R/W\PPlan 812 2880\PPLA 800647",F-RW-T,Compass 5 000
-BA8A3D,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 852 1526\PPLA 840781",F-RW-T,Compass 5 000
-BA8A6E,AlignedDimension,"Texcal\P10.00 P/L R/W\PPlan 872 1557\PPLA 860678",F-RW-T,Compass 5 000
-BA8AAA,AlignedDimension,"Texcal\X15.00 P/L R/W\PPlan 892 0546\PPLA 880406",F-RW-T,Compass 5 000
-BA8C5A,AlignedDimension,"Sprocket\P5.00 P/L R/W\PPlan 992 5762\PPLA 931257",F-RW-T,Compass 5 000
-BA8C94,AlignedDimension,"Sprocket\X10.00 P/L R/W\PPlan 932 1889\PPLA 920650",F-RW-T,Compass 5 000
+BA6691,AlignedDimension,"Texcal 30.48 A/R  5967",F-AR-T,Compass 5 000
+BA67F0,MText,"Texcal Compressor Site Plan 812 2880 PIL 810012",F-WS-T,10
+BA681A,MText,"Sprocket Riser Site PIL 140474",F-WS-T,10
+BA681C,AlignedDimension,"Paramount 22.86 P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+BA6974,AlignedDimension,"Texcal 10.06 P/L R/W  4037",F-RW-T,Compass 5 000
+BA69B0,AlignedDimension,"Texcal 7.62 P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+BA69FC,AlignedDimension,"Texcal 22.86 P/L R/W  752 1416  5577",F-RW-T,Compass 5 000
+BA6C78,AlignedDimension,"Texcal 10.06 Flow Line R/W  4954",F-RW-T,Compass 5 000
+BA6CAC,AlignedDimension,"Texcal 15.00 P/L R/W  050859",F-RW-T,Compass 5 000
+BA6CF8,AlignedDimension,"Sprocket 15.00 P/L R/W  092 1439  071446",F-RW-T,Compass 5 000
+BA6E48,AlignedDimension,"Sprocket 10.00 P/L R/W  092 3095  071492",F-RW-T,Compass 5 000
+BA6E79,AlignedDimension,"Sprocket 15.00 P/L R/W  112 3708  082817",F-RW-T,Compass 5 000
+BA6EB5,AlignedDimension,"Sprocket 10.00 P/L R/W  110669",F-RW-T,Compass 5 000
+BA6EE9,AlignedDimension,"Saturn 15.00 P/L R/W  812 2880  800647",F-RW-T,Compass 5 000
+BA8A3D,AlignedDimension,"Sprocket 10.00 P/L R/W  852 1526  840781",F-RW-T,Compass 5 000
+BA8A6E,AlignedDimension,"Texcal 10.00 P/L R/W  872 1557  860678",F-RW-T,Compass 5 000
+BA8AAA,AlignedDimension,"Texcal 15.00 P/L R/W  892 0546  880406",F-RW-T,Compass 5 000
+BA8C5A,AlignedDimension,"Sprocket 5.00 P/L R/W  992 5762  931257",F-RW-T,Compass 5 000
+BA8C94,AlignedDimension,"Sprocket 10.00 P/L R/W  932 1889  920650",F-RW-T,Compass 5 000
 BA98AC,BlockReference,"*U158",0,0.9989510452182907
-BA98D7,AlignedDimension,"Whitecap\P2.00 Water Line\PRTF248712",P-TEMP-BLUE,Compass 5 000
-BA9935,AlignedDimension,"Whitecap\P2.00 Water Line\PRTF248882",P-TEMP-BLUE,Compass 5 000
+BA98D7,AlignedDimension,"Whitecap 2.00 Water Line 248712",P-TEMP-BLUE,Compass 5 000
+BA9935,AlignedDimension,"Whitecap 2.00 Water Line 248882",P-TEMP-BLUE,Compass 5 000
 BA9A7A,BlockReference,"xing2",P-CROSSINGS,1
 BA9A81,BlockReference,"xing2",P-CROSSINGS,1
 BAADA8,BlockReference,"*U191",P-TEMP-BLOCKS,0.99948

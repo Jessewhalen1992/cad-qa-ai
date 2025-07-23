@@ -1,6 +1,7 @@
 ﻿using Autodesk.AutoCAD.DatabaseServices;
 using System;
 using System.IO;
+using System.Text.RegularExpressions;
 
 namespace CadQa.Export
 {
@@ -18,98 +19,81 @@ namespace CadQa.Export
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
 
-                // skip Z‑ layers
                 if (ent is Entity e &&
                     e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
                     continue;
 
                 switch (ent)
                 {
-                    // TEXT ---------------------------------------------------------
                     case DBText t:
                         {
                             string txt = Clean(t.TextString);
-                            if (IsMostlyNumeric(txt)) break;
-
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
+                            if (IsNumeric(txt)) break;
+                            sw.WriteLine($"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
                             break;
                         }
 
                     case MText m:
                         {
                             string txt = Clean(m.Text);
-                            if (IsMostlyNumeric(txt)) break;
-
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
+                            if (IsNumeric(txt)) break;
+                            sw.WriteLine($"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
                             break;
                         }
 
-                    // BLOCK --------------------------------------------------------
                     case BlockReference br:
                         {
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
+                            sw.WriteLine($"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
                             break;
                         }
 
-                    // DIMENSION ----------------------------------------------------
                     case Dimension dim:
                         {
                             string txt = Clean(dim.DimensionText?.Trim());
-                            if (IsMostlyNumeric(txt)) break;
-
-                            sw.WriteLine(
-                                $"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
+                            if (IsNumeric(txt)) break;
+                            sw.WriteLine($"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
                             break;
                         }
 
-                    // LEADER -------------------------------------------------------
                     case Leader l:
                         {
-                            // safely resolve annotation text
                             string txt = "";
-                            if (!l.Annotation.IsNull)
-                            {
-                                var obj = tr.GetObject(l.Annotation, OpenMode.ForRead, false);
-                                if (obj is MText mAnnot)
-                                    txt = Clean(mAnnot.Text);
-                            }
-
-                            if (IsMostlyNumeric(txt)) break;
-
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(Leader)},\"{txt}\",{l.Layer},");
+                            if (!l.Annotation.IsNull &&
+                                tr.GetObject(l.Annotation, OpenMode.ForRead, false) is MText mt)
+                                txt = Clean(mt.Text);
+                            if (IsNumeric(txt)) break;
+                            sw.WriteLine($"{id.Handle},{nameof(Leader)},\"{txt}\",{l.Layer},");
                             break;
                         }
 
                     case MLeader ml:
                         {
                             string txt = Clean(ml.MText?.Text ?? "");
-                            if (IsMostlyNumeric(txt)) break;
-
-                            sw.WriteLine(
-                                $"{id.Handle},{nameof(MLeader)},\"{txt}\",{ml.Layer},");
+                            if (IsNumeric(txt)) break;
+                            sw.WriteLine($"{id.Handle},{nameof(MLeader)},\"{txt}\",{ml.Layer},");
                             break;
                         }
                 }
             }
         }
 
-        private static bool IsMostlyNumeric(string s)
+        /* ---------- helpers ---------- */
+
+        private static readonly Regex _fmt = new(@"\\[A-Za-z]+", RegexOptions.Compiled);
+
+        private static string Clean(string s) =>
+            s is null ? "" :
+            _fmt.Replace(s, " ")     // strip \P, \pxqc etc.
+              .Replace("\r\n", " ")
+              .Replace("\n", " ")
+              .Trim();
+
+        private static bool IsNumeric(string s)
         {
             if (string.IsNullOrWhiteSpace(s)) return true;
             int digit = 0, alpha = 0;
-            foreach (char c in s)
-            {
-                if (char.IsDigit(c)) digit++;
-                else if (char.IsLetter(c)) alpha++;
-            }
+            foreach (char c in s) { if (char.IsDigit(c)) digit++; else if (char.IsLetter(c)) alpha++; }
             return digit > 0 && alpha == 0;
         }
-
-        private static string Clean(string s) =>
-            s?.Replace("\r\n", " ").Replace("\n", " ") ?? "";
     }
 }
