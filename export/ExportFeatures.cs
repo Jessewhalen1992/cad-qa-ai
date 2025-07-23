@@ -28,7 +28,7 @@ namespace CadQa.Export
                     // TEXT ---------------------------------------------------------
                     case DBText t:
                         {
-                            string txt = t.TextString;
+                            string txt = Clean(t.TextString);
                             if (IsMostlyNumeric(txt)) break;
 
                             sw.WriteLine(
@@ -38,7 +38,7 @@ namespace CadQa.Export
 
                     case MText m:
                         {
-                            string txt = m.Text;
+                            string txt = Clean(m.Text);
                             if (IsMostlyNumeric(txt)) break;
 
                             sw.WriteLine(
@@ -57,7 +57,7 @@ namespace CadQa.Export
                     // DIMENSION ----------------------------------------------------
                     case Dimension dim:
                         {
-                            string txt = dim.DimensionText?.Trim() ?? "";
+                            string txt = Clean(dim.DimensionText?.Trim());
                             if (IsMostlyNumeric(txt)) break;
 
                             sw.WriteLine(
@@ -74,7 +74,7 @@ namespace CadQa.Export
                             {
                                 var obj = tr.GetObject(l.Annotation, OpenMode.ForRead, false);
                                 if (obj is MText mAnnot)
-                                    txt = mAnnot.Text;
+                                    txt = Clean(mAnnot.Text);
                             }
 
                             if (IsMostlyNumeric(txt)) break;
@@ -86,7 +86,7 @@ namespace CadQa.Export
 
                     case MLeader ml:
                         {
-                            string txt = ml.MText?.Text ?? "";
+                            string txt = Clean(ml.MText?.Text ?? "");
                             if (IsMostlyNumeric(txt)) break;
 
                             sw.WriteLine(
@@ -108,5 +108,8 @@ namespace CadQa.Export
             }
             return digit > 0 && alpha == 0;
         }
+
+        private static string Clean(string s) =>
+            s?.Replace("\r\n", " ").Replace("\n", " ") ?? "";
     }
 }
