@@ -1,5 +1,4 @@
 ﻿using Autodesk.AutoCAD.DatabaseServices;
-using Autodesk.AutoCAD.ApplicationServices;
 using System;
 using System.IO;
 
@@ -19,73 +18,95 @@ namespace CadQa.Export
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
 
-                // ── ignore Z‑ layers ────────────────────────────
+                // skip Z‑ layers
                 if (ent is Entity e &&
                     e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
                     continue;
-                // ────────────────────────────────────────────────
 
                 switch (ent)
                 {
+                    // TEXT ---------------------------------------------------------
                     case DBText t:
-                    {
-                        string txt = t.TextString;
-                        if (IsMostlyNumeric(txt)) break;
+                        {
+                            string txt = t.TextString;
+                            if (IsMostlyNumeric(txt)) break;
 
-                        sw.WriteLine(
-                            $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
-                        break;
-                    }
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
+                            break;
+                        }
 
                     case MText m:
-                    {
-                        string txt = m.Text;          // duplicates are fine in a new scope
-                        if (IsMostlyNumeric(txt)) break;
+                        {
+                            string txt = m.Text;
+                            if (IsMostlyNumeric(txt)) break;
 
-                        sw.WriteLine(
-                            $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
-                        break;
-                    }
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
+                            break;
+                        }
 
+                    // BLOCK --------------------------------------------------------
                     case BlockReference br:
-                    {
-                        sw.WriteLine(
-                            $"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
-                        break;
-                    }
+                        {
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
+                            break;
+                        }
 
+                    // DIMENSION ----------------------------------------------------
                     case Dimension dim:
-                    {
-                        string txt = dim.DimensionText?.Trim() ?? "";
-                        if (IsMostlyNumeric(txt)) break;
-                        sw.WriteLine(
-                            $"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
-                        break;
-                    }
+                        {
+                            string txt = dim.DimensionText?.Trim() ?? "";
+                            if (IsMostlyNumeric(txt)) break;
 
-                    case Leader l when l.HasArrowHead:
+                            sw.WriteLine(
+                                $"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
+                            break;
+                        }
+
+                    // LEADER -------------------------------------------------------
+                    case Leader l:
+                        {
+                            // safely resolve annotation text
+                            string txt = "";
+                            if (!l.Annotation.IsNull)
+                            {
+                                var obj = tr.GetObject(l.Annotation, OpenMode.ForRead, false);
+                                if (obj is MText mAnnot)
+                                    txt = mAnnot.Text;
+                            }
+
+                            if (IsMostlyNumeric(txt)) break;
+
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(Leader)},\"{txt}\",{l.Layer},");
+                            break;
+                        }
+
                     case MLeader ml:
-                    {
-                        string txt = (ent is MLeader mld ? mld.MText?.Text : ((Leader)ent).Annotation?.TextString) ?? "";
-                        if (IsMostlyNumeric(txt)) break;
-                        sw.WriteLine(
-                            $"{id.Handle},{ent.GetType().Name},\"{txt}\",{((Entity)ent).Layer},");
-                        break;
-                    }
-                }
-            }
+                        {
+                            string txt = ml.MText?.Text ?? "";
+                            if (IsMostlyNumeric(txt)) break;
 
-            static bool IsMostlyNumeric(string s)
-            {
-                if (string.IsNullOrWhiteSpace(s)) return true;
-                int digit = 0, alpha = 0;
-                foreach (char c in s)
-                {
-                    if (char.IsDigit(c)) digit++;
-                    else if (char.IsLetter(c)) alpha++;
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(MLeader)},\"{txt}\",{ml.Layer},");
+                            break;
+                        }
                 }
-                return digit > 0 && alpha == 0;
             }
+        }
+
+        private static bool IsMostlyNumeric(string s)
+        {
+            if (string.IsNullOrWhiteSpace(s)) return true;
+            int digit = 0, alpha = 0;
+            foreach (char c in s)
+            {
+                if (char.IsDigit(c)) digit++;
+                else if (char.IsLetter(c)) alpha++;
+            }
+            return digit > 0 && alpha == 0;
         }
     }
 }

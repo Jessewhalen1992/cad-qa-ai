@@ -1,4 +1,4 @@
-using Autodesk.AutoCAD.DatabaseServices;
+﻿using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.EditorInput;
 using Autodesk.AutoCAD.Runtime;
 using System;
@@ -16,10 +16,13 @@ namespace CadQa.Commands
                        .Core.Application.DocumentManager
                        .MdiActiveDocument.Editor;
 
-            // Prompt for folder (default = current)
+            // Prompt for folder (default = current) – allow spaces
             var pr = new PromptStringOptions(
                 "\nFolder containing DWGs to export <current>:")
-            { DefaultValue = Environment.CurrentDirectory };
+            {
+                DefaultValue = Environment.CurrentDirectory,
+                AllowSpaces = true                           // ← key fix
+            };
             var res = ed.GetString(pr);
             if (res.Status != PromptStatus.OK) return;
 
@@ -45,7 +48,7 @@ namespace CadQa.Commands
                     tr.Commit();
                     ok++;
                 }
-                catch (Exception ex)
+                catch (System.Exception ex)                  // ← disambiguated
                 {
                     ed.WriteMessage($"\nError on {Path.GetFileName(dwg)}: {ex.Message}");
                     fail++;
