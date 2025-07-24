@@ -1,7 +1,7 @@
 Handle,ObjType,Content,Layer,Extra
-9E3FF5,AlignedDimension,"Pembina 12.19 P/L R/W  1132 KS  150783",F-RW-T,Compass 5 000
-9E4747,AlignedDimension,"CNRL 15.00 P/L R/W  170182",F-RW-T,Compass 5 000
-9E4ED3,AlignedDimension,"Pembina 12.19 P/L R/W  1132 KS  2587",F-RW-T,Compass 5 000
+9E3FF5,AlignedDimension,"Pembina  P/L R/W  1132 KS  150783",F-RW-T,Compass 5 000
+9E4747,AlignedDimension,"CNRL  P/L R/W  170182",F-RW-T,Compass 5 000
+9E4ED3,AlignedDimension,"Pembina  P/L R/W  1132 KS  2587",F-RW-T,Compass 5 000
 9E6790,BlockReference,"L-SECLBL",L-SECLBL,1
 9E7650,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
 9E7656,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
@@ -9,14 +9,14 @@ Handle,ObjType,Content,Layer,Extra
 9E7671,MText,"Twp. 62",D-TXT,13.999999999999917
 9E80C3,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
 9ECA33,BlockReference,"FDI",L-MON,5
-9EE7F3,AlignedDimension,"ATCO 12.50 Power Line R/W  190204",F-EZE-T,Compass 5 000
-9EED32,AlignedDimension,"Paramount 15.00 A/R  010166",F-AR-T,Compass 5 000
-9EED51,AlignedDimension,"Pembina 18.28 P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
-9EED70,AlignedDimension,"Paramount 7.00 P/L R/W  082 7684  012664 (LIC. #32537-26)",F-RW-T,Compass 5 000
-9EF2AE,AlignedDimension,"CNRL 15.00 P/L R/W PLA 170161",F-RW-T,Compass 5 000
-9EF2E8,AlignedDimension,"CNRL 15.00 P/L R/W  170182",F-RW-T,Compass 5 000
-9EF82F,AlignedDimension,"CNRL 36.00 P/L R/W  190066",F-RW-T,Compass 5 000
-9EF84D,AlignedDimension,"Veren 15.00 P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
+9EE7F3,AlignedDimension,"ATCO  Power Line R/W  190204",F-EZE-T,Compass 5 000
+9EED32,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+9EED51,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+9EED70,AlignedDimension,"Paramount  P/L R/W  082 7684  012664  #32537-26)",F-RW-T,Compass 5 000
+9EF2AE,AlignedDimension,"CNRL  P/L R/W PLA 170161",F-RW-T,Compass 5 000
+9EF2E8,AlignedDimension,"CNRL  P/L R/W  170182",F-RW-T,Compass 5 000
+9EF82F,AlignedDimension,"CNRL  P/L R/W  190066",F-RW-T,Compass 5 000
+9EF84D,AlignedDimension,"Veren  P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
 9F11B1,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
 9F11B9,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
 9F170D,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
@@ -31,8 +31,8 @@ B2A18F,BlockReference,"WAT",0,5
 B2A190,MText,"Water Well Piezometer (Unknown Owner)",0,10
 B2A195,BlockReference,"WAT",0,5
 B2A1A0,MText,"Water Well Piezometer (Unknown Owner)",0,10
-B2AFDF,AlignedDimension,"CNRL 36.00 P/L R/W  190066",F-RW-T,Compass 5 000
-B2B54E,AlignedDimension,"Veren 15.00 P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
+B2AFDF,AlignedDimension,"CNRL  P/L R/W  190066",F-RW-T,Compass 5 000
+B2B54E,AlignedDimension,"Veren  P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
 B2C174,MText,"L.S. 1",L-SECTION-LSD,9.994627000000001
 B2C175,MText,"L.S. 2",L-SECTION-LSD,9.994627000000001
 B2C177,MText,"L.S. 8",L-SECTION-LSD,9.994627000000001
@@ -48,9 +48,9 @@ B2F272,MText,"L.S. 14",L-SECTION-LSD,9.994627000000001
 B2F273,MText,"L.S. 13",L-SECTION-LSD,9.994627000000001
 B2FF94,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9914032
 B3172D,MText,"Pembina 12.19 P/L R/W Plan 1132 KS ROE 5906",F-RW-T,10
-B319E9,AlignedDimension,"Paramount 15.00 A/R  010166",F-AR-T,Compass 5 000
-B31A08,AlignedDimension,"Pembina 18.28 P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
-B31A27,AlignedDimension,"Paramount 7.00 P/L R/W  082 7684  012664 (LIC. #32537-26)",F-RW-T,Compass 5 000
+B319E9,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+B31A08,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+B31A27,AlignedDimension,"Paramount  P/L R/W  082 7684  012664  #32537-26)",F-RW-T,Compass 5 000
 B3390C,MText,"Theor. S.W.1/4  Sec. 5-62-19-W.5M.",C-SYMBOL,20
 B34B15,BlockReference,"plspike",L-MON,4.997313500000001
 B34B26,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
@@ -88,8 +88,8 @@ B45CCB,BlockReference,"Gabd",ABADATA-DRILL-T,5
 B45CCC,MText,"5-4 (Abd.)",ABADATA-DRILL-T,10
 B45ED9,MText,"Paramount 102/5-4 (DD)",DETAIL-HZ-Existing,9.994627000000001
 B46EAC,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9914032
-B46EBD,AlignedDimension,"Paramount 15.00 A/R  010166",F-AR-T,Compass 5 000
-B46EDC,AlignedDimension,"Pembina 18.28 P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+B46EBD,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+B46EDC,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
 B47108,MText,"Theor. S.W.1/4  Sec. 4-62-19-W.5M.",C-SYMBOL,19.989254000000003
 B474B7,BlockReference,"L-SECLBL",L-SECLBL,3.9899999999999882
 B474BD,MText,"Twp. 61",D-TXT,55.985999999999656
@@ -128,6 +128,7 @@ B85923,BlockReference,"FDI",L-MON,5
 B85924,BlockReference,"FDI",L-MON,5
 B85929,MText,"Fd.I. Mp.",L-MON,10
 B85933,MText,"Fd.I.",L-MON,10
+B85C89,MText,"157°21'40'' 493.24",L-BD,9.994627000000001
 B85F36,BlockReference,"plspike",L-MON,4.997313500000001
 B85F43,MText,"153°57'50'' 253.16 (Tie)",L-BD,9.994627000000001
 B861D3,MText,"±200m",0,9.994627000000001
@@ -143,6 +144,7 @@ B8648A,MText,"30cm Poplar & Pine",T-BUSH-T,9.994627000000001
 B86492,MText,"30cm Poplar & Pine",T-BUSH-T,9.994627000000001
 B86711,MText,"20cm Poplar & Pine (Re-Growth)",T-BUSH-T,9.994627000000001
 B86719,MText,"20cm Poplar & Pine (Re-Growth)",T-BUSH-T,9.994627000000001
+B8990A,MText,"157°23'20'' 324.98",L-BD,9.994627000000001
 B9CA51,MText,"Fd.I. Mp.",L-MON,10
 BA673E,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
 BA6FB3,BlockReference,"WC",L-MON,4.997313500000001
@@ -154,12 +156,17 @@ BA6FDE,BlockReference,"plspike",L-MON,4.997313500000001
 BA6FE6,BlockReference,"plspike",L-MON,4.997313500000001
 BA7039,BlockReference,"*U52",P-TEMP-BLOCKS,0.9994627
 BA70A0,BlockReference,"*U52",P-TEMP-BLOCKS,0.9994627
+BA8170,DBText,"249°32'05''",L-BD,9.994627000000001
 BA8A4E,BlockReference,"*U52",P-TEMP-BLOCKS,0.9994627
 BA8A68,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
 BA8A74,BlockReference,"plspike",L-MON,4.997313500000001
 BA8A75,BlockReference,"plspike",L-MON,4.997313500000001
 BA8A76,BlockReference,"plspike",L-MON,4.997313500000001
 BA8A77,BlockReference,"plspike",L-MON,4.997313500000001
+BA8AB8,DBText,"159°32'05''",L-BD,9.994627000000001
+BA8ABB,DBText,"32'",L-BD,9.994627000000001
+BA8ABD,DBText,"339°32'05''",L-BD,9.994627000000001
+BA8ABF,DBText,"05"",L-BD,9.994627000000001
 BA8D28,MText,"3m Cut Line",AS-SEISMIC,9.994627000000001
 BA8D37,MText,"3m Cut Line",AS-SEISMIC,9.994627000000001
 BA9006,MText,"W/C FC658E 907.83",L-BD,9.994627000000001
@@ -169,6 +176,7 @@ BA9009,MText,"W/C FC658D 907.84",L-BD,9.994627000000001
 BA926E,MText,"N.-S. 1/4 Line",L-QSEC,9.994627000000001
 BA928F,MText,"30cm Poplar & Pine",T-BUSH-T,9.994627000000001
 BA9299,MText,"30cm Poplar & Pine",T-BUSH-T,9.994627000000001
+BA92A4,DBText,"249°32'05''",L-BD,9.994627000000001
 BA935A,BlockReference,"*U54",CG-NOTES,0.9994627
 BA9373,MText,"20cm Poplar & Pine (Re-Growth)",T-BUSH-T,9.994627000000001
 BA9637,BlockReference,"*U52",P-TEMP-BLOCKS,0.9994627
@@ -495,14 +503,14 @@ C0F1EC,BlockReference,"L-SECLBL",L-SECLBL,4
 C0F1F4,MText,"Sprocket 6-21 (DD)",ABADATA-DRILL-T,40
 C0F1F6,MText,"Sprocket 6-21 (DD)",ABADATA-DRILL-T,40
 C10426,MText,"Theor. N.W.1/4  Sec. 4-62-19-W.5M.",C-SYMBOL,19.989254000000003
-C130F9,AlignedDimension,"Veren 20.00 P/L R/W  240720",C-RW-T,Compass 5 000
-C13A9C,AlignedDimension,"Veren 20.00 P/L R/W  240720",C-RW-T,Compass 5 000
-C14BB0,AlignedDimension,"Veren 20.00 P/L R/W  240720",C-RW-T,Compass 5 000
+C130F9,AlignedDimension,"Veren  P/L R/W  240720",C-RW-T,Compass 5 000
+C13A9C,AlignedDimension,"Veren  P/L R/W  240720",C-RW-T,Compass 5 000
+C14BB0,AlignedDimension,"Veren  P/L R/W  240720",C-RW-T,Compass 5 000
 C15520,MText,"Veren Riser Site  PIL 240186",C-FLOWLINE-T,9.994589999999842
 C165D6,MText,"Veren Riser Site  PIL 240186",C-WS-T,9.994589999999842
-C16F86,AlignedDimension,"Veren 20.00 P/L R/W  ______",C-RW-T,Compass 5 000
-C180CA,AlignedDimension,"Veren 20.00 P/L R/W  ______",C-RW-T,Compass 5 000
-C180D7,AlignedDimension,"Veren 20.00 P/L R/W  ______",C-FLOWLINE-T,Compass 5 000
+C16F86,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+C180CA,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+C180D7,AlignedDimension,"Veren  P/L R/W  ______",C-FLOWLINE-T,Compass 5 000
 C19B58,BlockReference,"xing2",P-CROSSINGS,0.9994627
 C1B654,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
 C1DC76,MText,"CNRL 15.00 P/L R/WPLA 170161",F-RW-T,10
@@ -545,11 +553,18 @@ C29E76,BlockReference,"*U81",CG-NOTES,0.9998496418113809
 C2F7D5,BlockReference,"plspike",L-MON,4.997313500000001
 C2F7D6,BlockReference,"plspike",L-MON,4.997313500000001
 C306AB,DBText,"1294.20 (Tie)",L-BD,9.994627000000001
+C306AC,DBText,"43°37'00''",L-BD,9.994627000000001
 C306AE,DBText,"1294.20 (Tie)",L-BD,9.994627000000001
+C306AF,DBText,"43°37'00''",L-BD,9.994627000000001
 C31D25,BlockReference,"plspike",L-MON,4.997313500000001
 C31D26,BlockReference,"plspike",L-MON,4.997313500000001
 C34410,BlockReference,"Induction_Bend_No",L-MON,0.9989447984181113
 C34413,BlockReference,"Induction_Bend_No",L-MON,0.9989447984181113
+C34B6F,DBText,"339°32'05''",L-BD,9.994627000000001
+C352BF,DBText,"249°",L-BD,9.994627000000001
+C352C2,DBText,"05''",L-BD,9.994627000000001
+C352C4,DBText,"69°",L-BD,9.994627000000001
+C352C6,DBText,"32'",L-BD,9.994627000000001
 C36A1F,MText,"Pad Site  Addition",P-TXT,9.989256886912901
 C36A20,MText,"Existing Pad Site",P-TXT,9.989256886912901
 C4BB3F,BlockReference,"WC",L-MON,5
@@ -592,7 +607,7 @@ C5FB3C,BlockReference,"WC",L-MON,19.989254000000003
 C5FB3D,BlockReference,"WC",L-MON,19.989254000000003
 C5FB3E,BlockReference,"WC",L-MON,19.989254000000003
 C6031B,DBText,"1294.20 (Tie)",L-BD,9.994627000000001
-C7C121,BlockReference,"Disclaimer_Legal",Defpoints,0.9994627
+C6031C,DBText,"43°37'00''",L-BD,9.994627000000001
 C7C552,MText,"100m",AUX-BUFFER,9.994626999999998
 C7C554,MText,"200m",AUX-BUFFER,9.994627
 C7C55F,MText,"100m",AUX-BUFFER,9.994627000000001

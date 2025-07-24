@@ -19,58 +19,70 @@ namespace CadQa.Export
             {
                 var ent = tr.GetObject(id, OpenMode.ForRead);
 
+                // Skip Z‑* layers and DEFPOINTS
                 if (ent is Entity e &&
-                    e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase))
+                    (e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase) ||
+                     e.Layer.Equals("DEFPOINTS", StringComparison.OrdinalIgnoreCase)))
                     continue;
 
                 switch (ent)
                 {
+                    /* ───────── TEXT ───────── */
                     case DBText t:
                         {
                             string txt = Clean(t.TextString);
-                            if (IsNumeric(txt)) break;
-                            sw.WriteLine($"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
+                            if (IsStrictlyNumeric(txt)) break;
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(DBText)},\"{txt}\",{t.Layer},{t.Height}");
                             break;
                         }
 
                     case MText m:
                         {
                             string txt = Clean(m.Text);
-                            if (IsNumeric(txt)) break;
-                            sw.WriteLine($"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
+                            if (IsStrictlyNumeric(txt)) break;
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(MText)},\"{txt}\",{m.Layer},{m.TextHeight}");
                             break;
                         }
 
+                    /* ───────── BLOCK ──────── */
                     case BlockReference br:
                         {
-                            sw.WriteLine($"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(BlockReference)},\"{br.Name}\",{br.Layer},{br.ScaleFactors.X}");
                             break;
                         }
 
+                    /* ─────── DIMENSION ────── */
                     case Dimension dim:
                         {
                             string txt = Clean(dim.DimensionText?.Trim());
-                            if (IsNumeric(txt)) break;
-                            sw.WriteLine($"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
+                            if (IsStrictlyNumeric(txt)) break;
+                            sw.WriteLine(
+                                $"{id.Handle},{dim.GetType().Name},\"{txt}\",{dim.Layer},{dim.DimensionStyleName}");
                             break;
                         }
 
+                    /* ──────── LEADER ──────── */
                     case Leader l:
                         {
                             string txt = "";
                             if (!l.Annotation.IsNull &&
                                 tr.GetObject(l.Annotation, OpenMode.ForRead, false) is MText mt)
                                 txt = Clean(mt.Text);
-                            if (IsNumeric(txt)) break;
-                            sw.WriteLine($"{id.Handle},{nameof(Leader)},\"{txt}\",{l.Layer},");
+                            if (IsStrictlyNumeric(txt)) break;
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(Leader)},\"{txt}\",{l.Layer},");
                             break;
                         }
 
                     case MLeader ml:
                         {
                             string txt = Clean(ml.MText?.Text ?? "");
-                            if (IsNumeric(txt)) break;
-                            sw.WriteLine($"{id.Handle},{nameof(MLeader)},\"{txt}\",{ml.Layer},");
+                            if (IsStrictlyNumeric(txt)) break;
+                            sw.WriteLine(
+                                $"{id.Handle},{nameof(MLeader)},\"{txt}\",{ml.Layer},");
                             break;
                         }
                 }
@@ -79,21 +91,29 @@ namespace CadQa.Export
 
         /* ---------- helpers ---------- */
 
-        private static readonly Regex _fmt = new(@"\\[A-Za-z]+", RegexOptions.Compiled);
+        // Remove \P, \P7.50, \PEZE, \pxqc;, \fArial… up to next whitespace
+        private static readonly Regex _fmt =
+            new(@"\\[A-Za-z][^\s]*", RegexOptions.Compiled | RegexOptions.IgnoreCase);
 
-        private static string Clean(string s) =>
-            s is null ? "" :
-            _fmt.Replace(s, " ")     // strip \P, \pxqc etc.
-              .Replace("\r\n", " ")
-              .Replace("\n", " ")
-              .Trim();
+        private static string Clean(string s)
+        {
+            if (string.IsNullOrEmpty(s)) return "";
 
-        private static bool IsNumeric(string s)
+            s = _fmt.Replace(s, " ");                         // strip formatting runs
+            s = s.Replace("\r\n", " ").Replace("\n", " ");    // flatten real new‑lines
+            return s.Trim();
+        }
+
+        // Skip only if the string is purely numeric (digits, dot, minus)
+        private static bool IsStrictlyNumeric(string s)
         {
             if (string.IsNullOrWhiteSpace(s)) return true;
-            int digit = 0, alpha = 0;
-            foreach (char c in s) { if (char.IsDigit(c)) digit++; else if (char.IsLetter(c)) alpha++; }
-            return digit > 0 && alpha == 0;
+
+            foreach (char c in s)
+                if (!char.IsDigit(c) && c != '.' && c != '-')   // allow 123, 45.6, -7
+                    return false;
+
+            return true;   // all chars were numeric / dot / minus
         }
     }
 }
