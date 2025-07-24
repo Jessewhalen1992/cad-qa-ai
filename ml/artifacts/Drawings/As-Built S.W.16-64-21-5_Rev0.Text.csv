@@ -5,26 +5,26 @@ BC5A30,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994810499999591
 BC623D,BlockReference,"MUSK",T-GENERAL,4.9999999999999
 BC62A5,MText,"Theor. S.W.1/4 Sec. 16-64-21-W.5M.",C-SYMBOL,19.99999999999961
 BC62A6,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999567
-BC6441,AlignedDimension,"Veren 10.00 P/L R/W  094 1536  071598",C-RW-T,Compass 5 000
-BC6442,AlignedDimension,"Veren 15.00 P/L R/W  140001",C-RW-T,Compass 5 000
-BC6443,AlignedDimension,"Veren 15.00 P/L R/W  220223",C-RW-T,Compass 5 000
-BC6444,AlignedDimension,"Veren 10.00 P/L R/W  071761",C-RW-T,Compass 5 000
-BC6445,AlignedDimension,"Veren 20.00 P/L R/W  230753",C-RW-T,Compass 5 000
-BC6446,AlignedDimension,"Veren 10.00 P/L R/W  121253",C-RW-T,Compass 5 000
-BC6447,AlignedDimension,"Veren 10.00 P/L R/W  072 1780  070611",C-RW-T,Compass 5 000
+BC6441,AlignedDimension,"Veren  P/L R/W  094 1536  071598",C-RW-T,Compass 5 000
+BC6442,AlignedDimension,"Veren  P/L R/W  140001",C-RW-T,Compass 5 000
+BC6443,AlignedDimension,"Veren  P/L R/W  220223",C-RW-T,Compass 5 000
+BC6444,AlignedDimension,"Veren  P/L R/W  071761",C-RW-T,Compass 5 000
+BC6445,AlignedDimension,"Veren  P/L R/W  230753",C-RW-T,Compass 5 000
+BC6446,AlignedDimension,"Veren  P/L R/W  121253",C-RW-T,Compass 5 000
+BC6447,AlignedDimension,"Veren  P/L R/W  072 1780  070611",C-RW-T,Compass 5 000
 BC6448,MText,"Veren Gas Processing Plant MLL 070071",C-WS-T,9.994810499999584
 BC644A,MText,"Veren FC716 5-16 (Surface) MSL 250117",C-WS-T,9.99478859999962
-BC644C,AlignedDimension,"ATCO 10.50 Power Line R/W  080124",F-EZE-T,Compass 5 000
-BC644E,AlignedDimension,"CNRL 20.12 A/R  780150",F-EZE-T,Compass 5 000
-BC644F,AlignedDimension,"CNRL 18.00 P/L R/W  802 3164  840255",F-RW-T,Compass 5 000
-BC6450,AlignedDimension,"CNRL 10.00 P/L R/W  802 3164  952 0841  941611",F-RW-T,Compass 5 000
+BC644C,AlignedDimension,"ATCO  Power Line R/W  080124",F-EZE-T,Compass 5 000
+BC644E,AlignedDimension,"CNRL  A/R  780150",F-EZE-T,Compass 5 000
+BC644F,AlignedDimension,"CNRL  P/L R/W  802 3164  840255",F-RW-T,Compass 5 000
+BC6450,AlignedDimension,"CNRL  P/L R/W  802 3164  952 0841  941611",F-RW-T,Compass 5 000
 BC6451,MText,"CNRL Treatment Plant Plan 802 3164 MLL 800061",F-WS-T,9.994810499999584
-BC6453,AlignedDimension,"Veren 20.00 P/L R/W  250342",C-RW-T,Compass 5 000
+BC6453,AlignedDimension,"Veren  P/L R/W  250342",C-RW-T,Compass 5 000
 BC684A,MText,"Veren 15.00 A/R LOC 250173",C-AR-T,10
-BC6A74,AlignedDimension,"ATCO 6.00 Power Line R/W  190046",F-EZE-T,Compass 5 000
+BC6A74,AlignedDimension,"ATCO  Power Line R/W  190046",F-EZE-T,Compass 5 000
 BC9EAF,BlockReference,"see_detail",CG-NOTES,1
-BCD5E5,AlignedDimension,"Veren 15.00 P/L R/W  220223",C-RW-T,Compass 5 000
-BCD5E6,AlignedDimension,"Veren 10.00 P/L R/W  071761",C-RW-T,Compass 5 000
+BCD5E5,AlignedDimension,"Veren  P/L R/W  220223",C-RW-T,Compass 5 000
+BCD5E6,AlignedDimension,"Veren  P/L R/W  071761",C-RW-T,Compass 5 000
 BCD5E7,MText,"Veren Gas Processing Plant MLL 070071",C-WS-T,9.994810499999586
 BCDA35,BlockReference,"lightpole",AS-SYMBOL,5
 BCDA38,MText,"Transformer",AS-CABLE,10
@@ -38,12 +38,12 @@ BCDA4A,MText,"Gate",AS-GENERAL,10
 BCDA4B,MText,"Gate",AS-GENERAL,10
 BCDA4D,MText,"Cathodic Post",AS-CABLE,10
 BCDA4F,BlockReference,"lightpole",AS-SYMBOL,5
-BCDA50,AlignedDimension,"CNRL 10.00 P/L R/W  802 3164  952 0841  941611",F-RW-T,Compass 5 000
-BCDA51,AlignedDimension,"CNRL 20.12 A/R  780150",F-EZE-T,Compass 5 000
-BCDA52,AlignedDimension,"Veren 10.00 P/L R/W  094 1536  071598",C-RW-T,Compass 5 000
-BCDA53,AlignedDimension,"Veren 20.00 P/L R/W  250342",C-RW-T,Compass 5 000
-BCDA54,AlignedDimension,"Veren 20.00 P/L R/W  230753",C-RW-T,Compass 5 000
-BCDA55,AlignedDimension,"Veren 10.00 P/L R/W  121253",C-RW-T,Compass 5 000
+BCDA50,AlignedDimension,"CNRL  P/L R/W  802 3164  952 0841  941611",F-RW-T,Compass 5 000
+BCDA51,AlignedDimension,"CNRL  A/R  780150",F-EZE-T,Compass 5 000
+BCDA52,AlignedDimension,"Veren  P/L R/W  094 1536  071598",C-RW-T,Compass 5 000
+BCDA53,AlignedDimension,"Veren  P/L R/W  250342",C-RW-T,Compass 5 000
+BCDA54,AlignedDimension,"Veren  P/L R/W  230753",C-RW-T,Compass 5 000
+BCDA55,AlignedDimension,"Veren  P/L R/W  121253",C-RW-T,Compass 5 000
 BCDAC6,BlockReference,"RISER",AS-SYMBOL,5
 BCDAC7,BlockReference,"RISER",AS-SYMBOL,5
 BCDAC8,BlockReference,"RISER",AS-SYMBOL,5
@@ -70,8 +70,8 @@ BCDC3B,MText,"Tank",AS-GENERAL,10
 BCDD2C,MText,"Tower",AS-GENERAL,10
 BCE74C,MText,"Cable Rack",AS-PIPE-AG,10
 BD15E1,MText,"Building Structure (Typ.)",AS-STRUCTURE,10
-BD2240,AlignedDimension,"ATCO 8.00 Power Line R/W  080124",F-EZE-T,Compass 5 000
-BD5132,AlignedDimension,"ATCO 6.00 Power Line R/W  190046",F-EZE-T,Compass 5 000
+BD2240,AlignedDimension,"ATCO  Power Line R/W  080124",F-EZE-T,Compass 5 000
+BD5132,AlignedDimension,"ATCO  Power Line R/W  190046",F-EZE-T,Compass 5 000
 BD5CCE,MText,"Wooded Mixedwood Swamp",WETLAND-T,9.999999999999808
 BD5CDC,MText,"Wooded Mixedwood Swamp",WETLAND-T,9.994788599999783
 BD5D08,MText,"Wooded Mixedwood Swamp",WETLAND-T,9.994788599999783
