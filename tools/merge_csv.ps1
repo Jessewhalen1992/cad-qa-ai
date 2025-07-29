@@ -6,7 +6,7 @@
 
 $ErrorActionPreference = 'Stop'
 
-$In  = 'C:\Users\Jesse 2025\Desktop\CAD AI\ml\artifacts\Drawings'
+$In  = 'C:\Users\Jesse 2025\Desktop\Drawings'
 $Out = 'C:\Users\Jesse 2025\Desktop\CAD AI\ml\datasets\master.csv'
 
 Write-Host "`nMerging CSVs …"
