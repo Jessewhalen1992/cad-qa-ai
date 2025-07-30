@@ -1,0 +1,80 @@
+# How to Retrain the CAD‑QA‑AI Model
+
+Follow these steps **any time you batch‑export new drawings and need to refresh the machine‑learning model**. Keep everything in the exact folders shown below so the one‑click script works.
+
+---
+
+## 1  Batch‑export the drawings from AutoCAD
+
+1. Open AutoCAD.
+2. Load the CadQa plug‑in (**NETLOAD → CadQaPlugin.dll**) if it isn’t already.
+3. Run `QA_EXPORT_BATCH` on the folder that contains your DWG files.
+4. Wait until AutoCAD finishes writing **`<drawing>.Text.csv`** files to:
+
+   ```text
+   <project‑root>\ml\artifacts\Drawings\
+   ```
+
+Only the `*.Text.csv` files are used for model training.
+
+---
+
+## 2  Run the one‑click training script
+
+```powershell
+# open PowerShell
+cd "C:\Users\Jesse 2025\Desktop\CAD AI"
+.\full_train.ps1        # or double‑click full_train.cmd
+```
+
+| Stage | Output file |
+|-------|-------------|
+| Merge | `ml\datasets\master.csv` |
+| Label | `ml\datasets\labeled.csv` |
+| Train | `ml\artifacts\layer_clf.pkl` |
+
+The console stops at “Press any key to continue…” so you can read the ✓ messages.
+
+---
+
+## 3  Audit in AutoCAD
+
+```text
+NETLOAD          ; load / reload CadQaPlugin.dll
+RUNQAAUDIT       ; whole drawing
+RUNQAAUDITSEL    ; manual selection
+```
+
+Result files beside each DWG:
+
+| File                | Purpose                                               |
+|---------------------|-------------------------------------------------------|
+| `*.qa_detail.tsv`   | rule violations with X,Y, content, message            |
+| `*.qa_suggest.tsv`  | ML layer suggestions                                  |
+| `*.qa_summary.csv`  | issue counts                                          |
+
+---
+
+## 4  Troubleshooting
+
+| Symptom                           | Fix                                                         |
+|----------------------------------|-------------------------------------------------------------|
+| “No *.Text.csv found …”          | Ensure exports live in `ml\artifacts\Drawings\`.         |
+| Python not found                 | Add Python 3.11 to PATH or run from Anaconda prompt.        |
+| nbconvert matched no files       | Confirm `ml\model.ipynb` exists in the repo.               |
+
+---
+
+## Cheat‑sheet
+
+```powershell
+# Refresh model
+cd "C:\Users\Jesse 2025\Desktop\CAD AI"
+.\full_train.ps1
+
+# Audit
+NETLOAD
+RUNQAAUDIT      # or RUNQAAUDITSEL
+```
+
+— end —

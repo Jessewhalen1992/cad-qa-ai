@@ -23,7 +23,7 @@ def main() -> None:
     parser.add_argument("--out", dest="out", required=True, help="Output CSV path")
     args = parser.parse_args()
 
-    df = pd.read_csv(args.inp)
+    df = pd.read_csv(args.inp, on_bad_lines="skip")
     df["Label"] = df.apply(is_ok, axis=1)
     df.to_csv(args.out, index=False)
     print(f"\u2713 labeled \u2192 {args.out}")
