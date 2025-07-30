@@ -1,0 +1,122 @@
+Handle,ObjType,Content,Layer,Extra
+BC70B1,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",F-RW-T,Compass 5 000
+BC70E8,AlignedDimension,"Paramount  P/L R/W  990166",F-RW-T,Compass 5 000
+BC7104,AlignedDimension,"Paramount  P/L R/W  990166",F-RW-T,Compass 5 000
+BC7133,AlignedDimension,"Paramount  P/L R/W  990166",F-RW-T,Compass 5 000
+BC7152,AlignedDimension,"GMT  P/L R/W  812 2227  800650",F-RW-T,Compass 5 000
+BC7171,AlignedDimension,"Paramount  P/L R/W  992 3340  970809",F-RW-T,Compass 5 000
+BC71AB,AlignedDimension,"Paramount  P/L R/W  992 3361  970951",F-RW-T,Compass 5 000
+BC71DC,AlignedDimension,"Paramount  A/R  962611",F-AR-T,Compass 5 000
+BC71FB,AlignedDimension,"Murphy  P/L R/W  130297",C-RW-T,Compass 5 000
+BC721A,MText,"Paramount 12-24 (Surface) MSL 971772 (Expired)",F-WS-T,10
+BC82E1,AlignedDimension,"Paramount  A/R  971205",F-AR-T,Compass 5 000
+BC8312,AlignedDimension,"Murphy  P/L R/W  130297",C-RW-T,Compass 5 000
+BC8332,AlignedDimension,"Paramount  A/R  1368",F-AR-T,Compass 5 000
+BC834E,AlignedDimension,"Paramount  A/R  1368",F-AR-T,Compass 5 000
+BC837A,MText,"Atikkamek Creek",T-WATER-T,9.999999999999998
+BC837B,MText,"Atikkamek Creek",T-WATER-T,9.999999999999996
+BC8387,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC8388,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC8389,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC838A,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC838B,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC838C,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC838D,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC839B,MText,"Rge. 18",D-TXT,14
+BC839C,MText,"Rge. 17",D-TXT,14
+BC839D,MText,"Rge. 18",D-TXT,14
+BC839E,MText,"Rge. 17",D-TXT,14
+BC93E5,BlockReference,"L-SECLBL",L-SECLBL,1
+BC93EB,BlockReference,"L-SECLBL",L-SECLBL,1
+BC93F1,BlockReference,"L-SECLBL",L-SECLBL,1
+BC93F7,DBText,"Theor. N.W.1/4 Sec. 24-64-18-W.5M.",C-SYMBOL,20
+BC93F8,DBText,"Theor. S.E.1/4 Sec. 25-64-18-W.5M.",C-SYMBOL,20
+BC93F9,DBText,"Theor. S.W.1/4 Sec. 25-64-18-W.5M.",C-SYMBOL,20
+BC93FB,DBText,"Theor. S.W.1/4 Sec. 30-64-17-W.5M.",C-SYMBOL,20
+BC93FC,DBText,"Theor. N.W.1/4 Sec. 30-64-17-W.5M.",C-SYMBOL,20
+BC940A,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC940C,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC940E,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC9410,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC9412,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC9414,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BC941F,MText,"L.S. 3",L-SECTION-LSD,10
+BC9421,MText,"L.S. 4",L-SECTION-LSD,10
+BC9423,MText,"L.S. 6",L-SECTION-LSD,10
+BC9425,MText,"L.S. 5",L-SECTION-LSD,10
+BC9427,MText,"L.S. 1",L-SECTION-LSD,10
+BC9428,MText,"L.S. 2",L-SECTION-LSD,10
+BC942A,MText,"L.S. 8",L-SECTION-LSD,10
+BC942B,MText,"L.S. 7",L-SECTION-LSD,10
+BC942D,MText,"L.S. 3",L-SECTION-LSD,10
+BC942F,MText,"L.S. 4",L-SECTION-LSD,10
+BC9431,MText,"L.S. 6",L-SECTION-LSD,10
+BC9433,MText,"L.S. 5",L-SECTION-LSD,10
+BC9435,MText,"L.S. 11",L-SECTION-LSD,10
+BC9437,MText,"L.S. 12",L-SECTION-LSD,10
+BC9439,MText,"L.S. 14",L-SECTION-LSD,10
+BC943A,MText,"L.S. 13",L-SECTION-LSD,10
+BC9440,MText,"L.S. 16",L-SECTION-LSD,10
+BC9442,MText,"L.S. 15",L-SECTION-LSD,10
+BC9444,MText,"L.S. 11",L-SECTION-LSD,10
+BC9446,MText,"L.S. 12",L-SECTION-LSD,10
+BC9448,MText,"L.S. 14",L-SECTION-LSD,10
+BC9449,MText,"L.S. 13",L-SECTION-LSD,10
+BCAD04,MText,"Paramount 14-24 (Surface) MSL 963197 (Expired)",F-WS-T,10
+BCAD05,MText,"Murphy 16-30 (Surface) MSL 983564 (To be Reclaimed)",C-WS-T,10
+BCB570,AlignedDimension,"Murphy  A/R  982742  be Reclaimed)",C-AR-T,Compass 5 000
+BCBEDC,AlignedDimension,"Murphy  A/R  982742  be Reclaimed)",C-AR-T,Compass 5 000
+BCBF59,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCBF7F,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCBF8E,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCBF9D,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCBFAC,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCBFBB,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+BCC89B,MText,"Murphy 3-25 (Surface) MSL130028",C-WS,10
+BCC89D,AlignedDimension,"Murphy  A/R  982742  be Retained)",C-AR-T,Compass 5 000
+BCC8E0,AlignedDimension,"Murphy  A/R  982742  be Retained)",C-AR-T,Compass 5 000
+BCC909,MText,"Unnamed Creek",T-WATER-T,9.999999999999998
+BCD15E,MText,"Unnamed Creek",T-WATER-T,9.999999999999998
+BD0938,MText,"Theor. N.E.1/4 Sec. 25-64-18-W.5M.",C-SYMBOL,20
+BD1992,BlockReference,"GAS",C-WS-S,5
+BDAB47,BlockReference,"TEMP",L-MON,5
+BDAB48,BlockReference,"TEMP",L-MON,5
+BDAB49,BlockReference,"TEMP",L-MON,5
+BDAB4A,BlockReference,"TEMP",L-MON,5
+BDAB4B,BlockReference,"TEMP",L-MON,5
+BDAB4D,AlignedDimension,"Murphy  A/R  982742  be Retained)",C-AR-T,Compass 5 000
+BDAB81,DBText,"143°20'",L-BD1,10
+BDABFC,MText,"Variable Width A/R",P-TXT,10
+BDB084,DBText,"54°08'",L-BD1,10
+BDB088,DBText,"46°26'",L-BD1,10
+BDB08A,DBText,"54°09'",L-BD1,10
+BDB0D3,BlockReference,"RP",L-BD1,1
+BDB530,DBText,"520.2 (Tie)",L-BD1,10
+BDB531,DBText,"102°59'",L-BD1,10
+BDE889,MText,"L.S. 9",L-SECTION-LSD,10
+BDE88B,MText,"L.S. 10",L-SECTION-LSD,10
+BDE8BD,AlignedDimension,"Murphy  A/R  982742  be Reclaimed)",C-AR-T,Compass 5 000
+BDE8F7,MText,"Existing Log Deck (To be Reclaimed)",T-EXISTING RTF-T,10
+BDEDBF,AlignedDimension,"Murphy  A/R  982742  be Reclaimed)",C-AR-T,Compass 5 000
+BDEDE7,MText,"Unnamed Creek",T-WATER-T,9.999999999999998
+BE19FF,BlockReference,"TEMP",L-MON,5
+BE1A01,BlockReference,"TEMP",L-MON,5
+BE1A02,BlockReference,"TEMP",L-MON,5
+BE1A03,BlockReference,"TEMP",L-MON,5
+BE1A04,BlockReference,"TEMP",L-MON,5
+BE1A07,BlockReference,"TEMP",L-MON,5
+BE1F4A,BlockReference,"TEMP",L-MON,5
+BE1F4F,DBText,"54°24'",L-BD1,10
+BE1F52,DBText,"322°57'",L-BD1,10
+BE1F54,DBText,"322°53'",L-BD1,10
+BE1F5D,MText,"120.0 322°57'",L-BD1,10
+BE1F5E,MText,"120.0 232°57'",L-BD1,10
+BE1F5F,MText,"52°57' 120.0",L-BD1,10
+BE1F60,MText,"52°57' 12.0",L-BD1,10
+BE2491,BlockReference,"TEMP",L-MON,5
+BE2497,DBText,"324°19'",L-BD1,9.999999999999998
+BE29C1,DBText,"504.9 (Tie)",L-BD1,10
+BE29C2,DBText,"309°22'",L-BD1,10
+BE5EAA,AlignedDimension,"GMT  P/L R/W  812 2227  800650",F-RW-T,Compass 5 000
+BE79E4,DBText,"142°57'",L-BD,10
+BEA7A2,BlockReference,"Disclaimer_Legal",0,1

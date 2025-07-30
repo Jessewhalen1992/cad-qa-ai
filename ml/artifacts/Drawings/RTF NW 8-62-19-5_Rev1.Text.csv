@@ -1,0 +1,41 @@
+Handle,ObjType,Content,Layer,Extra
+BC9DBE,BlockReference,"L-SECLBL",L-SECLBL,0.9994627
+BC9DC8,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994627000000001
+BC9DCB,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9914032
+BC9E15,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.994627000000001
+BC9E61,AlignedDimension,"Veren  P/L R/W  240720",C-RW-T,Compass 5 000
+BC9E63,AlignedDimension,"Paramount  A/R  830482",F-AR-T,Compass 5 000
+BC9E66,AlignedDimension,"ATCO  Power Line R/W EZE 190204",F-EZE-T,Compass 5 000
+BC9E67,AlignedDimension,"ATCO  Vegetation Control R/W  890557",F-EZE-T,Compass 5 000
+BC9E68,AlignedDimension,"Razor  Flowline R/W  3774",F-EZE-T,Compass 5 000
+BC9E6B,AlignedDimension,"Nova  P/L R/W  983 RS  3290",F-RW-T,Compass 5 000
+BC9E6D,AlignedDimension,"PGI  P/L R/W  848 RS  3236",F-RW-T,Compass 5 000
+BC9E71,AlignedDimension,"Paramount  P/L R/W  832 2652  810248",F-RW-T,Compass 5 000
+BC9E72,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BC9E73,AlignedDimension,"Paramount  P/L R/W PLA 061996",F-RW-T,Compass 5 000
+BC9E74,AlignedDimension,"Chevron  P/L R/W PLA 190066",F-RW-T,Compass 5 000
+BC9E75,AlignedDimension,"Razor  P/L R/W  892 0543  880371",F-RW-T,Compass 5 000
+BC9E76,AlignedDimension,"Razor  P/L R/W  942 3895  940226",F-RW-T,Compass 5 000
+BC9E77,AlignedDimension,"Razor  P/L R/W  952 4064 PLA 960073",F-RW-T,Compass 5 000
+BC9E7B,MText,"Razor 13-8(Surface) MSL 6711 (Expired)",F-WS-T,9.999999999999998
+BC9E7D,MText,"Paramount 13-8(Surface) MSL 060370",F-WS-T,9.999999999999998
+BC9E82,AlignedDimension,"Veren  A/R  230128",C-AR-T,Compass 5 000
+BC9E89,BlockReference,"*U21",AS-OWNER,0.9994627
+BCAAA2,MText,"Theor. N.W.1/4 Sec. 8-62-19-W.5M.",C-SYMBOL,19.989254000000003
+BCB3FA,BlockReference,"RP",35,0.99946
+BCC835,MText,"Veren 11-8 (Surface) MSL 230100",C-WS-T,9.999999999999998
+BCDB54,BlockReference,"*U38",P-TEMP-BLOCKS,1
+BCF7FD,MText,"102/13-8 (Abd.)",DRILL-T,9.994626999999998
+BCF7FF,BlockReference,"Gabd",DRILL-T,4.997313499999999
+BCF80A,BlockReference,"GAS",DRILL-T,4.997313499999999
+BD09DB,MText,"L.S. 11",L-SECTION-LSD,10
+BD09DD,MText,"L.S. 12",L-SECTION-LSD,10
+BD09DF,MText,"L.S. 14",L-SECTION-LSD,10
+BD09E0,MText,"L.S. 13",L-SECTION-LSD,10
+BD5E79,BlockReference,"WC2",C-WS-S,5
+BD5E7A,BlockReference,"WC2",C-WS-S,5
+BD5E7B,BlockReference,"WC2",C-WS-S,5
+BD5E7C,BlockReference,"WC2",C-WS-S,5
+BD5E7D,BlockReference,"WC2",C-WS-S,5
+BD5E7E,BlockReference,"WC2",C-WS-S,5
+BD72A6,BlockReference,"Disclaimer_Legal",0,0.3

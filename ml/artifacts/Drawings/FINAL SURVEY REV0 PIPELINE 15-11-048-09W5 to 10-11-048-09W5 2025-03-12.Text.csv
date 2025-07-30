@@ -1,0 +1,82 @@
+Handle,ObjType,Content,Layer,Extra
+BC55D0,BlockReference,"L-SECLBL",L-SECLBL,1
+BC55E4,MText,"Buried Telus Cable",AS-TELUS,9.999999999999952
+BC55EE,DBText,"Government Road Allowance",L-ROAD-T,9.99999999999995
+BC55FA,AlignedDimension,"Obsidian  Flow Line R/W  9411  To  Cancelled)",C-AR-T,Compass 5 000
+BC55FB,AlignedDimension,"Obsidian  A/R  9411  To  Cancelled)",C-AR-T,Compass 5 000
+BC55FC,AlignedDimension,"Obsidian  A/R  1782",C-AR-T,Compass 5 000
+BC55FD,AlignedDimension,"Obsidian  A/R  1676",C-AR-T,Compass 5 000
+BC5602,AlignedDimension,"Obsidian  P/L R/W  080098",C-RW-T,Compass 5 000
+BC5605,AlignedDimension,"Obsidian  P/L R/W  768 KS  4796",C-RW-T,Compass 5 000
+BC5606,AlignedDimension,"Obsidian  P/L R/W  080100",C-RW-T,Compass 5 000
+BC5607,AlignedDimension,"Obsidian  P/L R/W  062 7882  044345",C-RW-T,Compass 5 000
+BC5608,AlignedDimension,"Obsidian  P/L R/W  4012",C-RW-T,Compass 5 000
+BC5609,AlignedDimension,"Obsidian  P/L R/W  890487",C-RW-T,Compass 5 000
+BC560A,AlignedDimension,"Obsidian  P/L R/W  456 KS  5069",C-RW-T,Compass 5 000
+BC560B,AlignedDimension,"Obsidian  P/L R/W  61 KS  1619",C-RW-T,Compass 5 000
+BC560D,AlignedDimension,"Obsidian  P/L R/W  062 3541  041387",C-RW-T,Compass 5 000
+BC560E,AlignedDimension,"Obsidian  P/L R/W  080103",C-RW-T,Compass 5 000
+BC5618,MText,"Obsidian 15-11 (Surface) MSL 9411 (Expired, To be Cancelled)",C-WS-T,9.999999999999952
+BC5619,MText,"Obsidian 10-11 (Surface) ROE 1782",C-WS-T,9.999999999999952
+BC561A,MText,"Obsidian 9-11 (Surface) MSL 7964 (Expired)",C-WS-T,9.999999999999952
+BC561B,MText,"Obsidian 15-11 (Surface) ROE 1676",C-WS-T,9.999999999999952
+BC561C,MText,"Obsidian Battery Site ROE 1793",C-WS-T,9.999999999999952
+BC561D,MText,"Obsidian 15-11 (Surface) MSL 071432",C-WS-T,9.999999999999952
+BC561F,AlignedDimension,"Fortis  Vegetation  R/W  870566",F-EZE-T,Compass 5 000
+BC5620,MText,"Fortis Power Line EZE 040268",F-EZE-T,9.999999999999952
+BC5624,AlignedDimension,"Cenovus  P/L R/W  052 1889  980240",F-RW-T,Compass 5 000
+BC5626,AlignedDimension,"Pembina  P/L R/W  602 KS  2073",F-RW-T,Compass 5 000
+BC5627,AlignedDimension,"Telus  Fibre Optic R/W  962 3873  960017",F-RW-T,Compass 5 000
+BC5629,AlignedDimension,"Pembina  P/L R/W  419 KS  1826",F-RW-T,Compass 5 000
+BC562A,AlignedDimension,"Pembina  P/L R/W  5082 RS  4060",F-RW-T,Compass 5 000
+BC562B,MText,"45.72 Road Plan 772 2299",L-TITLEDB-T,9.999999999999952
+BC562D,MText,"Hwy. 620",L-TITLEDB-T,9.999999999999952
+BC562E,DBText,"(High Grade Gravel)",T-TEXT,9.99999999999995
+BC563E,BlockReference,"*U33",AS-OWNER,1
+BC9873,BlockReference,"GAS",C-WS-S,4.999999999999976
+BC98F0,BlockReference,"GAS",C-WS-S,4.999999999999976
+BC98F5,BlockReference,"GAS",C-WS-S,4.999999999999976
+BCA251,BlockReference,"GAS",C-WS-S,4.999999999999976
+BCACCE,BlockReference,"FDI",L-MON,4.999999999999976
+BCAD3C,BlockReference,"PLI",L-MON,4.999999999999976
+BCAD41,BlockReference,"PLI",L-MON,4.999999999999976
+BCAD46,BlockReference,"PLI",L-MON,4.999999999999976
+BCB6F0,MText,"Creek 2.0 Wide 0.3 Deep",T-WATER-T,9.996425299999952
+BCC938,AlignedDimension,"A/R  071432",C-AR-T,Compass 5 000
+BCE46A,MText,"Creek 1.5 Wide 0.3 Deep",T-WATER-T,9.996425299999952
+BD1BC3,MText,"4m High Grade Gravel Road",T-TEXT,9.999999999999957
+BDCC38,DBText,"N.E.1/4 Sec. 11-48-9-W.5M.",C-SYMBOL,19.999999999999925
+BDCC39,DBText,"Area Required = 0.642 ha  1.59 Ac.",L-AREAREQUIRED,10.999999999999963
+BE3950,BlockReference,"GAS",C-WS-S,4.999999999999976
+BE66EB,BlockReference,"PLI",L-MON,4.999999999999976
+BE7097,DBText,"Government Road Allowance",L-ROAD-T,9.996425299999974
+BE7098,DBText,"(Undeveloped)",T-TEXT,9.996425299999974
+BE7099,MText,"4m High Grade Gravel Road",T-TEXT,9.999999999999957
+BE7A4D,AlignedDimension,"Obsidian  A/R  ______",C-AR-T,Compass 5 000
+BE7AA3,MText,"Obsidian 15-11 (Surface) MSL ______",C-WS-T,9.999999999999952
+BE7AB4,MText,"Fd.I. c.s.",L-MON-T,9.999999999999952
+BE889C,DBText,"48°",L-BD,9.996425299999974
+BE889E,DBText,"40''",L-BD,9.996425299999974
+BE8DE7,BlockReference,"xing2",P-CROSSINGS,0.99964253
+BE932A,DBText,"05''",L-BD1,9.996425299999974
+BE932C,DBText,"178°",L-BD1,9.996425299999974
+BEA4BD,MText,"70.81 288°02'30''",L-BD,9.996425299999979
+BEA9FB,MText,"38.00 288°02'30''",L-BD,9.996425299999979
+BEA9FF,BlockReference,"*U55",DETAIL-T,1
+BEAB21,DBText,"34'",L-BD1,9.996425299999974
+BEC67B,DBText,"23'",L-BD,9.996425299999974
+BEFCF5,BlockReference,"FDI",L-MON,4.999999999999976
+BF025D,BlockReference,"FDI",L-MON,4.999999999999976
+BF0269,MText,"Fd.I. c.s.",L-MON-T,9.999999999999952
+BF0277,DBText,"RP",35,9.999999999999984
+BF0279,MText,"Fd.I. c.s.",L-MON-T,9.999999999999952
+BF027B,BlockReference,"*U58",DETAIL-T,1
+BF09A9,MText,"256°25'50'' 344.00 (Tie)",L-BD,9.996425299999995
+BF0DF5,AlignedDimension,"Obsidian  P/L R/W  6398",C-AR-T,Compass 5 000
+BF0E31,AlignedDimension,"45.72 Road  2295 KS",L-TITLEDB-T,Compass 5 000
+BF0E66,BlockReference,"FDI",L-MON,4.999999999999976
+BF0E67,MText,"Fd.I.",L-MON-T,9.999999999999952
+BF0E6A,DBText,"268°36'20''",L-BD,9.996425299999995
+BF0E7F,MText,"Fd. No Mk. Re-est. by Plan 062 7882",L-MON-T,9.999999999999952
+BF12CD,MText,"c.s.",L-MON-T,9.999999999999952
+BF7827,BlockReference,"Disclaimer_Legal",0,0.3

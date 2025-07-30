@@ -1,0 +1,169 @@
+Handle,ObjType,Content,Layer,Extra
+BC67BE,BlockReference,"L-SECLBL",L-SECLBL,0.9995950000000001
+BC67C4,BlockReference,"L-SECLBL",L-SECLBL,0.9995950000000001
+BC697B,MText,"Buried Telus Cable",AS-TELUS,9.995950000000043
+BC6989,DBText,"Government Road Allowance",L-ROAD-T,9.995950000000043
+BC698A,DBText,"(Undeveloped)",T-TEXT,9.995950000000043
+BC6B33,DBText,"Government Road Allowance",L-ROAD-T,9.995950000000043
+BC6B34,DBText,"(Undeveloped)",T-TEXT,9.995950000000043
+BC6B3A,DBText,"Government Road Allowance",L-ROAD-T,9.995950000000043
+BC6B3B,DBText,"(Undeveloped)",T-TEXT,9.995950000000043
+BC6B44,MText,"L.S. 9",L-SECTION-LSD,9.995950000000041
+BC6B46,MText,"L.S. 10",L-SECTION-LSD,9.995950000000041
+BC6B48,MText,"L.S. 16",L-SECTION-LSD,9.995950000000041
+BC6B4A,MText,"L.S. 15",L-SECTION-LSD,9.995950000000041
+BC6B4C,MText,"L.S. 11",L-SECTION-LSD,9.995950000000041
+BC6B4E,MText,"L.S. 12",L-SECTION-LSD,9.995950000000041
+BC6B50,MText,"L.S. 14",L-SECTION-LSD,9.995950000000041
+BC6B51,MText,"L.S. 13",L-SECTION-LSD,9.995950000000041
+BC7007,AlignedDimension,"Altalink  Power Line R/W  2095",F-EZE-T,Compass 5 000
+BC705B,AlignedDimension,"Fortis  Power Line R/W  120164",F-EZE-T,Compass 5 000
+BC722E,AlignedDimension,"Fortis  Power Line R/W  120164",F-EZE-T,Compass 5 000
+BC7256,AlignedDimension,"Fortis  Vegetation Contol R/W  880082",F-EZE-T,Compass 5 000
+BC7414,AlignedDimension,"Fortis  Vegetation Contol R/W  880082",F-EZE-T,Compass 5 000
+BC743C,AlignedDimension,"Altalink   Vegetation Control R/W  880262",F-EZE-T,Compass 5 000
+BC7465,MText,"Gran Tierra 15.00 A/R LOC 230426",F-EZE-T,9.99595000000004
+BC7466,AlignedDimension,"Vermilion  A/R  981182",F-AR-T,Compass 5 000
+BC787F,BlockReference,"GAS",F-WS-S,5.0000000000000195
+BC788F,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BC7A32,BlockReference,"GAS",C-WS-S,5.0000000000000195
+BC7A33,BlockReference,"GAS",F-WS-S,5.0000000000000195
+BC7A34,BlockReference,"GAS",C-WS-S,5.0000000000000195
+BC7A72,AlignedDimension,"Obsidian  A/R  6923    Cert. # NES-92-299)",C-AR-T,Compass 5 000
+BC7ACD,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BC7ACE,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BC7C71,MText,"10-22 (Abd.)",F-WS-T,9.995950000000038
+BC7C72,MText,"10-22 (Abd.)",C-WS-S,9.995950000000038
+BC7C73,AlignedDimension,"Obsidian  A/R  8452  Cert. # NES-92-283)",C-AR-T,Compass 5 000
+BC7CC1,AlignedDimension,"Obsidian  A/R  8452  Cert. # NES-92-283)",C-AR-T,Compass 5 000
+BC7ED2,MText,"Gran Tierra 14-23 (Surface) MSL 230333",F-WS-T,9.995950000000038
+BC7ED3,MText,"Vermilion 15-22 (Surface) MSL 981588",F-WS-T,9.995950000000038
+BC7ED4,AlignedDimension,"Fortis  Vegetation Control R/W  880081",F-EZE-T,Compass 5 000
+BC7F08,AlignedDimension,"Pembina  P/L R/W  4344",F-RW-T,Compass 5 000
+BC80FE,AlignedDimension,"Obsidian  P/L R/W  5911",C-RW-T,Compass 5 000
+BC813A,AlignedDimension,"Obsidian  P/L R/W  5890",C-RW-T,Compass 5 000
+BC8166,AlignedDimension,"Obsidian  P/L R/W  4039",C-RW-T,Compass 5 000
+BC8339,AlignedDimension,"Obsidian  P/L R/W  4039",C-RW-T,Compass 5 000
+BC8365,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BC8366,MText,"9-22 (Abd.)",F-WS-T,9.995950000000038
+BC836F,MText,"16-22 (Abd.)",F-WS-T,9.995950000000038
+BC83A1,AlignedDimension,"Gran Tierra  P/L R/W  012 1898  001650",F-RW-T,Compass 5 000
+BC8574,AlignedDimension,"Vermilion  P/L R/W  022 7819  021680",F-RW-T,Compass 5 000
+BC859C,AlignedDimension,"Vermilion  P/L R/W  051143",F-RW-T,Compass 5 000
+BC85CD,AlignedDimension,"Westbrick  P/L R/W  084 0611  051407",F-RW-T,Compass 5 000
+BC85FE,AlignedDimension,"Obsidian  P/L R/W  892 2025  890402",C-RW-T,Compass 5 000
+BC881C,AlignedDimension,"Gran Tierra  P/L R/W Plan 982 5836  981204",F-RW-T,Compass 5 000
+BC8854,AlignedDimension,"Obsidian  P/L R/W  667",C-RW-T,Compass 5 000
+BC8878,AlignedDimension,"Obsidian  P/L R/W  667",C-RW-T,Compass 5 000
+BC8BDB,AlignedDimension,"Pembina  P/L R/W  3392 KS  4336",F-RW-T,Compass 5 000
+BC8C03,AlignedDimension,"Pembina  P/L R/W  3392 KS  4335",F-RW-T,Compass 5 000
+BC8DEF,AlignedDimension,"Pembina  P/L R/W  3695 KS  4338",F-RW-T,Compass 5 000
+BC8E17,AlignedDimension,"Pembina  P/L R/W  3345 KS  4339",F-RW-T,Compass 5 000
+BC8E45,AlignedDimension,"Obsidian  A/R  4387",C-AR-T,Compass 5 000
+BC8E83,AlignedDimension,"Obsidian  P/L R/W  5023 KS  5060",C-RW-T,Compass 5 000
+BC9054,AlignedDimension,"Obsidian  P/L R/W  5023 KS  5059",C-RW-T,Compass 5 000
+BC9085,MText,"Obsidian 20.12 A/R ROE 4147",C-RW-T,9.995950000000038
+BC9086,AlignedDimension,"Obsidian  P/L R/W  5054",C-RW-T,Compass 5 000
+BC90AE,AlignedDimension,"Obsidian  P/L R/W",C-RW-T,Compass 5 000
+BC90CD,AlignedDimension,"Tidewater  P/L R/W  972603",F-RW-T,Compass 5 000
+BC90FE,AlignedDimension,"Obsidian  A/R  5768",C-AR-T,Compass 5 000
+BC9137,MText,"Obsidian 12-23 (Surface)ROE 5768",C-WS-T,9.995950000000038
+BC92D8,AlignedDimension,"Obsidian  P/L R/W  6083",C-RW-T,Compass 5 000
+BC930C,AlignedDimension,"Obsidian  A/R  6129",C-AR-T,Compass 5 000
+BC9330,AlignedDimension,"Pembina  P/L R/W  3695 KS  4351",F-RW-T,Compass 5 000
+BC9513,MText,"Obsidian 14-23 (Surface) ROE 4184",C-WS,9.99595000000004
+BC9520,AlignedDimension,"50.00 Road  002 0306",L-TITLEDB-T,Compass 5 000
+BCB8AB,MText,"Pembina 15-23 (Surface) DML 790146",F-RW-T,9.995950000000036
+BCC4CC,MText,"Hwy. 753",L-TITLEDB,9.995950000000036
+BCDEDE,DBText,"Government Road Allowance",L-ROAD-T,9.995950000000043
+BCDEDF,DBText,"(Undeveloped)",T-TEXT,9.995950000000043
+BCDFFE,MText,"L.S. 11",L-SECTION-LSD,9.995950000000027
+BCE000,MText,"L.S. 12",L-SECTION-LSD,9.995950000000027
+BCE002,MText,"L.S. 14",L-SECTION-LSD,9.995950000000027
+BCE003,MText,"L.S. 13",L-SECTION-LSD,9.995950000000027
+BCE8BF,BlockReference,"GAS",C-WS-S,4.9979750000000145
+BCEA95,BlockReference,"GAS",C-WS-S,5.000000000000014
+BCEA96,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BCEA97,BlockReference,"GAS",C-WS-S,5.000000000000014
+BCEA99,BlockReference,"GAS",C-WS-S,5.000000000000014
+BCEA9A,BlockReference,"Gabd.15d85efd0b",F-WS-S,5.0000000000000195
+BCEA9B,BlockReference,"GAS",C-WS-S,5.000000000000014
+BCEBB6,AlignedDimension,"Westbrick  P/L R/W  084 0611  051407",F-RW-T,Compass 5 000
+BCEBDE,AlignedDimension,"Obsidian  P/L R/W  041241",C-RW-T,Compass 5 000
+BCEC0B,AlignedDimension,"Fortis  Power Line R/W  020063",F-RW-T,Compass 5 000
+BCED67,AlignedDimension,"Vermilion  P/L R/W  051143",F-RW-T,Compass 5 000
+BCED86,AlignedDimension,"Obsidian  Flow Line R/W  3298",C-AR-T,Compass 5 000
+BCEF6E,AlignedDimension,"Obsidian   A/R, 10.06 Flow Line R/W  3536",C-FLOWLINE-T,Compass 5 000
+BCF0FC,AlignedDimension,"Obsidian   Line R/W  3569",C-FLOWLINE-T,Compass 5 000
+BCF23E,AlignedDimension,"Obsidian  P/L R/W  062 7851  042893",C-RW-T,Compass 5 000
+BCF266,MText,"Obsidian 12-22 (Surface) MSL520",C-WS-T,9.995950000000027
+BCFB21,AlignedDimension,"Obsidian  A/R  520",C-AR-T,Compass 5 000
+BCFB6B,AlignedDimension,"Fortis  Vegetation Control R/W  880082",F-RW-T,Compass 5 000
+BCFB93,AlignedDimension,"Vermilion  P/L R/W  022 7819  021680",F-RW-T,Compass 5 000
+BCFBBB,AlignedDimension,"Obsidian  P/L R/W  5023 KS  5069",C-RW-T,Compass 5 000
+BCFD13,AlignedDimension,"Obsidian  P/L R/W  1353",C-RW-T,Compass 5 000
+BD0610,AlignedDimension,"Obsidian  P/L R/W  5051",C-RW-T,Compass 5 000
+BD0638,AlignedDimension,"Obsidian  A/R  022913",C-AR-T,Compass 5 000
+BD0664,AlignedDimension,"Westbrick  A/R  041771",F-RW-T,Compass 5 000
+BD07AA,MText,"Westbrick 13-22 (Surface) MSL 041771",F-RW-T,9.995950000000027
+BD07AB,MText,"Obsidian 11-22 (Surface) MSL 031576",C-WS-T,9.995950000000027
+BD07AC,MText,"Obsidian 13-22 (Surface) MSL 012208",C-WS,9.995950000000027
+BD07AD,AlignedDimension,"Obsidian  A/R  031111",C-AR-T,Compass 5 000
+BD07F3,AlignedDimension,"Obsidian  P/L R/W Plan 102 3413  031835",C-RW-T,Compass 5 000
+BD10D4,AlignedDimension,"Vermilion  A/R  971031",F-AR-T,Compass 5 000
+BD1105,AlignedDimension,"Pembina  P/L R/W  3063",F-RW-T,Compass 5 000
+BD14DA,AlignedDimension,"Obsidian  P/L R/W  074 1060  031836",C-RW-T,Compass 5 000
+BD1513,MText,"Obsidian 3-27 (Surface) MSL 024052",C-WS-T,10.000000000000027
+BD22EF,MText,"Sharp-tailed Grouse Survey Boundary",AS-WILDLIFE,9.995950000000025
+BD31D7,BlockReference,"TEMP",L-MON,4.997975000000013
+BD31DF,BlockReference,"TEMP",L-MON,4.997975000000013
+BD3AC7,BlockReference,"TEMP",L-MON,4.997975000000013
+BD3ACF,BlockReference,"TEMP",L-MON,4.997975000000013
+BD3AD1,BlockReference,"TEMP",L-MON,4.997975000000013
+BD77EB,BlockReference,"TEMP",L-MON,4.99797500000001
+BD77EE,BlockReference,"TEMP",L-MON,4.99797500000001
+BD7D07,BlockReference,"TEMP",L-MON,4.99797500000001
+BD7D51,MText,"87°14'",L-BD1,9.99595000000002
+BD7D5F,MText,"87°58'",L-BD1,9.99595000000002
+BD7E59,MText,"89°30'",L-BD1,9.99595000000002
+BD7E5D,MText,"89°30'",L-BD1,9.99595000000002
+BD7E5F,MText,"20.1 calc.",L-BD,9.99595000000002
+BD7E6E,MText,"88°03'",L-BD1,9.99595000000002
+BD7E7B,MText,"88°42'",L-BD1,9.99595000000002
+BD8390,DBText,"179°54'",L-BD1,9.995950000000018
+BD8395,AlignedDimension,"20.1 A/R",P-TXT,Compass 5 000
+BD83D5,AlignedDimension,"20.1 A/R",P-TXT,Compass 5 000
+BD83FA,AlignedDimension,"20.1 A/R",P-TXT,Compass 5 000
+BD8421,AlignedDimension,"18.3 A/R",P-TXT,Compass 5 000
+BD8A9F,DBText,"N.W.1/4 Sec. 22-48-10-W.5M.",C-SYMBOL,19.99190000000004
+BD8AA0,DBText,"Area Required = 0.299 ha  0.74 Ac.",L-AREAREQUIRED,10.995545000000021
+BD8AAA,DBText,"N.E.1/4 Sec. 22-48-10-W.5M.",C-SYMBOL,19.99190000000004
+BD8AAB,DBText,"Area Required = 1.752 ha  4.33 Ac.",L-AREAREQUIRED,10.995545000000021
+BD8AAC,DBText,"N.W.1/4 Sec. 23-48-10-W.5M.",C-SYMBOL,19.99190000000004
+BD8AAD,DBText,"Area Required = 1.060 ha  2.62 Ac.",L-AREAREQUIRED,10.995545000000021
+BD8B17,BlockReference,"*U85",AS-OWNER,0.9995950000000001
+BD8B59,BlockReference,"*U85",AS-OWNER,0.9995950000000001
+BD8C64,BlockReference,"*U86",AS-OWNER,0.9995950000000001
+BD9D2D,MText,"Buried Telus Cable",AS-TELUS,10.995545000000018
+BD9D2E,MText,"Buried Telus Cable",AS-TELUS,10.995545000000018
+BD9D2F,MText,"Fortis O/H Power Line",AS-POWER,10.995545000000018
+BD9D30,MText,"Fortis O/H Power Line",AS-POWER,10.995545000000018
+BD9D44,MText,"Fortis O/H Power Line",AS-POWER,10.995545000000018
+BDA730,DBText,"717.4 (Tie)",L-TIE-T,9.995950000000015
+BDA731,DBText,"107°46'",L-TIE-T,9.995950000000015
+BDB12B,DBText,"324.7 (Tie)",L-TIE-T,9.995950000000011
+BDB12C,DBText,"48°29'",L-TIE-T,9.995950000000011
+BDB37A,DBText,"RP",35,10.00000000000001
+BDDFEC,AlignedDimension,"15.00 P/L R/W  002 1410  on PLSR)",F-RW-T,Compass 5 000
+BDE061,AlignedDimension,"15.00 P/L R/W  002 1410  on PLSR)",F-RW-T,Compass 5 000
+BDE689,AlignedDimension,"9.14 P/L R/W  6264 RS (Not on PLSR)",F-RW-T,Compass 5 000
+BE09EE,DBText,"Government Road Allowance",L-ROAD-T,9.995950000000043
+BE09EF,DBText,"(High Grade Gravel)",T-TEXT,9.995950000000043
+BE3056,DBText,"178°51'",L-BD,9.995950000000004
+BE305B,DBText,"358°42'",L-BD,9.995950000000002
+BE455D,MText,"Obsidian 14-22 (Surface) ROE 3536",C-WS-T,10.000000000000004
+BE47B2,MText,"148.6 calc.",L-BD,9.995950000000002
+BE48A8,AlignedDimension,"Fortis  Power Line R/W  120164",F-EZE-T,Compass 5 000
+BE490E,AlignedDimension,"Obsidian  A/R  4184",C-AR-T,Compass 5 000
+BE8D4B,MText,"89°22'",L-BD,9.99595
+BE9D27,BlockReference,"Disclaimer_Legal",C-AR,0.2

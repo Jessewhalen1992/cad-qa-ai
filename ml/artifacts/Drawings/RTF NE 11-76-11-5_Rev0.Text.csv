@@ -1,0 +1,38 @@
+Handle,ObjType,Content,Layer,Extra
+9D453F,BlockReference,"L-SECLBL",L-SECLBL,1
+9EB5FF,MText,"KinMerc Battery Site MSL 060778",C-WS-T,9.999999999999963
+9EBC0C,AlignedDimension,"KinMerc  A/R  220107",C-AR-T,Compass 5 000
+9EC7B3,MText,"KinMerc Storage MLL 220033",C-WS-T,9.999999999999963
+9EC7B4,AlignedDimension,"KinMerc  P/L R/W  032 2590 PLA 030757",C-RW-T,Compass 5 000
+9EC7D0,AlignedDimension,"KinMerc  P/L R/W  092 3327  060742",C-RW-T,Compass 5 000
+9ECD98,AlignedDimension,"KinMerc  P/L R/W  092 3332 PLA 070489",C-RW-T,Compass 5 000
+9ECDC8,AlignedDimension,"KinMerc  P/L R/W  992 2227 PLA 980869",C-RW-T,Compass 5 000
+9ED95C,AlignedDimension,"KinMerc  A/R LOC 962576",C-AR-T,Compass 5 000
+9ED98D,AlignedDimension,"KinMerc  P/L R/W  102 4164  990302",C-RW-T,Compass 5 000
+9EEC0B,AlignedDimension,"KinMerc  P/L R/W PLA 980774",C-RW-T,Compass 5 000
+9EF24F,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999963
+9EF250,DBText,"(Undeveloped)",T-TEXT,9.999999999999961
+9EF80B,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999963
+9EF80C,DBText,"(Undeveloped)",T-TEXT,9.999999999999961
+9EFDB2,BlockReference,"Gabd",F-WS-S,4.999999999999981
+9EFDB3,MText,"16-11 (Abd.)",F-WS-S,9.999999999999963
+9F881C,MText,"L.S. 9",L-SECTION-LSD,9.999999999999963
+9F881E,MText,"L.S. 10",L-SECTION-LSD,9.999999999999963
+9F8820,MText,"L.S. 16",L-SECTION-LSD,9.999999999999963
+9F8822,MText,"L.S. 15",L-SECTION-LSD,9.999999999999963
+A0AC59,DBText,"N.E.1/4 Sec. 11-76-11-W.5M.",C-SYMBOL,19.991719999999926
+A18AFE,AlignedDimension,"KinMerc  P/L R/W PLA 980774",C-RW-T,Compass 5 000
+A18B0B,AlignedDimension,"KinMerc  P/L R/W  092 3326 PLA 060701",C-RW-T,Compass 5 000
+A1BF5F,MText,"KinMerc Work Camp DML 220018",C-WS-T,9.995859999999974
+A33AE0,DBText,"RP",35,9.999999999999986
+A3BAA1,BlockReference,"*U29",P-TEMP-BLOCKS,0.999588
+A3BB5B,BlockReference,"*U31",P-TEMP-BLOCKS,0.999588
+A3BDCF,BlockReference,"*U32",P-TEMP-BLOCKS,0.999588
+A3BE34,AlignedDimension,"KinMerc  A/R  220529",C-AR-T,Compass 5 000
+A3E322,BlockReference,"*U34",DETAIL-T,1
+A4196A,BlockReference,"Well_proximity",P-CROSSINGS,1
+A421F6,AlignedDimension,"KinMerc  A/R LOC 850249",C-AR-T,Compass 5 000
+A45363,BlockReference,"*U36",DETAIL-T,1
+A45396,BlockReference,"*U37",DETAIL-T,1
+A453E7,BlockReference,"*U38",DETAIL-T,1
+A4786A,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.2

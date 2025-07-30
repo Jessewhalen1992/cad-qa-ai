@@ -1,0 +1,53 @@
+Handle,ObjType,Content,Layer,Extra
+BC7EBF,BlockReference,"L-SECLBL",L-SECLBL,1
+BC86F2,BlockReference,"*U49",0,1
+BCA117,AlignedDimension,"Fortis  Power Line R/W  870562",F-EZE-T,Compass 5 000
+BCA963,AlignedDimension,"Obsidian  A/R  023142",C-AR-T,Compass 5 000
+BCA993,AlignedDimension,"Obsidian  A/R  090204",C-AR-T,Compass 5 000
+BCA9BF,AlignedDimension,"Obsidian  A/R  920550  To be Cancelled)",C-AR-T,Compass 5 000
+BCB240,MText,"Spartan 10-5 (Surface) MSL 001611",F-WS-T,9.996209999999985
+BCB24C,BlockReference,"GABD",F-WS-S,4.998104999999993
+BCB24D,MText,"Baytex 9-5 (Surface) MSL 065057",F-WS-T,9.996209999999985
+BCBAA9,MText,"Baytex 20.00 A/R MSL 065057",F-AR-T,9.996209999999985
+BCBAAB,BlockReference,"GAS",C-WS-S,4.998104999999993
+BCBAAC,MText,"Obsidian 10-5 (Surface) MSL 920633 (Expired)",C-WS-T,9.996209999999985
+BCBAAD,BlockReference,"GAS",C-WS-S,4.998104999999993
+BCBAAE,MText,"Obsidian 9-5 (Surface) MSL 940002 (Expired)",C-WS-T,9.996209999999985
+BCBAE9,AlignedDimension,"Fortis  Vegetation Control R/W  870406",F-EZE-T,Compass 5 000
+BCBB13,MText,"Obsidian 15.00 A/R MSL 940002 (Expired)",C-WS-T,9.996209999999985
+BCC332,AlignedDimension,"Obsidian  P/L R/W  5029 KS  1331  4943",C-RW-T,Compass 5 000
+BCC35A,AlignedDimension,"Baytex  P/L R/W  122 2344  070670",F-RW-T,Compass 5 000
+BCE679,AlignedDimension,"Obsidian  P/L R/W  081602",C-RW-T,Compass 5 000
+BCEEB5,AlignedDimension,"Pembina  P/L R/W  3385 KS  4346",F-RW-T,Compass 5 000
+BCEEF7,BlockReference,"GABD",F-WS-S,4.998104999999993
+BCEEF8,MText,"Obsidian 16-5 (Surface) ROE 4542",C-WS-T,9.996209999999985
+BCEEF9,AlignedDimension,"Obsidian  A/R  4542",C-WS-T,Compass 5 000
+BCF6FE,MText,"Obsidian 6-5 (Surface) MSL 991448",C-WS-T,9.996209999999985
+BCF700,AlignedDimension,"Obsidian  P/L R/W  4899 KS  4933",C-WS-T,Compass 5 000
+BCF734,AlignedDimension,"Fortis  Vegetation Control R/W  870406",F-EZE-T,Compass 5 000
+BCF75C,AlignedDimension,"Gran Tierra  A/R  4145",F-EZE-T,Compass 5 000
+BD0888,DBText,"Government Road Allowance",L-ROAD-T,9.996209999999992
+BD0889,DBText,"(Undeveloped)",T-TEXT,9.996209999999992
+BD106F,AlignedDimension,"Obsidian  P/L R/W  932 1897  930278",C-RW-T,Compass 5 000
+BD109C,BlockReference,"TEMP",L-MON,4.998104999999996
+BD109D,BlockReference,"TEMP",L-MON,4.998104999999996
+BD109E,BlockReference,"TEMP",L-MON,4.998104999999996
+BD1132,MText,"Unnamed Creek",T-WATER,10.000062232798484
+BD214A,DBText,"528.4 (Tie)",L-BD,9.99621
+BD214B,DBText,"150%%d48'",L-BD,9.99621
+BD214F,DBText,"86%%d45'",L-BD,9.99621
+BD2150,DBText,"459.3 (Tie)",L-BD,9.99621
+BD2151,DBText,"33%%d52'",L-BD,9.99621
+BD2152,AlignedDimension,"20.0 A/R",P-TXT,Compass 5 000
+BD217C,DBText,"158°28'",L-BD,9.99621
+BD217E,DBText,"178°37'",L-BD,9.99621
+BD3119,DBText,"Area Required = 0.624 ha  1.54 Ac.",L-AREAREQUIRED,10.995830999999999
+BD394A,AlignedDimension,"Obsidian  P/L R/W  952 0333  on PLSR)",C-RW-T,Compass 5 000
+BD8AD6,BlockReference,"*U51",AS-OWNER,0.999995048098221
+BD8AEE,MText,"N.E.1/4 Sec. 5-49-9-W.5M.",C-SYMBOL,19.99242
+BDA638,MText,"59°42'",L-BD,9.99621
+BDA641,MText,"L.S. 9",L-SECTION-LSD,10
+BDA643,MText,"L.S. 10",L-SECTION-LSD,10
+BDA645,MText,"L.S. 16",L-SECTION-LSD,10
+BDA647,MText,"L.S. 15",L-SECTION-LSD,10
+BDBEF9,BlockReference,"Disclaimer_Legal",0,0.25

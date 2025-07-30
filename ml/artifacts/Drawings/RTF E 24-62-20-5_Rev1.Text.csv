@@ -1,0 +1,97 @@
+Handle,ObjType,Content,Layer,Extra
+BC4A59,BlockReference,"L-SECLBL",L-SECLBL,0.999466
+BC4A5F,MText,"L.S. 1",L-SECTION-LSD,9.989303661822232
+BC4A60,MText,"L.S. 2",L-SECTION-LSD,9.989303661822232
+BC4A62,MText,"L.S. 8",L-SECTION-LSD,9.989303661822232
+BC4A63,MText,"L.S. 7",L-SECTION-LSD,9.989303661822232
+BC4AE2,DBText,"Theor. S.E.1/4",C-SYMBOL,19.978607323644443
+BC4AE3,DBText,"Sec. 24-62-20-W.5M.",C-SYMBOL,19.978607323644443
+BC4AE4,MText,"Rge. 20",D-TXT,13.985025126551113
+BC4AE5,MText,"Rge. 19",D-TXT,13.985025126551113
+BC4B12,DBText,"Theor. N.E.1/4",C-SYMBOL,19.978607323644443
+BC4B14,MText,"L.S. 9",L-SECTION-LSD,9.99465040000013
+BC4B16,MText,"L.S. 10",L-SECTION-LSD,9.99465040000013
+BC4B18,MText,"L.S. 16",L-SECTION-LSD,9.99465040000013
+BC4B1A,MText,"L.S. 15",L-SECTION-LSD,9.99465040000013
+BC4B1C,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.99465040000013
+BC4B1D,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.99465040000013
+BC4B1E,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.99465040000013
+BC4B1F,MText,"Rge. 20",D-TXT,13.985025126551113
+BC4B20,MText,"Rge. 19",D-TXT,13.985025126551113
+BC4B4F,BlockReference,"HRV",CG-NOTES,0.9989303661822149
+BC4B53,BlockReference,"HRV",CG-NOTES,0.9989303661822149
+BC4B57,AlignedDimension,"Veren  A/R  232212",C-AR-T,Compass 5 000
+BC4B58,AlignedDimension,"Veren  P/L R/W  240720",C-AR-T,Compass 5 000
+BC4B59,MText,"Veren 7-24 (Surface) MSL 240995",C-WS-T,9.989303661822229
+BC4B5B,AlignedDimension,"Paramount  A/R  981548",F-AR-T,Compass 5 000
+BC4B5C,AlignedDimension,"Razor  A/R  930440",F-AR-T,Compass 5 000
+BC4B5D,AlignedDimension,"Razor  A/R  6516",F-AR-T,Compass 5 000
+BC4B5E,AlignedDimension,"Paramount  A/R  1035",F-AR-T,Compass 5 000
+BC4B5F,AlignedDimension,"A/R  241184",F-AR-T,Compass 5 000
+BC4B60,AlignedDimension,"Razor  P/L R/W  231028",F-AR-T,Compass 5 000
+BC4B61,AlignedDimension,"Razor  A/R  920968",F-AR-T,Compass 5 000
+BC4B62,AlignedDimension,"ATCO  Powerline R/W  2382",F-EZE-T,Compass 5 000
+BC4B63,AlignedDimension,"ATCO  Powerline R/W  930316",F-EZE-T,Compass 5 000
+BC4B64,AlignedDimension,"ATCO  Powerline R/W  2527",F-EZE-T,Compass 5 000
+BC4B65,AlignedDimension,"Razor  Flowline R/W  3983",F-FLOWLINE-T,Compass 5 000
+BC4B66,MText,"Paramount  8-24 (Surface) MSL 982083",F-RW-T,9.989303661822229
+BC4B68,MText,"Razor  8-24 (Surface) MSL 930440",F-RW-T,9.989303661822229
+BC4B6F,MText,"Chevron 28.00 P/L R/W PLA 180405",F-RW-T,9.994650400000088
+BC4B70,MText,"Raxor Plant Site MLL 3071",F-RW-T,9.989303661822229
+BC4B73,MText,"Razor  7-24 (Surface) MSL 962214",F-RW-T,9.989303661822229
+BC4B7A,MText,"Chevron 28.00 P/L R/W PLA 180405",F-RW-T,9.994650400000088
+BC4B7B,MText,"Razor  9-24 (Surface) MSL 6570",F-RW-T,9.989303661822229
+BC4B7D,MText,"Hybrid Tower Site Plan 092 8769 DML 2831",F-RW-T,9.989303661822229
+BC4B7F,AlignedDimension,"Alliance  P/L R/W  002 3490  981096",F-RW-T,Compass 5 000
+BC4B80,AlignedDimension,"Keyera  P/L R/W  200152",F-RW-T,Compass 5 000
+BC4B81,AlignedDimension,"Pembina  P/L R/W  297 RS  3018",F-RW-T,Compass 5 000
+BC4B82,AlignedDimension,"Razor  P/L R/W  932 0624  920316",F-RW-T,Compass 5 000
+BC4B83,AlignedDimension,"Razor  P/L R/W  3983",F-RW-T,Compass 5 000
+BC4B84,AlignedDimension,"Pembina  P/L R/W  5009 TR  4961",F-RW-T,Compass 5 000
+BC4B85,AlignedDimension,"Paramount  P/L R/W  072 4127  021689",F-RW-T,Compass 5 000
+BC4B86,AlignedDimension,"Razor  P/L R/W  932 1857  930314",F-RW-T,Compass 5 000
+BC4B87,AlignedDimension,"Razor  P/L R/W  942 3477  940173",F-RW-T,Compass 5 000
+BC4B88,AlignedDimension,"Razor  P/L R/W  932 1861  930342",F-RW-T,Compass 5 000
+BC4B89,AlignedDimension,"Paramount  P/L R/W  042 1274  982399",F-RW-T,Compass 5 000
+BC4B8A,AlignedDimension,"Razor  P/L R/W  892 0544  880372",F-RW-T,Compass 5 000
+BC4B8B,AlignedDimension,"Razor  P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+BC4B8C,AlignedDimension,"Pembina  P/L R/W  120877",F-RW-T,Compass 5 000
+BC4B8D,AlignedDimension,"Keyera  P/L R/W  200152",F-RW-T,Compass 5 000
+BC4B8E,AlignedDimension,"Telus  Cable R/W  3568",F-RW-T,Compass 5 000
+BC4B8F,AlignedDimension,"Alliance  P/L R/W  002 3490  981096",F-RW-T,Compass 5 000
+BC4B90,AlignedDimension,"Pembina  P/L R/W  120877",F-RW-T,Compass 5 000
+BC4B91,AlignedDimension,"PGI  P/L R/W  802 0194  780509",F-RW-T,Compass 5 000
+BC4B92,AlignedDimension,"Pembina  P/L R/W  297 RS  3018",F-RW-T,Compass 5 000
+BC4B93,AlignedDimension,"Razor  P/L R/W  892 0544  880372",F-RW-T,Compass 5 000
+BC4B94,AlignedDimension,"Razor  P/L R/W  3983",F-RW-T,Compass 5 000
+BC4B95,AlignedDimension,"Razor  P/L R/W  012 2312  970414",F-RW-T,Compass 5 000
+BC4B96,AlignedDimension,"PGI  P/L R/W  802 0194  780509",F-RW-T,Compass 5 000
+BC4B97,AlignedDimension,"Town of Fox Creek  Water P/L  150018",F-RW-T,Compass 5 000
+BC4B98,AlignedDimension,"Razor  P/L R/W  922 1491  910421",F-RW-T,Compass 5 000
+BC4B99,AlignedDimension,"Razor  P/L R/W  752 1416  5577",F-RW-T,Compass 5 000
+BC4B9A,AlignedDimension,"Razor  P/L R/W  4865",F-RW-T,Compass 5 000
+BC4B9B,AlignedDimension,"Razor  P/L R/W  932 1861  930342",F-RW-T,Compass 5 000
+BC4B9C,MText,"Town of Fox Creek  Water Well DML 040053",F-RW-T,9.989303661822229
+BC4B9D,MText,"Razor 2-24 (Surface) MSL 6516 (Expired)",F-WS-T,9.989303661822229
+BC4B9F,MText,"Town of Fox Creek Water Well DML 040053",F-WS-T,9.989303661822229
+BC4BA1,AlignedDimension,"PGI  A/R  2439",F-WS-T,Compass 5 000
+BC4BA2,MText,"Pembina Valve Site PIL 240201",F-WS-T,9.989303661822229
+BC4BA5,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BA6,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BA7,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BAD,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BAE,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BAF,BlockReference,"GAS",F-WS-S,4.997325200000013
+BC4BB1,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991440640000338
+BC4BB3,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991440640000338
+BC4BB5,MText,"Sec. 24-62-20-W.5M.",C-SYMBOL,19.97860732364445
+BC6A30,DBText,"RP",35,10.000000000000004
+BC88CE,BlockReference,"*U64",P-TEMP-BLOCKS,1
+BCB315,MText,"Veren 7-24 (Surface) MSL 231768",C-WS-T,9.989303661822229
+BCF3E1,AlignedDimension,"Powerline R/W  970024",F-WS-T,Compass 5 000
+BD04EB,AlignedDimension,"Veren  P/L R/W  241243",C-RW-T,Compass 5 000
+BD1B62,BlockReference,"WC2",C-WS-S,5
+BD1B63,BlockReference,"WC2",C-WS-S,5
+BD1B64,BlockReference,"WC2",C-WS-S,5
+BD1B65,BlockReference,"WC2",C-WS-S,5
+BD2ADD,BlockReference,"Disclaimer_Legal",0,0.5
