@@ -1,4 +1,5 @@
-﻿using Autodesk.AutoCAD.Runtime;   // [CommandMethod]
+﻿// QaChecker.cs  –  confidence‑threshold build (TextStyleRule removed)
+using Autodesk.AutoCAD.Runtime;   // [CommandMethod]
 using Autodesk.AutoCAD.ApplicationServices;
 using Autodesk.AutoCAD.DatabaseServices;
 using Autodesk.AutoCAD.EditorInput;
@@ -17,7 +18,7 @@ namespace CadQaPlugin
     {
         // ------------------------------------------------------------------
         [CommandMethod("RUNQAAUDIT")]
-        public static void RunQaAudit() => RunQaAuditImpl(null);
+        public static void RunQaAudit() => RunImpl(null);
 
         [CommandMethod("RUNQAAUDITSEL")]
         public static void RunQaAuditSel()
@@ -25,33 +26,34 @@ namespace CadQaPlugin
             var ed = Application.DocumentManager.MdiActiveDocument.Editor;
             var sel = ed.GetSelection(new PromptSelectionOptions
             {
-                MessageForAdding = "\nSelect linework to audit (press Enter to select all):"
+                MessageForAdding =
+                    "\nSelect linework to audit (press Enter to select all):"
             });
             if (sel.Status == PromptStatus.Cancel) return;
 
-            RunQaAuditImpl(sel.Status == PromptStatus.OK
+            RunImpl(sel.Status == PromptStatus.OK
                 ? new HashSet<ObjectId>(sel.Value.GetObjectIds())
                 : null);
         }
 
         // ------------------------------------------------------------------
-        private static void RunQaAuditImpl(HashSet<ObjectId> selectedIds)
+        private static void RunImpl(HashSet<ObjectId>? selectedIds)
         {
             var doc = Application.DocumentManager.MdiActiveDocument;
             var db = doc.Database;
             using var tr = db.TransactionManager.StartTransaction();
 
-            // 1 deterministic rules
-            var issues = new RuleBase[] { new TextStyleRule(), new BlockLayerRule() }
+            // 1 ─ deterministic rules (TextStyleRule removed)
+            var issues = new RuleBase[] { new BlockLayerRule() }
                 .SelectMany(r => r.Evaluate(db, tr))
                 .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
                 .ToList();
 
-            // 2 feature export (optional)
-            ExportFeatures.DumpFeatures(db, tr,
-                Path.ChangeExtension(db.Filename, ".features.csv"));
+            // 2 ─ optional feature export
+            ExportFeatures.DumpFeatures(
+                db, tr, Path.ChangeExtension(db.Filename, ".features.csv"));
 
-            // 3 collect text for ML
+            // 3 ─ gather annotation strings
             var texts = new List<string>();
             var layers = new List<string>();
             var xs = new List<double?>();
@@ -83,8 +85,10 @@ namespace CadQaPlugin
                 }
             }
 
-            // 4 ML suggestions → qa_suggest.tsv
-            string suggestPath = null;
+            // 4 ─ ML suggestions with confidence filter
+            const double CONF_THRESHOLD = 0.60;          // new threshold
+            string? suggestPath = null;
+
             if (texts.Count > 0)
             {
                 try
@@ -93,23 +97,38 @@ namespace CadQaPlugin
                     using (Py.GIL())
                     {
                         dynamic joblib = Py.Import("joblib");
+                        dynamic np = Py.Import("numpy");
+
                         dynamic model = joblib.load("ml/artifacts/layer_clf.pkl");
                         dynamic preds = model.predict(texts.ToArray());
+                        dynamic probs = model.predict_proba(texts.ToArray());
 
-                        const char tabChar = '\t';
-                        var rows = new List<string> { "Text\tX\tY\tCurrentLayer\tSuggestedLayer" };
+                        var rows = new List<string>
+                        { "Text\tX\tY\tCurrentLayer\tSuggestedLayer\tConfidence" };
+                        const char tab = '\t';
 
                         for (int i = 0; i < texts.Count; i++)
                         {
-                            string predicted = ((string)preds[i]).Trim();
-                            string current = (layers[i] ?? "").Trim();
-                            if (predicted.Equals(current, StringComparison.OrdinalIgnoreCase))
-                                continue;   // skip OK items
+                            // highest probability for this sample
+                            double best = ((double[])probs[i]
+                                          .AsManagedObject(typeof(double[]))).Max();
 
-                            string txt = texts[i].Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
+                            string suggestion = best >= CONF_THRESHOLD
+                                ? ((string)preds[i]).Trim()
+                                : "No Suggested Layer";
+
+                            string current = layers[i] ?? "";
+                            if (suggestion.Equals(current, StringComparison.OrdinalIgnoreCase))
+                                continue;                            // skip if already correct
+
+                            string cleanText = texts[i]
+                                               .Replace("\t", " ")
+                                               .Replace("\r", " ")
+                                               .Replace("\n", " ");
                             string sx = xs[i]?.ToString("F3") ?? "";
                             string sy = ys[i]?.ToString("F3") ?? "";
-                            rows.Add($"{txt}{tabChar}{sx}{tabChar}{sy}{tabChar}{current}{tabChar}{predicted}");
+                            rows.Add($"{cleanText}{tab}{sx}{tab}{sy}{tab}" +
+                                     $"{current}{tab}{suggestion}{tab}{best:0.00}");
                         }
 
                         if (rows.Count > 1)
@@ -129,7 +148,7 @@ namespace CadQaPlugin
                 }
             }
 
-            // 5 JSON issue dump
+            // 5 ─ deterministic issues → .qa.json
             File.WriteAllText(
                 Path.ChangeExtension(db.Filename, ".qa.json"),
                 JsonSerializer.Serialize(
@@ -142,17 +161,18 @@ namespace CadQaPlugin
                     }),
                     new JsonSerializerOptions { WriteIndented = true }));
 
-            // 6 summary CSV
+            // 6 ─ summary CSV
             File.WriteAllLines(
                 Path.ChangeExtension(db.Filename, ".qa_summary.csv"),
                 new[] { "IssueType,Count" }.Concat(
                     issues.GroupBy(i => i.Type.ToString())
                           .Select(g => $"{g.Key},{g.Count()}")));
 
-            // 7 detail TSV
+            // 7 ─ detail TSV
             var detailPath = Path.ChangeExtension(db.Filename, ".qa_detail.tsv");
-            const char tab = '\t';
-            var dLines = new List<string> { "IssueType\tHandle\tX\tY\tContent\tMessage" };
+            const char tab2 = '\t';
+            var dLines = new List<string>
+            { "IssueType\tHandle\tX\tY\tContent\tMessage" };
 
             foreach (var isue in issues)
             {
@@ -163,8 +183,8 @@ namespace CadQaPlugin
                     {
                         switch (e)
                         {
-                            case DBText txt: x = txt.Position.X; y = txt.Position.Y; content = txt.TextString; break;
-                            case MText mt: x = mt.Location.X; y = mt.Location.Y; content = mt.Text; break;
+                            case DBText t: x = t.Position.X; y = t.Position.Y; content = t.TextString; break;
+                            case MText m: x = m.Location.X; y = m.Location.Y; content = m.Text; break;
                             case BlockReference br:
                                 x = br.Position.X; y = br.Position.Y; content = br.Name; break;
                         }
@@ -176,11 +196,12 @@ namespace CadQaPlugin
                 string ny = y?.ToString("F3") ?? "";
                 string safeContent = (content ?? "").Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
                 string safeMsg = (isue.Message ?? "").Replace("\t", " ").Replace("\r", " ").Replace("\n", " ");
-                dLines.Add($"{isue.Type}{tab}{isue.EntityId}{tab}{nx}{tab}{ny}{tab}{safeContent}{tab}{safeMsg}");
+
+                dLines.Add($"{isue.Type}{tab2}{isue.EntityId}{tab2}{nx}{tab2}{ny}{tab2}{safeContent}{tab2}{safeMsg}");
             }
             File.WriteAllLines(detailPath, dLines);
 
-            // 8 console paths
+            // 8 ─ console summary
             doc.Editor.WriteMessage($"\nQA issues found       : {issues.Count}");
             doc.Editor.WriteMessage($"\nDetail TSV   : {detailPath}");
             doc.Editor.WriteMessage($"\nSummary CSV  : {Path.ChangeExtension(db.Filename, ".qa_summary.csv")}");
