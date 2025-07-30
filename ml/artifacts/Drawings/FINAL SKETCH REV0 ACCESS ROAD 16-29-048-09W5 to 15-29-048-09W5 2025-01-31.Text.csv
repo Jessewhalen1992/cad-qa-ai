@@ -1,0 +1,70 @@
+Handle,ObjType,Content,Layer,Extra
+BCCA7D,MText,"L.S. 9",L-SECTION-LSD,10
+BCCA7F,MText,"L.S. 10",L-SECTION-LSD,10
+BCCA81,MText,"L.S. 16",L-SECTION-LSD,10
+BCCA83,MText,"L.S. 15",L-SECTION-LSD,10
+BCCAD2,AlignedDimension,"Sinopec  P/L R/W  051807",F-RW-T,Compass 5 000
+BCCADF,AlignedDimension,"Sinopec  A/R  050324",F-AR-T,Compass 5 000
+BCD370,AlignedDimension,"Keyera  P/L R/W  052 5152  034290",F-RW-T,Compass 5 000
+BCD37D,AlignedDimension,"Sinopec  P/L R/W  112 2294  030858",F-RW-T,Compass 5 000
+BCD3ED,AlignedDimension,"Sinopec  P/L R/W  042614",F-RW-T,Compass 5 000
+BCD3F9,AlignedDimension,"Sinopec  P/L R/W  071818",F-RW-T,Compass 5 000
+BCD46C,AlignedDimension,"Obsidian  A/R  052337",C-AR-T,Compass 5 000
+BCD478,AlignedDimension,"Fortis  Power Line R/W  060166",F-EZE-T,Compass 5 000
+BCD4C5,MText,"Obsidian 10-29(Surface) ROE 4220",C-WS-T,10
+BCD4C6,AlignedDimension,"Fortis  Power Line R/W  870565",F-EZE-T,Compass 5 000
+BCD510,AlignedDimension,"Obsidian  A/R  4220",C-AR-T,Compass 5 000
+BCDD87,AlignedDimension,"Obsidian  P/L R/W  062 7985  053853",C-RW-T,Compass 5 000
+BCDDB4,AlignedDimension,"Gran Tierra  P/L R/W  021483",F-RW-T,Compass 5 000
+BCDDF8,AlignedDimension,"Barrel  P/L R/W  061667",F-RW-T,Compass 5 000
+BCDE24,AlignedDimension,"Fortis  Power Line R/W  870565",F-EZE-T,Compass 5 000
+BCDE62,MText,"Obsidian 9-29(Surface) MSL 052338",C-WS-T,10
+BCDE63,AlignedDimension,"Obsidian  P/L R/W  062 7981  053584",C-RW-T,Compass 5 000
+BCDE94,AlignedDimension,"Obsidian  Flowline R/W  211 MC  6818",C-RW-T,Compass 5 000
+BCDEC4,AlignedDimension,"Obsidian  A/R  3430",C-AR-T,Compass 5 000
+BCE71F,AlignedDimension,"Obsidian  A/R  3429",C-AR-T,Compass 5 000
+BCEFB2,AlignedDimension,"Sinopec  P/L R/W  102 0166  051198",F-RW-T,Compass 5 000
+BCEFF5,MText,"Sinopec 16-29(Surface) MSL 023066",F-WS-T,10
+BCEFF6,MText,"Sinopec Compressor Site MLL 050180",F-WS-T,10
+BCEFF7,MText,"Sinopec Compressor Site MLL 200114",F-WS-T,10
+BCEFF9,BlockReference,"TEMP",L-MON,5
+BCEFFA,BlockReference,"TEMP",L-MON,5
+BD0088,DBText,"331.3 (Tie)",L-BD,10
+BD0089,DBText,"231°41'",L-BD,10
+BD008C,DBText,"308°20'",L-BD,10
+BD008D,DBText,"325.3 (Tie)",L-BD,10
+BD008E,MText,"290.0 266°49'",L-BD,10
+BD008F,MText,"Obsidian 15-29(Surface) MSL 920634 (Expired)",C-WS-T,10
+BD0090,AlignedDimension,"Sinopec  P/L R/W  102 3887  042636",F-RW-T,Compass 5 000
+BD00CC,AlignedDimension,"Sinopec  P/L R/W  040729",F-RW-T,Compass 5 000
+BD0161,AlignedDimension,"Sinopec  P/L R/W  072 2759  053245",F-RW-T,Compass 5 000
+BD09E6,AlignedDimension,"Sinopec  P/L R/W  112 2295  030857",F-RW-T,Compass 5 000
+BD0A20,AlignedDimension,"Sinopec  P/L R/W  072 2904  055037",F-RW-T,Compass 5 000
+BD12E5,AlignedDimension,"Obsidian  P/L R/W  932 1897  930278",C-RW-T,Compass 5 000
+BD1B7B,MText,"Fortis O/H Power Line",AS-POWER-T,10
+BD1B7D,AlignedDimension,"Obsidian  A/R  3427",C-AR-T,Compass 5 000
+BD1BA9,AlignedDimension,"Sinopec  P/L R/W  230953",F-RW-T,Compass 5 000
+BD1C3F,MText,"Obsidian 7-29(Surface) MSL 052337",C-WS-T,10
+BD1C41,MText,"Fortis O/H Power Line",AS-POWER-T,10
+BD1C43,BlockReference,"L-SECLBL",L-SECLBL,1
+BD25A1,MText,"Sharp Tailed Grouse Zone Boundary",AS-WILDLIFE-BLOCK,10
+BD25A2,MText,"Barrel 16-29(Surface) MSL 060797",F-WS-T,10
+BD2EDC,MText,"CNRL 1-32(Surface) MSL 043137",F-WS-T,10
+BD4BF2,DBText,"N.E.1/4 Sec. 29-48-9-W.5M.",C-SYMBOL,20
+BD4BF3,DBText,"Area Required = 0.581 ha  1.44 Ac.",L-AREAREQUIRED,11
+BD4C01,DBText,"Government Road Allowance",L-ROAD-T,10
+BD4C02,DBText,"(Undeveloped)",T-TEXT,10
+BD4C03,AlignedDimension,"Obsidian  P/L R/W  4864 KS  5049",C-RW-T,Compass 5 000
+BD5564,MText,"RP",35,10
+BD7272,MText,"Sinopec Riser Site PIL 200254",F-WS-T,10
+BD7275,MText,"Sinopec Riser Site PIL 040275",F-WS-T,10
+BD7278,MText,"Keyera 8.00 Power Line R/W EZE 040151",F-WS-T,10
+BD727B,MText,"Fortis Power Line R/W EZE 040145",F-WS-T,10
+BD7293,AlignedDimension,"Fortis  Power Line R/W  050311",F-EZE-T,Compass 5 000
+BD7A5F,DBText,"178°36'",L-BD,10
+BD7A60,MText,"Sinopec 15.00 P/L R/W PLA 052994",F-WS-T,10
+BD7B2A,DBText,"178°37'",L-BD,10
+BD88D1,MText,"Fortis O/H Power Line",AS-POWER-T,10
+BD9EAC,AlignedDimension,"Obsidian  A/R  920551",C-AR-T,Compass 5 000
+BD9EE5,AlignedDimension,"Sinopec  P/L R/W  042696",F-RW-T,Compass 5 000
+BDBC0B,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.3

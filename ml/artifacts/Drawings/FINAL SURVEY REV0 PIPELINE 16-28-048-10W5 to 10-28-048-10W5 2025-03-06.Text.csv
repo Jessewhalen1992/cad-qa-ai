@@ -1,0 +1,83 @@
+Handle,ObjType,Content,Layer,Extra
+BC3DD9,BlockReference,"FDI",L-MON,4.999999999999996
+BC3DDE,BlockReference,"FDI",L-MON,4.999999999999996
+BC3DE3,BlockReference,"FDI",L-MON,4.999999999999996
+BC3DE8,BlockReference,"FDI",L-MON,4.999999999999996
+BC3DED,BlockReference,"PLI",L-MON,4.999999999999996
+BC3DF2,BlockReference,"PLI",L-MON,4.999999999999996
+BC3DF7,BlockReference,"PLI",L-MON,4.999999999999996
+BC47C8,BlockReference,"L-SECLBL",L-SECLBL,0.99959639
+BC527A,DBText,"Government Road Allowance",L-ROAD-T,9.995959999999998
+BC5280,MText,"Fortis O/H Power Line",AS-POWER,9.999999999999998
+BC5282,MText,"Telus Buried Cable",AS-TELEPHONE,9.999999999999998
+BC5285,AlignedDimension,"Obsidian  A/R  241208",C-AR-T,Compass 5 000
+BC5286,AlignedDimension,"Obsidian  A/R  520",C-AR-T,Compass 5 000
+BC5287,AlignedDimension,"Obsidian  A/R  520",C-AR-T,Compass 5 000
+BC5288,AlignedDimension,"Obsidian  A/R  3438",C-AR-T,Compass 5 000
+BC5289,AlignedDimension,"Obsidian  Flow Line R/W  3438",C-FLOWLINE-T,Compass 5 000
+BC528A,AlignedDimension,"Obsidian  P/L R/W  041241",C-RW-T,Compass 5 000
+BC528B,AlignedDimension,"Obsidian  P/L R/W  052 3167  042897",C-RW-T,Compass 5 000
+BC528C,AlignedDimension,"Obsidian  P/L R/W  190455",C-RW-T,Compass 5 000
+BC528D,AlignedDimension,"Obsidian  P/L R/W  190533",C-RW-T,Compass 5 000
+BC528E,AlignedDimension,"Obsidian  P/L R/W  982 0398  961227",C-RW-T,Compass 5 000
+BC528F,MText,"Obsidian 10-28 (Surface) MSL 861487",C-WS-T,9.995959999999998
+BC5291,MText,"Obsidian 16-28 (Surface) ROE 3438",C-WS-T,9.995959999999998
+BC5293,AlignedDimension,"Fortis  Width  Line R/W  040039",F-EZE-T,Compass 5 000
+BC5294,AlignedDimension,"Fortis  Vegetation Control R/W  880081",F-EZE-T,Compass 5 000
+BC5295,AlignedDimension,"Fortis  Power Line R/W  880418",F-EZE-T,Compass 5 000
+BC5296,AlignedDimension,"Gran Tierra  P/L R/W  082 7396  022710",F-RW-T,Compass 5 000
+BC5297,AlignedDimension,"Pembina  P/L R/W  1936 KS  3063",F-RW-T,Compass 5 000
+BC5298,DBText,"(High Grade Gravel)",T-TEXT,9.995959999999998
+BC5299,BlockReference,"GAS",C-WS-S,4.999999999999999
+BC529A,BlockReference,"GAS",C-WS-S,4.999999999999999
+BC529B,BlockReference,"GAS",C-WS-S,4.999999999999999
+BC529C,MText,"Sharp-tailed Grouse Survey Boundary",AS-WILDLIFE,9.999999999999998
+BC5403,AlignedDimension,"Obsidian  A/R  190431",C-AR-T,Compass 5 000
+BC5404,AlignedDimension,"Obsidian  P/L R/W  190443  -  be Cancelled)",C-RW-T,Compass 5 000
+BC5E09,MText,"Fd.I. N.E. 28",L-MON,9.9959639
+BC5E0A,MText,"Fd.I. Bent, Straightened E.1/4 28",L-MON,9.9959639
+BC7200,DBText,"124°47'20''",L-BD,9.9959639
+BC7202,DBText,"241°41'35''",L-BD1,9.9959639
+BC721A,MText,"SEE DETAIL",DETAIL-T,15.99354224
+BC72DB,AlignedDimension,"Obsidian  A/R  3438",C-AR-T,Compass 5 000
+BC72DC,AlignedDimension,"Fortis  Width  Line R/W  040039",F-EZE-T,Compass 5 000
+BC72DD,BlockReference,"PLI",L-MON,4.99798195
+BC72DE,BlockReference,"PLI",L-MON,4.99798195
+BC72DF,BlockReference,"PLI",L-MON,4.99798195
+BC72E2,DBText,"267°58'35''",L-BD1,9.9959639
+BC72E4,DBText,"178°48'45''",L-BD1,9.9959639
+BC733E,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99798195
+BC733F,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99798195
+BC7340,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99798195
+BC7341,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99798195
+BC7368,MText,"Obsidian 16-28 (Surface) ROE 3438",C-WS-T,9.995959999999998
+BC736A,AlignedDimension,"Obsidian  A/R  241208",C-AR-T,Compass 5 000
+BC7389,AlignedDimension,"Fortis  Vegetation Control R/W  880081",F-EZE-T,Compass 5 000
+BC73AB,MText,"Fortis O/H Power Line",AS-POWER,9.999999999999998
+BC7B95,AlignedDimension,"Obsidian  P/L R/W  190455",C-RW-T,Compass 5 000
+BC7BE4,MText,"Buried Pipe",AS-PIPE-UG-T,9.9959639
+BC7BE5,MText,"40cm Poplar & Spruce",T-BUSH-T,9.9959639
+BC7BE6,MText,"40cm Poplar & Spruce",T-BUSH-T,9.9959639
+BC7C5F,MText,"c.s.",L-MON,9.9959639
+BC7C64,MText,"319.39 241°41'35''",L-BD1,9.9959639
+BC7C6E,DBText,"288.61 (Tie)",L-BD1,9.9959639
+BC7C6F,DBText,"215°25'40''",L-BD1,9.9959639
+BC7C80,DBText,"288.61 (Tie)",L-BD1,9.9959639
+BC7C81,DBText,"215°25'40''",L-BD1,9.9959639
+BC842C,MText,"Building",AS-STRUCTURE-T,9.9959639
+BC8447,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.9919278
+BC844B,DBText,"319°05'30''",L-BD1,9.9959639
+BC844C,MText,"Fd.I. c.s.",L-MON,9.9959639
+BC844D,MText,"Fd.I.",L-MON,9.9959639
+BC844E,DBText,"N.E.1/4 Sec. 28-48-10-W.5M.",C-SYMBOL,19.9919278
+BC844F,DBText,"Area Required = 0.633 ha  1.56 Ac.",L-AREAREQUIRED,10.99556029
+BC848C,BlockReference,"*U46",DETAIL-T,0.99959639
+BC8C83,BlockReference,"*U46",DETAIL-T,0.99959639
+BC8CA0,BlockReference,"*U47",L-AREAREQUIRED,0.99959639
+BC9EC5,MText,"358°44'10'' 805.57",L-BD,9.9959639
+BC9ED0,AlignedDimension,"Obsidian  P/L R/W  190533",C-RW-T,Compass 5 000
+BCBFB4,MText,"40cm Poplar & Spruce",T-BUSH-T,9.9959639
+BCBFC8,AlignedDimension,"Obsidian  P/L R/W  190443  -  be Cancelled)",C-RW-T,Compass 5 000
+BCEE2F,MText,"Fortis O/H Power Line",AS-POWER,9.999999999999998
+BCEEB7,BlockReference,"*U50",AS-OWNER,0.99959639
+BD1618,BlockReference,"Disclaimer_Legal",0,1

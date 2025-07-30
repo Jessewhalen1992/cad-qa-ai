@@ -1,0 +1,110 @@
+Handle,ObjType,Content,Layer,Extra
+BEA391,BlockReference,"L-SECLBL",L-SECLBL,1
+BEA397,DBText,"N.W.1/4 Sec. 31-47-8-W.5M.",C-SYMBOL,20.00000000000005
+BEA398,DBText,"Area Required = 1.086 ha  2.68 Ac.",L-AREAREQUIRED,11.000000000000025
+BF5D18,MText,"Obsidian Battery Site ROE 2398",C-WS-T,10.000000000000025
+BF7500,AlignedDimension,"Obsidian  P/L R/W  810504",C-RW-T,Compass 5 000
+BF751C,MText,"Obsidian 15-31 (Surface) MSL 8166 (Expired)",C-WS-T,10.000000000000025
+BF8060,AlignedDimension,"Pembalta  P/L R/W  5226 KS  5299",F-RW-T,Compass 5 000
+BF80B5,MText,"Obsidian 10-31 (Surface) ROE 2363",C-WS-T,10.000000000000025
+BF8E33,AlignedDimension,"Barrel  P/L R/W  052352",F-RW-T,Compass 5 000
+BF8EFC,AlignedDimension,"Barrel  P/L R/W  162 4015  061303",F-AR-T,Compass 5 000
+BF8F6F,AlignedDimension,"Obsidian  A/R  2441",C-AR-T,Compass 5 000
+BF8FA6,AlignedDimension,"Fortis  Vegetation ControlR/W  870399",F-EZE-T,Compass 5 000
+BF9B35,AlignedDimension,"Barrel  P/L R/W  062013",F-RW-T,Compass 5 000
+BF9B66,MText,"Obsidian 12-31 (Surface) ROE 2388",C-WS-T,10.000000000000025
+BF9B67,AlignedDimension,"Obsidian  A/R  2388",C-AR-T,Compass 5 000
+BF9BAA,AlignedDimension,"Obsidian  Flow Line R/W  2388",C-AR-T,Compass 5 000
+BF9BC9,MText,"Obsidian 13-31 (Surface) MSL 8223 (Expired)",C-WS-T,10.000000000000025
+BF9BCA,AlignedDimension,"Obsidian  A/R  8223",C-AR-T,Compass 5 000
+BF9C03,AlignedDimension,"Obsidian  A/R  2439",C-AR-T,Compass 5 000
+BF9C34,MText,"Obsidian 14-31 (Surface) ROE 2391",C-WS-T,10.000000000000025
+BF9C35,AlignedDimension,"Obsidian  A/R  2391",C-AR-T,Compass 5 000
+BF9C5C,MText,"Obsidian 11-31 (Surface) MSL 8170 (Expired, To be Cancelled)",C-WS-T,10.000000000000025
+BFA7A0,AlignedDimension,"Obsidian  Flow Line R/W  8170  To be Cancelled)",C-AR-T,Compass 5 000
+BFB4C1,AlignedDimension,"Barrel  P/L R/W  052235",F-RW-T,Compass 5 000
+BFB4FB,MText,"Barrel 14-31 (Surface) MSL 051458",F-WS-T,10.000000000000025
+BFB4FC,AlignedDimension,"Barrel  A/R  051458",F-RW-T,Compass 5 000
+BFB524,MText,"Barrel Riser Site PIL 240319",F-WS-T,10.000000000000025
+BFB55C,MText,"Barrel 20.10 A/R LOC 241771",F-RW-T,10.000000000000025
+BFB55D,AlignedDimension,"Pembina  P/L R/W   151249",F-RW-T,Compass 5 000
+BFB589,AlignedDimension,"Obsidian  A/R  8172",C-AR-T,Compass 5 000
+BFF0DC,MText,"Fortis O/H Power Line",AS-POWER,10.000000000000025
+C0410A,BlockReference,"*U49",AS-OWNER,1
+C05736,AlignedDimension,"Pembina  P/L R/W  1639 KS  2477",F-RW-T,Compass 5 000
+C0625E,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000025
+C0625F,DBText,"(Undeveloped)",T-TEXT,10.000000000000025
+C06262,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000025
+C06263,DBText,"(Undeveloped)",T-TEXT,10.000000000000025
+C094A6,AlignedDimension,"Pembalta  P/L R/W  5226 KS  5303",F-RW-T,Compass 5 000
+C0B3ED,AlignedDimension,"Barrel  P/L R/W  162 4015",F-RW-T,Compass 5 000
+C0E240,BlockReference,"FDI",L-MON,5.000000000000011
+C0E245,BlockReference,"FDI",L-MON,5.000000000000011
+C0E2DE,BlockReference,"RISER",AS-SYMBOL,5.000000000000011
+C1205A,MText,"Obsidian 11-31 (Surface) MSL 8170 (Expired, To be Cancelled)",C-WS-T,9.99644650000001
+C12105,BlockReference,"RISER",AS-SYMBOL,4.998223250000005
+C12A00,MText,"Riser",T-TEXT,10.996091150000018
+C12A55,AlignedDimension,"Obsidian  A/R  2441",C-AR-T,Compass 5 000
+C12A61,AlignedDimension,"Barrel  P/L R/W  062013",F-RW-T,Compass 5 000
+C12A6D,AlignedDimension,"Barrel  P/L R/W  052352",F-RW-T,Compass 5 000
+C12A79,AlignedDimension,"Fortis  Vegetation ControlR/W  870399",F-EZE-T,Compass 5 000
+C143DA,DBText,"88°27'55''",L-BD,9.99644650000001
+C15703,MText,"L.S. 11",L-SECTION-LSD,9.99644650000001
+C15705,MText,"L.S. 12",L-SECTION-LSD,9.99644650000001
+C15707,MText,"L.S. 14",L-SECTION-LSD,9.99644650000001
+C15708,MText,"L.S. 13",L-SECTION-LSD,9.99644650000001
+C16931,AlignedDimension,"Pembina  P/L R/W  1639 KS  2434",F-RW-T,Compass 5 000
+C16961,MText,"Fd.I. N.E. 36",L-MON,9.99644650000001
+C171BB,AlignedDimension,"Fortis  Power Line R/W  870399",F-RW-T,Compass 5 000
+C195FA,MText,"Buried Pipe",AS-PIPE-UG-T,10.000000000000018
+C19FDA,MText,"Buried Pipe",AS-PIPE-UG-T,10.000000000000018
+C1A853,MText,"SEE DETAIL",DETAIL-T,15.994314400000015
+C1A855,MText,"DETAIL SCALE 1:2000",DETAIL-T,19.992893000000016
+C1A859,MText,"6m High Grade Gravel Road",T-TEXT,9.996446500000008
+C1B0C9,MText,"Fd.I. N.1/4 31",L-MON,9.99644650000001
+C1BAE9,BlockReference,"RP",C-AR-T,1
+C1FB86,BlockReference,"GAS",C-WS-S,5.000000000000005
+C1FB87,BlockReference,"GAS",C-WS-S,5.000000000000005
+C1FB88,BlockReference,"GAS",C-WS-S,5.000000000000005
+C1FB89,BlockReference,"GAS",C-WS-S,5.000000000000005
+C1FB8A,BlockReference,"GAS",C-WS-S,5.000000000000005
+C20405,BlockReference,"GAS",C-WS-S,5.000000000000005
+C2055B,BlockReference,"GAS",C-WS-S,4.998223250000002
+C2055C,MText,"W/H 11-31",C-WS-T,9.996446500000005
+C32F64,DBText,"calc",DESCRIPTION,0.15000000000000008
+C32F67,DBText,"calc",DESCRIPTION,0.15000000000000008
+C33523,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33525,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33526,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33528,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33F70,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33F72,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33F73,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33F74,BlockReference,"Hybrid_EC",L-MON,4.9982232500000014
+C33F76,MText,"88°32'25" 106.68",L-BD,9.996446500000003
+C33F78,MText,"178°32'25" 101.75",L-BD,9.996446500000003
+C33F79,MText,"106.68 268°31'50"",L-BD,9.996446500000003
+C33F7A,MText,"358°32'25" 101.77",L-BD,9.996446500000003
+C3453A,MText,"131°07'05'' 775.22 (Tie)",L-TIE-T,9.996446500000003
+C3453B,MText,"14°17'35'' 546.10 (Tie)",L-TIE-T,9.996446500000003
+C34544,MText,"131°07'05'' 775.22 (Tie)",L-TIE-T,9.996446500000003
+C34545,MText,"14°17'35'' 546.10 (Tie)",L-TIE-T,9.996446500000003
+C357FA,BlockReference,"we",L-BD,0.99964465
+C35806,BlockReference,"we",L-BD,0.99964465
+C35812,BlockReference,"we",L-BD,0.99964465
+C3581E,BlockReference,"we",L-BD,0.99964465
+C3582A,BlockReference,"we",L-BD,0.99964465
+C35836,BlockReference,"we",L-BD,0.99964465
+C35CBC,BlockReference,"we",L-BD,0.99964465
+C35CBF,BlockReference,"we",L-BD,0.99964465
+C35CC2,BlockReference,"we",L-BD,0.99964465
+C35CC5,BlockReference,"we",L-BD,0.99964465
+C35E29,BlockReference,"NEZD Point",L-BD,1
+C35E2E,BlockReference,"NEZD Point",L-BD,1
+C35E33,BlockReference,"NEZD Point",L-BD,1
+C35E38,BlockReference,"NEZD Point",L-BD,1
+C35E3D,BlockReference,"NEZD Point",L-BD,1
+C35E42,BlockReference,"NEZD Point",L-BD,1
+C35E47,BlockReference,"NEZD Point",L-BD,1
+C3E8E1,AlignedDimension,"Obsidian  Flow Line R/W  8170  To be Cancelled)",C-AR-T,Compass 5 000
+C496F0,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

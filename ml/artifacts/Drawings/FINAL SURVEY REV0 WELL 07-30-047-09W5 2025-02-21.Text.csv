@@ -1,0 +1,89 @@
+Handle,ObjType,Content,Layer,Extra
+BE1810,BlockReference,"L-SECLBL",L-SECLBL,0.999611
+BE181E,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993776000000018
+BE1820,MText,"Theor. S.E.1/4 Sec. 30-47-9-W.5M.",C-SYMBOL,19.992220000000017
+BE187B,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996110000000002
+BE187E,MText,"Fortis O/H Power Line",AS-POWER,9.996110000000005
+BE1884,AlignedDimension,"Obsidian  A/R  176",C-AR-T,Compass 5 000
+BE1885,AlignedDimension,"Obsidian  A/R  180",C-AR-T,Compass 5 000
+BE1886,AlignedDimension,"Obsidian  Flowline R/W  176",C-FLOWLINE-T,Compass 5 000
+BE1887,AlignedDimension,"Obsidian  Flowline R/W  180",C-FLOWLINE-T,Compass 5 000
+BE1888,AlignedDimension,"Obsidian  Flowline R/W  180",C-FLOWLINE-T,Compass 5 000
+BE1889,AlignedDimension,"Obsidian  P/L R/W  021402",C-RW-T,Compass 5 000
+BE18A2,AlignedDimension,"Obsidian  P/L R/W  4766",C-RW-T,Compass 5 000
+BE18A3,AlignedDimension,"Obsidian  P/L R/W  4781",C-RW-T,Compass 5 000
+BE18A4,AlignedDimension,"Obsidian  P/L R/W  3160",C-RW-T,Compass 5 000
+BE18A5,AlignedDimension,"Obsidian  P/L R/W  3153",C-RW-T,Compass 5 000
+BE18A6,AlignedDimension,"Obsidian  P/L R/W  032 0234  010266",C-RW-T,Compass 5 000
+BE18B3,MText,"Obsidian 8-30 (Surface) MSL 176",C-WS-T,10.995721000000005
+BE18B5,AlignedDimension,"Obsidian  A/R  1968",C-WS-T,Compass 5 000
+BE18B6,MText,"Obsidian 3-30 (Surface) MSL 015265",C-WS-T,10.995721000000005
+BE18B8,MText,"Obsidian 7-30 (Surface) MSL 002365 (To Be Cancelled)",C-WS-T,10.995721000000005
+BE18BC,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BE18BD,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BE18BE,BlockReference,"GAS",C-WS-S,4.998055000000001
+BE18BF,BlockReference,"GAS",C-WS-S,4.998055000000001
+BE18C0,BlockReference,"GAS",C-WS-S,4.998055000000001
+BE18C1,BlockReference,"GAS",C-WS-S,4.998055000000001
+BE4807,BlockReference,"FDI",L-MON,4.99808
+BE482F,BlockReference,"FDI",L-MON,4.99808
+BE678E,BlockReference,"fdspike",L-MON,4.99808
+BE678F,BlockReference,"fdspike",L-MON,4.99808
+BE6791,BlockReference,"plspike",L-MON,4.99808
+BE6794,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99808
+BE6795,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99808
+BEC693,MText,"Fd.I. Pit E.1/4 25",L-MON,10.995721000000005
+BEC6EB,BlockReference,"linebrk",L-QSEC,5000
+BEC6EE,BlockReference,"linebrk",L-TIE,5000
+BECDCA,BlockReference,"FDI",L-MON,4.99808
+BECDCB,BlockReference,"FDI",L-MON,4.99808
+BECDD5,MText,"Fd.I. Pit N.E. 24",L-MON,10.995721000000005
+BECE98,BlockReference,"FDI",L-MON,4.99808
+BECEBF,BlockReference,"GAS",C-WS-S,4.99808
+BECF59,BlockReference,"fdspike",L-MON,4.99808
+BECF5A,BlockReference,"fdspike",L-MON,4.99808
+BECF5C,BlockReference,"plspike",L-MON,4.99808
+BECF5E,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.99808
+BECF60,BlockReference,"FDI",L-MON,4.99808
+BECFC2,AlignedDimension,"Obsidian  P/L R/W  032 0234  010266",C-RW-T,Compass 5 000
+BED092,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BED0C6,AlignedDimension,"Obsidian  A/R  180",C-AR-T,Compass 5 000
+BED10A,DBText,"87°51'45''",L-BD,9.99616
+BED10E,DBText,"45"",L-BD,9.99616
+BED7F8,MText,"100°37'35'' 1033.44(Tie)",L-BD,9.99616
+BED7F9,MText,"100°37'35'' 1033.44(Tie)",L-BD,9.99616
+BED815,MText,"1121.50(Tie) 242°44'25''",L-BD,9.99616
+BED820,DBText,"178°39'45"",L-BD,9.99616
+BED824,DBText,"178°39'45"",L-BD,9.99616
+BEE4BF,MText,"Fd. No Mk. Re-est. Position by  MSL 001265 Pl. Spike",L-MON,10.995721000000005
+BEED7D,MText,"L.S. 1",L-SECTION-LSD,9.996159999999964
+BEED7E,MText,"L.S. 2",L-SECTION-LSD,9.996159999999964
+BEEDA0,MText,"L.S. 8",L-SECTION-LSD,9.996159999999964
+BEEDA1,MText,"L.S. 7",L-SECTION-LSD,9.996159999999964
+BEEDDB,MText,"Fortis O/H  Power Line",AS-POWER,9.996110000000005
+BEEDDC,MText,"6m High Grade Gravel Road",T-TEXT,9.996110000000005
+BEEFB8,DBText,"Government Road Allowance",L-ROAD-T,9.99616
+BEEFB9,DBText,"(Undeveloped)",T-TEXT,9.99616
+BEF69F,BlockReference,"linebrk",L-TIE,4998.08
+BEF72D,DBText,"Obsidian",C-WS-T,10.995721000000005
+BEF72E,DBText,"2-30 (Surface)",C-WS-T,10.995721000000005
+BEF72F,DBText,"MSL 180",C-WS-T,10.995721000000005
+BF051C,DBText,"Fd.I. Mp.",L-MON,10.995721000000005
+BF1B0F,BlockReference,"plspike",L-MON,4.99808
+BF1B8A,BlockReference,"*U57",AS-POWER-EXISTING-ANC,4.99808
+BF1BA2,MText,"4.00 267°",L-BD,9.99616
+BF1BA5,DBText,"51'",L-BD,9.99616
+BF1BA7,BlockReference,"plspike",L-MON,4.99808
+BF1C24,BlockReference,"*U58",L-MON,0.999616
+BF1C66,DBText,"W/H 7-30",C-WS-S,9.99616
+BF2335,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99616
+BF3060,MText,"25.00 AR",P-TXT,9.99616
+BF44C6,AlignedDimension,"Obsidian  A/R  2467",C-AR-T,Compass 5 000
+BF4523,MText,"1121.50(Tie) 242°44'25''",L-BD,9.99616
+BF4BBE,MText,"Obsidian 7-30 (Surface) MSL 002365 (To Be Cancelled)",C-WS-T,10.995721000000005
+BF4CEC,BlockReference,"*U60",AS-POWER-EXISTING-ANC,4.99808
+BF970F,BlockReference,"Disclaimer_Legal",AS-POWER-EXISTING-ANC,0.29988479999999995
+BF985A,MText,"Rge. 10",D-TXT,14
+BF985B,MText,"Rge. 9",D-TXT,14
+BF985C,MText,"120.00 357°51'45"",L-BD,10
+BF985D,MText,"120.00 177°51'45"",L-BD,10

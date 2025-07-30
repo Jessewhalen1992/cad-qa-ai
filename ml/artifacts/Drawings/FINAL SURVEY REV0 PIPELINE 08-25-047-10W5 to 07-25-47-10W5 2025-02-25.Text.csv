@@ -1,0 +1,140 @@
+Handle,ObjType,Content,Layer,Extra
+BD264A,BlockReference,"L-SECLBL",L-SECLBL,0.999611
+BD265F,DBText,"S.E.1/4 Sec. 25-47-10-W.5M.",C-SYMBOL,19.992220000000017
+BD26B3,DBText,"Government Road Allowance",L-ROAD-T,9.99611
+BD26B4,MText,"Rge. 10",D-TXT,13.994554000000004
+BD26B5,MText,"Rge. 9",D-TXT,13.994554000000004
+BD26B6,DBText,"Government Road Allowance",L-ROAD-T,9.99611
+BD26B8,MText,"Fortis O/H Power Line",AS-POWER,9.996110000000005
+BD26BC,AlignedDimension,"Obsidian  A/R  240606",C-AR-T,Compass 5 000
+BD26BD,AlignedDimension,"Obsidian  A/R  240282",C-AR-T,Compass 5 000
+BD26BE,AlignedDimension,"Obsidian  A/R  61",C-AR-T,Compass 5 000
+BD26E6,AlignedDimension,"Obsidian  P/L R/W  021389",C-RW-T,Compass 5 000
+BD26E7,AlignedDimension,"Obsidian  P/L R/W  022 7375  021390",C-RW-T,Compass 5 000
+BD26E8,AlignedDimension,"Obsidian  P/L R/W  958",C-RW-T,Compass 5 000
+BD26E9,AlignedDimension,"Obsidian  P/L R/W  071825",C-RW-T,Compass 5 000
+BD26EA,AlignedDimension,"Obsidian  P/L R/W  916",C-RW-T,Compass 5 000
+BD26EB,AlignedDimension,"Obsidian  P/L R/W  022 2528  001854",C-RW-T,Compass 5 000
+BD26EC,AlignedDimension,"Obsidian  P/L R/W  937",C-RW-T,Compass 5 000
+BD26ED,AlignedDimension,"Obsidian  P/L R/W  3160",C-RW-T,Compass 5 000
+BD26EE,AlignedDimension,"Obsidian  P/L R/W  121345  To Be Cancelled)",C-RW-T,Compass 5 000
+BD26EF,MText,"Obsidian Water Reservoir LOC 240634",C-WS-T,9.996110000000005
+BD26F1,MText,"Obsidian 8-25 (Surface) MSL 61",C-WS-T,10.995721000000005
+BD26F3,MText,"Obsidian 8-25 (Surface) MSL 120492 (Expired)",C-WS-T,10.995721000000005
+BD26F5,MText,"Obsidian 2-25 (Surface) MSL 020095",C-WS-T,10.995721000000005
+BD26F7,MText,"Obsidian 2-25 (Surface) MSL 001629",C-WS-T,10.995721000000005
+BD26F9,MText,"Obsidian 4-30 (Surface) MSL 020072",C-WS-T,10.995721000000005
+BD26FB,AlignedDimension,"Westbrick  Cable R/W  080025",F-EZE-T,Compass 5 000
+BD26FC,AlignedDimension,"28.86 P/L R/W  802 1173  on PLSR)",F-RW-T,Compass 5 000
+BD26FD,AlignedDimension,"NGTL  P/L R/W  1776 MC  570",F-RW-T,Compass 5 000
+BD26FE,AlignedDimension,"Westbrick  P/L R/W  112 4739  072180",F-RW-T,Compass 5 000
+BD26FF,AlignedDimension,"Westbrick  P/L R/W  092 4702  060895",F-RW-T,Compass 5 000
+BD2700,AlignedDimension,"Keyera  P/L R/W  170521",F-RW-T,Compass 5 000
+BD2701,MText,"Westbrick 8-25 (Surface) MSL 064617",F-WS-T,10.995721000000005
+BD2703,MText,"Westbrick Riser Site PIL 070027",F-WS-T,10.995721000000005
+BD2706,DBText,"(Undeveloped)",T-TEXT,9.99611
+BD2707,MText,"35cm Spruce & Poplar",T-BUSH-T,9.996122100000003
+BD2708,MText,"35cm Spruce & Poplar",T-BUSH-T,9.996122100000003
+BD2709,BlockReference,"*U32",AS-OWNER,0.999611
+BDBAE1,MText,"TPA 624",AS-TRAPPER-T,9.996122100000003
+BDBAE2,MText,"TPA 2058",AS-TRAPPER-T,9.996122100000003
+BDBB64,MText,"TPA 2058",AS-TRAPPER-T,9.996122100000003
+BDBB65,MText,"TPA 881",AS-TRAPPER-T,9.996122100000003
+BE20C1,BlockReference,"FDI",L-MON,5
+BE2B53,BlockReference,"FDI",L-MON,5
+BE2B9A,BlockReference,"FDI",L-MON,5
+BE2B9F,BlockReference,"FDI",L-MON,5
+BE2BA4,BlockReference,"FDI",L-MON,5
+BE2BA9,BlockReference,"FDI",L-MON,5
+BE2BAE,BlockReference,"FDI",L-MON,5
+BE2BB3,BlockReference,"FDI",L-MON,5
+BE2BB8,BlockReference,"FDI",L-MON,5
+BE2BBD,BlockReference,"FDI",L-MON,5
+BE2BC2,BlockReference,"FDI",L-MON,5
+BE2BC7,BlockReference,"FDI",L-MON,5
+BE2BCC,BlockReference,"FDI",L-MON,5
+BE4427,BlockReference,"RISER",AS-SYMBOL,5
+BE442C,BlockReference,"RISER",AS-SYMBOL,5
+BE4435,BlockReference,"RISER",AS-SYMBOL,5
+BE4F90,BlockReference,"RISER",AS-SYMBOL,5
+BE4FB9,BlockReference,"RISER",AS-SYMBOL,5
+BE4FBE,BlockReference,"RISER",AS-SYMBOL,5
+BE4FC3,BlockReference,"RISER",AS-SYMBOL,5
+BE4FC8,BlockReference,"RISER",AS-SYMBOL,5
+BE4FCD,BlockReference,"RISER",AS-SYMBOL,5
+BE80C2,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+BE80C3,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+BE80C4,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+BE80C5,BlockReference,"*U51",AS-POWER-EXISTING-ANC,5
+BE8B8F,MText,"Fortis O/H  Power Line",AS-POWER,10
+BE8D88,AlignedDimension,"Obsidian  A/R  61",C-AR-T,Compass 5 000
+BE8D96,AlignedDimension,"Obsidian  P/L R/W  021389",C-RW-T,Compass 5 000
+BE8D97,AlignedDimension,"Obsidian  P/L R/W  022 7375  021390",C-RW-T,Compass 5 000
+BE8D98,AlignedDimension,"Obsidian  P/L R/W  3160",C-RW-T,Compass 5 000
+BE8D9A,MText,"Obsidian 8-25 (Surface) MSL 61",C-WS-T,10
+BE8DA0,AlignedDimension,"Westbrick  Cable R/W  080025",F-EZE-T,Compass 5 000
+BE8DA9,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAA,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAB,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAC,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAD,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAE,BlockReference,"RISER",AS-SYMBOL,5
+BE8DAF,BlockReference,"RISER",AS-SYMBOL,5
+BE8DB0,BlockReference,"RISER",AS-SYMBOL,5
+BE8DB1,BlockReference,"RISER",AS-SYMBOL,5
+BE8DBB,BlockReference,"FDI",L-MON,5
+BE8DBC,BlockReference,"FDI",L-MON,5
+BE8DBE,BlockReference,"FDI",L-MON,5
+BE8DBF,BlockReference,"FDI",L-MON,5
+BE8DC0,BlockReference,"FDI",L-MON,5
+BE8DC1,BlockReference,"FDI",L-MON,5
+BE8DC2,BlockReference,"FDI",L-MON,5
+BE8DC3,BlockReference,"FDI",L-MON,5
+BE8DC4,BlockReference,"FDI",L-MON,5
+BE8DCD,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+BE8DCE,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+BE8DCF,BlockReference,"*U58",AS-POWER-EXISTING-ANC,5
+BE8FA8,AlignedDimension,"Westbrick  P/L R/W  112 4739  072180",F-RW-T,Compass 5 000
+BEA5A5,MText,"Building",AS-STRUCTURE-T,10.000000000000052
+BEAF7D,BlockReference,"TEMP",L-MON,5
+BEAF82,BlockReference,"PIG",AS-SYMBOL,5
+BEAF83,MText,"Fd.I. (P187)",L-MON-T,10
+BEB896,MText,"Fd.I. c.s. (P187)",L-MON-T,10
+BEB898,MText,"Fd.I. Mp.",L-MON-T,10
+BEB89C,MText,"Fd.I. Mp. (P187)",L-MON-T,10
+BEB89E,MText,"Fd.I. Mp.",L-MON-T,10
+BEB8A0,MText,"Fd.I. Mp.",L-MON-T,10
+BEB8A2,MText,"Fd.I. Mp. (P187)",L-MON-T,10
+BEC32D,MText,"Fd.I. c.s.",L-MON-T,10
+BEC32F,MText,"Fd.I. Mp.(P187)",L-MON-T,10
+BEC333,MText,"226°26'10'' 249.19(Tie)",L-BD,10
+BEC36E,DBText,"358°43'20''",L-BD,10
+BECC8A,MText,"Fd.I. c.s.",L-MON-T,10
+BECC8F,DBText,"273°56'35"",L-BD,10
+BECCA0,DBText,"18'",L-BD,10
+BECCAA,DBText,"20"",L-BD,10
+BECCAD,MText,"358°43'20'' 300.59",L-BD,10
+BECCB8,DBText,"301.41(Tie)",L-BD,10
+BECCB9,DBText,"2°31'30''",L-BD,10
+BED648,DBText,"268°",L-BD,10
+BED64D,DBText,"133°28'55''",L-BD,10
+BED64F,DBText,"88°",L-BD,10
+BEE0D9,DBText,"20''",L-BD,10
+BEE0DB,DBText,"93°56'35''",L-BD,10
+BEE19C,DBText,"18'",L-BD,10
+BEEE31,MText,"Fd.I.  Pit E.1/4 25",L-MON-T,10
+BEEE33,MText,"Fd.I.  Pit N.E. 24",L-MON-T,10
+BEF4CC,DBText,"(Undeveloped)",T-TEXT,9.99611
+BEFE59,DBText,"358°39'00''",L-BD,10
+BEFEE2,DBText,"301.41(Tie)",L-BD,10
+BEFEE3,DBText,"2°31'30''",L-BD,10
+BF2C7C,MText,"15.00 3°56'35"",L-BD,10
+BF3625,BlockReference,"*U61",DETAIL-T,1
+BF365F,BlockReference,"*U61",DETAIL-T,1
+BF494C,AlignedDimension,"Obsidian  P/L R/W  958",C-RW-T,Compass 5 000
+BF7356,DBText,"Area Required = 0.622 ha  1.54 Ac.",L-AREAREQUIRED,11
+BF747F,MText,"226°26'10'' 249.19(Tie)",L-BD,10
+BF889A,AlignedDimension,"Obsidian  P/L R/W  121345  To Be Cancelled)",C-RW-T,Compass 5 000
+BF8903,BlockReference,"*U64",C-RW-T,1
+BF8946,AlignedDimension,"Obsidian  A/R  61",C-RW-T,Compass 5 000
+BFCD0F,BlockReference,"Disclaimer_Legal",C-SYMBOL,0.25

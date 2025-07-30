@@ -1,0 +1,121 @@
+Handle,ObjType,Content,Layer,Extra
+BF7E7C,BlockReference,"L-SECLBL",L-SECLBL,0.999611
+BF7E8D,DBText,"N.W.1/4 Sec. 30-47-9-W.5M.",C-SYMBOL,19.992220000000017
+BF7ECE,DBText,"Government Road Allowance",L-ROAD-T,9.996110000000002
+BF7ECF,MText,"Rge. 10",D-TXT,13.994554000000004
+BF7ED0,MText,"Rge. 9",D-TXT,13.994554000000004
+BF7ED4,MText,"Fortis O/H Power Line",AS-POWER,9.996110000000005
+BF7EDA,AlignedDimension,"Obsidian  A/R  800929",C-AR-T,Compass 5 000
+BF7EDB,AlignedDimension,"Obsidian  A/R  131340  To Be Cancelled)",C-AR-T,Compass 5 000
+BF7EDD,AlignedDimension,"Obsidian  A/R  180",C-AR-T,Compass 5 000
+BF7EDE,AlignedDimension,"Obsidian  A/R  7623  Be Cancelled)",C-AR-T,Compass 5 000
+BF7EDF,AlignedDimension,"Obsidian  A/R  61",C-AR-T,Compass 5 000
+BF7EE1,AlignedDimension,"Obsidian  Flowline R/W  180",C-FLOWLINE-T,Compass 5 000
+BF7EE2,AlignedDimension,"Obsidian  Flowline R/W  176",C-FLOWLINE-T,Compass 5 000
+BF7EE3,AlignedDimension,"Obdisidian  P/L R/W  232033",C-RW-T,Compass 5 000
+BF7EF0,AlignedDimension,"Obsidian  P/L R/W  032 0199  012125",C-RW-T,Compass 5 000
+BF7EF1,AlignedDimension,"Obsidian  P/L R/W  032 2282  021363",C-RW-T,Compass 5 000
+BF7EF2,AlignedDimension,"Obsidian  P/L R/W  832 2633  830330",C-RW-T,Compass 5 000
+BF7EF3,AlignedDimension,"Obsidian  P/L R/W  021389",C-RW-T,Compass 5 000
+BF7EFA,AlignedDimension,"Obsidian  P/L R/W  5517 KS  5895",C-RW-T,Compass 5 000
+BF7EFB,MText,"Obsidian 14-30 (Surface) MSL 176",C-WS-T,10.995721000000005
+BF7EFD,MText,"Obsidian 11-30 (Surface) MSL 801368",C-WS-T,10.995721000000005
+BF7EFF,MText,"Obsidian 12-30 (Surface) MSL 180",C-WS-T,10.995721000000005
+BF7F01,MText,"Obsidian 12-30 (Surface) MSL 015266",C-WS-T,10.995721000000005
+BF7F04,MText,"Obsidian Riser Site PIL 130411 (Expired, To Be Cancelled)",C-WS-T,10.995721000000005
+BF7F06,AlignedDimension,"Fortis  Powerline R/W  2479",F-EZE-T,Compass 5 000
+BF7F07,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BF7F08,AlignedDimension,"Fortis  Powerline R/W  020263",F-EZE-T,Compass 5 000
+BF7F09,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BF7F0A,AlignedDimension,"ATCO  P/L R/W  160018",F-RW-T,Compass 5 000
+BF7F10,MText,"JIM F POITRAS Trappers Cabin MLP 020042 (Expired)",F-WS-T,10.995721000000005
+BF7F12,DBText,"(Undeveloped)",T-TEXT,9.996110000000002
+BF7F13,BlockReference,"*U29",AS-OWNER,0.999611
+BF7F22,BlockReference,"GAS",C-WS-S,4.998055000000001
+BF7F23,BlockReference,"GAS",C-WS-S,4.998055000000001
+BF7F24,BlockReference,"GAS",C-WS-S,4.998055000000001
+BF7F25,BlockReference,"GAS",C-WS-S,4.998055000000001
+BF7F26,BlockReference,"GAS",C-WS-S,4.998055000000001
+BFA9B6,BlockReference,"TEMP",L-MON,4.99808
+BFB9FD,BlockReference,"FDI",L-MON,5
+BFCAA5,BlockReference,"GAS",AS-SYMBOL,5
+BFE136,BlockReference,"TEMP",L-MON,4.99808
+BFE137,BlockReference,"TEMP",L-MON,4.99808
+BFE138,BlockReference,"TEMP",L-MON,4.99808
+BFE139,BlockReference,"TEMP",L-MON,4.99808
+BFE13A,BlockReference,"TEMP",L-MON,4.99808
+BFE13B,BlockReference,"TEMP",L-MON,4.99808
+BFE29A,MText,"Obsidian 14-30 (Surface) MSL 176",C-WS-T,9.99616
+BFE29C,AlignedDimension,"Fortis  Vegetation  R/W  870463",F-EZE-T,Compass 5 000
+BFE29F,BlockReference,"GAS",C-WS-S,4.99808
+BFE2A0,BlockReference,"TEMP",L-MON,4.99808
+BFE2A1,BlockReference,"TEMP",L-MON,4.99808
+BFE2A2,BlockReference,"TEMP",L-MON,4.99808
+BFE2A3,BlockReference,"TEMP",L-MON,4.99808
+BFE2A4,BlockReference,"TEMP",L-MON,4.99808
+BFE41E,DBText,"88°39'45"",L-BD,9.99616
+BFF7C3,DBText,"39'",L-BD,9.992321474559999
+BFF7CC,DBText,"15''",L-BD,9.992321474559999
+C03648,BlockReference,"FDI",L-MON,4.99808
+C03651,MText,"Fd.I. Pit E.1/4 25",L-MON,10.991498643136005
+C0365B,MText,"Fd. No Mk. N.E.25 Re-est. Position by DML 200001",L-MON,10.991498643136005
+C0365E,MText,"Fd.I. c.s. E.1/4 36",L-MON,10.991498643136005
+C03660,MText,"Weyerhaeuser Industrial Camp DML 3046 (Expired)",F-WS-T,10.995721000000005
+C042C6,BlockReference,"*U49",L-TIE,0.999616
+C04378,AlignedDimension,"20.12 A/R  'A')",P-TXT,Compass 5 000
+C043E5,DBText,"18'",L-BD,9.99616
+C043E7,DBText,"35''",L-BD,9.99616
+C04AAE,DBText,"108°",L-BD,9.99616
+C04AAF,DBText,"947.52(Tie)",L-BD,9.99616
+C04AB0,DBText,"227°46'30''",L-BD,9.99616
+C04ACC,MText,"20.12  calc.",P-TXT,9.99616
+C0596F,BlockReference,"TEMP",L-MON,4.99808
+C05970,BlockReference,"TEMP",L-MON,4.99808
+C05971,BlockReference,"TEMP",L-MON,4.99808
+C05979,BlockReference,"TEMP",L-MON,4.99808
+C0597A,MText,"39' 65.97",L-BD,9.99616
+C0597E,MText,"15" 25.47",L-BD,9.99616
+C0597F,MText,"88° 578.75",L-BD,9.99616
+C05983,MText,"88.30 358°",L-BD,9.99616
+C0620B,MText,"268°39'15" 91.44",L-BD,9.99616
+C0620C,MText,"65.83 178°",L-BD,9.99616
+C06210,DBText,"15''",L-BD,9.99616
+C06212,DBText,"39'",L-BD,9.99616
+C06B06,MText,"Variable Width A/R",P-TXT,9.99616
+C06B07,MText,"Variable Width A/R (Area 'B')",P-TXT,9.99616
+C06B08,MText,"7m High Grade Gravel Road",T-TEXT,9.996159999999998
+C06BCD,DBText,"947.52(Tie)",L-BD,9.99616
+C06BCE,DBText,"227°46'30''",L-BD,9.99616
+C07270,MText,"Creek",T-WATER,9.996159999999998
+C072AB,BlockReference,"xing2",P-CROSSINGS,0.999616
+C07C77,DBText,"Access Road = 1.290 ha  3.19 Ac.",L-AREAWORK,10.995776
+C09D3C,DBText,"L.S. 13",L-SECTION-LSD,10
+C09D3D,DBText,"L.S. 14",L-SECTION-LSD,10
+C09D3E,DBText,"L.S. 11",L-SECTION-LSD,10
+C09D3F,DBText,"L.S. 12",L-SECTION-LSD,10
+C09D40,MText,"Culvert (600mm Dia., Length 17.2m)",T-TEXT,9.996159999999998
+C0A3E2,MText,"W/H 14-30",C-WS-T,9.99616
+C0C186,BlockReference,"TEMP",L-MON,5
+C0C187,BlockReference,"TEMP",L-MON,5
+C0D8A1,MText,"Obsidian 30.48 A/R MSL 176 (As-Built)",C-AR-T,10
+C0D8F0,DBText,"178°",L-BD,9.992321474559999
+C0DECC,DBText,"178°38'45''",L-BD,9.992321474559999
+C0DFB4,AlignedDimension,"Obsidian  A/R  176",C-AR-T,Compass 5 000
+C0DFE2,BlockReference,"TEMP",L-MON,5
+C0E5B8,MText,"46.21 88°39'15"",L-BD,9.99616
+C0EC5D,BlockReference,"TEMP",L-MON,5
+C0EC82,MText,"268°39'15"  18.45",L-BD,9.99616
+C0EC84,BlockReference,"TEMP",L-MON,5
+C0F394,DBText,"108°18'35''",L-BD,9.99616
+C0F3CD,MText,"3.14 358°39'15"",L-BD,9.99616
+C0F3D0,MText,"16.98 15"",L-BD,9.99616
+C0F3D2,DBText,"39'",L-BD,9.99616
+C0F9E3,MText,"Fd. No Mk. Re-est. Position by  MSL 176",L-MON,9.99616
+C0F9ED,MText,"Fd. No Mk. Re-est. Position by MSL 176",L-MON,9.99616
+C0F9EF,MText,"Fd. No Mk. Re-est. Position by MSL 176",L-MON,9.99616
+C0F9F3,MText,"Fd. No Mk. Re-est. Position by  MSL 176",L-MON,9.99616
+C0F9FA,MText,"20.12 A/R (Area 'A')",P-TXT,9.99616
+C1472C,MText,"Culvert (400mm Dia., Length 10.8m)",T-TEXT,9.996159999999998
+C1472E,MText,"Culvert (750mm Dia., Length 11.2m)",T-TEXT,9.996159999999998
+C19E69,BlockReference,"Disclaimer_Legal",T-TEXT,0.15
+C19E6F,MText,"Obsidian 20.12 A/R MSL 7623 (To Be Cancelled)",C-AR-T,10

@@ -1,0 +1,43 @@
+Handle,ObjType,Content,Layer,Extra
+BC6F84,BlockReference,"L-SECLBL",L-SECLBL,1
+BC8B9C,AlignedDimension,"Fortis  Power Line R/W  220043",F-EZE-T,Compass 5 000
+BC8BE0,AlignedDimension,"Fortis  Power Line R/W  920163",F-EZE-T,Compass 5 000
+BC8C0C,AlignedDimension,"Obsidian  A/R  5991",C-AR-T,Compass 5 000
+BC9470,MText,"Spartan 6-12 (Surface) MSL 993211",F-WS-T,10
+BC947B,BlockReference,"GABD",F-WS-S,5
+BC947C,AlignedDimension,"Obsidian  Flow Line R/W  2352",C-FLOWLINE-T,Compass 5 000
+BC94EC,AlignedDimension,"Baytex  P/L R/W  051400",F-RW-T,Compass 5 000
+BC9D38,AlignedDimension,"Obsidian  P/L R/W  870719",C-AR-T,Compass 5 000
+BCA582,AlignedDimension,"Pembina  P/L R/W  4383 KS  5042",F-RW-T,Compass 5 000
+BCA5B3,AlignedDimension,"Ricochet  P/L R/W  4833 KS  5239",F-RW-T,Compass 5 000
+BCADF6,AlignedDimension,"Obsidian  P/L R/W  4785",F-RW-T,Compass 5 000
+BCAE30,AlignedDimension,"Baytex  P/L R/W  052613",F-RW-T,Compass 5 000
+BCAE5D,AlignedDimension,"Pembina  P/L R/W  2080 KS  3124",F-RW-T,Compass 5 000
+BCBFDE,BlockReference,"TEMP",L-MON,5
+BCBFDF,BlockReference,"TEMP",L-MON,5
+BCD047,DBText,"30.5 calc.",L-BD,10
+BCD053,BlockReference,"*U45",0,1
+BCD0A3,DBText,"S.W.1/4 Sec. 12-49-9-W.5M.",C-SYMBOL,20
+BCE102,AlignedDimension,"15.24 A/R",P-TXT,Compass 5 000
+BCE16E,BlockReference,"*U47",AS-OWNER,1
+BCFB24,BlockReference,"xing2",P-CROSSINGS,0.999644
+BCFB2B,BlockReference,"xing2",P-CROSSINGS,0.999644
+BCFB32,BlockReference,"xing2",P-CROSSINGS,0.999644
+BCFB39,BlockReference,"xing2",P-CROSSINGS,0.999644
+BD0DC5,MText,"Fortis O/H Power Line",AS-POWER-T,10.002408346870103
+BD0DCF,MText,"GRL 780290 Boundary",F-WS-T,10
+BD168C,AlignedDimension,"Obsidian  Flow Line R/W  2352",C-FLOWLINE-T,Compass 5 000
+BD16CA,AlignedDimension,"Obsidian  Flow Line R/W  2352",C-FLOWLINE-T,Compass 5 000
+BD2C7B,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.99644
+BD8AD0,AlignedDimension,"Obsidian  A/R  4785",C-AR-T,Compass 5 000
+BD8B37,MText,"Obsidian 6-12 (Surface) ROE 4785",C-AR-T,9.99644
+BD92CA,AlignedDimension,"30.48 Road  132 1292",L-TITLEDB-T,Compass 5 000
+BD9336,DBText,"Government Road Allowance",L-ROAD-T,9.996439999999998
+BD9ACA,DBText,"358°34'",L-BD,9.99644
+BDA3B1,DBText,"195.0 (Tie)",L-BD,9.99644
+BDA3B2,DBText,"180°05'",L-BD,9.99644
+BDA3B5,DBText,"88°16'",L-BD,9.99644
+BDAB46,DBText,"662.1 (Tie)",L-BD,9.99644
+BDAB47,DBText,"156°02'",L-BD,9.99644
+BDF9DA,BlockReference,"Disclaimer_Legal",0,0.25
+BDFE58,DBText,"Area Required = 0.834 ha  2.06 Ac.",L-AREAREQUIRED,10.999999999999996

@@ -1,0 +1,96 @@
+Handle,ObjType,Content,Layer,Extra
+BC5383,BlockReference,"L-SECLBL",L-SECLBL,1
+BC5389,BlockReference,"L-SECLBL",L-SECLBL,1
+BC5392,MText,"L.S. 3",L-SECTION-LSD,10
+BC5394,MText,"L.S. 4",L-SECTION-LSD,10
+BC5396,MText,"L.S. 6",L-SECTION-LSD,10
+BC5398,MText,"L.S. 5",L-SECTION-LSD,10
+BC539A,MText,"L.S. 1",L-SECTION-LSD,10
+BC539B,MText,"L.S. 2",L-SECTION-LSD,10
+BC539D,MText,"L.S. 8",L-SECTION-LSD,10
+BC539E,MText,"L.S. 7",L-SECTION-LSD,10
+BC5417,MText,"Fortis O/H Power Line",AS-POWER,10
+BC5419,MText,"Fortis O/H Power Line",AS-POWER,10
+BC541B,MText,"Fortis O/H Power Line",AS-POWER,10
+BC541E,BlockReference,"RP",CG-NOTES,1
+BC5423,AlignedDimension,"Obsidian  A/R  031221",C-AR-T,Compass 5 000
+BC5424,AlignedDimension,"Obsidian  A/R  031496",C-AR-T,Compass 5 000
+BC5425,AlignedDimension,"Obsidian  A/R  042462",C-AR-T,Compass 5 000
+BC5426,AlignedDimension,"Obsidian  A/R  7372  To  Cancelled)",C-AR-T,Compass 5 000
+BC5427,AlignedDimension,"Obsidian  A/R  3891",C-AR-T,Compass 5 000
+BC5428,AlignedDimension,"Obsidian  A/R  5917",C-AR-T,Compass 5 000
+BC5429,AlignedDimension,"Obsidian  Flow Line R/W ROE 3891",C-FLOWLINE-T,Compass 5 000
+BC542A,AlignedDimension,"Obsidian  Flow Line R/W  5917",C-FLOWLINE-T,Compass 5 000
+BC542B,AlignedDimension,"Obsidian  P/L R/W  062 3378  031955",C-RW-T,Compass 5 000
+BC542C,AlignedDimension,"Obsidian  P/L R/W  072 4015  032723",C-RW-T,Compass 5 000
+BC542D,AlignedDimension,"Obsidian  P/L R/W  072 4015  032723",C-RW-T,Compass 5 000
+BC542E,MText,"Obsidian 2-20 (Surface) MSL 032256",C-WS-T,9.995920000000007
+BC5430,MText,"Obsidian 4-21 (Surface) MSL 031774",C-WS-T,9.995920000000007
+BC5432,MText,"Obsidian 8-20 (Surface) ROE 3891",C-WS-T,9.995920000000007
+BC5434,MText,"Obsidian 6-21 (Surface) ROE 5917",C-WS-T,9.995920000000007
+BC5436,AlignedDimension,"Saturn  A/R  119",F-AR-T,Compass 5 000
+BC5437,AlignedDimension,"Saturn  A/R  119",F-AR-T,Compass 5 000
+BC5438,AlignedDimension,"Fortis  Power Line R/W  030232",F-EZE-T,Compass 5 000
+BC5439,AlignedDimension,"Fortis  Power Line R/W  240113",F-EZE-T,Compass 5 000
+BC543A,AlignedDimension,"Fortis  Vegetation Control R/W  880082",F-EZE-T,Compass 5 000
+BC543B,AlignedDimension,"Barrel  P/L R/W  064478",F-RW-T,Compass 5 000
+BC543C,AlignedDimension,"Saturn  P/L R/W  240223",F-RW-T,Compass 5 000
+BC543D,AlignedDimension,"Saturn  P/L R/W  240223",F-RW-T,Compass 5 000
+BC543E,AlignedDimension,"Saturn  P/L R/W  862 1789  830654",F-RW-T,Compass 5 000
+BC543F,AlignedDimension,"Tidewater  P/L R/W  982 5942  972603",F-RW-T,Compass 5 000
+BC5440,AlignedDimension,"Tidewater  P/L R/W  982 5942  972603",F-RW-T,Compass 5 000
+BC5441,MText,"Saturn 2-20 (Surface) MSL 240342",F-WS-T,9.995920000000007
+BC5444,MText,"Paddy Creek",T-WATER-T,10
+BC5445,BlockReference,"GAS",F-WS-S,5
+BC5446,BlockReference,"GAS",F-WS-S,5
+BC5447,BlockReference,"GAS",F-WS-S,5
+BC5448,BlockReference,"GAS",C-WS-S,5
+BC5449,BlockReference,"GAS",C-WS-S,5
+BC544A,BlockReference,"GAS",C-WS-S,5
+BC544B,BlockReference,"GAS",C-WS-S,5
+BCABDB,MText,"5m Medium Grade Gravel Road",T-TEXT,9.995920000000007
+BCABE8,MText,"5m Medium Grade Gravel Road",T-TEXT,9.995920000000007
+BCB3DC,MText,"Texas Gate",T-TEXT,9.995920000000007
+BCC3AB,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3AC,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3AD,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3AE,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3AF,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3B0,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3B1,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3B2,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3B3,BlockReference,"TEMP",L-MON,4.998011100000002
+BCC3B4,BlockReference,"TEMP",L-MON,4.998011100000002
+BCD57E,DBText,"273.3 (Tie)",L-BD,9.996022200000004
+BCD57F,DBText,"210°32'",L-BD,9.996022200000004
+BCD581,DBText,"89°08'",L-BD1,9.996022200000004
+BCD583,DBText,"89°08'",L-BD1,9.996022200000004
+BCD585,DBText,"104°18'",L-BD1,9.996022200000004
+BCD587,DBText,"79°18'",L-BD1,9.996022200000004
+BCD589,DBText,"87°11'",L-BD1,9.996022200000004
+BCD58B,DBText,"71°07'",L-BD1,9.996022200000004
+BCD58D,DBText,"44°27'",L-BD1,9.996022200000004
+BCD58F,DBText,"90°12'",L-BD1,9.996022200000004
+BCD591,DBText,"125°10'",L-BD1,9.996022200000004
+BCD592,DBText,"861.2 (Tie)",L-BD,9.996022200000004
+BCD593,DBText,"220°19'",L-BD,9.996022200000004
+BCE659,DBText,"178°48'",L-BD,9.996022200000004
+BCE65D,DBText,"178°49'",L-BD,9.996022200000004
+BCE675,DBText,"Government Road Allowance",L-ROAD-T,9.996022200000004
+BCE676,DBText,"(Undeveloped)",T-TEXT,9.996022200000004
+BCE677,MText,"20.12 calc.",P-TXT,9.996022200000004
+BCEE6E,AlignedDimension,"Obsidian  A/R  7372  To  Cancelled)",C-AR-T,Compass 5 000
+BCEE98,MText,"Fence",T-TEXT,9.995920000000007
+BD0109,DBText,"S.E.1/4 Sec. 20-48-10-W.5M.",C-SYMBOL,19.992044400000008
+BD010A,DBText,"Access Road = 0.290 ha  0.72 Ac.",L-AREAREQUIRED,10.995624420000004
+BD010B,DBText,"S.W.1/4 Sec. 21-48-10-W.5M.",C-SYMBOL,19.992044400000008
+BD010C,DBText,"Access Road = 1.231 ha  3.04 Ac.",L-AREAREQUIRED,10.995624420000004
+BD09A9,AlignedDimension,"20.12 A/R",P-TXT,Compass 5 000
+BD09D1,AlignedDimension,"20.12 A/R",P-TXT,Compass 5 000
+BD6A38,MText,"Birch, Poplar & Spruce",T-BUSH-T,9.995920000000007
+BD6A3A,MText,"Birch, Poplar & Spruce",T-BUSH-T,9.995920000000007
+BD6A3C,MText,"Birch, Poplar & Spruce",T-BUSH-T,9.995920000000007
+BD6A3E,MText,"Birch, Poplar & Spruce",T-BUSH-T,9.995920000000007
+BD9348,DBText,"358°43'",L-BD,9.9960222
+BD934A,AlignedDimension,"Fortis  Vegetation  R/W  880082",F-EZE-T,Compass 5 000
+BDD0C4,BlockReference,"Disclaimer_Legal",0,0.3

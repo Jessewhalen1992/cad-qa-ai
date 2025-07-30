@@ -1,0 +1,75 @@
+Handle,ObjType,Content,Layer,Extra
+BC6409,BlockReference,"RP",CG-NOTES,-1
+BC7CF3,BlockReference,"L-SECLBL",L-SECLBL,0.9996209999999999
+BC7E03,DBText,"N.E.1/4 Sec. 18-49-9-W.5M.",C-SYMBOL,19.99241999999991
+BC7E12,DBText,"(High Grade Gravel)",T-TEXT,9.996209999999955
+BC7E13,DBText,"Government Road Allowance",L-ROAD-T,9.996209999999955
+BC8549,BlockReference,"*U22",CG-NOTES,0.9996209999999999
+BC85AC,AlignedDimension,"Fortis  Vegetation Control R/W  870408",F-EZE-T,Compass 5 000
+BC8745,AlignedDimension,"Obsidian  A/R  851214",C-AR-T,Compass 5 000
+BC8978,MText,"Obsidian 9-18 (Surface) MSL 801423",C-WS-T,9.996209999999962
+BC89B5,MText,"Obsidian 9-18 (Surface) MSL 981583 (Expired)",C-WS-T,9.996209999999962
+BC8AD6,AlignedDimension,"Obsidian  Flow Line R/W  975",C-FLOWLINE,Compass 5 000
+BC8AFA,AlignedDimension,"Obsidian  P/L R/W  012 3586  010634",C-RW-T,Compass 5 000
+BC8C3F,AlignedDimension,"Obsidian  P/L R/W  012188",C-RW-T,Compass 5 000
+BC8C79,AlignedDimension,"Keyera  P/L R/W  052 3697  034291",F-RW-T,Compass 5 000
+BC8E2B,AlignedDimension,"Obsidian  P/L R/W  062415",C-RW-T,Compass 5 000
+BC8E53,AlignedDimension,"Obsidian  P/L R/W  230938",C-RW-T,Compass 5 000
+BC8E8D,AlignedDimension,"Obsidian  P/L R/W  240287",C-RW-T,Compass 5 000
+BC8EB5,AlignedDimension,"Obsidian  P/L R/W  780456",C-RW-T,Compass 5 000
+BC9109,AlignedDimension,"Obsidian  P/L R/W  830445",C-RW-T,Compass 5 000
+BC916B,AlignedDimension,"Obsidian  P/L R/W  942 0287  930676",C-RW-T,Compass 5 000
+BC91B8,MText,"Obsidian 16-18 (Surface) ROE 2786",C-WS-T,9.996209999999962
+BC91B9,AlignedDimension,"Obsidian  A/R  2786",C-AR-T,Compass 5 000
+BC91F2,AlignedDimension,"Obsidian  Flow Line R/W  2786",C-FLOWLINE-T,Compass 5 000
+BC93E5,MText,"Obsidian Battery Site ROE 3030",C-WS-T,9.996209999999962
+BC93E6,AlignedDimension,"Obsidian  Flow Line R/W  3030",C-FLOWLINE-T,Compass 5 000
+BC957E,AlignedDimension,"Pembina  P/L R/W  2018 KS  3114",F-RW-T,Compass 5 000
+BC95B8,AlignedDimension,"Obsidian  Flow Line R/W  3422",C-FLOWLINE-T,Compass 5 000
+BC95EB,AlignedDimension,"Obsidian  Flow Line R/W  3551",C-FLOWLINE-T,Compass 5 000
+BC9613,AlignedDimension,"Obsidian  A/R  3551",C-AR-T,Compass 5 000
+BC9670,AlignedDimension,"Obsidian  P/L R/W  4896 KS  4947",C-RW-T,Compass 5 000
+BC998A,MText,"L.S. 9",L-SECTION-LSD,9.996209999999962
+BC998C,MText,"L.S. 10",L-SECTION-LSD,9.996209999999962
+BC998E,MText,"L.S. 16",L-SECTION-LSD,9.996209999999962
+BC9990,MText,"L.S. 15",L-SECTION-LSD,9.996209999999962
+BCA407,BlockReference,"RP",CG-NOTES,-0.9996209999999999
+BCA40A,MText,"Obsidian 9-18 (Surface) MSL 981583 (Expired)",C-WS-T,9.996209999999977
+BCA44B,AlignedDimension,"Fortis  Vegetation Control R/W  870408",F-EZE-T,Compass 5 000
+BCA491,AlignedDimension,"Obsidian  Flow Line R/W  3422",C-FLOWLINE-T,Compass 5 000
+BCA4D9,MText,"Obsidian Battery Site ROE 3030",C-WS-T,9.996209999999962
+BCA5EE,AlignedDimension,"Obsidian  P/L R/W  4896 KS  4947",C-RW-T,Compass 5 000
+BCA64A,AlignedDimension,"Obsidian  P/L R/W  4896 KS  4928",C-RW-T,Compass 5 000
+BCA66E,AlignedDimension,"Obsidian  P/L R/W  942 0287  930676",C-RW-T,Compass 5 000
+BCA6AB,AlignedDimension,"Obsidian  P/L R/W  240287",C-RW-T,Compass 5 000
+BCA6EE,AlignedDimension,"Pembina  P/L R/W  2018 KS  3114",F-RW-T,Compass 5 000
+BCA8A0,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A2,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A3,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A5,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A6,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A8,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8A9,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8AB,BlockReference,"TEMP",L-MON,4.998104999999988
+BCA8C5,DBText,"178%%D33'",L-BD,9.996209999999977
+BCA9E5,DBText,"358%%d33'",L-BD,9.996209999999977
+BCA9E6,DBText,"36.7 (Tie)",L-BD,9.996209999999977
+BCA9E7,DBText,"297%%D15'",L-BD,9.996209999999977
+BCA9F0,MText,"DETAIL 1:1000",DETAIL-T,19.986372492234082
+BCAA3D,MText,"SEE DETAIL",DETAIL-T,15.99393599999996
+BCD40E,BlockReference,"GAS",C-WS-S,4.999999999999991
+BCD41F,BlockReference,"GABD",F-WS-S,4.999999999999991
+BCD420,MText,"9-18 (Abd.)",C-WS-T,9.996209999999962
+BCD429,BlockReference,"GAS",C-WS-S,4.999999999999991
+BCDA99,MText,"Fortis O/H Power Line",AS-POWER,10.988397626934258
+BCDEF4,DBText,"Government Road Allowance",L-ROAD-T,9.996209999999955
+BCDEF5,DBText,"(High Grade Gravel)",T-TEXT,9.996209999999955
+BCE7D2,MText,"E.-W.1/4 Line",L-QSEC,9.99620999999999
+BCE7E2,DBText,"Riser Site = 0.023 ha  0.06 Ac.",L-AREAREQUIRED,10.99583099999999
+BCFBDE,MText,"Fortis O/H Power Line",AS-POWER,10.988397626934258
+BD053D,MText,"Obsidian Riser Site PIL 180201 (Expired)",C-WS-T,9.996209999999962
+BD067D,AlignedDimension,"15.00 P/L R/W  982 2886  on PLSR)",F-RW-T,Compass 5 000
+BD0729,MText,"Obsidian Riser Site PIL 180201 (Expired)",C-WS-T,9.996209999999962
+BD1864,AlignedDimension,"Obsidian  A/R  801423",C-AR-T,Compass 5 000
+BD1DC5,DBText,"88%%d45'",L-BD,9.996209999999998
+BD1DC9,DBText,"268%%D33'",L-BD,9.996209999999998

@@ -1,0 +1,81 @@
+Handle,ObjType,Content,Layer,Extra
+BC8908,BlockReference,"FDI",L-MON,4.999999999999991
+BC890D,BlockReference,"FDI",L-MON,4.999999999999991
+BC892B,BlockReference,"PLI",L-MON,4.999999999999991
+BCBAF4,BlockReference,"L-SECLBL",L-SECLBL,0.99964397
+BCCD85,MText,"Fortis O/H Power Line",AS-POWER,10
+BCCD86,AlignedDimension,"Obsidian  A/R  2363",C-AR-T,Compass 5 000
+BCCD87,AlignedDimension,"Obsidian  A/R  2441",C-AR-T,Compass 5 000
+BCCD88,AlignedDimension,"Obsidian  A/R  2391",C-AR-T,Compass 5 000
+BCCD89,AlignedDimension,"Obsidian  Flow Line R/W  8170",C-AR-T,Compass 5 000
+BCCD8A,AlignedDimension,"Obsidian  A/R  8172",C-AR-T,Compass 5 000
+BCCD8B,AlignedDimension,"Obsidian  Flow Line R/W  3936",C-FLOWLINE-T,Compass 5 000
+BCCD8C,AlignedDimension,"Obsidian  A/R  2362",C-FLOWLINE-T,Compass 5 000
+BCCD8D,AlignedDimension,"Obsidian  Flow Line R/W  3936",C-FLOWLINE-T,Compass 5 000
+BCCD8E,MText,"Obsidian Battery Site ROE 2398",C-WS-T,10
+BCCD8F,MText,"Obsidian 9-31 (Surface) MSL 8144 (Expired)",C-WS-T,10
+BCCD90,MText,"Obsidian 15-31 (Surface) MSL 8166 (Expired)",C-WS-T,10
+BCCD91,MText,"Obsidian 10-31 (Surface) ROE 2363",C-WS-T,10
+BCCD92,AlignedDimension,"Barrel  A/R  100478",F-AR-T,Compass 5 000
+BCCD93,AlignedDimension,"Fortis  Vegetation Control R/W  870399",F-EZE-T,Compass 5 000
+BCCD94,AlignedDimension,"Barrel  P/L R/W  132 0050  053264",F-RW-T,Compass 5 000
+BCCD95,AlignedDimension,"Barrel  P/L R/W  052352",F-RW-T,Compass 5 000
+BCCD97,MText,"Barrel 17.00 A/R LOC 241771",F-RW-T,10
+BCCD98,MText,"Barrel 9-31 (Surface) MSL 060211",F-WS-T,10
+BCCD99,MText,"Barrel Riser Site PIL 240319",F-WS-T,10
+BCCD9A,BlockReference,"*U34",AS-OWNER,1
+BCCDAA,MText,"Pembalta 10.06 P/L R/W Plan 5226 KS ROE 5303",F-RW-T,9.999999999999993
+BCCDAB,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000002
+BCCDAC,DBText,"(Undeveloped)",T-TEXT,10.000000000000002
+BCCDAD,AlignedDimension,"Barrel  P/L R/W  061303",F-AR-T,Compass 5 000
+BCCDAE,AlignedDimension,"Obsidian  A/R  2390",C-AR-T,Compass 5 000
+BCCDAF,AlignedDimension,"Barrel  P/L R/W  162 4015  062013",F-RW-T,Compass 5 000
+BCCDB1,AlignedDimension,"Obsidian  P/L R/W  810504",C-RW-T,Compass 5 000
+BCCDB2,BlockReference,"GAS",C-WS-S,4.998240049999996
+BCCDB3,BlockReference,"GABD",F-WS-S,4.998240049999996
+BCCDB4,MText,"F1/15-31 (Abd.)",F-WS-T,10
+BCCDB5,BlockReference,"GAS",C-WS-S,4.998240049999996
+BCCDB8,MText,"Fd.I. N.E. 31",L-MON,9.988306848938471
+BCCDBA,AlignedDimension,"Obsidian  A/R  8144",C-AR-T,Compass 5 000
+BCCDBC,MText,"Obsidian 30.18 A/R LOC 250320",C-AR-T,9.99648009999999
+BCD814,BlockReference,"GAS",F-WS-S,4.998219849999997
+BCE064,MText,"Obsidian 16-31 (Surface) ROE 2390",C-WS-T,9.9964397
+BD1CB6,BlockReference,"FDI",L-MON,4.99821985
+BD4099,MText,"Twp. 47",D-TXT,13.99501558
+BD409A,MText,"Twp. 48",D-TXT,13.99501558
+BD409D,BlockReference,"FDI",L-MON,4.99821985
+BD409E,BlockReference,"FDI",L-MON,4.99821985
+BD409F,BlockReference,"PLI",L-MON,4.99821985
+BD4A36,DBText,"N.-S.1/4 Line",L-QSEC,9.97616638400829
+BD4A37,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000002
+BD4A38,DBText,"(Undeveloped)",T-TEXT,10.000000000000002
+BD4A39,MText,"Twp. 47",D-TXT,13.99501558
+BD4A3A,MText,"Twp. 48",D-TXT,13.99501558
+BD4A70,DBText,"3m Low Grade Dirt Road",T-TEXT,9.9964397
+BD533B,AlignedDimension,"Obsidian  A/R  8172",C-AR-T,Compass 5 000
+BD5360,AlignedDimension,"A/R  250320",C-AR-T,Compass 5 000
+BD5385,MText,"Obsidian Battery Site ROE 2398",C-WS-T,10
+BD5387,DBText,"88°",L-BD,9.9964397
+BD5389,DBText,"88°28'15''",L-BD,9.9964397
+BD538B,DBText,"15''",L-BD,9.9964397
+BD538C,DBText,"28'",L-BD,9.9964397
+BD538E,DBText,"128°21'00''",L-BD,9.9964397
+BD538F,DBText,"112.14 (Tie)",L-BD,9.9964397
+BD5390,DBText,"292°46'30''",L-BD,9.9964397
+BD53BE,MText,"Fd.I. N.1/4 31",L-MON,9.988306848938471
+BD53CB,BlockReference,"*U56",0,0.99964397
+BD5CA0,BlockReference,"*U57",0,0.99964397
+BD5CFB,AlignedDimension,"Obsidian  P/L R/W  Plan  Compass Geomatics",C-RW-T,Compass 5 000
+BD65A0,AlignedDimension,"Obsidian  P/L R/W  Plan  Compass Geomatics",C-RW-T,Compass 5 000
+BD6614,DBText,"N.E.1/4 Sec. 31-47-8-W.5M.",C-SYMBOL,19.9928794
+BD6615,DBText,"Area Required = 0.066 ha  0.16 Ac.",L-AREAREQUIRED,10.99608367
+BD6644,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.94549747779531
+BD6646,MText,"SEE DETAIL",DETAIL-T,15.981985463014784
+BD66B8,BlockReference,"*U60",DETAIL-T,0.9992921053189998
+BD66CA,BlockReference,"*U60",DETAIL-T,0.9992921053189998
+BD7657,BlockReference,"GAS",C-WS-S,4.998219850000004
+BD9C9C,DBText,"Government Road Allowance",L-ROAD-T,9.9964397
+BD9C9D,DBText,"(Undeveloped)",T-TEXT,9.9964397
+BDA35F,MText,"Fd.I. Mp.",L-MON,9.988306848938471
+BDDB96,MText,"Pembina 10.06 P/L R/W Plan 1639 KS ROE 2534",F-RW-T,9.9964397
+BDEBEE,BlockReference,"Disclaimer_Legal",F-RW-T,0.25

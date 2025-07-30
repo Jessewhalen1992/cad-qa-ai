@@ -1,0 +1,116 @@
+Handle,ObjType,Content,Layer,Extra
+BC74EC,BlockReference,"L-SECLBL",L-SECLBL,1
+BC74F2,MText,"L.S. 9",L-SECTION-LSD,10
+BC74F4,MText,"L.S. 10",L-SECTION-LSD,10
+BC74F6,MText,"L.S. 16",L-SECTION-LSD,10
+BC74F8,MText,"L.S. 15",L-SECTION-LSD,10
+BC74FA,DBText,"Government Road Allowance",L-ROAD-T,10
+BC753D,MText,"N.E.1/4 Sec. 2-49-9-W.5M.",C-SYMBOL,20
+BC753F,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.996439999999978
+BC7549,DBText,"Well Site = 1.618 ha  4.00 Ac.",L-AREAREQUIRED,10.99610644
+BC754A,DBText,"Access Road = 0.265 ha  0.65 Ac.",L-AREAWORK,10.99610644
+BC754F,MText,"SEE DETAIL",DETAIL-T,15.99433664
+BC7553,AlignedDimension,"Obsidian  A/R  140826  1748  To be Cancelled)",C-AR-T,Compass 5 000
+BC7554,AlignedDimension,"Obsidian  Flow Line R/W  1748",C-AR-T,Compass 5 000
+BC7556,AlignedDimension,"Obsidian  A/R  3909",C-AR-T,Compass 5 000
+BC7557,AlignedDimension,"Obsidian  Flow Line R/W  3991",C-AR-T,Compass 5 000
+BC755B,MText,"Obsidian 10.06 Flow Line R/W PLA 2023",C-FLOWLINE-T,10
+BC755D,AlignedDimension,"Obsidian  Flow Line R/W  3528",C-FLOWLINE-T,Compass 5 000
+BC755E,AlignedDimension,"Obsidian  P/L R/W  4275  Be Reclaimed)",C-FLOWLINE-T,Compass 5 000
+BC7560,MText,"Obsidian 16-2 (Surface) MSL 140854 (Expired, To be Cancelled)",C-WS-T,10
+BC7561,MText,"Obsidian 16-2 (Surface) ROE 1748 (Expired, To be Cancelled)",C-WS-T,10
+BC7562,MText,"Obsidian Battery Site ROE 3991",C-WS-T,10
+BC7564,AlignedDimension,"Sinopec  A/R  110005",F-AR-T,Compass 5 000
+BC7566,AlignedDimension,"Sinopec  P/L R/W  111045",F-RW-T,Compass 5 000
+BC7568,MText,"Sinopec 9-2 (Surface) MSL 110004",F-WS-T,10
+BC756A,DBText,"8m High Grade Gravel Road",T-TEXT,10
+BC756E,MText,"Fortis O/H Power Line",AS-POWER-T,9.996452899999964
+BC7570,BlockReference,"*U40",AS-OWNER,0.99964604
+BC7585,BlockReference,"GABD",F-WS-S,5
+BC7586,BlockReference,"GAS",F-WS-S,5
+BC76B2,BlockReference,"FDI",L-MON,4.9982302
+BC76B7,BlockReference,"FDI",L-MON,4.9982302
+BC76BC,BlockReference,"FDI",L-MON,4.9982302
+BC76C1,BlockReference,"FDI",L-MON,4.9982302
+BC76C6,BlockReference,"fdspike",L-MON,4.9982302
+BC76DA,BlockReference,"fdspike",L-MON,4.9982302
+BC76DF,BlockReference,"fdspike",L-MON,4.9982302
+BC76E4,BlockReference,"fdspike",L-MON,4.9982302
+BC7832,BlockReference,"GAS",C-WS-S,5
+BC809C,BlockReference,"FDIBAR",L-MON,4.9982302
+BC809D,BlockReference,"FDIBAR",L-MON,4.9982302
+BC809E,BlockReference,"FDIBAR",L-MON,4.9982302
+BCBE8F,AlignedDimension,"Pembina  P/L R/W  2080 KS  3124",F-RW-T,Compass 5 000
+BCBEE9,AlignedDimension,"20.12 A/R",P-TXT,Compass 5 000
+BCC79D,BlockReference,"fdspike",L-MON,4.9982302
+BCC79E,BlockReference,"fdspike",L-MON,4.9982302
+BCC79F,BlockReference,"fdspike",L-MON,4.9982302
+BCC7A0,BlockReference,"fdspike",L-MON,4.9982302
+BCC7A2,BlockReference,"FDIBAR",L-MON,4.9982302
+BCC7A3,BlockReference,"FDIBAR",L-MON,4.9982302
+BCC7A4,BlockReference,"FDIBAR",L-MON,4.9982302
+BCC7D1,BlockReference,"GAS",C-WS-S,4.9982302
+BCD2DB,DBText,"Government Road Allowance",L-ROAD-T,10
+BCD2DC,DBText,"8m High Grade Gravel Road",T-TEXT,10
+BCD2DD,MText,"Fortis O/H Power Line",AS-POWER-T,9.996452899999964
+BCD2F3,AlignedDimension,"Obsidian  Flow Line R/W  1748",C-AR-T,Compass 5 000
+BCD30F,MText,"Obsidian 16-2 (Surface) MSL 140854 (Extension Not Built) (Expired, To be Cancelled)",C-WS-T,10
+BCD361,AlignedDimension,"Obsidian  A/R  140826  1748  To be Cancelled)",C-AR-T,Compass 5 000
+BCD3B9,AlignedDimension,"Sinopec  A/R  110005",F-AR-T,Compass 5 000
+BCDC0D,AlignedDimension,"20.12 A/R",P-TXT,Compass 5 000
+BCDC46,AlignedDimension,"Pembina  P/L R/W  2080 KS  3124",F-RW-T,Compass 5 000
+BCE4B3,AlignedDimension,"Fortis  Power Line R/W  920163",F-EZE-T,Compass 5 000
+BCE51F,DBText,"6m Medium Grade Gravel Road",T-TEXT,10
+BCE520,MText,"Obsidian 16-2 (Surface) ROE 1748 (Expired, To be Cancelled)",C-WS-T,10
+BCE632,MText,"Fd.I. Mp.(0.3E)",L-MON-T,10
+BCE634,MText,"Fd.I. c.s. N.E. 2",L-MON-T,10
+BCE636,MText,"Fd.I. c.s. E.1/4 2",L-MON-T,10
+BCE638,MText,"Fd.I. Mp.(0.3E)",L-MON-T,10
+BCE63E,BlockReference,"*U57",DETAIL-T,0.99964604
+BCE654,MText,"358°",L-BD,9.9964604
+BCE656,DBText,"358°34'00''",L-BD,9.9964604
+BCEEAF,MText,"15cm Poplar",T-BUSH-T,10
+BCEEB0,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB1,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB2,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB3,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB4,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB5,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB6,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB7,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB8,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCEEB9,MText,"40cm Pine & Spruce",T-BUSH-T,10
+BCF6FA,MText,"00''",L-BD,9.9964604
+BCF7B8,MText,"34'",L-BD,9.9964604
+BCF7BC,DBText,"358°34'00''",L-BD,9.9964604
+BD0003,DBText,"268°34'00''",L-BD,9.9964604
+BD0005,DBText,"268°34'00''",L-BD,9.9964604
+BD000C,DBText,"268°34'20''",L-BD,9.9964604
+BD0010,DBText,"358°28'20''",L-BD,9.9964604
+BD0012,DBText,"88°30'30''",L-BD,9.9964604
+BD0014,DBText,"178°31'10''",L-BD,9.9964604
+BD0016,DBText,"178°31'10''",L-BD,9.9964604
+BD0854,DBText,"555.71 (Tie)",L-BD,9.9964604
+BD0855,DBText,"164°47'55''",L-BD,9.9964604
+BD0856,DBText,"555.71 (Tie)",L-BD,9.9964604
+BD0857,DBText,"164°47'55''",L-BD,9.9964604
+BD0860,MText,"Culvert (500mm Dia., Length = 15.1m)",T-TEXT,9.983751397562981
+BD1136,BlockReference,"*U58",0,0.99964604
+BD173A,BlockReference,"*U59",DETAIL-T,0.99964604
+BD176D,MText,"Fd.I. Bar",L-MON-T,10
+BD176F,MText,"Fd.I. Bar c.s.",L-MON-T,10
+BD1771,MText,"Fd.I. Bar",L-MON-T,10
+BD34AE,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.985844105753632
+BD84F3,MText,"358°",L-BD,9.9964604
+BD84F5,MText,"00''",L-BD,9.9964604
+BD84F6,MText,"34'",L-BD,9.9964604
+BD84FC,DBText,"358°",L-BD,9.9964604
+BD84FF,DBText,"00''",L-BD,9.9964604
+BD8500,DBText,"34'",L-BD,9.9964604
+BDB829,AlignedDimension,"5.18 Road  132 1292",L-TITLEDB-T,Compass 5 000
+BDC124,AlignedDimension,"5.18 Road  132 1292",L-TITLEDB-T,Compass 5 000
+BDC140,AlignedDimension,"5.18 Road  132 1292",L-TITLEDB-T,Compass 5 000
+BDC185,AlignedDimension,"Flow Line R/W  2023",C-FLOWLINE-T,Compass 5 000
+BDC1AC,MText,"16-2 W/H",C-WS-T,10
+BDD457,AlignedDimension,"Fortis  Power Line R/W  920163",F-EZE-T,Compass 5 000
+BE1A31,BlockReference,"Disclaimer_Legal",0,0.5

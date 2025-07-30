@@ -1,0 +1,99 @@
+Handle,ObjType,Content,Layer,Extra
+BC5A3A,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000009
+BC5A3B,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.00000000000001
+BC5A3F,BlockReference,"L-SECLBL",L-SECLBL,1
+BC5A53,DBText,"(High Grade Gravel)",T-TEXT,10.000000000000009
+BC5A5E,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.00000000000001
+BC5B83,BlockReference,"GABD",F-WS-S,5.000000000000005
+BC5B84,BlockReference,"GABD",F-WS-S,5.000000000000005
+BC5B85,BlockReference,"GABD",F-WS-S,5.000000000000005
+BC5B86,BlockReference,"GAS",C-WS-S,5.000000000000005
+BC5B87,BlockReference,"GAS",C-WS-S,5.000000000000005
+BC5B99,BlockReference,"*U42",AS-OWNER,1
+BC5BD8,AlignedDimension,"Fortis  Vegetation Control R/W  870396",F-EZE-T,Compass 5 000
+BC5BDA,MText,"Obsidian 9-21 (Surface) MSL 8024 (Expired, To be Cancelled)",C-WS-T,10.00000000000001
+BC5BE0,AlignedDimension,"Obsidian  A/R  8157",C-AR-T,Compass 5 000
+BC5BE1,MText,"MKE 16-21 (Surface) MSL 130805 (Expired)",F-WS-T,10.00000000000001
+BC5BE3,AlignedDimension,"Prairie  P/L R/W  2928 MC  716",F-RW-T,Compass 5 000
+BC5BE4,AlignedDimension,"Obsidian  Flow Line R/W  3922",C-RW-T,Compass 5 000
+BC5BE5,AlignedDimension,"Obsidian  P/L R/W  4686",C-RW-T,Compass 5 000
+BC5BE6,AlignedDimension,"Ricochet  P/L R/W  072 1350  054481",F-RW-T,Compass 5 000
+BC5BE8,AlignedDimension,"Obsidian  P/L R/W  880434",C-RW-T,Compass 5 000
+BC5BE9,AlignedDimension,"Obsidian  Flow Line R/W  1441",C-RW-T,Compass 5 000
+BC5BEA,AlignedDimension,"Pembina  P/L R/W  87 KS  1617",F-RW-T,Compass 5 000
+BC5BEB,AlignedDimension,"Obsidian  A/R  1972",C-AR-T,Compass 5 000
+BC5BEC,MText,"Obsidian 16-21 (Surface) ROE 1972",C-WS-T,10.00000000000001
+BC5BEF,MText,"Obsidian 10-21 (Surface) ROE 1985",C-WS-T,10.00000000000001
+BC5BF1,AlignedDimension,"Obsidian  A/R  2046",C-AR-T,Compass 5 000
+BC5BF3,AlignedDimension,"Obsidian  Flow Line R/W  2100",C-RW-T,Compass 5 000
+BC5BF4,AlignedDimension,"Pembina  P/L R/W  1975 KS  3195",F-RW-T,Compass 5 000
+BC5BF5,AlignedDimension,"Obsidian  P/L R/W  6198",C-RW-T,Compass 5 000
+BC5BFB,MText,"Fortis O/H Power Line",AS-POWER,10.00000000000001
+BC6BF1,BlockReference,"GAS",C-WS-S,5.000000000000005
+BC6CC9,BlockReference,"FDI",L-MON,5.000000000000005
+BC6DC8,BlockReference,"FDI",L-MON,5.000000000000005
+BC6DE6,BlockReference,"plspike",L-MON,5.000000000000005
+BC7990,BlockReference,"FDIBAR",L-MON,5.000000000000005
+BC7991,BlockReference,"FDIBAR",L-MON,5.000000000000005
+BC7992,BlockReference,"FDIBAR",L-MON,5.000000000000005
+BC7993,BlockReference,"FDIBAR",L-MON,5.000000000000005
+BCC77E,AlignedDimension,"Obsidian  A/R  1985  Location)",C-AR-T,Compass 5 000
+BCCFFE,MText,"MKE 20.00 A/R LOC 130866 (Expired)",F-AR-T,9.9966396
+BCCFFF,MText,"1F2/16-21 (Abd.)",F-AR-T,9.9966396
+BCEAB7,MText,"Obsidian 10.06 A/R ROE 1393",C-AR-T,9.9966396
+BCF326,MText,"1F1/9-21 (Abd.)",F-AR-T,9.9966396
+BCF327,MText,"10-21 (Abd.)",C-WS-T,9.9966396
+BD0C87,MText,"SEE DETAIL",DETAIL-T,15.99462335999995
+BD14EE,AlignedDimension,"Obsidian  Flow Line R/W  1985}",C-RW-T,Compass 5 000
+BD1555,DBText,"574.07 (Tie)",L-TIE-T,9.9966396
+BD1556,DBText,"15°00'05''",L-TIE-T,9.9966396
+BD1558,DBText,"178°28'55''",L-BD,9.9966396
+BD1DC8,MText,"310°38'15'' 219.98 (Tie)",L-TIE-T,9.9966396
+BD1DD8,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.9966396
+BD1E63,MText,"Obsidian 9-21 (Surface) MSL 8024 (Expired, To be Cancelled)",C-WS-T,9.9966396
+BD1E67,BlockReference,"GAS",C-WS-S,4.9983198
+BD1E68,BlockReference,"plspike",L-MON,4.9983198
+BD1E69,BlockReference,"FDIBAR",L-MON,4.9983198
+BD1E6A,BlockReference,"FDIBAR",L-MON,4.9983198
+BD1E6F,BlockReference,"FDIBAR",L-MON,4.9983198
+BD1E70,BlockReference,"FDIBAR",L-MON,4.9983198
+BD1E9E,DBText,"574.07 (Tie)",L-TIE-T,9.9966396
+BD1E9F,DBText,"15°00'05''",L-TIE-T,9.9966396
+BD1EA0,MText,"310°38'15'' 219.98 (Tie)",L-TIE-T,9.9966396
+BD2F7D,AlignedDimension,"Fortis  Vegetation Control R/W  870396",F-EZE-T,Compass 5 000
+BD2F89,AlignedDimension,"Obsidian  P/L R/W  ______",C-RW-T,Compass 5 000
+BD2F95,AlignedDimension,"Obsidian  A/R  2046",C-AR-T,Compass 5 000
+BD2FDB,AlignedDimension,"Obsidian  A/R  1985  Location)",C-AR-T,Compass 5 000
+BD44AA,DBText,"358°26'00"",L-BD1,9.9966396
+BD44AC,DBText,"88°",L-BD1,9.9966396
+BD44AE,DBText,"00''",L-BD1,9.9966396
+BD44B1,DBText,"26'",L-BD1,9.9966396
+BD44B7,DBText,"178°26'00"",L-BD1,9.996639599999998
+BD5688,MText,"Culvert (762mm dia. Lenth = 15.0m)",T-TEXT,9.996999796991368
+BD5693,MText,"4m High Grade Gravel Road",T-TEXT,9.996999796991377
+BD569D,MText,"4m High Grade Gravel Road",T-TEXT,9.996999796991377
+BD56A2,DBText,"268°26'00''",L-BD1,9.996639599999998
+BD5F07,MText,"Buried Pipe",AS-PIPE-UG-T,9.996999796991377
+BD5F18,BlockReference,"*U48",35,0.99966396
+BDB471,MText,"Fd. No Mk. Re-est. Position by MSL 8024",L-MON-T,9.992393027497963
+BDB4DB,BlockReference,"*U49",DETAIL-T,1
+BDB6BC,BlockReference,"*U49",DETAIL-T,1
+BDED77,MText,"W/H 9-21",C-WS-T,9.9966396
+BE1190,MText,"40cm Spruce & Poplar",T-BUSH-T,9.999999999999961
+BE1192,MText,"40cm Spruce & Poplar",T-BUSH-T,9.999999999999961
+BE1194,MText,"40cm Spruce & Poplar",T-BUSH-T,9.999999999999961
+BE1196,MText,"40cm Spruce & Poplar",T-BUSH-T,9.999999999999961
+BE2C07,MText,"L.S. 9",L-SECTION-LSD,10.000000000000002
+BE2C09,MText,"L.S. 10",L-SECTION-LSD,10.000000000000002
+BE2C0B,MText,"L.S. 16",L-SECTION-LSD,10.000000000000002
+BE2C0D,MText,"L.S. 15",L-SECTION-LSD,10.000000000000002
+BE3F72,MText,"Fd.I. N.E. 21",L-MON,9.9966396
+BE3F83,MText,"Fd.I. Mp. E.1/4 21",L-MON,9.9966396
+BE611A,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.005378447373452
+BE611C,MText,"Theor. N.E.1/4  Sec. 21-47-8-W.5M.",C-SYMBOL,20.006723059216842
+BE62FD,AlignedDimension,"Obsidian  P/L R/W  8041  To be",C-AR-T,Compass 5 000
+BE62FE,MText,"Obsidian 15-21 (Surface) MSL 8041 (Expired, To be Cancelled)",C-WS-T,10.000000000000012
+BE6300,AlignedDimension,"Obsidian  A/R  8041  To be",C-AR-T,Compass 5 000
+BE6B99,AlignedDimension,"Obsidian  Flow Line R/W  2046",C-AR-T,Compass 5 000
+BEFF44,MText,"DETAIL  SCALE 1:1000",DETAIL-T,20
+BEFF69,BlockReference,"Disclaimer_Legal",C-CLOSURE,0.25
