@@ -4,6 +4,7 @@ namespace CadQa.Rules
     {
         TextStyle,
         Layer,
-        TitleBlock
+        TitleBlock,
+                Spelling
     }
 }
