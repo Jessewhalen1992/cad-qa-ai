@@ -99,7 +99,7 @@ namespace CadQaPlugin
             using var tr = db.TransactionManager.StartTransaction();
 
             // deterministic rules (kept, but only summarised in console)
-            var issues = new RuleBase[] { new BlockLayerRule() }
+            var issues = new RuleBase[] { new BlockLaye, new SpellCheckRule()rRule() }
                 .SelectMany(r => r.Evaluate(db, tr))
                 .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
                 .ToList();
