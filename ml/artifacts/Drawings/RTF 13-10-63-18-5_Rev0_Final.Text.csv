@@ -1,0 +1,24 @@
+Handle,ObjType,Content,Layer,Extra
+AF3BE0,BlockReference,"L-SECLBL",L-SECLBL,1
+AF5BE4,DBText,"Theor. N.W.1/4 Sec. 10-63-18-W.5M.",C-SYMBOL,19.9896
+AF63DA,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99168
+AF63FE,BlockReference,"*U19",AS-SURFACE IMPACT,0.99948
+AF6446,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-BOUNDARY,9.9948
+AF6CA1,AlignedDimension,"Paramount  A/R  801501",F-AR-T,Compass 5 000
+AF6CC9,AlignedDimension,"Paramount  A/R  941398",F-AR-T,Compass 5 000
+AF7523,MText,"L.S. 11",L-SECTION-LSD,9.9948
+AF7525,MText,"L.S. 12",L-SECTION-LSD,9.9948
+AF7527,MText,"L.S. 14",L-SECTION-LSD,9.9948
+AF7528,MText,"L.S. 13",L-SECTION-LSD,9.9948
+AF7545,MText,"Paramount 11-10 (Surface) MSL 802196",F-WS-T,9.9948
+AF7546,AlignedDimension,"Crescent Point  P/L R/W  131229",C-RW-T,Compass 5 000
+AF7D76,AlignedDimension,"Saturn  P/L R/W  882 1531  880073",F-RW-T,Compass 5 000
+AF7DB0,AlignedDimension,"Paramount  P/L R/W  952 2726  941446",F-AR-T,Compass 5 000
+AF7DD8,AlignedDimension,"Paramount  P/L R/W  952 2840  941691",F-RW-T,Compass 5 000
+AF7E5E,BlockReference,"*U26",AS-WILDLIFE-BLOCK,0.99948
+AF8EF1,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.9948
+AF8EF3,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994799999999998
+AFB601,BlockReference,"*U28",0,0.99948
+B001AB,AlignedDimension,"Crescent Point  P/L R/W  230436",C-RW-T,Compass 5 000
+B0756A,BlockReference,"Disclaimer_Legal",0,0.25
+B076F8,BlockReference,"*U32",P-TEMP-BLOCKS,1

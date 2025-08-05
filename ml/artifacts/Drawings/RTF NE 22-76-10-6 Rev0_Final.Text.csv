@@ -1,0 +1,56 @@
+Handle,ObjType,Content,Layer,Extra
+B03232,BlockReference,"L-SECLBL",L-SECLBL,0.999755
+B032BF,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99755
+B033DC,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99755
+B033F0,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.996080000000287
+B0708C,MText,"Theor. N.E.1/4 Sec. 22 76-10-W.6M.",C-SYMBOL,19.9951
+B07216,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5.000000000000045
+B07217,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5.000000000000045
+B07218,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5.000000000000045
+B07219,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5.000000000000045
+B07263,BlockReference,"NEZD Point",HYBRID-CC,1
+B07268,BlockReference,"NEZD Point",HYBRID-CC,1
+B0BB59,MText,"Buried Pipes(2)",AS-PIPE-UG-T,9.99755
+B0BD5F,DBText,"RP",35,10.000000000000007
+B0BE1E,BlockReference,"POWERPOLE",AS-POWER-EXISTING,0.19680216535433095
+B0BE59,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+B0BE5B,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+B0BE5C,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+B0BEE6,MText,"8m High Grade Gravel Road",AS-GENERAL,9.99755
+B0C27D,BlockReference,"*U22",P-TEMP-BLOCKS,0.999755
+B0C3A3,AlignedDimension,"Longshore  A/R  080683",F-AR-T,Compass 5 000
+B0C3A4,AlignedDimension,"Longshore  A/R  211003",F-AR-T,Compass 5 000
+B0C3AB,AlignedDimension,"CNRL  A/R   810682",F-AR-T,Compass 5 000
+B0C421,AlignedDimension,"Taqa  A/R  3451",F-AR-T,Compass 5 000
+B0C44C,AlignedDimension,"ATCO  Power Line R/W  220110",F-EZE-T,Compass 5 000
+B0C4A2,AlignedDimension,"ATCO  Power Line R/W  940170",F-EZE-T,Compass 5 000
+B0C4F7,AlignedDimension,"Longshore  P/L R/W  210616",F-RW-T,Compass 5 000
+B0C4F8,AlignedDimension,"Longshore  P/L R/W  220081",F-RW-T,Compass 5 000
+B0C4F9,AlignedDimension,"CNRL  P/L R/W  942 1131  931531",F-RW-T,Compass 5 000
+B0C4FA,AlignedDimension,"Longshore  P/L R/W  940875",F-RW-T,Compass 5 000
+B0C507,AlignedDimension,"CNRL  P/L R/W   942 1310  931529",F-RW-T,Compass 5 000
+B0C7A8,MText,"Longshore 15-22 (Surface) MSL 210962",F-WS-T,9.99755
+B0C7AA,MText,"Longshore Riser Site PIL 210244",F-WS-T,9.99755
+B0C7AC,MText,"Longshore Riser Site PIL 210323",F-WS-T,9.99755
+B0C7B3,MText,"CNRL Riser Site PIL 110633",F-WS-T,9.99755
+B0C922,MText,"Longshore 15-22 (Surface) MSL 230553",F-WS-T,9.99755
+B0CA40,MText,"Small Permanent Watercourse",T-WATER-T,9.99755
+B0CA4E,MText,"Ephemeral Watercourse",T-WATER-T,9.99755
+B0CA73,MText,"20cm Poplar & Spruce",T-BUSH-T,9.99755
+B0CA7D,MText,"20cm Poplar & Spruce",T-BUSH-T,9.99755
+B0D58E,BlockReference,"*U38",0,0.999755
+B0D807,BlockReference,"GAS",F-WS-S,4.998775
+B0D818,BlockReference,"GAS",F-WS-S,4.998775
+B0D819,BlockReference,"GAS",F-WS-S,4.998775
+B0D81A,BlockReference,"GAS",F-WS-S,4.998775
+B0D8A3,MText,"Fish Creek",T-WATER-T,9.99755
+B0D8C5,AlignedDimension,"Longshore  A/R  211279",F-AR-T,Compass 5 000
+B0D8C6,AlignedDimension,"Longshore  A/R  230714",F-AR-T,Compass 5 000
+B0D8C7,AlignedDimension,"Longshore  P/L R/W  230676",F-RW-T,Compass 5 000
+B0D8CA,AlignedDimension,"CSV 15.00 P/L R/W  231114",C-RW-T,Compass 5 000
+B0D8D9,MText,"L.S. 9",L-SECTION-LSD,9.99755
+B0D8DB,MText,"L.S. 10",L-SECTION-LSD,9.99755
+B0D8DD,MText,"L.S. 16",L-SECTION-LSD,9.99755
+B0D8DF,MText,"L.S. 15",L-SECTION-LSD,9.99755
+B6C299,BlockReference,"*U39",AS-WILDLIFE-BLOCK,1
+B8C6F0,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

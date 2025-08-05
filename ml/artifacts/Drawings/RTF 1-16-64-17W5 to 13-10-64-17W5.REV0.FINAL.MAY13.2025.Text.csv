@@ -1,0 +1,61 @@
+Handle,ObjType,Content,Layer,Extra
+BCD919,BlockReference,"RP",0,1
+BCF300,BlockReference,"L-SECLBL",L-SECLBL,0.999475
+BCF306,BlockReference,"L-SECLBL",L-SECLBL,0.999475
+BCF30C,BlockReference,"L-SECLBL",L-SECLBL,0.999475
+BCF312,DBText,"Theor. S.E.1/4 Sec. 16-64-17-W.5M.",C-SYMBOL,19.9895
+BCF313,DBText,"Theor. N.E.1/4 Sec. 9-64-17-W.5M.",C-SYMBOL,19.9895
+BCF314,DBText,"Theor. N.W.1/4 Sec. 10-64-17-W.5M.",C-SYMBOL,19.9895
+BCF315,MText,"L.S. 1",L-SECTION-LSD,9.99475
+BCF316,MText,"L.S. 2",L-SECTION-LSD,9.99475
+BCF318,MText,"L.S. 8",L-SECTION-LSD,9.99475
+BCF319,MText,"L.S. 7",L-SECTION-LSD,9.99475
+BCF31D,MText,"L.S. 9",L-SECTION-LSD,9.99475
+BCF31F,MText,"L.S. 10",L-SECTION-LSD,9.99475
+BCF321,MText,"L.S. 16",L-SECTION-LSD,9.99475
+BCF323,MText,"L.S. 15",L-SECTION-LSD,9.99475
+BCF325,MText,"L.S. 11",L-SECTION-LSD,9.99475
+BCF327,MText,"L.S. 12",L-SECTION-LSD,9.99475
+BCF329,MText,"L.S. 14",L-SECTION-LSD,9.99475
+BCF32A,MText,"L.S. 13",L-SECTION-LSD,9.99475
+BCF337,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99475
+BCF338,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99475
+BCF339,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99475
+BCF33A,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99475
+BCF546,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9916
+BCF549,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9916
+BCF54C,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9916
+BCF6F1,AlignedDimension,"Murphy  A/R  190626",F-AR-T,Compass 5 000
+BCF732,AlignedDimension,"Paramount  A/R  910937",C-AR-T,Compass 5 000
+BCF76C,AlignedDimension,"Paramount  A/R  910937",C-AR-T,Compass 5 000
+BCF79D,AlignedDimension,"Paramount  A/R  920163  (Expired)",C-AR-T,Compass 5 000
+BCF7CE,AlignedDimension,"Murphy  P/L R/W  195039",F-RW-T,Compass 5 000
+BCF7FF,AlignedDimension,"Murphy  P/L R/W  195039",F-RW-T,Compass 5 000
+BCF81E,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",C-RW-T,Compass 5 000
+BCF9F1,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",C-RW-T,Compass 5 000
+BD4FE2,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,10
+BD5001,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,10
+BD5003,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,10
+BD5005,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,10
+BD6502,BlockReference,"L-SECLBL",L-SECLBL,1
+BD6508,DBText,"Theor. S.W.1/4 Sec. 15-64-17-W.5M.",C-SYMBOL,20
+BD6509,MText,"L.S. 3",L-SECTION-LSD,10
+BD650B,MText,"L.S. 4",L-SECTION-LSD,10
+BD650D,MText,"L.S. 6",L-SECTION-LSD,10
+BD650F,MText,"L.S. 5",L-SECTION-LSD,10
+BD6599,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",C-RW-T,Compass 5 000
+BD66D3,AlignedDimension,"Murphy  A/R  190626",F-AR-T,Compass 5 000
+BD6711,MText,"Athabasca 20.00 A/R LOC 231467",F-AR-T,9.99475
+BD6715,MText,"Athabasca 3-15 (Surface) MSL 231146",F-WS-T,9.99475
+BD6718,MText,"Paramount 5-15 (Surface) MSL 920222 (Expired)",C-WS-T,9.99475
+BD6719,AlignedDimension,"Murphy  P/L R/W  195039",F-RW-T,Compass 5 000
+BD67CF,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.9916
+BD68E9,BlockReference,"GABD",F-WS-S,5
+BD68EA,MText,"5-15 (Abd.)",C-WS-T,9.99475
+BD6B1E,MText,"L.S. 11",L-SECTION-LSD,10
+BD6B20,MText,"L.S. 12",L-SECTION-LSD,10
+BD6B22,MText,"L.S. 14",L-SECTION-LSD,10
+BD6B23,MText,"L.S. 13",L-SECTION-LSD,10
+BDD650,BlockReference,"*U34",DETAIL-T,0.999475
+BDD662,BlockReference,"*U35",DETAIL-T,0.999475
+BDD674,BlockReference,"*U33",P-TEMP-BLOCKS,0.999475

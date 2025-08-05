@@ -1,0 +1,48 @@
+Handle,ObjType,Content,Layer,Extra
+AFB35C,BlockReference,"*U21",AS-WILDLIFE-BLOCK,1
+AFC3AF,BlockReference,"L-SECLBL",L-SECLBL,1
+AFC3BC,AlignedDimension,"5.18 Road  728 RS",L-TITLEDB-T,Compass 5 000
+AFCBCB,AlignedDimension,"5.18 Road  728 RS",L-TITLEDB-T,Compass 5 000
+AFD3F0,AlignedDimension,"Alliance  P/L R/W  982 3524  80051-4)",F-RW-T,Compass 5 000
+AFD421,AlignedDimension,"PKM  P/L R/W  4933 TR  80015-1)",F-RW-T,Compass 5 000
+AFD443,AlignedDimension,"CNRL  P/L R/W  972 2084  29049-24)",F-RW-T,Compass 5 000
+AFDC54,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0976  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+AFFED8,MText,"Approximate Location of Iron Creek Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B006D2,MText,"Approximate Location of Iron Creek Gas Co-op Ltd. (Abd.)",AS-PIPE-UG-T,10
+B006D5,MText,"Block 1 Plan 942 1439",L-TITLEDB-T,10
+B01049,BlockReference,"*U28",AS-OWNER,1
+B03142,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2808  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+B0586A,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B05F00,MText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B05F01,MText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B05F0A,MText,"Rge. Rd. 83",L-ROAD-T,9.999999999999998
+B06537,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+BF6AC5,DBText,"S.E.1/4 Sec. 21-46-8-W.4M.",C-SYMBOL,20
+BFBE5A,AlignedDimension,"10.0x371.5 A/R",P-TEMP-T,Compass 5 000
+BFC2EA,AlignedDimension,"10.0x90.6 A/R",P-TEMP-T,Compass 5 000
+BFC36C,MText,"30.0x50.0 Laydown (Temporary)",P-TEMP-T,10
+BFC36D,BlockReference,"res_occ",AS-RESIDENCE,5
+BFC3AD,BlockReference,"*U32",DETAIL-T,1
+BFC8F6,BlockReference,"*U33",0,1
+BFCDC3,BlockReference,"xing2",P-CROSSINGS,1
+BFD239,BlockReference,"xing2",P-CROSSINGS,1
+BFD275,BlockReference,"xing2",P-CROSSINGS,1
+BFD289,BlockReference,"xing2",P-CROSSINGS,1
+BFEB41,BlockReference,"xing2",P-CROSSINGS,1
+BFEB55,BlockReference,"xing2",P-CROSSINGS,1
+BFFC0A,BlockReference,"xing2",P-CROSSINGS,1
+C00085,BlockReference,"xing2",P-CROSSINGS,1
+C05441,MText,"Residence (Typ.)",AS-RESIDENCE,10
+C0E3DF,BlockReference,"res_occ",AS-RESIDENCE,5
+C0E3E1,MText,"Residence (Typ.)",AS-RESIDENCE,10
+C11DF7,BlockReference,"xing2",P-CROSSINGS,1
+C11E0B,BlockReference,"xing2",P-CROSSINGS,1
+C11E1F,BlockReference,"xing2",P-CROSSINGS,1
+C11E33,BlockReference,"xing2",P-CROSSINGS,1
+C1AB0F,BlockReference,"xing2",P-CROSSINGS,1
+C21CCA,AlignedDimension,"5.0x447.5",P-TEMP-T,Compass 5 000
+C21CCB,AlignedDimension,"5.0x99.2",P-TEMP-T,Compass 5 000
+C21CCC,AlignedDimension,"5.0x79.4",P-TEMP-T,Compass 5 000
+C257AD,AlignedDimension,"10.0x42.2   Existing R/W)",P-TEMP-BLUE-T,Compass 5 000
+C257E8,AlignedDimension,"10.0x23.0   Existing R/W)",P-TEMP-BLUE-T,Compass 5 000
+C2F200,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.4

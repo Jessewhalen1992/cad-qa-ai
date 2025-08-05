@@ -1,0 +1,366 @@
+Handle,ObjType,Content,Layer,Extra
+AF958F,BlockReference,"L-SECLBL",L-SECLBL,1
+AF9595,BlockReference,"L-SECLBL",L-SECLBL,1
+B0DBE8,MText,"Lot 2 Block 1 Plan 102 4581",L-TITLEDB-T,10.000000000000004
+B0DBEC,MText,"C. of T.",L-TITLEDB-T,10.000000000000004
+B0DBEE,MText,"C. of T.",L-TITLEDB-T,10.000000000000004
+B11D12,BlockReference,"GAS",C-WS-S,5
+B11D13,BlockReference,"GAS",C-WS-S,5
+B11D14,BlockReference,"GAS",C-WS-S,5
+B11D15,BlockReference,"GAS",C-WS-S,5
+B11D16,BlockReference,"GAS",C-WS-S,5
+B11EC1,BlockReference,"GABD",F-WS-S,5
+B11EC2,BlockReference,"GABD",F-WS-S,5
+B11EC3,BlockReference,"GAS",C-WS-S,5
+B11EC4,BlockReference,"GAS",C-WS-S,5
+B11EC5,BlockReference,"GAS",C-WS-S,5
+B11EC7,BlockReference,"GAS",C-WS-S,5
+B11EC8,BlockReference,"GAS",C-WS-S,5
+B13044,MText,"1-16 (Abd.)",F-WS-T,10.000000000000004
+B13046,MText,"9-16 (Abd.)",F-WS-T,10.000000000000004
+B1304A,MText,"Baytex 7-28",C-WS-T,10.000000000000004
+B13908,BlockReference,"GAS",F-WS-S,5
+B13909,BlockReference,"GABD",F-WS-S,5
+B1390A,BlockReference,"GABD",F-WS-S,5
+B1390B,MText,"Surge 6-28",F-WS-T,10.000000000000004
+B1390D,MText,"4-28 (Abd.)",F-WS-T,10.000000000000004
+B1390F,MText,"102/5-28 (Abd.)",F-WS-T,10.000000000000004
+B1ACA4,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B1ACA6,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B203CB,MText,"Fortis O/H Power Line",AS-POWER-T,9.992720725178366
+B203CC,MText,"Fortis O/H Power Line",AS-POWER-T,9.992720725178366
+B3EBE2,AlignedDimension,"Surge  P/L R/W  072 7751",F-RW-T,Compass 5 000
+B3F6F6,DBText,"(Undeveloped)",T-TEXT,10
+B3F6F7,DBText,"Government Road Allowance",L-ROAD-T,10
+B412F0,AlignedDimension,"Bonavista  P/L R/W  094 0450",F-RW-T,Compass 5 000
+B41324,AlignedDimension,"Surge  P/L R/W  982 4110",F-RW-T,Compass 5 000
+B41370,AlignedDimension,"Bonavista  P/L R/W  052 1980",F-RW-T,Compass 5 000
+B42801,AlignedDimension,"Surge  A/R",F-AR-T,Compass 5 000
+B44416,BlockReference,"*U9",AS-OWNER,0.9997440000000076
+B445DA,AlignedDimension,"Keyera  P/L R/W  912 2365",F-RW-T,Compass 5 000
+B4494B,AlignedDimension,"Keyera  P/L R/W  912 2365",F-RW-T,Compass 5 000
+B44958,DBText,"(High Grade Gravel)",T-TEXT,10
+B44959,DBText,"Government Road Allowance",L-ROAD-T,10
+B44AE8,DBText,"(High Grade Gravel)",T-TEXT,10
+B44AE9,DBText,"Government Road Allowance",L-ROAD-T,10
+B44C7F,DBText,"(Undeveloped)",T-TEXT,10
+B44C80,DBText,"Government Road Allowance",L-ROAD-T,10
+B46BB4,AlignedDimension,"Baytex  P/L R/W  Plan  Caltech",C-RW-T,Compass 5 000
+B46BFF,AlignedDimension,"Baytex  P/L R/W  Plan  Caltech",C-RW-T,Compass 5 000
+B47718,AlignedDimension,"Baytex  A/R",C-RW-T,Compass 5 000
+B4A5DF,BlockReference,"*U20",AS-OWNER,0.9997440000000076
+B4A7B5,DBText,"(High Grade Gravel)",T-TEXT,10
+B4A7B6,DBText,"Government Road Allowance",L-ROAD-T,10
+B4D1FC,AlignedDimension,"Baytex  P/L R/W  Plan  Caltech",C-RW-T,Compass 5 000
+B4D3B6,AlignedDimension,"Baytex  A/R",C-RW-T,Compass 5 000
+B4D3EA,AlignedDimension,"Baytex  A/R",C-RW-T,Compass 5 000
+B4D409,MText,"Baytex Water Storage Site",C-WS-T,10.000000000000004
+B4D40B,AlignedDimension,"Baytex  A/R",C-RW-T,Compass 5 000
+B4DD9A,AlignedDimension,"Surge  P/L R/W  982 4110",F-RW-T,Compass 5 000
+B503B7,MText,"Approximate Location of  Buck Mountain Gas Co-op Ltd.",AS-PIPE-UG-T,10.000000000000004
+B53473,BlockReference,"res_occ",AS-RESIDENCE,5
+B53474,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B53479,BlockReference,"res_occ",AS-RESIDENCE,5
+B5347E,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B67F1A,MText,"Lot 1 Block 1 Plan 102 4581",L-TITLEDB-T,10.000000000000004
+B69DAE,BlockReference,"res_occ",AS-RESIDENCE,5
+B69DAF,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B6B09A,BlockReference,"L-SECLBL",L-SECLBL,1
+B6B10B,BlockReference,"L-SECLBL",L-SECLBL,1
+B6B111,BlockReference,"L-SECLBL",L-SECLBL,1
+B6B117,BlockReference,"L-SECLBL",L-SECLBL,1
+B6B11F,BlockReference,"L-SECLBL",L-SECLBL,1
+B6DEDB,AlignedDimension,"Surge  P/L R/W  982 4110",F-RW-T,Compass 5 000
+B6DF0C,AlignedDimension,"Bonavista  P/L R/W  062 1617",F-RW-T,Compass 5 000
+B6DF2B,AlignedDimension,"20.12 Road  4272AU",L-TITLEDB-T,Compass 5 000
+B6DF7A,AlignedDimension,"Shalex  P/L R/W  012 3970",F-RW-T,Compass 5 000
+B6DF99,AlignedDimension,"Bonavista  P/L R/W  082 7829",F-RW-T,Compass 5 000
+B6DFB8,AlignedDimension,"Bonavista  P/L R/W  082 1558",F-RW-T,Compass 5 000
+B6E018,AlignedDimension,"Bonavista  P/L R/W  062 4913",F-RW-T,Compass 5 000
+B6FDC3,MText,"Lloyd Creek",T-WATER,10.000000000000002
+B6FDC4,MText,"Lloyd Creek",T-WATER,10.000000000000002
+B6FDC5,MText,"Lloyd Creek",T-WATER,10.000000000000002
+B6FDC6,MText,"Lloyd Creek",T-WATER,10.000000000000002
+B6FDC7,MText,"Lloyd Creek",T-WATER,10.000000000000002
+B70686,MText,"CNRL 7-4",F-RW-T,10.000000000000002
+B70687,AlignedDimension,"CNRL  A/R",F-WS,Compass 5 000
+B706A4,AlignedDimension,"Bonavista  P/L R/W  042 4287",F-RW-T,Compass 5 000
+B706F9,AlignedDimension,"Bonavista  P/L R/W  042 4287",F-RW-T,Compass 5 000
+B70718,AlignedDimension,"Bonavista  P/L R/W  082 7829",F-RW-T,Compass 5 000
+B70740,AlignedDimension,"Bonavista  P/L R/W  092 2920",F-RW-T,Compass 5 000
+B7075F,AlignedDimension,"CNRL  P/L R/W  822 1680",F-RW-T,Compass 5 000
+B7078B,AlignedDimension,"CNRL  P/L R/W  872 1132",F-RW-T,Compass 5 000
+B707A7,AlignedDimension,"Bonavista  P/L R/W  062 4913",F-RW-T,Compass 5 000
+B707F3,MText,"C. of T.",L-TITLEDB,10.000000000000002
+B70818,MText,"5.18 Road Plan 5658RS",L-TITLEDB-T,10.000000000000002
+B7082E,DBText,"Government Road Allowance",L-ROAD-T,10
+B7082F,DBText,"(Paved)",T-TEXT,10
+B70830,DBText,"Hwy. 611",L-ROAD-T,10
+B710ED,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.000000000000004
+B710F0,DBText,"S.E.1/4 Sec. 16-45-2-W.5M.",C-SYMBOL,20
+B710F1,DBText,"N.W.1/4 Sec. 16-45-2-W.5M.",C-SYMBOL,20
+B710F3,DBText,"N.W.1/4 Sec. 21-45-2-W.5M.",C-SYMBOL,20
+B710F5,DBText,"S.E.1/4 Sec. 9-45-2-W.5M.",C-SYMBOL,20
+B710F6,DBText,"N.E.1/4 Sec. 4-45-2-W.5M.",C-SYMBOL,20
+B710F7,DBText,"S.E.1/4 Sec. 4-45-2-W.5M.",C-SYMBOL,20
+B710F8,DBText,"S.W.1/4 Sec. 3-45-2-W.5M.",C-SYMBOL,20
+B71A32,DBText,"S.W.1/4 Sec. 21-45-2-W.5M.",C-SYMBOL,20
+B71AA2,DBText,"N.W.1/4 Sec. 3-45-2-W.5M.",C-SYMBOL,20
+B71BC0,MText,"Buried Telus Cable",AS-TELUS,10.000000000000002
+B71BC1,MText,"Buried Telus Cable",AS-TELUS,10.000000000000002
+B72E3E,BlockReference,"GABD",F-WS-S,5
+B72E57,MText,"5-3 (Abd.)",F-RW-T,10.000000000000002
+B72E59,AlignedDimension,"CNRL  15.00 P/L R/W  822 1680",F-WS-S,Compass 5 000
+B72E81,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.000000000000004
+B72E9B,BlockReference,"GABD",F-WS-S,5
+B72E9C,MText,"Shalex 102/7-4 (Abd.)",F-RW-T,10.000000000000002
+B72EA6,BlockReference,"GABD",F-WS-S,5
+B72EA7,MText,"W0/13-3 (Abd.)",F-RW-T,10.000000000000002
+B72EB6,BlockReference,"GABD",F-WS-S,5
+B72EB7,BlockReference,"GABD",F-WS-S,5
+B72EB8,BlockReference,"GABD",F-WS-S,5
+B72EB9,BlockReference,"GABD",F-WS-S,5
+B72EBA,BlockReference,"GABD",F-WS-S,5
+B72EC4,MText,"13-4 (Abd.)",F-RW-T,10.000000000000002
+B72EC5,MText,"5-4 (Abd.)",F-RW-T,10.000000000000002
+B72EC6,MText,"3-4 (Abd.)",F-RW-T,10.000000000000002
+B72EC7,MText,"15-4 (Abd.)",F-RW-T,10.000000000000002
+B72EC8,MText,"9-4 (Abd.)",F-RW-T,10.000000000000002
+B72ECE,MText,"Lot 1  Block 1 Plan 122 1793",L-TITLEDB-T,10.000000000000004
+B737B6,MText,"Stockpile Site Plan 002 2202",L-TITLEDB-T,10.000000000000004
+B737CA,BlockReference,"GABD",F-WS-S,5
+B737CB,MText,"11-9 (Abd.)",F-RW-T,10.000000000000002
+B737CC,BlockReference,"GABD",F-WS-S,5
+B737CD,MText,"W0/12-10 (Abd.)",F-RW-T,10.000000000000002
+B737CE,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.000000000000004
+B737D0,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.000000000000004
+B737E8,AlignedDimension,"Equs  Electric Easement  910001",F-WS-S,Compass 5 000
+B73815,BlockReference,"GABD",F-WS-S,5
+B73816,MText,"5-21 (Abd.)",F-RW-T,10.000000000000002
+B73817,BlockReference,"GABD",F-WS-S,5
+B7381A,BlockReference,"GABD",F-WS-S,5
+B7381B,MText,"2-21 (Abd.)",F-RW-T,10.000000000000002
+B7381C,MText,"10-16 (Abd.)",F-RW-T,10.000000000000002
+B73831,BlockReference,"GABD",F-WS-S,5
+B73832,MText,"4-21 (Abd.)",F-RW-T,10.000000000000002
+B73860,MText,"Surge 15.00 P/L R/W Plan 052 2869",F-WS-S,10.000000000000002
+B741E3,AlignedDimension,"Buck Mountain  P/L R/W  981810",F-WS-S,Compass 5 000
+B74BFA,MText,"Twp. 45",D-TXT,14
+B74BFB,MText,"Twp. 44",D-TXT,14
+B74C04,MText,"Twp. 45",D-TXT,14
+B74C05,MText,"Twp. 44",D-TXT,14
+B74C08,BlockReference,"xing2",P-CROSSINGS,1
+B74C10,BlockReference,"xing2",P-CROSSINGS,1
+B74C17,BlockReference,"xing2",P-CROSSINGS,1
+B74C1E,BlockReference,"xing2",P-CROSSINGS,1
+B74C2C,BlockReference,"xing2",P-CROSSINGS,1
+B74C33,BlockReference,"xing2",P-CROSSINGS,1
+B74C3A,BlockReference,"xing2",P-CROSSINGS,1
+B74C41,BlockReference,"xing2",P-CROSSINGS,1
+B74C48,BlockReference,"xing2",P-CROSSINGS,1
+B74C4F,BlockReference,"xing2",P-CROSSINGS,1
+B75EEF,BlockReference,"res_occ",AS-RESIDENCE,5
+B75EF7,BlockReference,"res_occ",AS-RESIDENCE,5
+B75EFF,BlockReference,"res_occ",AS-RESIDENCE,5
+B75F07,BlockReference,"res_occ",AS-RESIDENCE,5
+B7711B,DBText,"S.W.1/4 Sec. 27-45-2-W.5M.",C-SYMBOL,20
+B7711C,DBText,"Temporary Water Line = 0.247 ha  0.61 Ac.",L-AREAREQUIRED,11
+B77A00,DBText,"S.E.1/4 Sec. 28-45-2-W.5M.",C-SYMBOL,20
+B77A01,DBText,"Temporary Water Line = 0.431 ha  1.07 Ac.",L-AREAREQUIRED,11
+B78336,DBText,"N.E.1/4 Sec. 9-45-2-W.5M.",C-SYMBOL,20
+B7EA30,MText,"Ponoka County",L-33,12
+B7EA32,MText,"County of Wetaskiwin No. 10",L-33,12
+B7F50D,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B7F50F,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B7F511,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B7F513,MText,"Residence",AS-RESIDENCE,10.000000000000004
+B7F537,BlockReference,"xing2",P-CROSSINGS,1
+B7F546,BlockReference,"xing2",P-CROSSINGS,1
+B7F54D,BlockReference,"xing2",P-CROSSINGS,1
+B7F554,BlockReference,"xing2",P-CROSSINGS,1
+B7F55B,BlockReference,"xing2",P-CROSSINGS,1
+B7F562,BlockReference,"xing2",P-CROSSINGS,1
+B7F569,BlockReference,"xing2",P-CROSSINGS,1
+B7FC7A,BlockReference,"xing2",P-CROSSINGS,1
+B7FC81,MText,"Gravel Pit",T-TEXT,10.000000000000004
+B7FC83,BlockReference,"xing2",P-CROSSINGS,1
+B7FC8A,BlockReference,"xing2",P-CROSSINGS,1
+B7FC91,BlockReference,"xing2",P-CROSSINGS,1
+B7FC98,BlockReference,"xing2",P-CROSSINGS,1
+B7FCA3,BlockReference,"xing2",P-CROSSINGS,1
+B7FCAA,BlockReference,"xing2",P-CROSSINGS,1
+B7FCB8,BlockReference,"xing2",P-CROSSINGS,1
+B7FCBF,BlockReference,"xing2",P-CROSSINGS,1
+B7FCC6,BlockReference,"xing2",P-CROSSINGS,1
+B7FCD4,BlockReference,"xing2",P-CROSSINGS,1
+B7FCDB,BlockReference,"xing2",P-CROSSINGS,1
+B7FCE3,BlockReference,"xing2",P-CROSSINGS,1
+B7FCEA,BlockReference,"xing2",P-CROSSINGS,1
+B7FCF1,BlockReference,"xing2",P-CROSSINGS,1
+B7FCF9,BlockReference,"xing2",P-CROSSINGS,1
+B7FD00,BlockReference,"xing2",P-CROSSINGS,1
+B7FD07,BlockReference,"xing2",P-CROSSINGS,1
+B7FD10,BlockReference,"GABD",F-WS-S,5
+B7FD11,MText,"14-21 (Abd.)",F-WS-T,10.000000000000004
+B7FD13,BlockReference,"xing2",P-CROSSINGS,1
+B7FD1A,BlockReference,"xing2",P-CROSSINGS,1
+B7FD28,BlockReference,"xing2",P-CROSSINGS,1
+B7FD4B,AlignedDimension,"Baytex  P/L R/W  Plan  Caltech",C-RW,Compass 5 000
+B7FD6F,BlockReference,"xing2",P-CROSSINGS,1
+B7FD86,AlignedDimension,"Baytex  P/L R/W  Plan  Caltech",C-RW,Compass 5 000
+B7FDAD,BlockReference,"xing2",P-CROSSINGS,1
+B7FDB4,BlockReference,"xing2",P-CROSSINGS,1
+B82AC1,BlockReference,"*U47",35,1
+B82B12,MText,"S.W.1/4 Sec. 16-45-2-W.5M.",C-SYMBOL,20.000000000000004
+B82B1C,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B1D,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B1E,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B1F,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B20,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B21,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B22,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B23,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B82B24,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B25,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B26,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B27,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B28,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B29,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B2A,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B82B2B,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B82B30,MText,"Unnamed Creek",T-WATER,10.000000000000002
+B83F31,MText,"Baytex 6-27",C-RW-T,10.000000000000002
+B83F37,MText,"Surge 15.00 P/L R/W Plan 094 1564",F-RW-T,10.000000000000002
+B83F48,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B83F49,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B83F4A,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B83F4B,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B83F56,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B83F57,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B83F58,MText,"Equs O/H Power Line",AS-POWER-T,9.992720725178366
+B83F60,MText,"Equs O/H Power Line",AS-POWER-T,9.992720725178366
+B83F68,MText,"Equs O/H Power Line",AS-POWER-T,9.992720725178366
+B83F70,MText,"Equs O/H Power Line",AS-POWER-T,9.992720725178366
+B83F71,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B83F73,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B83F75,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B83F77,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B83F79,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B8469F,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B846A1,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B846A3,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B846A5,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B846A7,MText,"Equs O/H Power Line",AS-POWER,10.000000000000002
+B846A9,MText,"Equs O/H Powerline",AS-POWER,10.000000000000002
+B846AB,MText,"Equs O/H Powerline",AS-POWER,10.000000000000002
+B846B2,MText,"Trail",T-TEXT,10.000000000000002
+B846B4,MText,"Culvert",T-TEXT,10.000000000000002
+B846B9,MText,"Culvert",T-TEXT,10.000000000000002
+B846BC,MText,"Culvert",T-TEXT,10.000000000000002
+B846BF,MText,"Culvert",T-TEXT,10.000000000000002
+B846CE,MText,"Culvert",T-TEXT,10.000000000000002
+B846D2,MText,"Culvert",T-TEXT,10.000000000000002
+B846D6,MText,"Culvert",T-TEXT,10.000000000000002
+B85644,DBText,"Cultivation",T-TEXT,10
+B85645,DBText,"Cultivation",T-TEXT,10
+B85651,DBText,"Pasture",T-TEXT,10
+B85652,DBText,"Pasture",T-TEXT,10
+B8B28A,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8B3B6,BlockReference,"xing2",AB_SEC_N83UTMz11,1
+B8B3BD,BlockReference,"*U50",CG-NOTES,0.999081924950458
+B8B3FF,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8B40E,BlockReference,"*U51",CG-NOTES,0.999081924950458
+B8B443,BlockReference,"xing2",P-CROSSINGS,1
+B8B44A,BlockReference,"*U52",CG-NOTES,0.999081924950458
+B8B47F,BlockReference,"*U53",AS-POWER-T,0.9998299877283919
+B8B4B5,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8B4C6,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8B4D5,BlockReference,"*U54",CG-NOTES,0.999081924950458
+B8BB36,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8BB46,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8BB55,BlockReference,"*U55",CG-NOTES,0.999081924950458
+B8BB8B,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8BBCF,BlockReference,"*U56",AS-POWER-T,0.9998299877283919
+B8BC05,BlockReference,"*U57",CG-NOTES,0.999081924950458
+B8BC46,BlockReference,"*U58",CG-NOTES,0.999081924950458
+B8BC7B,BlockReference,"*U59",AS-POWER-T,0.9998299877283919
+B8BCB1,BlockReference,"xing2",P-CROSSINGS,1
+B8BCC7,BlockReference,"*U60",CG-NOTES,0.999081924950458
+B8BD31,BlockReference,"*U78",CG-NOTES,1.0001310171632478
+B8BD47,BlockReference,"*U61",CG-NOTES,0.999081924950458
+B8BD8B,BlockReference,"xing2",P-CROSSINGS,1
+B8BD92,BlockReference,"*U62",CG-NOTES,0.999081924950458
+B8BDA6,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8BDD6,BlockReference,"*U63",AS-POWER-T,0.9998299877283919
+B8D4BE,BlockReference,"xing2",P-CROSSINGS,1
+B8D4C5,BlockReference,"*U61",CG-NOTES,0.999081924950458
+B8D4D9,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B8DFE0,BlockReference,"*U64",AS-POWER-T,0.9998299877283919
+B8E08A,BlockReference,"xing2",P-CROSSINGS,1
+B96323,BlockReference,"L-SECLBL",L-SECLBL,1
+B9633A,DBText,"Government Road Allowance",L-ROAD-T,10
+B9633B,DBText,"Secondary Highway 611",L-ROAD-T,10
+B9633E,DBText,"N.E.1/4 Sec. 33-44-2-W.5M.",C-SYMBOL,20
+B96394,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B9639B,DBText,"Government Road Allowance",L-ROAD-T,10
+B96401,AlignedDimension,"Baytex  Waterline R/W",T-EXISTING TFA-T,Compass 5 000
+B9646B,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B9646C,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B9646D,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B9646E,AlignedDimension,"Bonavista  P/L R/W  082 1558",F-RW-T,Compass 5 000
+B9646F,AlignedDimension,"Bonavista  P/L R/W  082 1544",F-RW-T,Compass 5 000
+B96473,MText,"Bonavista 10-33",F-WS-T,10
+B96475,MText,"Bonavista 15-33",F-WS-T,10
+B96479,MText,"W0/13-34 (Abd.)",F-WS-T,10
+B9647C,AlignedDimension,"30.48 Road  5658 RS",L-TITLEDB-T,Compass 5 000
+B96480,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B96481,DBText,"(Paved)",T-TEXT,10
+B96483,DBText,"(High Grade Gravel)",T-TEXT,10
+B96484,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B964E7,BlockReference,"GAS",F-WS-S,5
+B964E8,BlockReference,"GAS",F-WS-S,5
+B964E9,BlockReference,"GAS",F-WS-S,5
+B964EA,BlockReference,"GAS",F-WS-S,5
+B964EB,BlockReference,"GAS",F-WS-S,5
+B964EC,BlockReference,"GAS",F-WS-S,5
+B964ED,BlockReference,"GAS",F-WS-S,5
+B964EE,BlockReference,"GAS",F-WS-S,5
+B964EF,BlockReference,"GABD",F-WS-S,5
+B96CB7,AlignedDimension,"Baytex  Waterline R/W",T-EXISTING TFA-T,Compass 5 000
+B96CEE,MText,"Equs O/H Power Line",AS-POWER-T,10
+B96D66,BlockReference,"*U75",CG-NOTES,0.99969901
+B96DAF,BlockReference,"*U76",CG-NOTES,1.0001310171632478
+B97415,BlockReference,"*U77",CG-NOTES,0.999081924950458
+B9744B,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B9745A,MText,"Equs O/H Powerline",AS-POWER,10.000000000000002
+B9745C,MText,"Buried Telus Cable",AS-TELUS,10.000000000000002
+B97481,BlockReference,"*U78",CG-NOTES,1.0001310171632478
+B97490,BlockReference,"xing2",P-CROSSINGS,1
+B97498,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B974A8,DBText,"S.W.1/4 Sec. 28-45-2-W.5M.",C-SYMBOL,20
+B974A9,BlockReference,"xing2",P-CROSSINGS,1
+B974B0,BlockReference,"*U79",CG-NOTES,0.999081924950458
+B974C4,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B974F4,BlockReference,"*U80",CG-NOTES,0.999081924950458
+B97529,BlockReference,"xing2",P-CROSSINGS,1
+B97530,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000004
+B97568,BlockReference,"xing2",P-CROSSINGS,1
+B9756F,BlockReference,"xing2",P-CROSSINGS,1
+B97BD5,BlockReference,"xing2",P-CROSSINGS,1
+B97C23,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B97C32,BlockReference,"*U81",CG-NOTES,0.99969901
+B97CB2,BlockReference,"*U83",CG-NOTES,1
+B97CD2,BlockReference,"*U84",CG-NOTES,1
+B99119,BlockReference,"xing2",P-CROSSINGS,1
+B99121,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B9A7C2,BlockReference,"xing2",P-CROSSINGS,1
+B9A7C9,BlockReference,"res_occ",AS-RESIDENCE,5
+B9A7CA,BlockReference,"res_occ",AS-RESIDENCE,5
+B9A7CB,MText,"Residence",AS-RESIDENCE,9.992720725178366
+B9A7CC,MText,"Residence",AS-RESIDENCE,9.992720725178366
+B9A7CD,BlockReference,"*U49",CG-NOTES,1.0001310171632478
+B9A867,BlockReference,"*U86",CG-NOTES,1.000137018771572
+BA5579,BlockReference,"xing2",P-CROSSINGS,1
+BA5580,BlockReference,"xing2",P-CROSSINGS,1
+BA5587,BlockReference,"xing2",P-CROSSINGS,1
+BAE53C,BlockReference,"Disclaimer_Legal",P-CROSSINGS,0.3

@@ -1,0 +1,31 @@
+Handle,ObjType,Content,Layer,Extra
+AF5F06,AlignedDimension,"Vesta  A/R",C-RW,Compass 5 000
+AF668A,BlockReference,"GABD",C-WS-S,5
+AF668B,MText,"Vesta 6-2 (Abd.) 6-14 (HZ) 102/6-14 (HZ) 5-14 (HZ)",C-WS-T,10
+AF6697,BlockReference,"GAS",C-WS-S,5
+AF669A,BlockReference,"GAS",C-WS-S,5
+AF6855,BlockReference,"GAS",C-WS-S,5
+AF685E,BlockReference,"L-SECLBL",L-SECLBL,1
+AF6A7F,BlockReference,"*U24",AS-RESIDENCE,1
+AF6C39,AlignedDimension,"Vesta  P/L R/W  052 3335",C-RW-T,Compass 5 000
+AF6C63,MText,"L.S. 1",L-SECTION-LSD,10
+AF6C64,MText,"L.S. 2",L-SECTION-LSD,10
+AF6C66,MText,"L.S. 8",L-SECTION-LSD,10
+AF6C67,MText,"L.S. 7",L-SECTION-LSD,10
+AF6C70,BlockReference,"GABD",F-WS-S,5
+AF7041,DBText,"(High Grade Gravel)",T-TEXT,10
+AF7042,DBText,"Government Road Allowance",L-ROAD-T,10
+AF7045,BlockReference,"label_road_hggr",AS-PIPE-UG-T,1
+AF7046,MText,"Buried Telus Cable",AS-TELUS,10
+AF7047,MText,"Fortis O/H Power Line",AS-POWER,10
+AF7048,MText,"Buried Telus Cable",AS-TELUS,10
+AF704A,MText,"Fortis O/H Power Line",AS-POWER,10
+AF705D,MText,"Approximate Location of  ATCO Gas Customer  Correspondence",AS-PIPE-UG-T,9.999271399999902
+AF705F,BlockReference,"res_occ",AS-RESIDENCE,5
+AF7060,MText,"Residence",AS-RESIDENCE,10
+AF7223,MText,"S.E.1/4 Sec.  2-40-28-W.4M.",C-SYMBOL,20
+AF8E05,BlockReference,"*U25",AS-OWNER,0.9999271399999999
+AF8E4F,BlockReference,"*U26",AS-WILDLIFE-BLOCK,0.9999271399999999
+AF8E6A,AlignedDimension,"40.54 Road  012 5991",L-TITLEDB-T,Compass 5 000
+AF8E8E,AlignedDimension,"30.48 Road  882 0039",L-TITLEDB-T,Compass 5 000
+AFC1EB,BlockReference,"Disclaimer_Legal",L-TITLEDB-T,0.6

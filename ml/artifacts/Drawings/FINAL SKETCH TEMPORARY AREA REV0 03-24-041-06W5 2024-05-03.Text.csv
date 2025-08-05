@@ -1,0 +1,91 @@
+Handle,ObjType,Content,Layer,Extra
+B0CB32,BlockReference,"L-SECLBL",L-SECLBL,1
+B0CB3A,AlignedDimension,"Tourmaline  P/L R/W  132 0619",F-RW-T,Compass 5 000
+B0CB6F,AlignedDimension,"PMC  P/L R/W  2163 RS",F-RW-T,Compass 5 000
+B0CB8B,AlignedDimension,"Tourmaline  P/L R/W  042 0789",F-RW-T,Compass 5 000
+B0CBAA,AlignedDimension,"Inplay  P/L R/W  142 4033",F-RW-T,Compass 5 000
+B0CBC9,AlignedDimension,"Tourmaline  P/L R/W  042 5708",F-RW-T,Compass 5 000
+B0CBFE,AlignedDimension,"Obsidian  P/L R/W  992 2748",C-RW-T,Compass 5 000
+B0CC1A,AlignedDimension,"Obsidian  P/L R/W  012 3365",C-RW-T,Compass 5 000
+B0CC46,AlignedDimension,"20.12 Access R/W   757 TR",C-RW-T,Compass 5 000
+B0DE0C,AlignedDimension,"Obsidian  P/L R/W  012 3412",C-RW-T,Compass 5 000
+B0DE2B,AlignedDimension,"Tourmaline  P/L R/W  042 1216",F-RW-T,Compass 5 000
+B0DE6B,MText,"Lot 1 Block 2 Plan 162 1069",L-TITLEDB-T,10
+B0DE6C,AlignedDimension,"20.12 Road  762 2425",L-TITLEDB-T,Compass 5 000
+B0EB9C,BlockReference,"GABD",F-WS-S,5
+B0EBAF,MText,"Tourmaline 6-24 (Abd.)",F-WS-S,10
+B0FA60,MText,"Obsidian 102/6-24",C-WS-T,10
+B0FA62,BlockReference,"GABD",F-WS-S,5
+B0FA6C,MText,"Buried Telus Cable",AS-TELUS,10
+B0FA6D,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B0FA7B,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B0FA7C,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B0FA7D,MText,"Approximate Location of  Rocky Gas Co-op Ltd.",AS-PIPE-UG,10
+B107C4,BlockReference,"*U19",AS-OWNER,1
+B10848,AlignedDimension,"Yangarra  P/L R/W  192 0429",F-RW-T,Compass 5 000
+B114EE,MText,"Obsidian 14-13",C-WS-T,10
+B14C39,BlockReference,"res_occ",AS-RESIDENCE,5
+B14C3A,BlockReference,"res_occ",AS-RESIDENCE,5
+B17E82,BlockReference,"res_occ",AS-RESIDENCE,5
+B18C41,DBText,"Pasture",T-TEXT,10
+B1B4F6,BlockReference,"RP",35,1
+B1B524,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1B527,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1B52A,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1D331,MText,"Residence (Typ.)",AS-RESIDENCE,10
+B1D451,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1D454,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1D457,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B1E85F,AlignedDimension,"Tourmaline  P/L R/W  142 2281",F-RW-T,Compass 5 000
+B1E860,BlockReference,"Well_proximity",P-CROSSINGS,1
+B1E863,BlockReference,"Well_proximity",P-CROSSINGS,1
+B1E866,BlockReference,"Well_proximity",P-CROSSINGS,1
+B1E86D,BlockReference,"Well_proximity",P-CROSSINGS,1
+B1E873,AlignedDimension,"Obsidian  P/L R/W  012 3365",C-RW-T,Compass 5 000
+B1E874,AlignedDimension,"Obsidian  P/L R/W  992 2748",C-RW-T,Compass 5 000
+B1E8CF,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D0,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D1,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D2,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D3,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D4,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D5,DBText,"30cm Poplar",T-BUSH-T,10
+B1E8D7,MText,"Gravel Driveway",T-TEXT,10
+B1E8F8,MText,"5.0x262.7  Access Road",P-TEMP_WORKSPACE,10
+B1E8FA,MText,"5.0x262.7  Access Road",P-TEMP_WORKSPACE,10
+B1E909,MText,"Workspace Within Riser & Access = 0.015 ha  0.04 Ac. Workspace Outside Riser & Access = 0.015 ha  0.04 Ac. Access Road = 0.134 ha  0.33 Ac.",L-AREAREQUIRED,11
+B1E90A,MText,"S.W.1/4  Sec. 24-41-6-W.5M.",C-SYMBOL,20
+B1F167,MText,"L.S. 3",L-SECTION-LSD,10
+B1F169,MText,"L.S. 4",L-SECTION-LSD,10
+B1F16B,MText,"L.S. 6",L-SECTION-LSD,10
+B1F16D,MText,"L.S. 5",L-SECTION-LSD,10
+B1F24C,BlockReference,"*U6",DETAIL-T,1
+B1F25A,MText,"DETAIL",DETAIL-T,20
+B1F29B,MText,"Buried Telus Cable",AS-TELUS,10
+B2097B,AlignedDimension,"Obsidian   A/R",F-WS-T,Compass 5 000
+B209D0,MText,"Inplay 5-23 4-23",F-RW-T,10
+B20A28,MText,"SEE DETAIL",DETAIL-T,16
+B21904,AlignedDimension,"Obsidian  A/R  022 065 649",C-EZE-T,Compass 5 000
+B21938,AlignedDimension,"Obsidian  A/R  022 065 649",C-EZE-T,Compass 5 000
+B2198B,MText,"Obsidian Riser Site Reg.# 022 065 649",C-EZE-T,10
+B2AF97,MText,"Lot 2 Block 2 Plan 162 1069",L-TITLEDB-T,10
+B2AFB8,AlignedDimension,"Inplay  A/R",F-WS-T,Compass 5 000
+B2B00B,MText,"Tourmaline 5-24 (Abd.)",F-WS-S,10
+B2B00C,AlignedDimension,"Tourmaline  A/R",F-WS,Compass 5 000
+B2B52E,AlignedDimension,"Tourmaline  A/R",F-WS,Compass 5 000
+B2D5DC,AlignedDimension,"Tourmaline  P/L R/W  142 2281",F-RW-T,Compass 5 000
+B2D64C,AlignedDimension,"Obsidian  P/L R/W  Plan  Crape",F-RW-T,Compass 5 000
+B2D6B9,AlignedDimension,"Obsidian  P/L R/W  Plan  Crape",F-RW-T,Compass 5 000
+B2EC60,BlockReference,"Well_proximity",P-CROSSINGS,1
+B2EC63,BlockReference,"Well_proximity",P-CROSSINGS,1
+B31183,MText,"10.0x30.0  Workspace",P-WORKAREA,10
+B365CC,MText,"SEE INSET",DETAIL-T,16
+B36B72,AlignedDimension,"Yangarra  P/L R/W  192 0429",F-RW-T,Compass 5 000
+B36C53,MText,"Obsidian Riser Site Reg.# 022 065 649",C-EZE-T,10
+B36C54,MText,"INSET NOT TO SCALE",DETAIL-T,20
+B36C60,MText,"10.0x9.3  Workspace",P-TEMP_WORKSPACE,10
+B36C64,MText,"Workspace (= 0.015 ha)",P-WORKAREA,10
+B36C65,MText,"Workspace (= 0.015 ha)",P-TEMP_WORKSPACE,10
+B36C9B,AlignedDimension,"Obsidian  A/R  022 065 649",C-AR-T,Compass 5 000
+B371F2,MText,"Obsidian Riser Site Reg.# 022 065 649",C-EZE-T,10
+B40BAB,BlockReference,"Disclaimer_Legal",CG-NOTES-DRILL PLAN,0.2

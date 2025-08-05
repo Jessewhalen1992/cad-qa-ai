@@ -1,0 +1,49 @@
+Handle,ObjType,Content,Layer,Extra
+B15184,BlockReference,"L-SECLBL",L-SECLBL,1.000496246138085
+B151E8,BlockReference,"*U21",AS-WILDLIFE-BLOCK,1.000496246138085
+B15A47,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1.000496246138085
+B17279,BlockReference,"GAS",F-WS-S,5.0024812306904485
+B1727B,MText,"Cenovus 8-25",F-WS-T,10.004962461380897
+B1727E,BlockReference,"GAS",F-WS-S,5.0024812306904485
+B1727F,BlockReference,"GAS",F-WS-S,5.0024812306904485
+B17A80,MText,"Cenovus 7-25",F-WS-T,10.004962461380897
+B1AADE,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2774  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+B1AAEA,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0973  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+B1AB0E,AlignedDimension,"CNRL  P/L R/W  972 2113  29049-2)",F-RW-T,Compass 5 000
+B1BB99,MText,"5.18 Road Plan 902 0248",L-TITLEDB-T,10.000000000000046
+B1FCBC,MText,"30.0x50.0 Laydown (Option 1)",P-TEMP-T,10.000000000000036
+B20ED8,BlockReference,"*U26",AS-OWNER,1
+B226FD,DBText,"(High Grade Gravel)",T-TEXT,10.00000000000003
+B226FE,DBText,"Government Road Allowance",L-ROAD-T,10.00000000000003
+B22ECC,DBText,"(High Grade Gravel)",T-TEXT,10.00000000000003
+B22ECD,DBText,"Government Road Allowance",L-ROAD-T,10.00000000000003
+B22ECE,MText,"Twp. Rd. 544",L-ROAD-T,10.00000000000003
+B22ED6,DBText,"Rge. Rd. 60",L-ROAD-T,10.00000000000003
+B23E6D,AlignedDimension,"Cenovus  A/R",F-AR-T,Compass 5 000
+B24F89,DBText,"S.E.1/4 Sec. 25-54-6-W.4M.",C-SYMBOL,20.00992492276175
+B37751,BlockReference,"xing2",P-CROSSINGS,1
+B37D62,BlockReference,"xing2",P-CROSSINGS,1
+B37D76,BlockReference,"xing2",P-CROSSINGS,1
+B37D8A,BlockReference,"xing2",P-CROSSINGS,1
+B37DC6,BlockReference,"xing2",P-CROSSINGS,1
+B37E97,BlockReference,"*U28",DETAIL-T,1
+B37EA9,BlockReference,"*U29",0,1
+B385DF,BlockReference,"*U31",DETAIL-T,1
+B385F1,BlockReference,"*U30",0,1
+B38CDF,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10.00000000000002
+B39373,AlignedDimension,"CNRL  P/L R/W Plan 832 3102  20482-40)",F-RW-T,Compass 5 000
+B4623B,MText,"Rge. 6",D-TXT,14.000000000000018
+B4623C,MText,"Rge. 5",D-TXT,14.000000000000018
+B46A8B,BlockReference,"xing2",P-CROSSINGS,1
+B4BF87,AlignedDimension,"10.0x55.0  Work Area)",P-TEMP-BLUE-T,Compass 5 000
+B4BFA7,AlignedDimension,"10.0x12.4  Work Area)",P-TEMP-T,Compass 5 000
+B4BFD8,AlignedDimension,"10.0x15.4  Existing R/W)",P-TEMP-BLUE-T,Compass 5 000
+B4C012,AlignedDimension,"10.0x32.0  Work Area)",P-TEMP-T,Compass 5 000
+B4C067,AlignedDimension,"10.0x99.0  Existing Leas)",P-TEMP-BLUE-T,Compass 5 000
+B4C628,BlockReference,"*U38",0,1
+B4DAEF,AlignedDimension,"5.0x269.8",P-TEMP-T,Compass 5 000
+B4DAF0,AlignedDimension,"5.0x363.8",P-TEMP-T,Compass 5 000
+B4F1B7,BlockReference,"xing2",P-CROSSINGS,1
+B521B9,BlockReference,"xing2",P-CROSSINGS,1
+B52A72,AlignedDimension,"10.0x20.0 A/R",P-TEMP-BLUE-T,Compass 5 000
+B55AD3,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.4

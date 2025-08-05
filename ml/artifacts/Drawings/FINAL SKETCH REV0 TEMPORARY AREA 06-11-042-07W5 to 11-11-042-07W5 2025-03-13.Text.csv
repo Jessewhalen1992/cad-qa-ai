@@ -1,0 +1,58 @@
+Handle,ObjType,Content,Layer,Extra
+BC7B3D,BlockReference,"L-SECLBL",L-SECLBL,0.999685
+BC845A,DBText,"Government Road Allowance",L-ROAD-T,9.996850000000022
+BC845B,DBText,"(Undeveloped)",T-TEXT,9.996850000000022
+BC845C,DBText,"Government Road Allowance",L-ROAD-T,9.996850000000022
+BC845D,DBText,"(Undeveloped)",T-TEXT,9.996850000000022
+BC8469,DBText,"L.S. 13",L-SECTION-LSD,9.996850000000022
+BC846A,DBText,"L.S. 14",L-SECTION-LSD,9.996850000000022
+BC846B,DBText,"L.S. 12",L-SECTION-LSD,9.996850000000022
+BC846C,DBText,"L.S. 11",L-SECTION-LSD,9.996850000000022
+BC8475,DBText,"L.S. 5",L-SECTION-LSD,9.996850000000022
+BC8476,DBText,"L.S. 6",L-SECTION-LSD,9.996850000000022
+BC8477,DBText,"L.S. 4",L-SECTION-LSD,9.996850000000022
+BC8478,DBText,"L.S. 3",L-SECTION-LSD,9.996850000000022
+BC8D83,DBText,"N.W.1/4 Sec. 11-42-7-W.5M.",C-SYMBOL,20.00000000000003
+BC8D84,DBText,"Temp. Access = 0.171 ha  0.42 Ac.",L-AREAREQUIRED,11.000000000000021
+BC8D85,DBText,"Workspace = 0.023 ha  0.05 Ac.",L-AREAWORK,11.000000000000021
+BC8D86,DBText,"S.W.1/4 Sec. 11-42-7-W.5M.",C-SYMBOL,20.00000000000003
+BC8D88,DBText,"Workspace = 0.068 ha  0.17 Ac.",L-AREAWORK,11.000000000000021
+BC95B4,BlockReference,"RP",CG-NOTES,1
+BC9F08,BlockReference,"*U22",AS-OWNER,0.999685
+BC9F34,BlockReference,"*U22",AS-OWNER,0.999685
+BCA865,AlignedDimension,"Fortis  Vegetation  R/W  880206",F-EZE-T,Compass 5 000
+BCB0CE,AlignedDimension,"Fortis  Powerline R/W  840065",F-EZE-T,Compass 5 000
+BCBB21,AlignedDimension,"Yangarra  A/R  080318",F-AR-T,Compass 5 000
+BCBBB5,AlignedDimension,"Obsidian  A/R  221613",C-AR-T,Compass 5 000
+BCBBE1,MText,"Obsidian 14-11 (Surface) MSL7186 (Expired)",C-WS-T,9.996850000000011
+BCCD4F,AlignedDimension,"Obsidian  A/R  597",C-AR-T,Compass 5 000
+BCCD83,MText,"Obsidian 6-11 (Surface) MSL 597",C-WS-T,9.996850000000011
+BCCD84,AlignedDimension,"Obsidian  A/R  597",C-AR-T,Compass 5 000
+BCD6D8,MText,"Yangarra 6-11 (Surface) MSL 080468",F-WS-T,9.996850000000011
+BCE93D,MText,"Obsidian 3-11 (Surface) MSL 221368",C-WS-T,9.996850000000011
+BCE93E,AlignedDimension,"Obsidian  P/L R/W  982 3948  961055",C-RW-T,Compass 5 000
+BCF2BF,AlignedDimension,"Obsidian  P/L R/W  4103",C-RW-T,Compass 5 000
+BCF33A,AlignedDimension,"Obsidian  Waterline R/W  002 3962  972132",C-RW-T,Compass 5 000
+BCFC96,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BCFCD0,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+BCFD01,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+BCFD32,AlignedDimension,"Plains  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD06CC,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+BD06EB,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+BD071C,AlignedDimension,"Plains  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD0744,AlignedDimension,"Obsidian  Flowline R/W  676",C-RW-T,Compass 5 000
+BD0C89,AlignedDimension,"Yangarra  P/L R/W  080731",F-RW-T,Compass 5 000
+BD0CAD,AlignedDimension,"Obsidian  P/L R/W  002 3975  982220",C-RW-T,Compass 5 000
+BD39F5,AlignedDimension,"10.00 P/L R/W  012 5704  on PLSR)",F-RW-T,Compass 5 000
+BD4C4C,BlockReference,"*U43",P-TEMP-BLOCKS,0.999685
+BD4C7C,BlockReference,"*U44",P-TEMP-BLOCKS,0.999685
+BDCA62,BlockReference,"GAS",C-WS-S,4.998425000000003
+BDCA71,BlockReference,"GABD",F-WS-S,4.998425000000003
+BDCA72,BlockReference,"GAS",C-WS-S,4.998425000000003
+BDCA73,BlockReference,"GAS",C-WS-S,4.998425000000003
+BDD4AD,DBText,"(High Grade Gravel)",T-TEXT,9.996850000000006
+BDD4AE,DBText,"Government Road Allowance",L-ROAD-T,9.996850000000006
+BDD4B9,MText,"Fortis O/H Power Line",AS-POWER,9.996850000000011
+BE655A,BlockReference,"xing2",P-CROSSINGS,0.999685
+BE6568,BlockReference,"xing2",P-CROSSINGS,0.999685
+BF501B,BlockReference,"Disclaimer_Legal",0,0.4

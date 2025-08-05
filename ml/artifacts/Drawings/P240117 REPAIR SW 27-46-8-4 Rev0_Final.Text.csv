@@ -1,0 +1,43 @@
+Handle,ObjType,Content,Layer,Extra
+AF3DDB,BlockReference,"L-SECLBL",L-SECLBL,1
+AF45D7,MText,"Lot 1 Plan 802 1989",L-TITLEDB-T,10
+AF463B,BlockReference,"*U21",AS-WILDLIFE-BLOCK,1
+AF4E3E,AlignedDimension,"CNRL  P/L R/W Plan 972 2084  29049-24)",F-RW-T,Compass 5 000
+AF4E4A,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0976  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+AF57E0,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2808  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+AF6032,AlignedDimension,"30.48 Road  728 RS",L-TITLEDB-T,Compass 5 000
+AF6842,AlignedDimension,"30.48 Road  762 1462",L-TITLEDB-T,Compass 5 000
+AF7069,MText,"Approximate Location of Iron Creek Gas Co-op Ltd.",AS-PIPE-UG-T,10
+AF706A,MText,"Approximate Location of Iron Creek Gas Co-op Ltd. (Abd.)",AS-PIPE-UG-T,10
+AF786F,DBText,"(High Grade Gravel)",T-TEXT,10
+AF7870,DBText,"Government Road Allowance",L-ROAD-T,10
+AF7871,MText,"Twp. Rd. 464",L-ROAD-T,10
+AF7878,DBText,"(High Grade Gravel)",T-TEXT,10
+AF7879,DBText,"Government Road Allowance",L-ROAD-T,10
+AF787A,MText,"Rge. Rd. 83",L-ROAD-T,10
+AF80A5,AlignedDimension,"Cleo Energy  P/L R/W  832 2138  58333-1,58333-2)",F-RW-T,Compass 5 000
+AFA8DF,AlignedDimension,"10.0x80.6 A/R  Existing R/W)",P-TEMP-T,Compass 5 000
+AFB143,MText,"30.0x50.0 Laydown Area (Option 2)",P-TEMP-T,10
+AFC1D7,MText,"30.0x50.0 Laydown Area (Option 1)",P-TEMP-T,10
+AFC294,BlockReference,"*U29",0,1
+AFCBC7,BlockReference,"*U30",DETAIL-T,1
+AFCC56,BlockReference,"*U31",0,1
+AFD502,BlockReference,"*U32",DETAIL-T,1
+AFF092,BlockReference,"res_occ",AS-RESIDENCE,5
+B001E9,BlockReference,"xing2",P-CROSSINGS,1
+B001FD,BlockReference,"xing2",P-CROSSINGS,1
+B00A52,BlockReference,"xing2",P-CROSSINGS,1
+B00A67,BlockReference,"xing2",P-CROSSINGS,1
+B00A7C,BlockReference,"xing2",P-CROSSINGS,1
+B00A90,BlockReference,"xing2",P-CROSSINGS,1
+B012D1,BlockReference,"xing2",P-CROSSINGS,1
+B16BA8,MText,"Buried Telus Cable",AS-TELUS,10
+B16BAC,MText,"Residence",AS-RESIDENCE,10
+B17206,DBText,"S.W.1/4 Sec. 27-46-8-W.4M.",C-SYMBOL,20
+B17263,BlockReference,"*U33",AS-OWNER,1
+B196BF,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B23730,BlockReference,"xing2",P-CROSSINGS,1
+B23744,BlockReference,"xing2",P-CROSSINGS,1
+B303D6,AlignedDimension,"10.0x55.1 A/R  R/W)",P-TEMP-BLUE-T,Compass 5 000
+B38170,AlignedDimension,"5.0x634.0",P-TEMP-T,Compass 5 000
+B3EFE0,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.15

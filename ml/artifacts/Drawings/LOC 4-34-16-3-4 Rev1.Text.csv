@@ -1,0 +1,92 @@
+Handle,ObjType,Content,Layer,Extra
+BC7E8F,BlockReference,"L-SECLBL",L-SECLBL,1
+BC9BA7,BlockReference,"FDI",L-MON,5
+BC9BAC,BlockReference,"FDI",L-MON,5
+BC9BB1,BlockReference,"fdspike",L-MON,5
+BC9BB6,BlockReference,"fdspike",L-MON,5
+BC9BC5,BlockReference,"fdspike",L-MON,5
+BC9BCA,BlockReference,"fdspike",L-MON,5
+BC9BCF,BlockReference,"plspike",L-MON,5
+BC9BD4,BlockReference,"plspike",L-MON,5
+BC9C35,BlockReference,"GAS",C-WS-S,5
+BC9C4A,BlockReference,"RISER",AS-SYMBOL,5
+BCB926,MText,"L.S. 3",L-SECTION-LSD,10
+BCB928,MText,"L.S. 4",L-SECTION-LSD,10
+BCB92A,MText,"L.S. 6",L-SECTION-LSD,10
+BCB92C,MText,"L.S. 5",L-SECTION-LSD,10
+BCCC8B,MText,"Native Prairie",T-TEXT,9.995081800000007
+BCD616,MText,"Native Prairie",T-TEXT,9.995081800000007
+BCFC6D,BlockReference,"TEMP",L-MON,4.9975409
+BCFC6E,BlockReference,"TEMP",L-MON,4.9975409
+BCFC6F,BlockReference,"TEMP",L-MON,4.9975409
+BCFCAA,MText,"Native Prairie",T-TEXT,9.995081800000007
+BD06D3,BlockReference,"*U41",35,0.99950818
+BD06F4,BlockReference,"*U42",DETAIL-T,0.9996734060205478
+BD0706,MText,"Fd.I.  N.E. 28",L-MON,9.995081800000007
+BD1129,MText,"Fd.I. c.s. E.1/4 33",L-MON,9.995081800000007
+BD1B0B,BlockReference,"*U42",DETAIL-T,0.9996734060205478
+BD2EC7,DBText,"359°28'00''",L-BD,9.9950818
+BD2EC8,DBText,"273.79 (Tie)",L-TIE-T,9.9950818
+BD2EC9,DBText,"93°29'00''",L-TIE-T,9.9950818
+BD2ECB,DBText,"110°",L-BD,9.9950818
+BD2ECD,DBText,"00''",L-BD,9.9950818
+BD2ECF,DBText,"149°22'50''",L-BD1,9.9950818
+BD2ED1,DBText,"163°38'00''",L-BD1,9.995081799999998
+BD2ED3,DBText,"193°50'15''",L-BD1,9.9950818
+BD2ED5,DBText,"192°01'20''",L-BD1,9.9950818
+BD3877,DBText,"16'",L-BD,9.9950818
+BD387B,MText,"Native Prairie",T-TEXT,9.995081800000007
+BD4220,MText,"3m Dirt Road",AS-GENERAL,9.995081799999978
+BD423C,BlockReference,"HRV",CG-NOTES,1.0000110255440846
+BD4240,DBText,"S.W.1/4 Sec. 34-16-3-W.4M.",C-SYMBOL,19.9901636
+BD4242,DBText,"Access Road = 0.500 ha  1.24 Ac.",L-AREAWORK,10.994589979999999
+BD4C5D,BlockReference,"*U44",AS-OWNER,0.99950818
+BD92FA,MText,"Creek",T-WATER-T,10.001653073219892
+BDBE2C,MText,"Hargrave Reservoir DLO860482",F-WS-T,10
+BDBE2D,MText,"Lagoon",T-WATER-T,10.001653073219892
+BDBE3E,MText,"SEE DETAIL",DETAIL-T,16
+BDD318,AlignedDimension,"Canlin  A/R  061132",C-AR-T,Compass 5 000
+BDD325,AlignedDimension,"Hargrave  Water Line R/W  900310",F-EZE-T,Compass 5 000
+BDD33E,AlignedDimension,"Canlin  A/R  061141",C-AR-T,Compass 5 000
+BDD34B,AlignedDimension,"Forty Mile  P/L R/W  840319",F-RW-T,Compass 5 000
+BDD358,AlignedDimension,"Taqa  P/L R/W  901 1415  910358",F-RW-T,Compass 5 000
+BDD364,AlignedDimension,"Canlin  P/L R/W  081 2159  061993",C-RW-T,Compass 5 000
+BDD371,AlignedDimension,"Taqa  A/R  210267",F-AR-T,Compass 5 000
+BDD37D,AlignedDimension,"Canlin  P/L R/W  831 0586  820352",C-RW-T,Compass 5 000
+BDD38A,AlignedDimension,"Canlin  P/L R/W  051 2299  021772",C-RW-T,Compass 5 000
+BDD397,AlignedDimension,"Canlin  P/L R/W  021 3251  012683",C-RW-T,Compass 5 000
+BE0747,BlockReference,"GAS",C-WS-S,5
+BE0748,BlockReference,"GAS",C-WS-S,5
+BE0749,BlockReference,"GAS",C-WS-S,5
+BE0EFA,BlockReference,"GAS",F-WS-S,5
+BE20A7,AlignedDimension,"Fortis  Power Line R/W  880240",F-EZE-T,Compass 5 000
+BE28C7,AlignedDimension,"Canlin  A/R  820524  be Amended)",C-AR-T,Compass 5 000
+BE28F3,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
+BE294C,MText,"Taqa 11-34 (Surface) MSL 210631",F-WS-T,10
+BE3107,MText,"Canlin (6-34 Surface) MSL 061308",C-WS-T,10.000110255440864
+BE38EB,MText,"Canlin (1-33 Surface) MSL 061296",C-WS-T,10.000110255440864
+BE38FA,DBText,"Government Road Allowance",L-ROAD-T,9.9950818
+BE38FB,DBText,"(Undeveloped)",T-TEXT,9.9950818
+BE3A9B,DBText,"192°01'20''",L-BD1,9.995081800000001
+BE3A9D,BlockReference,"GAS",C-WS-S,5
+BE3AA0,BlockReference,"fdspike",L-MON,5
+BE3AA1,BlockReference,"fdspike",L-MON,5
+BE3AA2,BlockReference,"plspike",L-MON,5
+BE442C,AlignedDimension,"Canlin  A/R  820524  be Amended)",C-AR-T,Compass 5 000
+BE4438,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
+BE44B4,AlignedDimension,"Canlin  P/L R/W  831 0586  820352",C-RW-T,Compass 5 000
+BE4D1C,MText,"3m Dirt Trail",AS-GENERAL,9.995081799999978
+BE4D21,MText,"Canlin (2-34 Surface) MSL 013105",C-WS-T,10.000110255440864
+BE54CC,MText,"Canlin (4-34 Surface) MSL 820524 (To be Amended)",C-WS-T,10.000110255440864
+BE5E6B,MText,"W/H 4-34",C-WS-T,10.000110255440863
+BE83D9,DBText,"89°",L-BD1,9.9950818
+BE83DB,DBText,"30''",L-BD1,9.9950818
+BE8C96,DBText,"18'",L-BD1,9.9950818
+BEBF73,MText,"6m Wide Man-Made Ditch",T-TEXT,9.9950818
+BEF352,MText,"Corner Cut 15.0 x 16.0",P-TXT,9.9950818
+BF01A1,MText,"Fortis O/H Power Line",AS-POWER,10
+BF51DD,MText,"3m Dirt Road",AS-GENERAL,9.995081799999978
+BF9A30,MText,"Canlin (4-34 Surface) MSL 820524 (To be Amended)",C-WS-T,10.000110255440864
+C07291,MText,"34°56'05" 542.60 (Tie)",C-AR,9.9950818
+C08DD0,MText,"34°56'05" 542.60 (Tie)",C-AR,9.9950818
+C0E12B,BlockReference,"Disclaimer_Legal",C-AR-T,1

@@ -1,0 +1,137 @@
+Handle,ObjType,Content,Layer,Extra
+AF425E,BlockReference,"L-SECLBL",L-SECLBL,0.999632
+AF4272,BlockReference,"RP",P-75m DRAINAGE AREA,1
+AFA53A,MText,"Theor. N.W.1/4  Sec. 26-67-5-W.6M.",C-SYMBOL,19.99999999999986
+AFA53B,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999927
+AFA53C,BlockReference,"*U23",AS-OWNER,1
+AFA54B,BlockReference,"*U24",AS-SURFACE IMPACT,1
+AFA567,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999895
+AFA596,MText,"L.S. 11",L-SECTION-LSD,9.99999999999993
+AFA598,MText,"L.S. 12",L-SECTION-LSD,9.99999999999993
+AFA59A,MText,"L.S. 14",L-SECTION-LSD,9.99999999999993
+AFA59B,MText,"L.S. 13",L-SECTION-LSD,9.99999999999993
+AFA92D,AlignedDimension,"CNRL  P/L R/W  912 0653  900059",C-RW,Compass 5 000
+AFA92E,AlignedDimension,"Alliance  Access R/W  012 2183",F-AR,Compass 5 000
+AFA92F,AlignedDimension,"Shell  P/L R/W  160518",F-AR,Compass 5 000
+AFA930,AlignedDimension,"CNRL  P/L R/W  912 0281  912 1409  900881",C-RW-T,Compass 5 000
+AFA931,AlignedDimension,"CNRL  P/L R/W  230206",C-RW-T,Compass 5 000
+AFA932,AlignedDimension,"CNRL  P/L R/W  140514",C-RW-T,Compass 5 000
+AFA944,MText,"CNRL Plant Site MSL 220499",C-WS-T,9.99999999999993
+AFA946,MText,"CNRL Truck Terminal Plan 802 1003 (Not on PLSR)",C-WS-T,9.999999999999908
+AFA948,MText,"CNRL 5-25 (Surface) MSL 160668",C-WS-T,9.99999999999993
+AFA94A,MText,"CNRL Air Strip DLO 3384",C-AR-T,9.99999999999993
+AFA94C,MText,"CNRL Plant Site Extension MLL 2875",C-WS-T,9.99999999999993
+AFA950,AlignedDimension,"Manitok  A/R  064401",F-AR-T,Compass 5 000
+AFA954,AlignedDimension,"ATCO  Power Line R/W  4423 RS  2818",F-EZE-T,Compass 5 000
+AFA956,AlignedDimension,"PGI  P/L R/W  032 1141  012333",F-RW-T,Compass 5 000
+AFA957,AlignedDimension,"Shell  P/L R/W  122070",F-RW-T,Compass 5 000
+AFA958,AlignedDimension,"Manitok  P/L R/W  074 0752  063048",F-RW-T,Compass 5 000
+AFA959,AlignedDimension,"Alliance  P/L R/W  012 2193  982617",F-RW-T,Compass 5 000
+AFA95B,MText,"Maxim  Power Station DML 990058",F-RW-T,9.99999999999993
+AFA95C,MText,"Nova  Compressor Station Plan 802 2690 DPI 810002",F-RW-T,9.99999999999993
+AFA95D,MText,"Alliance Compressor Site Plan 012 2193 DPI 980267",F-WS-T,9.996339499999912
+AFA95F,AlignedDimension,"Nova  P/L R/W  792 0933  780544",F-RW-T,Compass 5 000
+AFA960,AlignedDimension,"Alliance  P/L R/W  012 1713  982617",F-WS-T,Compass 5 000
+AFA971,AlignedDimension,"Nova  P/L R/W  822 2016  800714",F-RW-T,Compass 5 000
+AFA972,MText,"PGI Compressor Site Plan 032 4348 PIL 020233",F-WS-T,9.996339499999912
+AFA974,MText,"Arc Riser Site PIL 150492",F-WS-T,9.996339499999912
+AFA976,MText,"Alliance Riser Site DPI 150605",F-WS-T,9.996339499999912
+AFA978,AlignedDimension,"CNRL  P/L R/W  2369RS  3484",C-RW-T,Compass 5 000
+AFA979,AlignedDimension,"CNRL  P/L R/W  2369RS  3548",C-RW-T,Compass 5 000
+AFA97A,MText,"CNRL Gas Plant Site Plan 1102 RS (Not on PLSR) (C. of T.)",C-WS-T,9.999999999999908
+AFA97C,AlignedDimension,"ATCO  Power Line R/W  2767",F-EZE-T,Compass 5 000
+AFA97F,MText,"Nova  Meter Station Plan 2803RS DPI 175 (Expired)",F-RW-T,9.99999999999993
+AFA982,AlignedDimension,"Keyera  P/L R/W  210254",F-RW-T,Compass 5 000
+AFA983,AlignedDimension,"11.00 P/L R/W  912 0494",F-RW-T,Compass 5 000
+AFA984,AlignedDimension,"Alliance  P/L R/W  012 2968  981131",F-RW-T,Compass 5 000
+AFA985,AlignedDimension,"Arc  A/R  151274",F-RW-T,Compass 5 000
+AFA986,AlignedDimension,"ATCO  Power Line R/W  030023",F-RW-T,Compass 5 000
+AFA987,AlignedDimension,"ATCO  Power Line R/W  180072",F-RW-T,Compass 5 000
+AFA988,MText,"20.00 P/L R/W Plan 002 4297",F-RW-T,9.99999999999993
+AFA989,MText,"ATCO 15.00 Power Line R/W EZE 920070",F-RW-T,9.99999999999993
+AFA98A,AlignedDimension,"CNRL  P/L R/W  3624RS  3729",C-RW-T,Compass 5 000
+AFA98B,MText,"CNRL Compressor Station Plan 022 5626 MSL 972102 (Expired)",C-RW-T,9.99999999999993
+AFA98C,MText,"CNRL 13-26 (Surface) MSL 220291",C-RW-T,9.99999999999993
+AFA98D,AlignedDimension,"PGI  P/L R/W  032 4362  030844",F-RW-T,Compass 5 000
+AFAFF3,AlignedDimension,"Nova  A/R  2803 RS  3548",F-AR-T,Compass 5 000
+AFB16A,AlignedDimension,"Nova  P/L R/W  2803 RS  3598",F-RW-T,Compass 5 000
+AFB754,AlignedDimension,"ATCO  Power Line R/W  980197",F-EZE,Compass 5 000
+AFB7B9,AlignedDimension,"ATCO  Power Line R/W  990160",F-RW-T,Compass 5 000
+AFBC82,AlignedDimension,"CNRL  A/R  981416",C-AR-T,Compass 5 000
+AFBDD0,AlignedDimension,"CNRL  A/R  5897",C-AR-T,Compass 5 000
+AFC377,AlignedDimension,"P/L R/W  022 1876  002215",F-RW-T,Compass 5 000
+AFC4CF,AlignedDimension,"CNRL  P/L R/W  001969",F-RW-T,Compass 5 000
+AFCDB5,AlignedDimension,"CNRL  P/L R/W  074 0533  071002",C-RW-T,Compass 5 000
+AFCF48,AlignedDimension,"CNRL  P/L R/W  843 TR  4752",C-RW-T,Compass 5 000
+AFD14F,AlignedDimension,"PGI  P/L R/W  072785",F-AR,Compass 5 000
+AFE43F,AlignedDimension,"Shell  P/L R/W  150435",F-RW-T,Compass 5 000
+AFE596,AlignedDimension,"Arc  P/L R/W  150948",F-RW-T,Compass 5 000
+AFE6B8,AlignedDimension,"CNRL  P/L R/W  170083",C-RW-T,Compass 5 000
+AFE6F2,AlignedDimension,"CNRL  A/R  160730",C-AR-T,Compass 5 000
+AFE9A9,AlignedDimension,"CNRL  P/L R/W  220145",C-AR-T,Compass 5 000
+AFEC09,AlignedDimension,"CNRL  P/L R/W  220409",C-AR-T,Compass 5 000
+AFEC43,AlignedDimension,"CNRL  P/L R/W  220502",C-AR-T,Compass 5 000
+AFED6A,AlignedDimension,"CNRL  P/L R/W  220622",C-AR-T,Compass 5 000
+AFEDB8,AlignedDimension,"CNRL  P/L R/W  230673",C-AR-T,Compass 5 000
+AFEF07,AlignedDimension,"CNRL  P/L R/W  792 2263  810212",C-RW-T,Compass 5 000
+AFEF48,AlignedDimension,"CNRL  P/L R/W  822 2815  820112",C-RW-T,Compass 5 000
+AFEFAA,AlignedDimension,"CNRL  P/L R/W  980211",C-RW-T,Compass 5 000
+AFF1DF,AlignedDimension,"CNRL  P/L R/W  012 4185  982492",C-RW-T,Compass 5 000
+AFF207,MText,"PGI Fire Hazard Management RVC 230011",F-WS-T,9.996339499999912
+AFF2EC,AlignedDimension,"ATCO  Vegetation Control R/W  910003",F-VCE-T,Compass 5 000
+AFFA30,AlignedDimension,"CNRL  Width R/W  001141",C-AR-T,Compass 5 000
+B02ECE,MText,"CNRL Gas Plant Site Plan 1102 RS (Not on PLSR)",C-WS-T,9.999999999999908
+B02EE8,AlignedDimension,"Manitok  P/L R/W  074 0752  063048",F-RW-T,Compass 5 000
+B02EF4,AlignedDimension,"Manitok  A/R  064401",F-AR-T,Compass 5 000
+B02F78,MText,"CNRL Truck Terminal Plan 802 1003 (Not on PLSR)",C-WS-T,9.999999999999908
+B030AC,AlignedDimension,"CNRL  P/L R/W  074 0533  071002",C-RW-T,Compass 5 000
+B030D3,AlignedDimension,"CNRL  P/L R/W  4272",C-RW-T,Compass 5 000
+B030E0,AlignedDimension,"CNRL  P/L R/W  822 0228  4272",C-RW-T,Compass 5 000
+B03299,AlignedDimension,"CNRL  P/L R/W  3624RS  3729",C-RW-T,Compass 5 000
+B03311,AlignedDimension,"ATCO  Power Line R/W  2767",F-EZE-T,Compass 5 000
+B037A1,BlockReference,"*U84",P-TEMP-BLOCKS,0.999632
+B04BA6,AlignedDimension,"CNRL  P/L R/W  142030",C-RW-T,Compass 5 000
+B04BB2,AlignedDimension,"CNRL  P/L R/W  220502",C-AR-T,Compass 5 000
+B04BCA,AlignedDimension,"PGI  P/L R/W  032 1141  012333",F-RW-T,Compass 5 000
+B04BD6,AlignedDimension,"Shell  P/L R/W  150435",F-RW-T,Compass 5 000
+B04DA5,AlignedDimension,"Nova  A/R  2803 RS  3548",F-AR-T,Compass 5 000
+B04F16,MText,"CNRL Air Strip DLO 3384",C-AR-T,9.99999999999993
+B05142,AlignedDimension,"P/L R/W  022 1876  002215",F-RW-T,Compass 5 000
+B06E67,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B06FD4,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B06FD7,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B1539D,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B17DA0,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999632
+B1C5CB,BlockReference,"GAS",C-WS-S,4.998159999999982
+B1C858,BlockReference,"GAS",C-WS-S,4.999999999999983
+B1C859,BlockReference,"GAS",C-WS-S,4.999999999999983
+B1F046,BlockReference,"*U84",P-TEMP-BLOCKS,0.999632
+B1F420,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999632
+B1F8E3,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B1FCEE,AlignedDimension,"CNRL  P/L R/W  142030",C-RW-T,Compass 5 000
+B20C66,MText,"CNRL Plant Site Extension MLL 2875",C-WS-T,9.99999999999993
+B21CE5,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B21CE8,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B21CEB,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B25809,AlignedDimension,"Keyera  A/R  210496",F-RW-T,Compass 5 000
+B25AB8,BlockReference,"*U93",CG-NOTES,0.999632
+B269B6,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B269B9,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B269C6,AlignedDimension,"Nova  P/L R/W  2803 RS  3598",F-RW-T,Compass 5 000
+B26B7C,AlignedDimension,"Shell  P/L R/W  122070",F-RW-T,Compass 5 000
+B279D1,AlignedDimension,"15.00 P/L R/W  822 0228",C-RW-T,Compass 5 000
+B27B57,MText,"Buried Telus  Cable",AS-TELEPHONE-T,9.996319999999985
+B2D218,AlignedDimension,"CNRL  P/L R/W  092 7025  on PLSR)",C-RW-T,Compass 5 000
+B2E02A,AlignedDimension,"15.00 P/L R/W  822 0228",C-RW-T,Compass 5 000
+B41D97,BlockReference,"*U102",DETAIL-T,1
+B41DA5,MText,"DETAIL",DETAIL-T,20
+B41FC2,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FC5,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FC8,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FCB,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FCE,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FD1,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FD4,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FD7,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FDA,BlockReference,"Well_proximity",P-CROSSINGS,0.999632
+B41FDD,BlockReference,"Well_proximity",P-CROSSINGS,0.999632

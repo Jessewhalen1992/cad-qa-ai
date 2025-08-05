@@ -1,0 +1,72 @@
+Handle,ObjType,Content,Layer,Extra
+AF3324,BlockReference,"fdspike",L-MON,5
+AF3329,BlockReference,"fdspike",L-MON,5
+AF332E,BlockReference,"fdspike",L-MON,5
+AF3333,BlockReference,"fdspike",L-MON,5
+AF3338,BlockReference,"plspike",L-MON,5
+AF333D,BlockReference,"plspike",L-MON,5
+AF352A,BlockReference,"L-SECLBL",L-SECLBL,1
+AF3534,MText,"L.S. 11",L-SECTION-LSD,10.000000000000012
+AF3536,MText,"L.S. 12",L-SECTION-LSD,10.000000000000012
+AF3538,MText,"L.S. 14",L-SECTION-LSD,10.000000000000012
+AF3539,MText,"L.S. 13",L-SECTION-LSD,10.000000000000012
+AF373D,BlockReference,"*U31",L-AREAREQUIRED,1
+AF3765,AlignedDimension,"Sinopec  A/R  033101",C-AR-T,Compass 5 000
+AF3947,AlignedDimension,"CNRL  A/R  771110",F-AR-T,Compass 5 000
+AF397C,AlignedDimension,"Sinopec  P/L R/W  082 7413  042643",C-RW-T,Compass 5 000
+AF39B0,AlignedDimension,"Sinopec  P/L R/W  120465",C-RW-T,Compass 5 000
+AF39D4,AlignedDimension,"CNRL  P/L R/W  792 0806  780357",F-RW,Compass 5 000
+AF5128,MText,"Peace River  DRS 900057",F-WS-T,10.000000000000012
+AF594D,AlignedDimension,"Sinopec  A/R  113176",C-AR-T,Compass 5 000
+AF59A4,BlockReference,"HRV",CG-NOTES,0.99975701
+AF5B6C,BlockReference,"GAS",C-WS-S,5
+AF5B6D,BlockReference,"GAS",C-WS-S,5
+AF5B6F,BlockReference,"GAS",C-WS-S,5
+AF5B98,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000009
+AF5B99,DBText,"(Undeveloped)",T-TEXT,10.000000000000009
+AFBD50,BlockReference,"*U44",C-WS-S,1
+AFC27F,BlockReference,"FLARE",AS-SYMBOL,5
+AFC281,BlockReference,"FLARE",AS-SYMBOL,5
+AFC283,MText,"40cm Poplar  & Spruce",T-BUSH-T,10.000000000000009
+AFC284,MText,"40cm Poplar  & Spruce",T-BUSH-T,10.000000000000009
+AFE82D,MText,"SEE DETAIL",DETAIL-T,16.000000000000014
+B0149A,DBText,"90°01'45''",L-BD,9.997570099999999
+B1126F,AlignedDimension,"Sinopec  A/R  113176",C-AR-T,Compass 5 000
+B11277,BlockReference,"FLARE",AS-SYMBOL,5
+B11278,BlockReference,"GAS",C-WS-S,5
+B11279,BlockReference,"GAS",C-WS-S,5
+B1127A,BlockReference,"GAS",C-WS-S,5
+B1127B,BlockReference,"*U42",C-WS-S,1
+B11281,BlockReference,"fdspike",L-MON,5
+B11282,BlockReference,"fdspike",L-MON,5
+B11283,BlockReference,"fdspike",L-MON,5
+B11284,BlockReference,"fdspike",L-MON,5
+B11285,BlockReference,"plspike",L-MON,5
+B11286,BlockReference,"plspike",L-MON,5
+B11926,MText,"W/H 2-15",C-WS-T,10
+B11928,MText,"W/H 13-21",C-WS-T,10
+B1193C,BlockReference,"curve",L-BD1,4.998785050000003
+B11945,DBText,"270°",L-BD,9.997570099999999
+B11947,DBText,"40''",L-BD,9.997570099999999
+B11949,DBText,"00'",L-BD,9.997570099999999
+B11955,MText,"90°01'45''",L-BD,9.997570099999999
+B11961,DBText,"179°10'00''",L-BD,9.997570099999999
+B11968,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000009
+B11969,DBText,"(Undeveloped)",T-TEXT,10.000000000000009
+B11A8D,MText,"Existing Pad Site = 2.395 ha  5.92 Ac. Pad Site Extension = 0.017 ha  0.04 Ac.",L-AREAREQUIRED,11.000000000000014
+B11FC5,MText,"N.W.1/4 Sec. 15-69-9-W.6M.",C-SYMBOL,20.000000000000014
+B1265D,AlignedDimension,"Sinopec  P/L R/W  120465",C-RW-T,Compass 5 000
+B12679,MText,"W/H 7-29",C-WS-T,10
+B13221,BlockReference,"*U45",DETAIL-T,1
+B13DEE,AlignedDimension,"Sinopec  P/L R/W  240397",C-RW-T,Compass 5 000
+B13E5D,AlignedDimension,"Sinopec  P/L R/W  ______",C-RW-T,Compass 5 000
+B13ED0,AlignedDimension,"Sinopec  P/L R/W  240397",C-RW-T,Compass 5 000
+B13F21,MText,"Sinopec 20.00 P/L R/W PLA ______",C-RW-T,10
+B14459,MText,"40cm Poplar  & Spruce",T-BUSH-T,10.000000000000009
+B1445A,MText,"40cm Poplar  & Spruce",T-BUSH-T,10.000000000000009
+B1445B,MText,"40cm Poplar  & Spruce",T-BUSH-T,10.000000000000009
+B15CC4,MText,"Flare",T-SLOPE,10.000000000000009
+B181C4,MText,"120.18 1°56'15''",L-BD,9.997570099999999
+B18620,BlockReference,"*U45",DETAIL-T,1
+B19794,MText,"Blindline",L-SEC,10.000000000000009
+B1DA12,BlockReference,"Disclaimer_Legal",0,0.3

@@ -1,0 +1,18 @@
+Handle,ObjType,Content,Layer,Extra
+B00402,BlockReference,"L-SECLBL",L-SECLBL,2
+B0040E,BlockReference,"L-SECLBL",L-SECLBL,2
+B00449,BlockReference,"Route_Letters",CG-NOTES,2
+B0044C,BlockReference,"Route_Letters",CG-NOTES,2
+B0044F,BlockReference,"Route_Letters",CG-NOTES,2
+B00452,BlockReference,"Route_Letters",CG-NOTES,2
+B00455,BlockReference,"Route_Letters",CG-NOTES,2
+B00458,BlockReference,"Route_Letters",CG-NOTES,2
+B0045B,BlockReference,"Route_Letters",CG-NOTES,2
+B0045E,BlockReference,"Route_Letters",CG-NOTES,2
+B00461,BlockReference,"Route_Letters",CG-NOTES,2
+B00464,BlockReference,"Route_Letters",CG-NOTES,2
+B00467,BlockReference,"Route_Letters",CG-NOTES,2
+B0046A,BlockReference,"Route_Letters",CG-NOTES,2
+B0046D,AlignedDimension,"{",P-TXT,Compass 5 000
+B0046E,AlignedDimension,"{",P-TXT,Compass 5 000
+B05E01,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.6

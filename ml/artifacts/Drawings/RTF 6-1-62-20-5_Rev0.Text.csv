@@ -1,0 +1,71 @@
+Handle,ObjType,Content,Layer,Extra
+BDE6B7,BlockReference,"L-SECLBL",L-SECLBL,0.9994659999999973
+BDE6D6,MText,"L.S. 3",L-SECTION-LSD,9.994660000000005
+BDE6D8,MText,"L.S. 4",L-SECTION-LSD,9.994660000000005
+BDE6DA,MText,"L.S. 6",L-SECTION-LSD,9.994660000000005
+BDE6DC,MText,"L.S. 5",L-SECTION-LSD,9.994660000000005
+BDE6E5,BlockReference,"label_road_theoretic",CG-NOTES,0.9994659999999991
+BDE6E8,BlockReference,"label_road_theoretic",CG-NOTES,0.9994659999999987
+BDECE8,MText,"Theor. S.W.1/4 Sec. 1-62-20-W.5M.",C-SYMBOL,19.98932000000001
+BDEE98,BlockReference,"UT",L-UNS-T,0.9994659999999973
+BDEEA5,AlignedDimension,"Telus  Cable R/W  3568",F-AR-T,Compass 5 000
+BDF4AF,AlignedDimension,"ATCO  Power Line R/W  960154",F-EZE-T,Compass 5 000
+BDF91B,MText,"PGI 2-1 (Surface) LOC 4179",F-AR-T,9.994660000000001
+BDFBD5,MText,"PGI Water Well MLL 200036",F-WS-T,9.994660000000001
+BDFBD7,MText,"PGI Storage Site MLL 750103",F-WS-T,9.994660000000001
+BE02D8,AlignedDimension,"Sprocket  P/L R/W  940 RS  3238",F-RW-T,Compass 5 000
+BE4B3B,AlignedDimension,"CNR  Railway  6315 RS",L-TITLEDB-T,Compass 5 000
+BE8762,MText,"Buried Telus Cable",AS-TELEPHONE,9.994659999999987
+BED716,AlignedDimension,"Sprocket  A/R  940700",F-AR-T,Compass 5 000
+BED73C,AlignedDimension,"Sprocket  P/L R/W  2097 RS  3435",F-RW-T,Compass 5 000
+BEDBAE,AlignedDimension,"P/L R/W  3972 RS  3778",F-RW-T,Compass 5 000
+BEDBFA,AlignedDimension,"30.00 Access R/W  812 0376  on PLSR)",F-AR-T,Compass 5 000
+BEDC22,AlignedDimension,"PGI  Access R/W  4451 RS  2841",F-AR-T,Compass 5 000
+BF736E,MText,"PGI Storage Site MLL 750103",F-WS-T,9.994660000000001
+BF77EA,AlignedDimension,"PGI  P/L R/W  902 3601  890631",F-RW-T,Compass 5 000
+BF78BB,AlignedDimension,"Sprocket  P/L R/W  2097 RS  3435",F-AR-T,Compass 5 000
+BF7931,AlignedDimension,"ATCO  Power Line R/W  960154",F-EZE-T,Compass 5 000
+BF7970,AlignedDimension,"30.00 Access R/W  812 0376  on PLSR)",F-AR-T,Compass 5 000
+BF7E23,MText,"PGI Water Well MLL 200036",F-WS-T,9.994660000000001
+BF7E3A,AlignedDimension,"P/L R/W  3972 RS  3778",F-RW-T,Compass 5 000
+BF86F5,MText,"Railway Tracks",L-TITLEDB-T,9.995771752313113
+BF86F7,MText,"Signage",L-TITLEDB-T,9.995771752313113
+BF86F8,MText,"Signage",L-TITLEDB-T,9.995771752313113
+BF86F9,MText,"Signage",L-TITLEDB-T,9.995771752313113
+BF86FA,MText,"Culvert",T-TEXT,9.995771752313113
+BF8704,MText,"N.-S. 1/4 Line",L-SECQ,9.994713400000068
+BFCC22,AlignedDimension,"CNRL  P/L R/W  240234",F-RW-T,Compass 5 000
+BFCC66,AlignedDimension,"CNRL  P/L R/W  150632",F-RW-T,Compass 5 000
+BFEF37,MText,"Twp. 61",D-TXT,13.992598759999975
+BFEF38,MText,"Twp. 62",D-TXT,13.992598759999975
+C021E2,AlignedDimension,"Whitecap  P/L R/W  ______",C-RW-T,Compass 5 000
+C0E6D0,BlockReference,"*U42",0,0.99947134
+C12C33,MText,"Buried Telus Cable",AS-TELEPHONE,9.994659999999987
+C25F6D,AlignedDimension,"CNR  Railway  6315 RS",L-TITLEDB-T,Compass 5 000
+C25FA7,AlignedDimension,"Whitecap  A/R  ______",C-RW-T,Compass 5 000
+C26035,BlockReference,"*U45",P-TEMP-BLOCKS,0.99947134
+C26842,BlockReference,"*U48",P-TEMP-BLOCKS,0.99947134
+C26857,BlockReference,"Temp_Area_Small_Pink",P-100m WELL BORE BUFFER,0.99947134
+C268B4,BlockReference,"Pile",0,2.498678349999999
+C268BB,BlockReference,"Pile",0,2.498678349999999
+C268C1,BlockReference,"Pile",0,4.997356699999998
+C268C2,BlockReference,"Pile",0,4.997356699999998
+C26E4E,BlockReference,"Temp_Area_Small_Pink",P-100m WELL BORE BUFFER,0.99947134
+C2A205,MText,"Whitecap Variable Width P/L R/W LOC ______",C-RW-T,10
+C2A7A0,MText,"Whitecap Variable Width P/L R/W LOC ______",C-RW-T,10
+C2CC19,AlignedDimension,"PGI  P/L R/W  902 3601  890631",F-RW-T,Compass 5 000
+C2CC52,AlignedDimension,"Sprocket  A/R  940700",F-AR-T,Compass 5 000
+C2CC82,AlignedDimension,"Telus  Cable R/W  3568",F-AR-T,Compass 5 000
+C2CCA9,AlignedDimension,"Sprocket  P/L R/W  940 RS  3238",F-RW-T,Compass 5 000
+C2F613,AlignedDimension,"PGI  Access R/W  4451 RS  2841",F-AR-T,Compass 5 000
+C33F15,MText,"High Grade Gravel Road",T-TEXT,9.9947134
+C35473,BlockReference,"Temp_Area_Small_Pink",P-100m WELL BORE BUFFER,0.99947134
+C354C1,BlockReference,"*U54",P-TEMP-BLOCKS,0.99947134
+C38D3A,DBText,"Railway Plan 6315 RS",C-SYMBOL,19.9894268
+C38D3B,DBText,"Temporary Access Road = 0.012 ha  0.03 Ac.",L-AREAREQUIRED,10.99418474
+C38D80,BlockReference,"*U55",AS-OWNER,0.99947134
+C39DE4,MText,"4.0x30.0 Temporary A/R",P-WORKAREA-T,10
+C3B3C9,BlockReference,"Well_proximity",P-CROSSINGS,0.9989764430813048
+C3B3CC,BlockReference,"Well_proximity",P-CROSSINGS,0.9989764430813048
+C3E729,BlockReference,"Well_proximity",P-CROSSINGS,0.9989764430813048
+C40D46,BlockReference,"Disclaimer_Legal",CG-NOTES,0.3

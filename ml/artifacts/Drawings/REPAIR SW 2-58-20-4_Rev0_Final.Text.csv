@@ -1,0 +1,53 @@
+Handle,ObjType,Content,Layer,Extra
+AF52B1,BlockReference,"L-SECLBL",L-SECLBL,1
+AF696C,MText,"Key Wildlife and Biodiversity  Zone Boundary",AS-WILDLIFE,10
+AF69CD,BlockReference,"*U20",AS-WILDLIFE-BLOCK,1
+AF69F7,BlockReference,"HRV",CG-NOTES,1
+AF6A03,MText,"Approximate Location of Thorhild County Gas Co-op.",AS-PIPE-UG-T,10
+AF7140,MText,"Lot 1 Block 1 Plan 022 2686",L-TITLEDB-T,10
+AF7141,MText,"C. of T.",L-TITLEDB-T,10
+AF7143,MText,"Lot 4 Block 1 Plan 132 1015",L-TITLEDB-T,10
+AF7144,AlignedDimension,"Shell  P/L R/W  152 0488  54407-1)",F-RW-T,Compass 5 000
+AF7170,AlignedDimension,"Enbridge  P/L R/W  162 3489  54419-42)",F-RW-T,Compass 5 000
+AF7328,AlignedDimension,"Enbridge  P/L R/W  192 1831  57441-4)",F-RW-T,Compass 5 000
+AF74F2,MText,"C. of T.",L-TITLEDB-T,10
+AF7577,BlockReference,"*U25",AS-OWNER,1
+AF75BD,MText,"Thorhild County",L-33,12
+AF75BF,MText,"Sturgeon County",L-33,12
+AF75CE,DBText,"(High Grade Gravel)",T-TEXT,10
+AF75CF,DBText,"Government Road Allowance",L-ROAD-T,10
+AF75D6,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+AF75D7,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+AF81F6,MText,"Buried Telus Cable",AS-TELUS,10
+AF8200,BlockReference,"res_occ",AS-RESIDENCE,5
+AF8206,MText,"Fortis O/H Power Line",AS-POWER,10
+AF8209,BlockReference,"res_occ",AS-RESIDENCE,5
+AF83B0,BlockReference,"res_occ",AS-RESIDENCE,5
+AF83B1,MText,"Residence (Typ.)",AS-RESIDENCE,10
+AF98D8,MText,"Grand Rapids 35.00 P/L R/W PLA 131156",F-RW-T,11
+B04B95,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  162 0043  54778-1, LS 7108)",P-PROPOSED-T,Compass 5 000
+B05F8C,MText,"Inter Pipeline 25.00 P/L R/W PLA 122018",C-RW-T,10
+B063C0,AlignedDimension,"Grand Rapids  P/L R/W  Plan by Precision  56699-21,  56673-18)",F-RW-T,Compass 5 000
+B06C95,DBText,"Twp. Rd. 580",L-ROAD-T,10
+B06C96,DBText,"Rge. Rd. 202",L-ROAD-T,9.999999999999998
+B074FA,MText,"15.0x100.0 Laydown Area (Temporary)",P-TEMP-T,10
+B07A08,BlockReference,"*U28",0,0.9993471061400016
+B07B0E,BlockReference,"*U29",0,1
+B07FA1,MText,"10.0x50.0 Workspace (Temporary)",P-TEMP-T,10
+B083E4,AlignedDimension,"Enbridge  P/L R/W  092 3036  48998-6)",F-RW-T,Compass 5 000
+B0840B,MText,"S.W.1/4 Sec. 2-58-20-W.4M.",C-SYMBOL,20
+B0B0C5,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B0C6,BlockReference,"res_occ",AS-RESIDENCE,5
+B0BDE1,BlockReference,"res_occ",AS-RESIDENCE,5
+B0BDE3,BlockReference,"res_occ",AS-RESIDENCE,5
+B0C218,BlockReference,"res_occ",AS-RESIDENCE,5
+B1DFB1,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B25348,MText,"C. of T.",L-TITLEDB-T,10
+B25349,BlockReference,"HRV",CG-NOTES,1
+B25355,MText,"Wooded Coniferous Fen",WETLAND-T,9.995619700000056
+B26C21,MText,"Unnamed Creek",T-CREEK-TEXT,8.996195609999935
+B287AB,MText,"Twp. 57",D-TXT,14
+B287AC,MText,"Twp. 58",D-TXT,14
+B2CB57,AlignedDimension,"10.0x428.3 A/R",P-TEMP-T,Compass 5 000
+B2CB59,BlockReference,"xing2",P-CROSSINGS,1
+B319A8,BlockReference,"Disclaimer_Legal",0,0.25

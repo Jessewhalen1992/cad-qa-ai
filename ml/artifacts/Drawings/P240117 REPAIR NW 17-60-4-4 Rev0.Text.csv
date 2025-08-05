@@ -1,0 +1,67 @@
+Handle,ObjType,Content,Layer,Extra
+AF340F,BlockReference,"L-SECLBL",L-SECLBL,1
+AF440C,MText,"Key Wildlife Biodiversity Zone Boundary",AS-WILDLIFE,9.9952
+AF459C,AlignedDimension,"CNRL  P/L R/W  982 0231  27611-28)",F-RW-T,Compass 5 000
+AF566C,AlignedDimension,"CNRL  P/L R/W  942 2490  27611-1, 27611-2)",F-RW-T,Compass 5 000
+AF5F87,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 5033  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+AF6193,AlignedDimension,"CNRL  P/L R/W  962 2434  27611-4)",F-RW-T,Compass 5 000
+AF6B4D,AlignedDimension,"30.00 Road  952 1104",L-TITLEDB,Compass 5 000
+AF6BF3,MText,"C. of T.",L-TITLEDB-T,9.9952
+AF78B6,BlockReference,"Blk_Wildlife_Key_Wildlife",AS-WILDLIFE-BLOCK,0.99952
+AF793B,BlockReference,"*U31",AS-OWNER,0.99952
+AF7969,DBText,"N.W.1/4 Sec. 17-60-4-W.4M.",C-SYMBOL,19.9904
+AF7B08,AlignedDimension,"20.12 Road  695 NY",L-TITLEDB-T,Compass 5 000
+AF7B4A,MText,"Buried Telus Cable",AS-TELUS,9.9952
+AF848E,MText,"C. of T.",L-TITLEDB-T,9.9952
+AF8490,MText,"Lot 1 Block 1 Plan 072 1006",L-TITLEDB-T,9.9952
+AF8E51,MText,"Imperial 4-20 (Abd.)",F-WS-T,9.9952
+AF8E61,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF8E62,BlockReference,"GAS",F-WS-S,4.9976
+AF8E63,BlockReference,"GAS",F-WS-S,4.9976
+AF8E64,BlockReference,"GAS",F-WS-S,4.9976
+AF8E65,BlockReference,"GAS",F-WS-S,4.9976
+AF8E66,MText,"CNRL 13-17 (Surface)",F-WS-T,9.9952
+AF9AD9,AlignedDimension,"30.48 Road  822 2048",L-TITLEDB-T,Compass 5 000
+AF9B09,MText,"Approximate Location of North East Gas Co-op Ltd.",AS-PIPE-UG-T,9.9952
+AF9CB8,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF9CB9,AlignedDimension,"CNRL  A/R",F-AR-T,Compass 5 000
+AF9D0E,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF9D0F,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF9D10,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF9D11,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.9976
+AF9D12,MText,"CNRL 11-17 (Abd.)",F-WS-S,9.9952
+AF9D13,AlignedDimension,"CNRL  A/R",F-AR-T,Compass 5 000
+AFA62E,AlignedDimension,"Campus Energy  P/L R/W  Plan 1439 NY  61081-4)",F-RW-T,Compass 5 000
+AFA8C1,DBText,"Government Road Allowance",L-ROAD-T,9.9952
+AFA8C2,DBText,"(Undeveloped)",T-TEXT,9.9952
+AFABEA,AlignedDimension,"CNRL  A/R",F-AR-T,Compass 5 000
+AFD028,AlignedDimension,"Campus Energy  P/L R/W  932 1149  56321-1)",F-RW-T,Compass 5 000
+AFD8AB,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2858  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+B08F57,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.9952
+B0BE87,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.9952
+B0CEA2,MText,"Twp. Rd. 603",L-ROAD-T,9.999999999999984
+B11023,BlockReference,"res_occ",AS-RESIDENCE,4.9976
+B12835,BlockReference,"xing2",P-CROSSINGS,1
+B12849,BlockReference,"xing2",P-CROSSINGS,1
+B1285D,BlockReference,"xing2",P-CROSSINGS,1
+B13032,BlockReference,"xing2",P-CROSSINGS,1
+B13046,BlockReference,"xing2",P-CROSSINGS,1
+B1305A,BlockReference,"xing2",P-CROSSINGS,1
+B1383B,BlockReference,"xing2",P-CROSSINGS,1
+B1384F,BlockReference,"xing2",P-CROSSINGS,1
+B1386F,BlockReference,"xing2",P-CROSSINGS,1
+B13883,BlockReference,"xing2",P-CROSSINGS,1
+B13897,BlockReference,"xing2",P-CROSSINGS,1
+B2E1D7,MText,"Rge. Rd. 45",L-ROAD-T,9.9952
+B3812C,MText,"Residence",AS-RESIDENCE,9.9952
+B38206,MText,"Manitok Buried Pipe AER 28472-1",AS-PIPE-UG-T,9.9952
+B38289,BlockReference,"*U41",0,0.99952
+B38402,BlockReference,"*U42",DETAIL-T,0.99952
+B3DEB7,BlockReference,"AA",CG-NOTES,1
+B3DEB8,BlockReference,"Route_Letters",CG-NOTES,1
+B3DEC5,BlockReference,"AA",CG-NOTES,1
+B3DEC6,BlockReference,"Route_Letters",CG-NOTES,1
+B4B88D,AlignedDimension,"5.0x464.8",P-TEMP-T,Compass 5 000
+B4B88E,AlignedDimension,"5.0x177.0",P-TEMP-T,Compass 5 000
+B4EF29,AlignedDimension,"10.0x683.2 A/R (Temporary)",P-TEMP-T,Compass 5 000
+B52377,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

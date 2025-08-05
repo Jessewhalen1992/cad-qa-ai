@@ -1,0 +1,80 @@
+Handle,ObjType,Content,Layer,Extra
+AF265F,BlockReference,"L-SECLBL",L-SECLBL,0.999661
+AF2666,MText,"Theor. S.W.1/4 Sec. 23 66-8-W.6M.",C-SYMBOL,19.993219999999972
+AF2678,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.994575999999972
+AF267A,MText,"L.S. 3",L-SECTION-LSD,9.996609999999986
+AF267C,MText,"L.S. 4",L-SECTION-LSD,9.996609999999986
+AF267E,MText,"L.S. 6",L-SECTION-LSD,9.996609999999986
+AF2680,MText,"L.S. 5",L-SECTION-LSD,9.996609999999986
+AF3B0A,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.996609999999986
+AF3B1A,BlockReference,"*U21",L-SECLBL,0.999661
+AF3B3E,AlignedDimension,"Tourmaline  P/L R/W  082244",F-RW,Compass 5 000
+AF3D0B,AlignedDimension,"ATCO  Power Line R/W  220103",F-EZE-T,Compass 5 000
+AF3D8D,AlignedDimension,"CNRL  A/R  033246",C-AR-T,Compass 5 000
+AF3DD0,AlignedDimension,"CNRL  A/R  041014",C-AR-T,Compass 5 000
+AF46EA,AlignedDimension,"Tourmaline  A/R  100535",F-AR-T,Compass 5 000
+AF472D,AlignedDimension,"Cenovus  A/R  161017",F-AR-T,Compass 5 000
+AF4782,AlignedDimension,"CNRL  A/R  780454",C-AR-T,Compass 5 000
+AF47B3,AlignedDimension,"CNRL  A/R  961320",C-AR-T,Compass 5 000
+AF4984,AlignedDimension,"Cenovus  A/R  990885",F-AR-T,Compass 5 000
+AF49BE,MText,"CNRL Compressor Site MSL 811797",C-WS-T,9.99660999999999
+AF52B7,AlignedDimension,"CNRL  A/R  231349",C-AR-T,Compass 5 000
+AF52E8,MText,"Cenovus Compressor Station PIL 050035",F-WS-T,9.99660999999999
+AF52EA,MText,"CNRL Riser Site PIL 130639 (Expired)",C-WS-T,9.99660999999999
+AF549E,MText,"Cenovus Riser Site PIL 140794",F-WS-T,9.99660999999999
+AF54EB,MText,"CNRL Riser Site PIL 230212",C-WS-T,9.99660999999999
+AF5697,AlignedDimension,"CNRL  P/L R/W  074 0103  001208",C-RW-T,Compass 5 000
+AF585D,AlignedDimension,"CNRL  P/L R/W  022 2168  002542",C-RW-T,Compass 5 000
+AF5A47,AlignedDimension,"CNRL  P/L R/W  032 5469  011759",C-RW-T,Compass 5 000
+AF5C28,AlignedDimension,"CNRL  P/L R/W  042 1653  022609",C-RW-T,Compass 5 000
+AF5C6B,AlignedDimension,"CNRL  P/L R/W  052 3060  042607",C-RW-T,Compass 5 000
+AF5E43,AlignedDimension,"Cenovus  P/L R/W  050351",F-RW-T,Compass 5 000
+AF6012,AlignedDimension,"CNRL  P/L R/W  092 3017  051156",C-RW-T,Compass 5 000
+AF6082,AlignedDimension,"Cenovus  P/L R/W  141680",F-RW-T,Compass 5 000
+AF69B1,AlignedDimension,"Tourmaline  P/L R/W  180293",F-RW-T,Compass 5 000
+AF69EB,AlignedDimension,"Tourmaline  P/L R/W  180843",F-RW-T,Compass 5 000
+AF6BBA,AlignedDimension,"CNRL  P/L R/W  230727",C-RW-T,Compass 5 000
+AF6BEB,AlignedDimension,"CNRL  P/L R/W  230795",C-RW-T,Compass 5 000
+AF7712,AlignedDimension,"CNRL  P/L R/W  230872",C-RW-T,Compass 5 000
+AF779C,AlignedDimension,"CNRL  P/L R/W  832 1949  810792",C-RW-T,Compass 5 000
+AF812E,AlignedDimension,"CNRL  P/L R/W  832 1180  840396",C-RW-T,Compass 5 000
+AF817B,AlignedDimension,"CNRL  P/L R/W  832 1172  840397",C-RW-T,Compass 5 000
+AF8B28,AlignedDimension,"Cenovus  P/L R/W  872 2870  870554",F-RW-T,Compass 5 000
+AF9469,AlignedDimension,"CNRL  P/L R/W  952 2917   920642",C-RW-T,Compass 5 000
+AF94BE,AlignedDimension,"Cenovus  P/L R/W  972 1262  960777",F-RW-T,Compass 5 000
+AF9DFF,AlignedDimension,"CNRL  P/L R/W  972 0956  970163",C-RW-T,Compass 5 000
+AFA75B,AlignedDimension,"Tourmaline  P/L R/W  992 0153  970799",F-RW-T,Compass 5 000
+AFB0F6,AlignedDimension,"Cenovus  P/L R/W  012 2374  990920",F-RW-T,Compass 5 000
+AFB14B,AlignedDimension,"CNRL  P/L R/W  991883",C-RW-T,Compass 5 000
+AFB1A0,AlignedDimension,"CNRL  P/L R/W  032 3293  971121",C-RW-T,Compass 5 000
+AFD008,MText,"SEE DETAIL",DETAIL-T,15.994575999999986
+AFD00A,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999661
+AFD00D,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999661
+AFD010,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999661
+AFD016,BlockReference,"Temp_Area5",P-TEMP-BLOCKS,0.999661
+B00C87,AlignedDimension,"CNRL  A/R  780454",C-AR-T,Compass 5 000
+B00C93,AlignedDimension,"CNRL  P/L R/W  832 1949  810792",C-RW-T,Compass 5 000
+B00C9F,AlignedDimension,"CNRL  P/L R/W  022 2168  002542",C-RW-T,Compass 5 000
+B00CAB,AlignedDimension,"CNRL  P/L R/W  230795",C-RW-T,Compass 5 000
+B00CB7,AlignedDimension,"CNRL  P/L R/W  230872",C-RW-T,Compass 5 000
+B00E69,MText,"CNRL Compressor Site MSL 811797",C-WS-T,9.99660999999999
+B00E74,MText,"CNRL Riser Site PIL 130639 (Expired)",C-WS-T,9.99660999999999
+B00E75,AlignedDimension,"CNRL  P/L R/W  952 2917   920642",C-RW-T,Compass 5 000
+B00E8A,AlignedDimension,"CNRL  P/L R/W  032 5469  011759",C-RW-T,Compass 5 000
+B00FEF,AlignedDimension,"Cenovus  P/L R/W  012 2374  990920",F-RW-T,Compass 5 000
+B010D7,AlignedDimension,"Cenovus  P/L R/W  872 2870  870554",F-RW-T,Compass 5 000
+B01107,AlignedDimension,"CNRL  P/L R/W  832 1180  840396",C-RW-T,Compass 5 000
+B01137,AlignedDimension,"CNRL  P/L R/W  032 3293  971121",C-RW-T,Compass 5 000
+B01182,AlignedDimension,"CNRL  P/L R/W  972 0956  970163",C-RW-T,Compass 5 000
+B01203,AlignedDimension,"Cenovus  P/L R/W  972 1262  960777",F-RW-T,Compass 5 000
+B013BC,BlockReference,"*U72",P-TEMP-BLOCKS,0.999661
+B013D1,BlockReference,"*U71",P-TEMP-BLOCKS,0.999661
+B01428,BlockReference,"*U70",P-TEMP-BLOCKS,0.999661
+B0143D,BlockReference,"*U72",P-TEMP-BLOCKS,0.999661
+B018D9,BlockReference,"xing2",P-CROSSINGS,0.999661
+B018E0,BlockReference,"xing2",P-CROSSINGS,0.999661
+B018E7,BlockReference,"xing2",P-CROSSINGS,0.999661
+B060EC,DBText,"RP",35,9.99661
+B06138,AlignedDimension,"CNRL  P/L R/W  074 0103  001208",C-RW-T,Compass 5 000
+B15602,AlignedDimension,"CNRL  A/R  033246",C-AR-T,Compass 5 000
+B18B73,BlockReference,"Disclaimer_Legal",0,0.5

@@ -1,0 +1,48 @@
+Handle,ObjType,Content,Layer,Extra
+BD1935,AlignedDimension,"Suncor  P/L R/W  4052 NY  3907-143)",F-RW-T,Compass 5 000
+BD216C,AlignedDimension,"Inter Pipeline (Corridor) Inc.  Pipeline Polaris Inc.  P/L R/W  022 2107  33527-1)  33528-2)",P-PROPOSED-T,Compass 5 000
+BD31DE,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4568   48184-4)",P-PROPOSED-T,Compass 5 000
+BD5CBE,BlockReference,"L-SECLBL",L-SECLBL,1
+BD745D,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W Plan 132 3731  52321-3)",P-PROPOSED-T,Compass 5 000
+BDBB5E,MText,"Buried Telus Cable",AS-TELUS,10
+BDBB5F,MText,"Fortis O/H Power Line",AS-POWER,10
+BDC3AC,MText,"Approximate Location of Thorhild County Natural Gas Co-op (Abd.)",AS-PIPE-UG-T,10
+BDCB7C,MText,"Thorhild County Buried Pipe (AER 22644-1)",AS-PIPE-UG-T,10
+BDE3C4,BlockReference,"*U25",AS-OWNER,1
+BDEC08,DBText,"(High Grade Gravel)",T-TEXT,10
+BDEC09,DBText,"Government Road Allowance",L-ROAD-T,10
+BDEC10,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+BDEC11,DBText,"Government Road Allowance   Twp. Rd. 614",L-ROAD-T,9.999999999999998
+BDEC12,MText,"Rge. Rd. 203",L-ROAD-T,10
+BDF3FC,AlignedDimension,"Shaw  P/L R/W   002 3798",F-RW-T,Compass 5 000
+BEE892,DBText,"S.E.1/4 Sec. 28-61-20-W.4M.",C-SYMBOL,20
+BF3057,AlignedDimension,"10.0x503.4 A/R  B)",P-TEMP-T,Compass 5 000
+BF3088,AlignedDimension,"10.0x121.9 A/R  A)",P-TEMP-T,Compass 5 000
+BF367D,MText,"30.0x50.0 Laydown Area (Option A)",P-TEMP-T,10
+BF3C43,MText,"30.0x50.0 Laydown Area (Option B)",P-TEMP-T,10
+BFB1F2,BlockReference,"*U29",0,1
+BFB2AB,BlockReference,"*U30",0,1
+BFB2D6,BlockReference,"xing2",P-CROSSINGS,1
+BFB2EA,BlockReference,"xing2",P-CROSSINGS,1
+BFB2FE,BlockReference,"xing2",P-CROSSINGS,1
+BFB8E3,BlockReference,"xing2",P-CROSSINGS,1
+BFB8F7,BlockReference,"xing2",P-CROSSINGS,1
+BFB90B,BlockReference,"xing2",P-CROSSINGS,1
+BFB91F,BlockReference,"xing2",P-CROSSINGS,1
+BFB933,BlockReference,"xing2",P-CROSSINGS,1
+BFB953,BlockReference,"xing2",P-CROSSINGS,1
+BFB967,BlockReference,"xing2",P-CROSSINGS,1
+BFB97B,BlockReference,"xing2",P-CROSSINGS,1
+BFB99B,BlockReference,"xing2",P-CROSSINGS,1
+BFB9AF,BlockReference,"xing2",P-CROSSINGS,1
+BFB9C3,BlockReference,"xing2",P-CROSSINGS,1
+C06E82,AlignedDimension,"Grand Rapids  P/L R/W  By Focus  132 195 395 )  56699-20, 56673-17)",F-RW-T,Compass 5 000
+C0731D,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5727  54778-1)",P-PROPOSED-T,Compass 5 000
+C099D0,AlignedDimension,"10.0x15.0 A/R  A)",P-TEMP-BLUE-T,Compass 5 000
+C0A2FB,AlignedDimension,"10.0x70.3 A/R  A)",P-TEMP-BLUE-T,Compass 5 000
+C0A33E,AlignedDimension,"10.0x18.3 A/R  A)",P-TEMP-T,Compass 5 000
+C0AD85,AlignedDimension,"10.0x85.4 A/R  B)",P-TEMP-BLUE-T,Compass 5 000
+C0E4F4,BlockReference,"*U37",DETAIL-T,1
+C0EE6C,BlockReference,"*U37",DETAIL-T,1
+C11A0F,BlockReference,"xing2",P-CROSSINGS,1
+C299B4,BlockReference,"Disclaimer_Legal",C-AR,0.4

@@ -1,0 +1,74 @@
+Handle,ObjType,Content,Layer,Extra
+B0F0B6,BlockReference,"L-SECLBL",L-SECLBL,1
+B0F0BC,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999988
+B0F0BD,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999988
+B0F0C7,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999753
+B0F244,MText,"Theor. S.W.1/4 Sec. 13-62-20-W.5M.",C-SYMBOL,19.999999999999986
+B0F330,MText,"TexCal Compressor Site Plan 812 2880 PIL 810012",F-WS-T,9.999999999999782
+B0F338,AlignedDimension,"Sprocket  P/L R/W  092 1439  071446",F-RW-T,Compass 5 000
+B0F33B,AlignedDimension,"Sprocket  P/L R/W  100942",F-RW-T,Compass 5 000
+B0F340,AlignedDimension,"Sprocket  P/L R/W  110669",F-RW-T,Compass 5 000
+B0F341,AlignedDimension,"Sprocket  P/L R/W  932 1889  920650",F-RW-T,Compass 5 000
+B0F349,AlignedDimension,"ATCO  Power Line R/W  790007",F-EZE-T,Compass 5 000
+B0F34A,AlignedDimension,"ATCO  Control R/W  890430",F-EZE-T,Compass 5 000
+B0F354,AlignedDimension,"Whitecap  P/L R/W  150483",C-RW-T,Compass 5 000
+B0F355,AlignedDimension,"Paramount  P/L R/W  782 1151  770641",F-RW-T,Compass 5 000
+B0F359,AlignedDimension,"Telus  Cable R/W  3568",F-RW-T,Compass 5 000
+B0F35A,AlignedDimension,"TexCal  Cable R/W  780799",F-RW-T,Compass 5 000
+B0F35C,AlignedDimension,"ATCO  Power Line R/W  2527",F-EZE-T,Compass 5 000
+B0F35E,MText,"ATCO Power Line R/W EZE  070181",F-EZE-T,9.999999999999782
+B0F360,AlignedDimension,"PGI  A/R  2439",F-AR-T,Compass 5 000
+B0F361,AlignedDimension,"Sprocket  A/R  110532",F-AR-T,Compass 5 000
+B0F363,MText,"Paramount 4-13 (Surface) MSL 11022",F-WS-T,9.999999999999782
+B0F365,MText,"Sprocket 4-13 (Surface) MSL 071285",F-WS-T,9.999999999999782
+B0F367,MText,"Sprocket 5-13 (Surface) MSL 110549",F-WS-T,9.999999999999782
+B0F369,MText,"Whitecap 3-13 (Surface) MSL 142127",C-WS-T,9.999999999999782
+B0F36B,AlignedDimension,"TexCal  P/L R/W  112 3708  050859",F-RW-T,Compass 5 000
+B0F36C,AlignedDimension,"Sprocket  P/L R/W  100876",F-RW-T,Compass 5 000
+B0F36D,AlignedDimension,"Sprocket  P/L R/W  852 1526  840781",F-RW-T,Compass 5 000
+B0F36E,AlignedDimension,"TexCal  P/L R/W  872 1557  860678",F-RW-T,Compass 5 000
+B0F36F,AlignedDimension,"Paramount  P/L R/W  932 1893  930350",F-RW-T,Compass 5 000
+B0F37A,BlockReference,"GAS",C-WS-S,4.999999999999994
+B0F37C,BlockReference,"GAS",F-WS-S,4.999999999999994
+B0F37D,BlockReference,"GAS",F-WS-S,4.999999999999994
+B0F37E,BlockReference,"GAS",F-WS-S,4.999999999999994
+B0F388,MText,"Buried Telus Cable",AS-TELUS,9.999999999999993
+B0F39D,MText,"Sprocket Riser Site PIL 140474",F-WS-T,9.999999999999782
+B0F39F,AlignedDimension,"Paramount  P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+B0F3A0,AlignedDimension,"TexCal  P/L R/W  762 2395  6098",F-RW-T,Compass 5 000
+B5DB1D,AlignedDimension,"TexCal  P/L R/W  952 2554  940411",F-RW-T,Compass 5 000
+DB99F2,BlockReference,"*U42",CG-NOTES,0.9984126106049128
+DE9A7E,AlignedDimension,"Sprocket  P/L R/W  082817",F-RW-T,Compass 5 000
+DE9AD3,AlignedDimension,"Sprocket  A/R  141081",F-AR-T,Compass 5 000
+DF0FA2,AlignedDimension,"PGI  P/L R/W  802 0194  780509",F-RW-T,Compass 5 000
+DF0FAE,AlignedDimension,"Pembina  P/L R/W  120877",F-RW-T,Compass 5 000
+DF1B28,AlignedDimension,"TexCal  P/L R/W  4865",F-RW-T,Compass 5 000
+DF9111,BlockReference,"RP",35,1
+FE1B2A,AlignedDimension,"Whitecap  P/L R/W  241243",C-RW,Compass 5 000
+FED0B8,AlignedDimension,"TexCal  A/R  2625",F-AR-T,Compass 5 000
+101194D,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.997326849999964
+101194E,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.997326849999964
+101194F,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.997326849999964
+1011950,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.997326849999964
+10230F8,BlockReference,"xing2",P-CROSSINGS,1
+1023BB8,BlockReference,"xing2",P-CROSSINGS,1
+1023BBF,BlockReference,"xing2",P-CROSSINGS,1
+102469B,AlignedDimension,"ATCO  Power Line R/W  2382",F-EZE-T,Compass 5 000
+10266F3,BlockReference,"xing2",P-CROSSINGS,1
+102670A,BlockReference,"xing2",P-CROSSINGS,1
+1026711,BlockReference,"xing2",P-CROSSINGS,1
+1026721,BlockReference,"xing2",P-CROSSINGS,1
+1026728,BlockReference,"xing2",P-CROSSINGS,1
+10271EA,BlockReference,"xing2",P-CROSSINGS,1
+10271F1,BlockReference,"xing2",P-CROSSINGS,1
+1027CB3,BlockReference,"xing2",P-CROSSINGS,1
+1027CBA,BlockReference,"xing2",P-CROSSINGS,1
+1027CC1,BlockReference,"xing2",P-CROSSINGS,1
+102924E,MText,"Culvert",T-TEXT,9.999999999999988
+1029270,BlockReference,"*U52",CG-NOTES,0.9989382818969955
+1040B8E,AlignedDimension,"Whitecap  AGWL  248712",T-WATER-T,Compass 5 000
+1042BC3,AlignedDimension,"Saturn  P/L R/W  812 2880  800647",F-RW-T,Compass 5 000
+1042C11,BlockReference,"*U55",CG-NOTES,0.9984126106049128
+1042C52,BlockReference,"xing2",P-CROSSINGS,1
+104ADEA,BlockReference,"*U57",P-TEMP-BLOCKS,0.9994639999999999
+1055B43,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.2

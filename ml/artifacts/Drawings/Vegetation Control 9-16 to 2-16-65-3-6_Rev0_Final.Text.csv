@@ -1,0 +1,184 @@
+Handle,ObjType,Content,Layer,Extra
+BC4353,BlockReference,"L-SECLBL",L-SECLBL,1
+BC438E,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC438F,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC439F,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999979
+BC43B1,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.004331875702169
+BC43C5,BlockReference,"L-SECLBL",L-SECLBL,1
+BC43CB,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BC43ED,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999979
+BC4417,MText,"Ephemeral Draw",T-WATER-T,10.004331875701945
+BC441A,MText,"Ephemeral Draw 0.5-1.25 Wide",T-WATER-T,10.004331875701945
+BC4453,AlignedDimension,"Veren  A/R  122350",C-AR-T,Compass 5 000
+BC4454,MText,"Veren Water Reservoir LOC 170772",C-AR-T,10
+BC4456,AlignedDimension,"Veren  A/R  781379",C-AR-T,Compass 5 000
+BC4457,AlignedDimension,"Veren  A/R  220991",C-AR-T,Compass 5 000
+BC4458,AlignedDimension,"Veren  A/R  220993",C-AR-T,Compass 5 000
+BC4459,AlignedDimension,"Veren  Water Line R/W  241688",C-AR-T,Compass 5 000
+BC445A,AlignedDimension,"Veren  A/R - Class V  241953",C-AR-T,Compass 5 000
+BC445C,AlignedDimension,"Veren  P/L R/W  220497",C-RW-T,Compass 5 000
+BC445D,AlignedDimension,"Veren  P/L R/W  231083",C-RW-T,Compass 5 000
+BC445E,AlignedDimension,"Veren  P/L R/W  231083",C-RW-T,Compass 5 000
+BC445F,AlignedDimension,"Veren  P/L R/W  230970",C-RW-T,Compass 5 000
+BC4460,MText,"Veren Storage MLL 220142",C-WS-T,10
+BC4463,MText,"Veren 1-16 (Surface) MSL 122399",C-WS-T,10
+BC4465,MText,"Veren Work Camp DML 220037",C-WS-T,10
+BC4467,MText,"Veren 16-9 (Surface) MSL 230520",C-WS-T,10
+BC446A,MText,"Veren Riser Site PIL 240347",C-WS-T,10
+BC446D,AlignedDimension,"Veren  P/L R/W PLA 141747",C-RW-T,Compass 5 000
+BC446E,AlignedDimension,"Veren  P/L R/W  151374",C-RW-T,Compass 5 000
+BC446F,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+BC4470,AlignedDimension,"PGI  P/L R/W  220626",F-RW-T,Compass 5 000
+BC4471,AlignedDimension,"Veren  P/L R/W  151374",C-RW-T,Compass 5 000
+BC4472,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+BC4473,AlignedDimension,"Veren  P/L R/W  230606",C-RW-T,Compass 5 000
+BC4475,MText,"5m High Grade  Gravel Road",T-TEXT,10.004218976146946
+BC4476,MText,"20cm White Spruce, Trembling Aspen & Balsam Poplar",T-BUSH-T,10.000040017327219
+BC4477,MText,"20cm Black Spruce, Lodgepole Pine & White Spruce",T-BUSH-T,10.000040017327219
+BC4478,MText,"20cm Black Spruce, White Spruce, Trembling Aspen & Green Alder",T-BUSH-T,10.000040017327219
+BC4479,MText,"20cm White Spruce & Trembling Aspen",T-BUSH-T,10.000040017327219
+BC447A,MText,"20cm White Spruce & Trembling Aspen",T-BUSH-T,10.000040017327219
+BC447F,BlockReference,"RISER",AS-SYMBOL,5.002165937851037
+BC4480,BlockReference,"RISER",AS-SYMBOL,5.002165937851037
+BC4481,BlockReference,"RISER",AS-SYMBOL,5.002165937851037
+BC4482,BlockReference,"FLARE",AS-SYMBOL,4.997819999999999
+BC4483,BlockReference,"GABD",F-WS-S,5.0021659378510845
+BC4484,BlockReference,"GAS",C-WS-S,5.0021659378510845
+BC4485,BlockReference,"GAS",C-WS-S,5.0021659378510845
+BC4486,BlockReference,"GAS",C-WS-S,5.0021659378510845
+BC4487,BlockReference,"GAS",C-WS-S,5.0021659378510845
+BC461D,BlockReference,"RP",0,-1.0004331875702166
+BC5BF7,MText,"L.S. 9",L-SECTION-LSD,9.99567
+BC5BF9,MText,"L.S. 10",L-SECTION-LSD,9.99567
+BC5BFB,MText,"L.S. 16",L-SECTION-LSD,9.99567
+BC5BFD,MText,"L.S. 15",L-SECTION-LSD,9.99567
+BC5BFF,MText,"Theor. N.E.1/4 Sec. 9-65-3-W.6M.",C-SYMBOL,20
+BC5C01,MText,"Theor. S.E.1/4 Sec. 16-65-3-W.6M.",C-SYMBOL,20
+BC5C08,MText,"L.S. 1",L-SECTION-LSD,9.99567
+BC5C09,MText,"L.S. 2",L-SECTION-LSD,9.99567
+BC5C0B,MText,"L.S. 8",L-SECTION-LSD,9.99567
+BC5C0C,MText,"L.S. 7",L-SECTION-LSD,9.99567
+BC6D8B,MText,"Veren Vegetation Control R/W RVC 240031",C-WS-T,10
+BC6FA2,AlignedDimension,"Veren  P/L R/W  170125",C-RW-T,Compass 5 000
+BC844D,MText,"30m Buffer",P-FNC BUFFER-T,10.00006372800014
+BC844E,MText,"30m Buffer",P-FNC BUFFER-T,10.00006372800014
+BC8450,MText,"30m Buffer",P-FNC BUFFER-T,10.00006372800014
+BC8451,MText,"30m Buffer",P-FNC BUFFER-T,10.00006372800014
+BC8567,BlockReference,"TEMP",L-MON,4.997835
+BC8568,BlockReference,"TEMP",L-MON,4.997835
+BC8569,BlockReference,"TEMP",L-MON,4.997835
+BC856A,BlockReference,"TEMP",L-MON,4.997835
+BC856B,BlockReference,"TEMP",L-MON,4.997835
+BC856C,BlockReference,"TEMP",L-MON,4.997835
+BC856D,BlockReference,"TEMP",L-MON,4.997835
+BC866E,BlockReference,"TEMP",L-MON,4.997835
+BC866F,BlockReference,"TEMP",L-MON,4.997835
+BC8670,BlockReference,"TEMP",L-MON,4.997835
+BC8671,BlockReference,"TEMP",L-MON,4.997835
+BC8672,BlockReference,"TEMP",L-MON,4.997835
+BC8673,BlockReference,"TEMP",L-MON,4.997835
+BC8674,BlockReference,"TEMP",L-MON,4.997835
+BC8675,BlockReference,"TEMP",L-MON,4.997835
+BC8C64,MText,"Veren Storage MLL 220142",C-WS-T,9.99567
+BC8C67,MText,"Veren Work Camp DML 220037",C-WS-T,9.99567
+BC8C69,MText,"Veren 16-9 (Surface) MSL 230520",C-WS-T,9.99567
+BC8C6D,BlockReference,"RISER",AS-SYMBOL,4.997835
+BC8C6E,BlockReference,"RISER",AS-SYMBOL,4.997835
+BC8C6F,BlockReference,"GAS",C-WS-S,4.997835
+BC8C70,BlockReference,"GAS",C-WS-S,4.997835
+BC8C74,BlockReference,"TEMP",L-MON,4.997835
+BC8C75,BlockReference,"TEMP",L-MON,4.997835
+BC8C76,BlockReference,"TEMP",L-MON,4.997835
+BC8D33,AlignedDimension,"Veren  P/L R/W  231083",C-RW-T,Compass 5 000
+BC8DB3,AlignedDimension,"Veren  P/L R/W  230970",C-RW-T,Compass 5 000
+BC8DDF,MText,"Veren Vegetation Control R/W RVC 240031",C-WS-T,10
+BC8DEC,AlignedDimension,"Veren  A/R - Class V  241953",C-AR-T,Compass 5 000
+BC924A,MText,"Constructed Drainage Ditch",WETLAND-T,10.000030013085716
+BC924B,AlignedDimension,"Veren  P/L R/W  151374",C-RW-T,Compass 5 000
+BC928E,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+BCA1B6,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+BCA2A4,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+BCA2C4,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+BCA2F0,AlignedDimension,"Veren  P/L R/W  170125",C-RW-T,Compass 5 000
+BCA31C,MText,"Veren Water Reservoir LOC 170772",C-AR-T,10
+BCA31E,AlignedDimension,"Veren  A/R  220991",C-AR-T,Compass 5 000
+BCA4A3,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.004331875702169
+BCA4A5,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BCA4A6,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BCA4A8,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BCA639,AlignedDimension,"Veren  A/R  220993",C-AR-T,Compass 5 000
+BCA63A,AlignedDimension,"Veren  P/L R/W  231083",C-RW-T,Compass 5 000
+BCA63C,AlignedDimension,"Veren  P/L R/W  230606",C-RW-T,Compass 5 000
+BCA63E,MText,"Veren 1-16 (Surface) MSL 122399",C-WS-T,9.99567
+BCA641,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+BCA642,BlockReference,"RISER",AS-SYMBOL,4.997835
+BCA643,BlockReference,"FLARE",AS-SYMBOL,4.997835
+BCA644,BlockReference,"GABD",F-WS-S,4.997835
+BCA645,BlockReference,"GAS",C-WS-S,4.997835
+BCA646,BlockReference,"GAS",C-WS-S,4.997835
+BCA647,BlockReference,"TEMP",L-MON,4.997835
+BCA648,BlockReference,"TEMP",L-MON,4.997835
+BCA649,BlockReference,"TEMP",L-MON,4.997835
+BCA64A,BlockReference,"TEMP",L-MON,4.997835
+BCA64B,BlockReference,"TEMP",L-MON,4.997835
+BCA64C,BlockReference,"TEMP",L-MON,4.997835
+BCA64D,BlockReference,"TEMP",L-MON,4.997835
+BCA64E,BlockReference,"TEMP",L-MON,4.997835
+BCA64F,BlockReference,"TEMP",L-MON,4.997835
+BCA650,BlockReference,"TEMP",L-MON,4.997835
+BCA651,BlockReference,"TEMP",L-MON,4.997835
+BCA7DE,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.004331875702169
+BCA814,AlignedDimension,"Veren  P/L R/W  170125",C-RW-T,Compass 5 000
+BCA844,AlignedDimension,"Veren  A/R  220991",C-AR-T,Compass 5 000
+BCA878,MText,"Veren Water Reservoir LOC 170772",C-AR-T,10
+BCA985,MText,"4m High Grade Gravel Road",T-TEXT,9.99567
+BCA98F,AlignedDimension,"Veren  A/R  122350",C-AR-T,Compass 5 000
+BCA9EB,AlignedDimension,"Veren  P/L R/W PLA 141747",C-RW-T,Compass 5 000
+BCAA25,AlignedDimension,"Veren  P/L R/W  220497",C-RW-T,Compass 5 000
+BCAB61,AlignedDimension,"PGI  P/L R/W  220626",F-RW-T,Compass 5 000
+BCABC6,AlignedDimension,"Veren  P/L R/W  ______",C-RW-T,Compass 5 000
+BCABF1,MText,"Veren Vegetation Control R/W RVC 240031",C-WS-T,10
+BCABF4,AlignedDimension,"Veren  A/R - Class V  241953",C-AR-T,Compass 5 000
+BCAC02,MText,"Veren Riser Site PIL 240347",C-WS-T,10
+BCAC85,AlignedDimension,"Veren  P/L R/W  230970",C-RW-T,Compass 5 000
+BCAD1C,AlignedDimension,"Veren  P/L R/W  151374",C-RW-T,Compass 5 000
+BCAD4E,AlignedDimension,"Veren  P/L R/W  170125",C-RW-T,Compass 5 000
+BCAEC4,AlignedDimension,"Veren  P/L R/W  230606",C-RW-T,Compass 5 000
+BCAEFD,MText,"Veren Storage MLL 220142",C-WS-T,10
+BCB0DE,DBText,"39%%d58'",L-BD,9.99567
+BCB0E0,DBText,"24%%d19'",L-BD,9.99567
+BCB0E2,DBText,"18%%d12'",L-BD,9.995669999999999
+BCB0E4,DBText,"107%%d03'",L-BD,9.99567
+BCB0E6,DBText,"107%%d03'",L-BD,9.995669999999999
+BCB0E8,DBText,"136%%d22'",L-BD,9.995669999999999
+BCB0EA,DBText,"63%%d30'",L-BD,9.99567
+BCB0EC,DBText,"140%%d34'",L-BD,9.99567
+BCB0EE,DBText,"181%%d07'",L-BD,9.995669999999999
+BCB0F0,DBText,"214%%d47'",L-BD,9.99567
+BCB0F3,MText,"20cm White Spruce & Trembling Aspen",T-BUSH-T,10.000040017327219
+BCB1EE,MText,"20cm Black Spruce, White Spruce, Trembling Aspen & Green Alder",T-BUSH-T,10.000040017327219
+BCB1EF,MText,"20cm White Spruce & Trembling Aspen",T-BUSH-T,10.000040017327219
+BCCEDF,MText,"SEE DETAIL 'A'",DETAIL-T,16
+BCCEE1,MText,"SEE DETAIL 'B'",DETAIL-T,16
+BCCEEB,MText,"DETAIL 'B' SCALE 1:1,000",DETAIL-T,20.008723803578363
+BCCEED,MText,"DETAIL 'A' SCALE 1:1,000",DETAIL-T,20.008723803578363
+BD4CA8,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+BD615F,DBText,"679.32 (Tie)",L-BD,9.99567
+BD6160,DBText,"201°37'20''",L-BD,9.99567
+BD6164,DBText,"679.32 (Tie)",L-BD,9.99567
+BD6165,DBText,"201°37'20''",L-BD,9.99567
+BD7B34,DBText,"109%%d12'",L-BD,9.99567
+BD7C99,DBText,"109%%d12'",L-BD,9.99567
+BD7C9D,DBText,"109%%d12'",L-BD,9.995669999999999
+BD7CA1,DBText,"29.8 (Tie)",L-BD,9.99567
+BD7CA2,DBText,"25%%d03'",L-BD,9.99567
+BD7CB7,DBText,"569.8 (Tie)",L-BD,9.99567
+BD7CB8,DBText,"286%%d54'",L-BD,9.99567
+BD7CB9,DBText,"349.1 (Tie)",L-BD,9.99567
+BD7CBA,DBText,"248%%d19'",L-BD,9.99567
+BD7CBB,DBText,"349.1 (Tie)",L-BD,9.99567
+BD7CBC,DBText,"248%%d19'",L-BD,9.99567
+BD7CBD,DBText,"569.8 (Tie)",L-BD,9.99567
+BD7CBE,DBText,"286%%d54'",L-BD,9.99567
+BD7F7D,DBText,"180%%d02'",L-BD,9.99567
+BD7F90,DBText,"270%%d01'",L-BD,9.99567

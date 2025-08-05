@@ -1,0 +1,32 @@
+Handle,ObjType,Content,Layer,Extra
+AFD7C3,AlignedDimension,"Paramount  P/L R/W  012 3545  991308",F-RW-T,Compass 5 000
+AFD83E,AlignedDimension,"ATCO  Power Line R/W  140359",F-EZE-T,Compass 5 000
+AFD87C,MText,"L.S. 9",L-SECTION-LSD,10
+AFD87E,MText,"L.S. 10",L-SECTION-LSD,10
+AFD880,MText,"L.S. 16",L-SECTION-LSD,10
+AFD882,MText,"L.S. 15",L-SECTION-LSD,10
+AFD884,AlignedDimension,"Paramount  P/L R/W  140620",F-RW,Compass 5 000
+AFD8F0,AlignedDimension,"Canfor  A/R  656",F-AR-T,Compass 5 000
+AFD934,MText,"Paramount Water Reservoir LOC 220877",F-RW,10
+AFD93B,BlockReference,"LABEL_ROAD_THEORETIC",L-SECQ,1
+AFD972,AlignedDimension,"Paramount  A/R  6932   232008",F-AR-T,Compass 5 000
+AFD9D0,BlockReference,"L-SECLBL",L-SECLBL,1
+AFE885,DBText,"Theor. N.E.1/4 Sec. 18-64-18-W.5M.",C-SYMBOL,20
+AFE8AE,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+AFE8B3,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+AFE8B8,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+AFE8BD,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+AFE8C2,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+AFF89F,BlockReference,"*U13",P-TEMP-BLOCKS,1
+AFF8D5,BlockReference,"*U14",P-TEMP-BLOCKS,1
+AFFC32,MText,"Paramount 45.00 A/R LOC230912",F-AR-T,10
+B008B0,BlockReference,"*U15",AS-SURFACE IMPACT,1
+B008E1,BlockReference,"RP",35,1
+B008F2,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B00CC7,MText,"ATCO  3-Wire O/H Power Line",AS-POWER-T,10
+B05CE3,BlockReference,"*U17",AS-POWER-T,1
+B05D79,DBText,"40cm Poplar",T-BUSH-T,10
+B05E07,BlockReference,"Well_proximity",P-CROSSINGS,1
+B06327,BlockReference,"*U18",P-TEMP-BLOCKS,1
+B06E1D,MText,"Blue Ridge Lumber Sample Plots CLR230337",F-RW,10
+B13DCC,BlockReference,"Disclaimer_Legal",P-CROSSINGS,0.3

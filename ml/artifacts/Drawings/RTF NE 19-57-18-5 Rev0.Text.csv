@@ -1,0 +1,29 @@
+Handle,ObjType,Content,Layer,Extra
+C88A46,BlockReference,"L-SECLBL",L-SECLBL,0.9994220000000051
+C88A4D,MText,"Theor. N.E.1/4 Sec. 19-57-18-W.5M.",C-SYMBOL,19.98830000000016
+C88A50,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.990752000000068
+C88A52,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99415000000008
+C88A53,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99415000000008
+C88A91,MText,"Fortis O/H Powerline",AS-POWER,9.994150000000069
+C88AAB,AlignedDimension,"West Fraser  A/R  010244",F-AR-T,Compass 5 000
+C88AAE,AlignedDimension,"Journey  A/R  940856",F-AR-T,Compass 5 000
+C88AB0,AlignedDimension,"Tourmaline  A/R  054640",F-AR-T,Compass 5 000
+C88AB1,AlignedDimension,"Tourmaline  A/R  771241",F-AR-T,Compass 5 000
+C88AB4,AlignedDimension,"Fortis  Powerline R/W  950155",F-EZE-T,Compass 5 000
+C88AB6,AlignedDimension,"Altalink  Powerline R/W  932 1288  920184",F-EZE-T,Compass 5 000
+C88AB8,AlignedDimension,"Alliance  P/L R/W  012 1002  982251",F-RW-T,Compass 5 000
+C88ABD,AlignedDimension,"Tourmaline  P/L R/W  110017",F-RW-T,Compass 5 000
+C88AC4,MText,"Altalink Vegetation Control Variable Width VCE 920023",F-VCE-T,9.994220000000034
+C88AC9,MText,"Tourmaline 13-20 (Surface) MSL 110009",F-WS-T,9.994150000000072
+C88ACC,AlignedDimension,"60.00 Road  110073  Built)",L-TITLEDB-T,Compass 5 000
+C88ACD,MText,"Pine Creek",T-WATER-T,9.99415000000008
+C88AD3,BlockReference,"GAS",F-WS-S,4.997075000000034
+C88AD4,AlignedDimension,"Journey  P/L R/W  912 1725  910145",F-RW-T,Compass 5 000
+C95E3E,BlockReference,"*U31",P-TEMP-BLOCKS,0.9994040000000001
+C983D8,MText,"L.S. 9",L-SECTION-LSD,9.99404
+C983DA,MText,"L.S. 10",L-SECTION-LSD,9.99404
+C983DC,MText,"L.S. 16",L-SECTION-LSD,9.99404
+C983DE,MText,"L.S. 15",L-SECTION-LSD,9.99404
+C9BD2C,BlockReference,"*U33",DETAIL-T,0.9994040000000001
+C9BD31,AlignedDimension,"Veren  Waterline R/W  _________",P-TEMP-BLUE-T,Compass 5 000
+C9D0E3,DBText,"RP",35,9.999999999999996

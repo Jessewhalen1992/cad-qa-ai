@@ -1,0 +1,55 @@
+Handle,ObjType,Content,Layer,Extra
+AF4561,BlockReference,"L-SECLBL",L-SECLBL,1
+AF4D51,MText,"Lot 1 Block 1 Plan 072 8702",L-TITLEDB-T,10
+AF800D,BlockReference,"GABD",F-WS-S,5
+AF8012,MText,"Stealth 1-14 (Abd.)",F-WS-S,10
+AF8013,MText,"Approximate Location of County of Vermilion River Gas Co-op",AS-PIPE-UG-T,10
+AF9087,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 1036  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+AF917F,BlockReference,"*U23",AS-OWNER,1
+AF9998,AlignedDimension,"CNRL  P/L R/W Plan 072 0685  36907-3)",F-RW-T,Compass 5 000
+AFB231,AlignedDimension,"Stealth  P/L R/W  48552-71)  By Precision Geomatics",F-RW-T,Compass 5 000
+AFB250,AlignedDimension,"Stealth  P/L R/W  48552-98)  By Precision Geomatics",F-RW-T,Compass 5 000
+AFD20D,BlockReference,"res_occ",AS-RESIDENCE,5
+AFD21E,BlockReference,"res_occ",AS-RESIDENCE,5
+AFD9E0,AlignedDimension,"30.48 Road  162 0431",L-TITLEDB-T,Compass 5 000
+AFE1C8,MText,"Buried Telus Cable",AS-TELUS,10
+AFE1D6,DBText,"(High Grade Gravel)",T-TEXT,10
+AFE1D7,DBText,"Government Road Allowance",L-ROAD-T,10
+AFE1D8,MText,"Twp. Rd. 512",L-ROAD-T,10
+AFE9A4,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+AFE9A5,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+AFE9A6,MText,"Rge. Rd. 61",L-ROAD-T,9.999999999999998
+AFF198,MText,"30.0x50.0 Laydown Area (Option 2)",P-TEMP-T,10
+AFF1A3,AlignedDimension,"10.0x145.6 A/R  Workarea)",P-TEMP-T,Compass 5 000
+B00137,MText,"30.0x50.0 Laydown Area (Option 1)",P-TEMP-T,10
+B02230,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2791  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+B11922,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B12AE8,BlockReference,"xing2",P-CROSSINGS,1
+B12AFC,BlockReference,"xing2",P-CROSSINGS,1
+B12B24,BlockReference,"xing2",P-CROSSINGS,1
+B12B4C,BlockReference,"xing2",P-CROSSINGS,1
+B12B60,BlockReference,"xing2",P-CROSSINGS,1
+B12B74,BlockReference,"xing2",P-CROSSINGS,1
+B19154,BlockReference,"*U30",DETAIL-T,1
+B19166,BlockReference,"*U31",0,1
+B1984F,BlockReference,"*U32",DETAIL-T,1
+B1AC80,DBText,"S.E.1/4 Sec. 14-51-6-W.4M.",C-SYMBOL,20
+B1ACB6,BlockReference,"*U33",AS-WILDLIFE-BLOCK,1
+B1E44D,MText,"Residence",AS-RESIDENCE,10
+B245E3,BlockReference,"*U34",0,1
+B250B5,BlockReference,"xing2",P-CROSSINGS,1
+B250C9,BlockReference,"xing2",P-CROSSINGS,1
+B25592,BlockReference,"xing2",P-CROSSINGS,1
+B255A6,BlockReference,"xing2",P-CROSSINGS,1
+B255BA,BlockReference,"xing2",P-CROSSINGS,1
+B255CE,BlockReference,"xing2",P-CROSSINGS,1
+B363B3,AlignedDimension,"10.0x44.1 A/R  Work Area)",P-TEMP-BLUE-T,Compass 5 000
+B38C1C,BlockReference,"xing2",P-CROSSINGS,1
+B3B72C,AlignedDimension,"10.0x20.0 A/R  Work Area)",P-TEMP-BLUE-T,Compass 5 000
+B3C139,BlockReference,"xing2",P-CROSSINGS,1
+B3EC25,AlignedDimension,"5.0x371.4",P-TEMP-T,Compass 5 000
+B3F108,AlignedDimension,"5.0x355.8",P-TEMP-T,Compass 5 000
+B3FBA7,AlignedDimension,"5.0x209.5",P-TEMP-T,Compass 5 000
+B4007E,AlignedDimension,"5.0x181.3",P-TEMP-T,Compass 5 000
+B4009A,AlignedDimension,"5.0x365.3",P-TEMP-T,Compass 5 000
+B49C64,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.3

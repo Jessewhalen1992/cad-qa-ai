@@ -1,0 +1,65 @@
+Handle,ObjType,Content,Layer,Extra
+AF38E2,BlockReference,"L-SECLBL",L-SECLBL,1
+AF3CB6,AlignedDimension,"Fortis  Power Line R/W  102 261 361",F-EZE-T,Compass 5 000
+AF3CD5,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  162 0085  54778-1, LS 7108)",P-PROPOSED-T,Compass 5 000
+AF3CF1,AlignedDimension,"Shell  P/L R/W  152 0463  54407-1)",F-RW-T,Compass 5 000
+AF3D92,AlignedDimension,"20.12 Road  2192 ET",L-TITLEDB-T,Compass 5 000
+AF3ED3,DBText,"N.W.1/4 Sec. 24-57-20-W.4M.",C-SYMBOL,20
+AF3EDA,MText,"Approximate Location of Lamco Natural Gas Co-op Ltd.",AS-PIPE-UG-T,10
+AF3FE6,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+AF3FE7,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+AF4006,DBText,"(High Grade Gravel)",T-TEXT,10
+AF4007,DBText,"Government Road Allowance",L-ROAD-T,10
+AF4009,MText,"Buried Telus Cable",AS-TELUS,10
+AF4118,BlockReference,"GABD",F-WS-S,5
+AF4119,MText,"S0/1-26 (Abd.)",F-WS-S,10
+AF411A,BlockReference,"res_occ",AS-RESIDENCE,5
+AF411B,MText,"Residence (Typ.)",AS-RESIDENCE,10
+AF4142,MText,"Fortis O/H Power Line",AS-POWER-T,10
+AF43B4,AlignedDimension,"Grand Rapids  P/L R/W  Plan by Precision  56699-21, 56673-18)",F-RW-T,Compass 5 000
+AF51AE,BlockReference,"*U25",AS-OWNER,1
+AF950C,MText,"Laydown Area (Temporary) (=0.074 ha)",P-TEMP-T,9.993441070549993
+AF9D17,DBText,"Twp. Rd. 574",L-ROAD-T,9.999999999999998
+AFA156,DBText,"Rge. Rd. 201",L-ROAD-T,10
+AFB561,AlignedDimension,"10.0x73.0  Road",P-TEMP-T,Compass 5 000
+AFB9A2,MText,"Road Plan 3352 HW",L-TITLEDB-T,10
+AFBD92,BlockReference,"res_occ",AS-RESIDENCE,5
+AFBD93,BlockReference,"res_occ",AS-RESIDENCE,5
+AFC18D,DBText,"Low Grade Trail",T-TEXT,10
+AFCD84,DBText,"Cultivation",T-TEXT,10
+AFCD8C,DBText,"Cultivation",T-TEXT,10
+AFCD94,DBText,"Cultivation",T-TEXT,10
+B14D0A,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14D12,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14D1A,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1517F,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B151A7,AlignedDimension,"Enbridge  P/L R/W  192 1749  57441-2)",F-RW-T,Compass 5 000
+B151CD,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15632,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1563C,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15644,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1564E,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15AB2,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15ABC,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15AC4,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15ACD,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15AD7,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15F3B,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15F44,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B16035,BlockReference,"*U28",0,0.9993471061400018
+B16158,BlockReference,"*U29",0,1
+B1668E,BlockReference,"*U30",0,1
+B166B7,BlockReference,"*U31",0,1
+B16B88,BlockReference,"*U32",0,1
+B16BCB,BlockReference,"*U35",0,1
+B17068,BlockReference,"*U33",0,1
+B170AC,BlockReference,"*U34",0,1
+B1C2F5,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.993441070549988
+B1D3D6,AlignedDimension,"Enbridge  P/L R/W  162 3552  54419-34)",F-RW-T,Compass 5 000
+B1D8E9,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  092 5502  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+B218AD,MText,"Inter Pipeline Ltd. Valve Site Reg.# 132 389 134",C-WS-T,10
+B221E3,MText,"10.0x15.0 Access Road (Temporary)",P-TEMP-T,10
+B2268B,MText,"Lot 2 Plan 982 4267",L-TITLEDB-T,10
+B22BCD,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B22BD5,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B2B988,BlockReference,"Disclaimer_Legal",0,0.25

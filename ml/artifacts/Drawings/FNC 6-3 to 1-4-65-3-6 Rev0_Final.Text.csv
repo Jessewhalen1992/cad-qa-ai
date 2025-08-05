@@ -1,0 +1,35 @@
+Handle,ObjType,Content,Layer,Extra
+AF42F8,MText,"Twp. 64",D-TXT,13.999999999999746
+AF42F9,MText,"Twp. 65",D-TXT,13.999999999999746
+AF43A0,AlignedDimension,"Crescent Point  A/R  170130  be Cancelled)",C-AR-T,Compass 5 000
+AF43A1,MText,"Crescent Point 1-4 (Surface) MSL 150090",C-WS-T,9.99563999999982
+AF43A4,AlignedDimension,"PGI  P/L R/W  150578",F-RW-T,Compass 5 000
+AF43A5,AlignedDimension,"PGI  P/L R/W  151381",F-RW-T,Compass 5 000
+AF43A6,AlignedDimension,"PGI  P/L R/W  151374",F-RW-T,Compass 5 000
+AF43A9,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+AF43AA,MText,"CNRL 7-4 (Surface) MSL 043645",F-WS-T,9.99563999999982
+AF43AC,MText,"CNRL 1-4 (Surface) MSL 042454",F-WS-T,9.99563999999982
+AF441B,MText,"Twp. 64",D-TXT,13.999999999999925
+AF441C,MText,"Twp. 65",D-TXT,13.999999999999925
+AF446C,AlignedDimension,"PGI  P/L R/W  151381",F-RW-T,Compass 5 000
+AF446D,AlignedDimension,"Crescent Point  A/R  170130  be Cancelled)",C-AR-T,Compass 5 000
+AF446F,MText,"Crescent Point 6-3 (Surface) MSL 930256",C-WS-T,9.995639999999938
+AF7CF6,AlignedDimension,"PGI  P/L R/W  190496",F-RW-T,Compass 5 000
+AF8586,AlignedDimension,"Crescent Point  P/L R/W  231083",F-RW-T,Compass 5 000
+AF973B,AlignedDimension,"CNRL   P/L R/W  082 1312  043242",F-RW-T,Compass 5 000
+AF9763,AlignedDimension,"CNRL  A/R  042223",F-AR-T,Compass 5 000
+AFB360,BlockReference,"*U33",AS-WILDLIFE-BLOCK,1
+AFC66E,AlignedDimension,"CNRL   P/L R/W  082 7986  060875",F-RW-T,Compass 5 000
+AFE1D2,MText,"6-3 (Abd.)",F-WS-T,9.995639999999938
+B0628B,MText,"Crescent Point 6-3 (Surface) MSL _______",C-WS-T,9.995595999999946
+B11F6D,BlockReference,"*U33",AS-WILDLIFE-BLOCK,1
+B23E2D,AlignedDimension,"Crescent Point  A/R LOC ______",F-AR-T,Compass 5 000
+B23E55,AlignedDimension,"Crescent Point  A/R LOC ______",F-AR-T,Compass 5 000
+B38FDE,AlignedDimension,"Crescent  A/R  ______",C-AR-T,Compass 5 000
+B72D65,MText,"30m Buffer",P-BUFFER-YELLOW-T,9.995595999999992
+B72D6D,MText,"30m Buffer",P-BUFFER-YELLOW-T,9.995595999999992
+BB6B6B,BlockReference,"*U37",DETAIL-T,0.9995596
+BB73DD,BlockReference,"*U38",DETAIL-T,0.9995596
+BBB6E7,BlockReference,"*U39",CG-NOTES,0.9995596
+BBB739,BlockReference,"*U39",CG-NOTES,0.9995596
+BBF14E,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

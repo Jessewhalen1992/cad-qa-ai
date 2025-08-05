@@ -1,0 +1,698 @@
+Handle,ObjType,Content,Layer,Extra
+BD3669,BlockReference,"HRV",CG-NOTES,1
+BD3E9C,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BD3EA2,AlignedDimension,"Pembina  P/L R/W  190582",F-RW-T,Compass 5 000
+BD3EF5,AlignedDimension,"ARC  P/L R/W  151133",F-RW-T,Compass 5 000
+BD3F2A,AlignedDimension,"ATCO  Powerline R/W  780106",F-EZE-T,Compass 5 000
+BD4895,AlignedDimension,"ATCO  Powerline R/W  2999",F-EZE-T,Compass 5 000
+BD4903,MText,"Theor. S.E.1/4 Sec. 21-65-5-W.6M.",C-SYMBOL,19.992379999999873
+BD4911,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BD5183,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999936
+BD5184,BlockReference,"HRV",CG-NOTES,1
+BD59C2,AlignedDimension,"Transportation  Road  180034",L-TITLEDB-T,Compass 5 000
+BD6336,AlignedDimension,"ATCO  Powerline R/W  200002",F-EZE-T,Compass 5 000
+BD637A,AlignedDimension,"ATCO  Powerline R/W  780106",F-EZE-T,Compass 5 000
+BD63BF,AlignedDimension,"Nuvista  A/R  170121",C-AR-T,Compass 5 000
+BD641B,AlignedDimension,"Transportation  Road  180033",L-TITLEDB-T,Compass 5 000
+BD6C88,AlignedDimension,"Transportation  Width Road  862 1126",L-TITLEDB-T,Compass 5 000
+BD6CC1,MText,"Cutbank River",T-WATER-T,9.996189999999936
+BD6CC5,MText,"Theor. S.W.1/4 Sec. 21-65-5-W.6M.",C-SYMBOL,19.992379999999873
+BD6CC6,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BD6CC8,BlockReference,"HRV",CG-NOTES,1
+BD6CD8,BlockReference,"HRV",CG-NOTES,0.999619
+BD763E,MText,"Nuvista Water Intake LOC 170382",C-WS-T,9.996189999999936
+BD7662,MText,"Nuvista Pumping  Station PIL 170179",C-WS-T,9.996189999999936
+BD7E96,AlignedDimension,"Nuvista  A/R  170381",C-AR-T,Compass 5 000
+BD7ED3,MText,"Nuvista Pumping  Station PIL 170063",C-WS-T,9.996189999999936
+BD870D,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999936
+BD904B,MText,"Culvert",T-TEXT,9.996189999999936
+BD904F,MText,"Gate",T-TEXT,9.996189999999936
+BD9050,MText,"Gate",T-TEXT,9.996189999999936
+BD9053,MText,"Culvert",T-TEXT,9.996189999999936
+BDB477,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BDBCAB,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BDBDD8,MText,"Cutbank River",T-WATER-T,9.996189999999936
+BDBDD9,MText,"Gate",T-TEXT,9.996189999999936
+BDCF57,MText,"4m Trail",T-TEXT,9.996189999999936
+BDCF59,MText,"4m Trail",T-TEXT,9.996189999999936
+BDD89B,MText,"Intermittent Watercourse",T-WATER-T,9.996189999999936
+BDD89D,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BDEB1A,MText,"Ditch",T-TEXT,9.996189999999936
+BDEB1C,MText,"Ditch",T-TEXT,9.996189999999936
+BDF467,AlignedDimension,"CNRL  A/R  971270",F-AR-T,Compass 5 000
+BDF523,MText,"543077 Alberta Ltd. Storage Site DML 170075",F-WS-T,9.996189999999936
+BDF525,MText,"Weyerhaeuser CLR 950077",F-WS-T,9.996189999999936
+BDFE69,MText,"Theor. N.W.1/4 Sec. 21-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BDFE6A,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BDFE6C,MText,"CNRL 13-21 (Surface) MSL 971892 (Expired)",F-WS-T,9.996189999999936
+BDFE90,AlignedDimension,"CNRL  P/L R/W  041561",F-RW-T,Compass 5 000
+BDFECB,AlignedDimension,"CNRL  P/L R/W  062919",F-RW-T,Compass 5 000
+BDFF03,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BDFF04,MText,"Ditch",T-TEXT,9.996189999999936
+BDFF08,MText,"Dugout",T-WATER-T,9.996189999999936
+BDFF09,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BE0752,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE0759,AlignedDimension,"Paramount  A/R  142120",F-AR-T,Compass 5 000
+BE079D,MText,"Ovintov Water Reservoir LOC 160215",F-WS-T,9.996189999999936
+BE07A1,MText,"Theor. N.E.1/4 Sec. 20-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE07A2,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE1A36,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BE1A3A,AlignedDimension,"Ovintov  A/R  790041",F-AR-T,Compass 5 000
+BE1A7E,MText,"Ovintov Riser Site PIL 140638",F-WS-T,9.996189999999936
+BE1AA7,MText,"Paramount Riser Site PIL 170170 (Expired)",F-WS-T,9.996189999999936
+BE1AAE,AlignedDimension,"Paramount  A/R  170352",F-AR-T,Compass 5 000
+BE1AE9,AlignedDimension,"Paramount  P/L R/W  140414",F-RW-T,Compass 5 000
+BE2357,AlignedDimension,"Paramount  P/L R/W  141490",F-RW-T,Compass 5 000
+BE2395,MText,"8m Paved Road",T-TEXT,9.996189999999936
+BE2396,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BE2CF8,MText,"Culvert",T-TEXT,9.996189999999936
+BE2CFA,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE2CFB,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE2CFC,AlignedDimension,"CNRL  P/L R/W  062919",F-RW-T,Compass 5 000
+BE3672,MText,"Key Wildlife & Biodiversity Zone Boundary",AS-WILDLIFE,9.996189999999942
+BE3674,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BE367C,MText,"Theor. S.E.1/4 Sec. 29-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE367D,MText,"Theor. S.W.1/4 Sec. 29-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE367E,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE3FD1,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE3FDB,MText,"CNRL 10-29 (Surface) MSL 062533",F-WS-T,9.996189999999936
+BE3FDD,AlignedDimension,"CNRL  A/R  140060",F-AR-T,Compass 5 000
+BE49CF,AlignedDimension,"CNRL  A/R  061919",F-AR-T,Compass 5 000
+BE4A09,AlignedDimension,"CNRL  A/R  061919",F-AR-T,Compass 5 000
+BE4A28,MText,"Ditch",T-TEXT,9.996189999999936
+BE4A2B,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BE4A49,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BE4A4A,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE4A4C,AlignedDimension,"Paramount  P/L R/W  140414",F-RW-T,Compass 5 000
+BE4A72,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE4A78,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99618999999994
+BE526C,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BE528A,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BE5295,MText,"Theor. N.W.1/4 Sec. 30-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE5296,MText,"Theor. N.E.1/4 Sec. 30-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE5297,MText,"Theor. S.E.1/4 Sec. 30-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BE5298,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE529A,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE529C,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BE52A3,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BE5B80,MText,"Altair 2-30 (Surface) MSL 870065",F-WS-T,9.996189999999936
+BE6457,AlignedDimension,"Altair  A/R  870015",F-AR-T,Compass 5 000
+BE6485,MText,"Culvert",T-TEXT,9.996189999999936
+BE6487,MText,"Culvert",T-TEXT,9.996189999999936
+BE6489,MText,"Culvert",T-TEXT,9.996189999999936
+BE6CD8,AlignedDimension,"CNRL  P/L R/W  111512",F-AR-T,Compass 5 000
+BE6D3B,MText,"CNRL 9-30 (Surface) MSL 073009",F-WS-T,9.996189999999936
+BE7F1F,MText,"Ditch",T-TEXT,9.996189999999936
+BE7F22,MText,"Ditch",T-TEXT,9.996189999999936
+BE7F24,MText,"Culvert",T-TEXT,9.996189999999936
+BE7F26,AlignedDimension,"Paramount  P/L R/W  140414",F-RW-T,Compass 5 000
+BE7F45,AlignedDimension,"CNRL  P/L R/W  140220",F-AR-T,Compass 5 000
+BE7F6D,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BE7F94,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BE905A,AlignedDimension,"CNRL  A/R  072009",F-AR-T,Compass 5 000
+BE90C1,AlignedDimension,"CNRL  P/L R/W  130994",F-RW-T,Compass 5 000
+BE90FC,MText,"CNRL 14-30 (Surface) MSL 130307",F-WS-T,9.996189999999936
+BE9106,AlignedDimension,"Paramount  P/L R/W  140414",F-RW-T,Compass 5 000
+BE912E,AlignedDimension,"CNRL  P/L R/W  130994",F-RW-T,Compass 5 000
+BE914D,AlignedDimension,"Ovintov  A/R  241404",F-AR-T,Compass 5 000
+BE9974,MText,"Culvert",T-TEXT,9.996189999999936
+BE9977,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BE9978,MText,"Culvert",T-TEXT,9.996189999999936
+BE997B,AlignedDimension,"CNRL  A/R  130324",F-AR-T,Compass 5 000
+BE99B9,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BEA2B5,MText,"Ditch",T-TEXT,9.996189999999936
+BEA2B8,AlignedDimension,"CNRL  A/R  140187",F-AR-T,Compass 5 000
+BEA2F3,MText,"Ovintov 3-31 (Surface) MSL 241041",F-WS-T,9.996189999999942
+BEA2F4,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BEA30B,DBText,"Rge. 6",D-TXT,13.994665999999922
+BEA30D,DBText,"Rge. 5",D-TXT,13.994665999999922
+BEA30E,DBText,"Rge. 6",D-TXT,13.994665999999922
+BEA30F,DBText,"Rge. 5",D-TXT,13.994665999999922
+BEB3D6,MText,"Nuvista 13-30 (Surface) MSL 180029 (Expired)",C-WS-T,9.996189999999942
+BEB3D8,AlignedDimension,"Nuvista  A/R  180029",C-AR-T,Compass 5 000
+BEB413,AlignedDimension,"Nuvista  P/L R/W  180217",C-RW-T,Compass 5 000
+BEBD4F,MText,"Theor. S.W.1/4 Sec. 31-65-5-W.6M.",C-SYMBOL,19.992379999999883
+BEC625,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BEC627,AlignedDimension,"CNRL  A/R  020776",F-AR-T,Compass 5 000
+BEC659,AlignedDimension,"CNRL  A/R  020776",F-AR-T,Compass 5 000
+BECF62,AlignedDimension,"Nuvista  P/L R/W  180217",C-RW-T,Compass 5 000
+BECF8A,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BECFB1,AlignedDimension,"Weyerhaeuser  A/R   4508",F-AR-T,Compass 5 000
+BECFD8,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BECFD9,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BECFDA,MText,"Culvert",T-TEXT,9.996189999999936
+BECFDD,MText,"Ditch",T-TEXT,9.996189999999936
+BECFDE,MText,"Ditch",T-TEXT,9.996189999999936
+BECFE0,MText,"Culvert",T-TEXT,9.996189999999936
+BEE19C,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BEE1A5,MText,"Theor. S.W.1/4 Sec. 36-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BEE1A6,MText,"Theor. S.E.1/4 Sec. 36-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BEE1A7,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BEE1A9,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BEEAB0,MText,"Nuvista Riser Site PIL 180157",C-WS-T,9.996189999999942
+BEEAD8,MText,"CNRL 2-36 (Surface) MSL 100056",C-WS-T,9.996189999999942
+BEF3BE,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BEF3C5,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.99618999999994
+BEF40D,MText,"Nuvista Riser Site PIL 190107",C-WS-T,9.996189999999942
+BEFBFD,AlignedDimension,"Nuvista  A/R  230701",C-AR-T,Compass 5 000
+BEFC38,AlignedDimension,"Nuvista  P/L R/W  240736",C-RW-T,Compass 5 000
+BF0567,MText,"Nuvista Compressor Site MLL 130077 (Expired)",C-WS-T,9.996189999999942
+BF0568,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.996189999999942
+BF056A,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.996189999999942
+BF0E51,MText,"Culvert",T-TEXT,9.996189999999936
+BF28F6,AlignedDimension,"Nuvista  A/R  020301",C-AR-T,Compass 5 000
+BF2923,AlignedDimension,"Nuvista  Water Line R/W  250337",C-AR-T,Compass 5 000
+BF2958,AlignedDimension,"Nuvista  P/L R/W  150900",C-RW-T,Compass 5 000
+BF2985,AlignedDimension,"Nuvista  P/L R/W  131485",C-RW-T,Compass 5 000
+BF29C2,AlignedDimension,"Keyera  P/L R/W  131090",F-RW-T,Compass 5 000
+BF3307,MText,"Keyera Riser Site PIL 140134",F-WS-T,9.996189999999942
+BF3324,MText,"Weyerhaeuser CLR 950078",F-WS-T,9.996189999999942
+BF3326,AlignedDimension,"Keyera  A/R  140291",F-AR-T,Compass 5 000
+BF3357,MText,"Nuvista Riser Site PIL 190069",C-WS-T,9.996189999999942
+BF3B67,AlignedDimension,"Nuvista  P/L R/W  170241",C-RW-T,Compass 5 000
+BF3B9C,AlignedDimension,"Nuvista  P/L R/W  130030",C-RW-T,Compass 5 000
+BF44C7,AlignedDimension,"Nuvista  A/R  090577",C-AR-T,Compass 5 000
+BF44FB,MText,"Ditch",T-TEXT,9.996189999999936
+BF44FE,MText,"6m High Grade Gravel Road",T-TEXT,9.996189999999936
+BF4500,MText,"Gate",T-TEXT,9.996189999999936
+BF4CF2,AlignedDimension,"Nuvista  A/R  140228",C-AR-T,Compass 5 000
+BF4D36,AlignedDimension,"Nuvista  P/L R/W  PLA 210903",C-RW-T,Compass 5 000
+BF4D71,MText,"Nuvista 4-36 (Surface) MSL 140253",C-WS-T,9.996189999999942
+BF5659,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BF565A,AlignedDimension,"Weyerhaeuser  A/R  4508",F-AR-T,Compass 5 000
+BF5F7E,MText,"Ditch",T-TEXT,9.996189999999936
+BF5F80,MText,"Culvert",T-TEXT,9.996189999999936
+BF5F83,MText,"Culvert",T-TEXT,9.996189999999936
+BF5F8F,MText,"Dugout",T-WATER-T,9.996189999999936
+BF689F,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BF68A8,MText,"Theor. N.W.1/4 Sec. 25-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BF68A9,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BF68AB,MText,"Nuvista Riser Site PIL 140885",C-WS-T,9.996189999999942
+BF68AE,MText,"Nuvista Riser Site PIL 220053",C-WS-T,9.996189999999942
+BF68B1,AlignedDimension,"Nuvista  A/R  090577",C-AR-T,Compass 5 000
+BF68D1,AlignedDimension,"Nuvista  P/L R/W  220140",C-AR-T,Compass 5 000
+BF71D5,AlignedDimension,"Nuvista  P/L R/W  122040",C-AR-T,Compass 5 000
+BF7218,AlignedDimension,"Nuvista  P/L R/W  130030",C-RW-T,Compass 5 000
+BF7256,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BF7257,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BF7258,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BF7265,AlignedDimension,"Nuvista  P/L R/W  130030",C-RW-T,Compass 5 000
+BF728C,MText,"Nuvista 16-26 (Surface) MSL 140333",C-WS-T,9.996189999999942
+BF728E,MText,"Surface Facilities",AS-STRUCTURE-T,9.996189999999942
+BF728F,MText,"Surface Facilities",AS-STRUCTURE-T,9.996189999999942
+BF72B6,MText,"Nuvista Riser Site PIL 210286",C-WS-T,9.996189999999942
+BF7AA8,AlignedDimension,"Nuvista  P/L R/W  210727",C-RW-T,Compass 5 000
+BF7ADD,MText,"Dugout",T-WATER-T,9.996189999999936
+BF7ADE,MText,"Drainage",T-WATER-T,9.996189999999936
+BF83BF,MText,"Ditch",T-TEXT,9.996189999999936
+BF83CD,MText,"6m Medium Grade Gravel Road",T-TEXT,9.996189999999936
+BF83CE,AlignedDimension,"Nuvista  A/R  140308",C-AR-T,Compass 5 000
+BF8412,AlignedDimension,"Nuvista  P/L R/W  130030",C-RW-T,Compass 5 000
+BF8439,MText,"Nuvista Riser Site PIL 190086 (Expired)",C-WS-T,9.996189999999942
+BF8C2C,MText,"Culvert",T-TEXT,9.996189999999936
+BF8C2E,MText,"Culvert",T-TEXT,9.996189999999936
+BF8C30,MText,"10m High Grade Gravel Road",T-TEXT,9.996189999999936
+BF8C31,BlockReference,"L-SECLBL",L-SECLBL,0.999619
+BF8C3A,MText,"Theor. S.E.1/4 Sec. 35-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BF8C3B,MText,"Theor. S.W.1/4 Sec. 35-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BF8C3E,MText,"Theor. N.E.1/4 Sec. 26-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BF8C3F,MText,"Theor. N.W.1/4 Sec. 26-65-6-W.6M.",C-SYMBOL,19.992379999999883
+BF951B,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BF951D,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BF951F,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BF9523,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993903999999915
+BF9529,AlignedDimension,"Nuvista  A/R  130135",C-AR-T,Compass 5 000
+BF956B,MText,"Nuvista Storage Site MLL 200122",C-WS-T,9.996189999999942
+BF956E,MText,"Nuvista 14-26 (Surface) MSL 200496",C-WS-T,9.996189999999942
+BF9570,MText,"Culvert",T-TEXT,9.996189999999936
+BF9E58,AlignedDimension,"Nuvista  P/L R/W  210242",C-RW-T,Compass 5 000
+BF9E9B,MText,"Ditch",T-TEXT,9.996189999999936
+BF9E9D,MText,"Ditch",T-TEXT,9.996189999999936
+BF9E9F,MText,"Nuvista 16-27 (Surface) MSL 130130",C-WS-T,9.996189999999942
+BF9EA9,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BF9EAF,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996189999999942
+BFB079,MText,"Altair 11-26 (Surface) MSL 781407",F-WS-T,9.996189999999942
+BFB07B,AlignedDimension,"Nuvista  A/R  790450",C-AR-T,Compass 5 000
+BFB0CD,MText,"Ditch",T-TEXT,9.996189999999936
+BFB0CF,AlignedDimension,"Nuvista  A/R  210425",C-AR-T,Compass 5 000
+BFB101,MText,"5m Medium Grade Gravel Road",T-TEXT,9.996189999999936
+BFC1E0,AlignedDimension,"Nuvista  A/R  790450",C-AR-T,Compass 5 000
+BFC21B,MText,"Gate",T-TEXT,9.996189999999936
+BFC222,MText,"Gate",T-TEXT,9.996189999999936
+BFC224,MText,"Culvert",T-TEXT,9.996189999999936
+BFC227,MText,"Nuvista Storage Site MLL 160165",C-WS-T,9.996189999999942
+BFC22A,MText,"Nuvista 3-35  (Surface) MSL 132242",C-WS-T,9.996189999999942
+BFC22C,AlignedDimension,"Weyerhaeuser  A/R  4508",F-AR-T,Compass 5 000
+BFCA3E,AlignedDimension,"Weyerhaeuser  A/R  4508",F-AR-T,Compass 5 000
+BFCA65,MText,"Big Mountain Creek",T-WATER-T,9.996189999999936
+BFD346,MText,"Nuvista Storage Site MLL 210034",C-WS-T,9.996189999999942
+BFD348,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD349,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD34A,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD34B,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD34C,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD34D,MText,"C-Ring",AS-STRUCTURE-T,9.996189999999942
+BFD34F,MText,"Nuvista 3-35 (Surface) MSL 210259",C-WS-T,9.996189999999942
+BFD354,MText,"Ditch",T-TEXT,9.996189999999936
+BFD356,MText,"Ditch",T-TEXT,9.996189999999936
+BFD359,MText,"Culvert",T-TEXT,9.996189999999936
+BFD35B,MText,"Culvert",T-TEXT,9.996189999999936
+BFE525,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BFE527,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BFE529,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BFE52E,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BFEE1A,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+BFFFE9,MText,"Secure 12-35 (Surface) MSL 991826",F-WS-T,9.996189999999942
+C01E08,AlignedDimension,"Transportation  Width Road  862 1053",L-TITLEDB-T,Compass 5 000
+C02E8B,AlignedDimension,"Nuvista  A/R  170121",C-AR-T,Compass 5 000
+C062D5,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C06356,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C0638B,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C063AA,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C075B7,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C075DF,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C07607,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C07660,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C07688,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C0769C,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C076C4,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C08944,MText,"Hwy. 40",L-TITLEDB-T,9.99999999999994
+C0ED75,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.996189999999942
+C0ED77,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.996189999999942
+C116D3,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C11B70,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C1350F,BlockReference,"*U110",CG-NOTES,1
+C19DC9,BlockReference,"*U110",CG-NOTES,1
+C19DD5,BlockReference,"*U110",CG-NOTES,1
+C19DE1,BlockReference,"*U110",CG-NOTES,1
+C19DED,BlockReference,"*U110",CG-NOTES,1
+C19DF9,BlockReference,"*U110",CG-NOTES,1
+C19E26,BlockReference,"*U111",CG-NOTES,1
+C1A321,BlockReference,"*U112",CG-NOTES,1
+C1A32E,BlockReference,"*U112",CG-NOTES,1
+C1A8B7,BlockReference,"*U113",CG-NOTES,1
+C1A8C3,BlockReference,"*U113",CG-NOTES,1
+C1A8CF,BlockReference,"*U113",CG-NOTES,1
+C1A8DB,BlockReference,"*U113",CG-NOTES,1
+C1A8E7,BlockReference,"*U113",CG-NOTES,1
+C1A8F3,BlockReference,"*U113",CG-NOTES,1
+C1A8FF,BlockReference,"*U113",CG-NOTES,1
+C1ADB6,BlockReference,"*U113",CG-NOTES,1
+C1ADC2,BlockReference,"*U113",CG-NOTES,1
+C1ADCE,BlockReference,"*U113",CG-NOTES,1
+C1ADDA,BlockReference,"*U113",CG-NOTES,1
+C1ADE6,BlockReference,"*U113",CG-NOTES,1
+C1ADF2,BlockReference,"*U113",CG-NOTES,1
+C1ADFE,BlockReference,"*U113",CG-NOTES,1
+C1AE0A,BlockReference,"*U113",CG-NOTES,1
+C1AE16,BlockReference,"*U113",CG-NOTES,1
+C1AE22,BlockReference,"*U113",CG-NOTES,1
+C1AE2E,BlockReference,"*U113",CG-NOTES,1
+C1AE3A,BlockReference,"*U113",CG-NOTES,1
+C1AE46,BlockReference,"*U113",CG-NOTES,1
+C1AE52,BlockReference,"*U113",CG-NOTES,1
+C1AE5E,BlockReference,"*U113",CG-NOTES,1
+C1AE6A,BlockReference,"*U113",CG-NOTES,1
+C1AE76,BlockReference,"*U113",CG-NOTES,1
+C1AE82,BlockReference,"*U113",CG-NOTES,1
+C1AE8E,BlockReference,"*U113",CG-NOTES,1
+C1AE9A,BlockReference,"*U113",CG-NOTES,1
+C1AEA6,BlockReference,"*U113",CG-NOTES,1
+C1AEB2,BlockReference,"*U113",CG-NOTES,1
+C1AEBE,BlockReference,"*U113",CG-NOTES,1
+C1AECA,BlockReference,"*U113",CG-NOTES,1
+C1AED6,BlockReference,"*U113",CG-NOTES,1
+C1AEE2,BlockReference,"*U113",CG-NOTES,1
+C1AEEE,BlockReference,"*U113",CG-NOTES,1
+C1AEFA,BlockReference,"*U113",CG-NOTES,1
+C1AF06,BlockReference,"*U113",CG-NOTES,1
+C1AF12,BlockReference,"*U113",CG-NOTES,1
+C1AF1E,BlockReference,"*U113",CG-NOTES,1
+C1AF2A,BlockReference,"*U113",CG-NOTES,1
+C1AF36,BlockReference,"*U113",CG-NOTES,1
+C1AF42,BlockReference,"*U113",CG-NOTES,1
+C1AF4E,BlockReference,"*U113",CG-NOTES,1
+C1AF5A,BlockReference,"*U113",CG-NOTES,1
+C1CDD8,BlockReference,"*U113",CG-NOTES,1
+C1CDE4,BlockReference,"*U113",CG-NOTES,1
+C1CDF0,BlockReference,"*U113",CG-NOTES,1
+C1CDFC,BlockReference,"*U113",CG-NOTES,1
+C1CE08,BlockReference,"*U113",CG-NOTES,1
+C1CE14,BlockReference,"*U113",CG-NOTES,1
+C1CE20,BlockReference,"*U113",CG-NOTES,1
+C1CE2C,BlockReference,"*U113",CG-NOTES,1
+C1CE38,BlockReference,"*U113",CG-NOTES,1
+C1CE44,BlockReference,"*U113",CG-NOTES,1
+C1CE50,BlockReference,"*U113",CG-NOTES,1
+C1CE5C,BlockReference,"*U113",CG-NOTES,1
+C1CE68,BlockReference,"*U113",CG-NOTES,1
+C1CE74,BlockReference,"*U113",CG-NOTES,1
+C1CE80,BlockReference,"*U113",CG-NOTES,1
+C1CE8C,BlockReference,"*U113",CG-NOTES,1
+C1CE98,BlockReference,"*U113",CG-NOTES,1
+C1CEA4,BlockReference,"*U113",CG-NOTES,1
+C1CEB0,BlockReference,"*U113",CG-NOTES,1
+C1CEBC,BlockReference,"*U113",CG-NOTES,1
+C1CEC8,BlockReference,"*U113",CG-NOTES,1
+C1CED4,BlockReference,"*U113",CG-NOTES,1
+C1CEE0,BlockReference,"*U113",CG-NOTES,1
+C1CEEC,BlockReference,"*U113",CG-NOTES,1
+C1CEF8,BlockReference,"*U113",CG-NOTES,1
+C1CF04,BlockReference,"*U113",CG-NOTES,1
+C1CF10,BlockReference,"*U113",CG-NOTES,1
+C1CF1C,BlockReference,"*U113",CG-NOTES,1
+C1CF28,BlockReference,"*U113",CG-NOTES,1
+C1CF34,BlockReference,"*U113",CG-NOTES,1
+C1CF40,BlockReference,"*U113",CG-NOTES,1
+C1CF4C,BlockReference,"*U113",CG-NOTES,1
+C1CF58,BlockReference,"*U113",CG-NOTES,1
+C1CF64,BlockReference,"*U113",CG-NOTES,1
+C1CF70,BlockReference,"*U113",CG-NOTES,1
+C1CF7C,BlockReference,"*U113",CG-NOTES,1
+C1CF88,BlockReference,"*U113",CG-NOTES,1
+C1CF94,BlockReference,"*U113",CG-NOTES,1
+C1CFA0,BlockReference,"*U113",CG-NOTES,1
+C1CFAC,BlockReference,"*U113",CG-NOTES,1
+C1CFB8,BlockReference,"*U113",CG-NOTES,1
+C1CFC4,BlockReference,"*U113",CG-NOTES,1
+C1CFD0,BlockReference,"*U113",CG-NOTES,1
+C1CFDC,BlockReference,"*U113",CG-NOTES,1
+C1CFE8,BlockReference,"*U113",CG-NOTES,1
+C1CFF4,BlockReference,"*U113",CG-NOTES,1
+C1D000,BlockReference,"*U113",CG-NOTES,1
+C1D00C,BlockReference,"*U113",CG-NOTES,1
+C1D018,BlockReference,"*U113",CG-NOTES,1
+C1D024,BlockReference,"*U113",CG-NOTES,1
+C1D030,BlockReference,"*U113",CG-NOTES,1
+C1D03C,BlockReference,"*U113",CG-NOTES,1
+C1D048,BlockReference,"*U113",CG-NOTES,1
+C1D054,BlockReference,"*U113",CG-NOTES,1
+C1D060,BlockReference,"*U113",CG-NOTES,1
+C1D06C,BlockReference,"*U113",CG-NOTES,1
+C1D078,BlockReference,"*U113",CG-NOTES,1
+C1D084,BlockReference,"*U113",CG-NOTES,1
+C1D090,BlockReference,"*U113",CG-NOTES,1
+C1D09C,BlockReference,"*U113",CG-NOTES,1
+C1D0A8,BlockReference,"*U113",CG-NOTES,1
+C1D0B4,BlockReference,"*U113",CG-NOTES,1
+C1D0C0,BlockReference,"*U113",CG-NOTES,1
+C1D0CC,BlockReference,"*U113",CG-NOTES,1
+C1D0D8,BlockReference,"*U113",CG-NOTES,1
+C1D0E4,BlockReference,"*U113",CG-NOTES,1
+C1D0F0,BlockReference,"*U113",CG-NOTES,1
+C1D0FC,BlockReference,"*U113",CG-NOTES,1
+C1D108,BlockReference,"*U113",CG-NOTES,1
+C1D114,BlockReference,"*U113",CG-NOTES,1
+C1D120,BlockReference,"*U113",CG-NOTES,1
+C1D12C,BlockReference,"*U113",CG-NOTES,1
+C1D138,BlockReference,"*U113",CG-NOTES,1
+C1D144,BlockReference,"*U113",CG-NOTES,1
+C39485,BlockReference,"*U113",CG-NOTES,1
+C394B8,BlockReference,"*U113",CG-NOTES,1
+C394C3,BlockReference,"*U113",CG-NOTES,1
+C394CE,BlockReference,"*U113",CG-NOTES,1
+C394D9,BlockReference,"*U113",CG-NOTES,1
+C394E4,BlockReference,"*U113",CG-NOTES,1
+C394EF,BlockReference,"*U113",CG-NOTES,1
+C394FA,BlockReference,"*U113",CG-NOTES,1
+C39505,BlockReference,"*U113",CG-NOTES,1
+C39510,BlockReference,"*U113",CG-NOTES,1
+C3951B,BlockReference,"*U113",CG-NOTES,1
+C39526,BlockReference,"*U113",CG-NOTES,1
+C39531,BlockReference,"*U113",CG-NOTES,1
+C3953C,BlockReference,"*U113",CG-NOTES,1
+C39547,BlockReference,"*U113",CG-NOTES,1
+C39552,BlockReference,"*U113",CG-NOTES,1
+C3955D,BlockReference,"*U113",CG-NOTES,1
+C39568,BlockReference,"*U113",CG-NOTES,1
+C39573,BlockReference,"*U113",CG-NOTES,1
+C3957E,BlockReference,"*U113",CG-NOTES,1
+C39589,BlockReference,"*U113",CG-NOTES,1
+C39594,BlockReference,"*U113",CG-NOTES,1
+C3959F,BlockReference,"*U113",CG-NOTES,1
+C395AA,BlockReference,"*U113",CG-NOTES,1
+C395B5,BlockReference,"*U113",CG-NOTES,1
+C395C0,BlockReference,"*U113",CG-NOTES,1
+C395CB,BlockReference,"*U113",CG-NOTES,1
+C395D6,BlockReference,"*U113",CG-NOTES,1
+C395E1,BlockReference,"*U113",CG-NOTES,1
+C395EC,BlockReference,"*U113",CG-NOTES,1
+C395F7,BlockReference,"*U113",CG-NOTES,1
+C39602,BlockReference,"*U113",CG-NOTES,1
+C3960D,BlockReference,"*U113",CG-NOTES,1
+C39618,BlockReference,"*U113",CG-NOTES,1
+C39623,BlockReference,"*U113",CG-NOTES,1
+C3962E,BlockReference,"*U113",CG-NOTES,1
+C39639,BlockReference,"*U113",CG-NOTES,1
+C39644,BlockReference,"*U113",CG-NOTES,1
+C3964F,BlockReference,"*U113",CG-NOTES,1
+C3965A,BlockReference,"*U113",CG-NOTES,1
+C39665,BlockReference,"*U113",CG-NOTES,1
+C39670,BlockReference,"*U113",CG-NOTES,1
+C3967B,BlockReference,"*U113",CG-NOTES,1
+C39686,BlockReference,"*U113",CG-NOTES,1
+C39691,BlockReference,"*U113",CG-NOTES,1
+C3969C,BlockReference,"*U113",CG-NOTES,1
+C396A7,BlockReference,"*U113",CG-NOTES,1
+C396B2,BlockReference,"*U113",CG-NOTES,1
+C396BD,BlockReference,"*U113",CG-NOTES,1
+C396C8,BlockReference,"*U113",CG-NOTES,1
+C396D3,BlockReference,"*U113",CG-NOTES,1
+C396DE,BlockReference,"*U113",CG-NOTES,1
+C396E9,BlockReference,"*U113",CG-NOTES,1
+C396F4,BlockReference,"*U113",CG-NOTES,1
+C396FF,BlockReference,"*U113",CG-NOTES,1
+C3970A,BlockReference,"*U113",CG-NOTES,1
+C39715,BlockReference,"*U113",CG-NOTES,1
+C39720,BlockReference,"*U113",CG-NOTES,1
+C3972B,BlockReference,"*U113",CG-NOTES,1
+C39736,BlockReference,"*U113",CG-NOTES,1
+C39741,BlockReference,"*U113",CG-NOTES,1
+C3974C,BlockReference,"*U113",CG-NOTES,1
+C39757,BlockReference,"*U113",CG-NOTES,1
+C39762,BlockReference,"*U113",CG-NOTES,1
+C3976D,BlockReference,"*U113",CG-NOTES,1
+C39778,BlockReference,"*U113",CG-NOTES,1
+C39783,BlockReference,"*U113",CG-NOTES,1
+C3978E,BlockReference,"*U113",CG-NOTES,1
+C39799,BlockReference,"*U113",CG-NOTES,1
+C397A4,BlockReference,"*U113",CG-NOTES,1
+C397AF,BlockReference,"*U113",CG-NOTES,1
+C39C5C,AlignedDimension,"Nuvista  P/L R/W  170241",C-RW-T,Compass 5 000
+C3DC51,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C3E7B9,BlockReference,"*U113",CG-NOTES,1
+C3E7C4,BlockReference,"*U113",CG-NOTES,1
+C3E7CF,BlockReference,"*U113",CG-NOTES,1
+C3E7DA,BlockReference,"*U113",CG-NOTES,1
+C3E7E5,BlockReference,"*U113",CG-NOTES,1
+C3E7F0,BlockReference,"*U113",CG-NOTES,1
+C3E7FB,BlockReference,"*U113",CG-NOTES,1
+C3E806,BlockReference,"*U113",CG-NOTES,1
+C3E811,BlockReference,"*U113",CG-NOTES,1
+C3E81C,BlockReference,"*U113",CG-NOTES,1
+C3E827,BlockReference,"*U113",CG-NOTES,1
+C3E832,BlockReference,"*U113",CG-NOTES,1
+C3E83D,BlockReference,"*U113",CG-NOTES,1
+C3E848,BlockReference,"*U113",CG-NOTES,1
+C41663,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C4A780,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4A782,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4A78D,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4A78F,MText,"Culvert",T-TEXT,9.996189999999936
+C4AC47,MText,"8m Paved Road",T-TEXT,9.996189999999936
+C4AC55,MText,"8m Paved Road",T-TEXT,9.996189999999936
+C4AC95,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4AC96,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C4B174,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4B178,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4B701,MText,"Culvert",T-TEXT,9.996189999999936
+C4B703,MText,"Culvert",T-TEXT,9.996189999999936
+C4B706,MText,"Culvert",T-TEXT,9.996189999999936
+C4B708,MText,"Ephemeral Draw",T-WATER-T,9.996189999999936
+C4B70C,MText,"Culvert",T-TEXT,9.996189999999936
+C55706,BlockReference,"*U113",CG-NOTES,1
+C55711,BlockReference,"*U113",CG-NOTES,1
+C55DA1,BlockReference,"*U113",CG-NOTES,1
+C55DC0,BlockReference,"*U113",CG-NOTES,1
+C55DCB,BlockReference,"*U113",CG-NOTES,1
+C55DD6,BlockReference,"*U113",CG-NOTES,1
+C55DE1,BlockReference,"*U113",CG-NOTES,1
+C55DEC,BlockReference,"*U113",CG-NOTES,1
+C55DF7,BlockReference,"*U113",CG-NOTES,1
+C55E02,BlockReference,"*U113",CG-NOTES,1
+C55E0D,BlockReference,"*U113",CG-NOTES,1
+C55E18,BlockReference,"*U113",CG-NOTES,1
+C55E23,BlockReference,"*U113",CG-NOTES,1
+C55E2E,BlockReference,"*U113",CG-NOTES,1
+C55E39,BlockReference,"*U113",CG-NOTES,1
+C55E44,BlockReference,"*U113",CG-NOTES,1
+C55E4F,BlockReference,"*U113",CG-NOTES,1
+C55E5A,BlockReference,"*U113",CG-NOTES,1
+C55E65,BlockReference,"*U113",CG-NOTES,1
+C55E70,BlockReference,"*U113",CG-NOTES,1
+C55E7B,BlockReference,"*U113",CG-NOTES,1
+C55E86,BlockReference,"*U113",CG-NOTES,1
+C55E91,BlockReference,"*U113",CG-NOTES,1
+C55E9C,BlockReference,"*U113",CG-NOTES,1
+C55EA7,BlockReference,"*U113",CG-NOTES,1
+C55EB2,BlockReference,"*U113",CG-NOTES,1
+C55EBD,BlockReference,"*U113",CG-NOTES,1
+C55EC8,BlockReference,"*U113",CG-NOTES,1
+C55ED3,BlockReference,"*U113",CG-NOTES,1
+C55EDE,BlockReference,"*U113",CG-NOTES,1
+C55EE9,BlockReference,"*U113",CG-NOTES,1
+C55EF4,BlockReference,"*U113",CG-NOTES,1
+C55EFF,BlockReference,"*U113",CG-NOTES,1
+C55F0A,BlockReference,"*U113",CG-NOTES,1
+C55F15,BlockReference,"*U113",CG-NOTES,1
+C55F20,BlockReference,"*U113",CG-NOTES,1
+C55F2B,BlockReference,"*U113",CG-NOTES,1
+C55F36,BlockReference,"*U113",CG-NOTES,1
+C55F41,BlockReference,"*U113",CG-NOTES,1
+C55F4C,BlockReference,"*U113",CG-NOTES,1
+C55F57,BlockReference,"*U113",CG-NOTES,1
+C55F62,BlockReference,"*U113",CG-NOTES,1
+C55F6D,BlockReference,"*U113",CG-NOTES,1
+C55F79,BlockReference,"*U113",CG-NOTES,1
+C55F84,BlockReference,"*U113",CG-NOTES,1
+C55F8F,BlockReference,"*U113",CG-NOTES,1
+C55F9A,BlockReference,"*U113",CG-NOTES,1
+C55FA5,BlockReference,"*U113",CG-NOTES,1
+C55FB0,BlockReference,"*U113",CG-NOTES,1
+C55FBB,BlockReference,"*U113",CG-NOTES,1
+C55FC6,BlockReference,"*U113",CG-NOTES,1
+C55FD1,BlockReference,"*U113",CG-NOTES,1
+C55FDC,BlockReference,"*U113",CG-NOTES,1
+C55FE7,BlockReference,"*U113",CG-NOTES,1
+C55FF2,BlockReference,"*U113",CG-NOTES,1
+C55FFD,BlockReference,"*U113",CG-NOTES,1
+C56008,BlockReference,"*U113",CG-NOTES,1
+C56013,BlockReference,"*U113",CG-NOTES,1
+C5601E,BlockReference,"*U113",CG-NOTES,1
+C56029,BlockReference,"*U113",CG-NOTES,1
+C56034,BlockReference,"*U113",CG-NOTES,1
+C5603F,BlockReference,"*U113",CG-NOTES,1
+C5604A,BlockReference,"*U113",CG-NOTES,1
+C56055,BlockReference,"*U113",CG-NOTES,1
+C56060,BlockReference,"*U113",CG-NOTES,1
+C5606B,BlockReference,"*U113",CG-NOTES,1
+C56076,BlockReference,"*U113",CG-NOTES,1
+C56081,BlockReference,"*U113",CG-NOTES,1
+C5608C,BlockReference,"*U113",CG-NOTES,1
+C56097,BlockReference,"*U113",CG-NOTES,1
+C560A2,BlockReference,"*U113",CG-NOTES,1
+C560AD,BlockReference,"*U113",CG-NOTES,1
+C560B8,BlockReference,"*U113",CG-NOTES,1
+C560C3,BlockReference,"*U113",CG-NOTES,1
+C560CE,BlockReference,"*U113",CG-NOTES,1
+C560D9,BlockReference,"*U113",CG-NOTES,1
+C560E4,BlockReference,"*U113",CG-NOTES,1
+C560EF,BlockReference,"*U113",CG-NOTES,1
+C560FA,BlockReference,"*U113",CG-NOTES,1
+C56105,BlockReference,"*U113",CG-NOTES,1
+C56110,BlockReference,"*U113",CG-NOTES,1
+C5611B,BlockReference,"*U113",CG-NOTES,1
+C56126,BlockReference,"*U113",CG-NOTES,1
+C56131,BlockReference,"*U113",CG-NOTES,1
+C5613C,BlockReference,"*U113",CG-NOTES,1
+C56147,BlockReference,"*U113",CG-NOTES,1
+C56152,BlockReference,"*U113",CG-NOTES,1
+C5615D,BlockReference,"*U113",CG-NOTES,1
+C56168,BlockReference,"*U113",CG-NOTES,1
+C56173,BlockReference,"*U113",CG-NOTES,1
+C5617E,BlockReference,"*U113",CG-NOTES,1
+C56189,BlockReference,"*U113",CG-NOTES,1
+C56194,BlockReference,"*U113",CG-NOTES,1
+C5619F,BlockReference,"*U113",CG-NOTES,1
+C561AA,BlockReference,"*U113",CG-NOTES,1
+C561B5,BlockReference,"*U113",CG-NOTES,1
+C561C0,BlockReference,"*U113",CG-NOTES,1
+C561CB,BlockReference,"*U113",CG-NOTES,1
+C561D6,BlockReference,"*U113",CG-NOTES,1
+C561E1,BlockReference,"*U113",CG-NOTES,1
+C561EC,BlockReference,"*U113",CG-NOTES,1
+C561F7,BlockReference,"*U113",CG-NOTES,1
+C56202,BlockReference,"*U113",CG-NOTES,1
+C5620D,BlockReference,"*U113",CG-NOTES,1
+C56218,BlockReference,"*U113",CG-NOTES,1
+C56223,BlockReference,"*U113",CG-NOTES,1
+C5622E,BlockReference,"*U113",CG-NOTES,1
+C567E5,BlockReference,"*U113",CG-NOTES,1
+C567F0,BlockReference,"*U113",CG-NOTES,1
+C567FB,BlockReference,"*U113",CG-NOTES,1
+C56806,BlockReference,"*U113",CG-NOTES,1
+C56811,BlockReference,"*U113",CG-NOTES,1
+C5681C,BlockReference,"*U113",CG-NOTES,1
+C56827,BlockReference,"*U113",CG-NOTES,1
+C56832,BlockReference,"*U113",CG-NOTES,1
+C5683D,BlockReference,"*U113",CG-NOTES,1
+C56848,BlockReference,"*U113",CG-NOTES,1
+C56853,BlockReference,"*U113",CG-NOTES,1
+C5685E,BlockReference,"*U113",CG-NOTES,1
+C56869,BlockReference,"*U113",CG-NOTES,1
+C56874,BlockReference,"*U113",CG-NOTES,1
+C5687F,BlockReference,"*U113",CG-NOTES,1
+C5688A,BlockReference,"*U113",CG-NOTES,1
+C56895,BlockReference,"*U113",CG-NOTES,1
+C568A0,BlockReference,"*U113",CG-NOTES,1
+C568AB,BlockReference,"*U113",CG-NOTES,1
+C568B6,BlockReference,"*U113",CG-NOTES,1
+C568C1,BlockReference,"*U113",CG-NOTES,1
+C568CC,BlockReference,"*U113",CG-NOTES,1
+C568D7,BlockReference,"*U113",CG-NOTES,1
+C568E2,BlockReference,"*U113",CG-NOTES,1
+C568ED,BlockReference,"*U113",CG-NOTES,1
+C568F8,BlockReference,"*U113",CG-NOTES,1
+C56903,BlockReference,"*U113",CG-NOTES,1
+C5690E,BlockReference,"*U113",CG-NOTES,1
+C56919,BlockReference,"*U113",CG-NOTES,1
+C56924,BlockReference,"*U113",CG-NOTES,1
+C5692F,BlockReference,"*U113",CG-NOTES,1
+C5693A,BlockReference,"*U113",CG-NOTES,1
+C56945,BlockReference,"*U113",CG-NOTES,1
+C56950,BlockReference,"*U113",CG-NOTES,1
+C5695B,BlockReference,"*U113",CG-NOTES,1
+C56966,BlockReference,"*U113",CG-NOTES,1
+C56971,BlockReference,"*U113",CG-NOTES,1
+C5697C,BlockReference,"*U113",CG-NOTES,1
+C56987,BlockReference,"*U113",CG-NOTES,1
+C56992,BlockReference,"*U113",CG-NOTES,1
+C5699D,BlockReference,"*U113",CG-NOTES,1
+C569A8,BlockReference,"*U113",CG-NOTES,1
+C569B3,BlockReference,"*U113",CG-NOTES,1
+C569BE,BlockReference,"*U113",CG-NOTES,1
+C569C9,BlockReference,"*U113",CG-NOTES,1
+C569D4,BlockReference,"*U113",CG-NOTES,1
+C569DF,BlockReference,"*U113",CG-NOTES,1
+C569EA,BlockReference,"*U113",CG-NOTES,1
+C569F5,BlockReference,"*U113",CG-NOTES,1
+C56A00,BlockReference,"*U113",CG-NOTES,1
+C56A0B,BlockReference,"*U113",CG-NOTES,1
+C56A16,BlockReference,"*U113",CG-NOTES,1
+C56A21,BlockReference,"*U113",CG-NOTES,1
+C56A2C,BlockReference,"*U113",CG-NOTES,1
+C56A37,BlockReference,"*U113",CG-NOTES,1
+C56A42,BlockReference,"*U113",CG-NOTES,1
+C56A4D,BlockReference,"*U113",CG-NOTES,1
+C56A58,BlockReference,"*U113",CG-NOTES,1
+C56A63,BlockReference,"*U113",CG-NOTES,1
+C56A6E,BlockReference,"*U113",CG-NOTES,1
+C56A79,BlockReference,"*U113",CG-NOTES,1
+C56A84,BlockReference,"*U113",CG-NOTES,1
+C56A8F,BlockReference,"*U113",CG-NOTES,1
+C56A9A,BlockReference,"*U113",CG-NOTES,1
+C56AA5,BlockReference,"*U113",CG-NOTES,1
+C56AB0,BlockReference,"*U113",CG-NOTES,1
+C56ABB,BlockReference,"*U113",CG-NOTES,1
+C56AC6,BlockReference,"*U113",CG-NOTES,1
+C56AD1,BlockReference,"*U113",CG-NOTES,1
+C56ADC,BlockReference,"*U113",CG-NOTES,1
+C56AE7,BlockReference,"*U113",CG-NOTES,1
+C56AF2,BlockReference,"*U113",CG-NOTES,1
+C56AFD,BlockReference,"*U113",CG-NOTES,1
+C56B08,BlockReference,"*U113",CG-NOTES,1
+C56B13,BlockReference,"*U113",CG-NOTES,1
+C56B1E,BlockReference,"*U113",CG-NOTES,1
+C5B760,AlignedDimension,"Nuvista  Water Line R/W  250429",P-TXT,Compass 5 000
+C6BCF1,BlockReference,"*U113",CG-NOTES,1
+C80C00,BlockReference,"Disclaimer_Legal",0,0.5

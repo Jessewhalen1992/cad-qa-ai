@@ -1,0 +1,25 @@
+Handle,ObjType,Content,Layer,Extra
+BD9554,DBText,"L.S. 1",L-SECTION-LSD,9.999999999999972
+BD9555,DBText,"L.S. 2",L-SECTION-LSD,9.999999999999972
+BD9556,DBText,"L.S. 8",L-SECTION-LSD,9.999999999999972
+BD9557,DBText,"L.S. 7",L-SECTION-LSD,9.999999999999972
+BE1478,AlignedDimension,"CNRL  P/L R/W  094 0288",C-RW-T,Compass 5 000
+BE14B4,MText,"Beaverlodge River",T-WATER,10
+BE157D,BlockReference,"L-SECLBL",L-SECLBL,1
+BE4657,AlignedDimension,"NuVista  P/L R/W  162 3725  63817-2, 60458-28)}",F-RW-T,Compass 5 000
+BE467C,AlignedDimension,"7.0x146.4",T-WATER,Compass 5 000
+BE5275,DBText,"S.E.1/4 Sec. 8-71-9-W.6M.",C-SYMBOL,20
+BE5279,MText,"Workspace = 0.300 ha  0.74 Ac. Temporary Access = 0.102 ha  0.25 Ac.",L-AREAREQUIRED,11
+BE5F00,BlockReference,"*U21",AS-OWNER,1
+BE5F3C,MText,"C. of T.",L-TITLEDB,10
+BE5F40,MText,"Grizzly Bear Support Zone",AS-WILDLIFE,10
+BE7F26,MText,"C. of T.",L-TITLEDB,10
+BE7F73,DBText,"(High Grade Gravel)",T-TEXT,10
+BE7F74,DBText,"Government Road Allowance",L-ROAD-T,10
+BF25AC,AlignedDimension,"NuVista  A/R",F-WS,Compass 5 000
+BF25EE,MText,"NuVista Riser Sites",F-WS,10
+BF4D9A,AlignedDimension,"NuVista  P/L R/W  by Altus",F-RW,Compass 5 000
+BF4DDD,AlignedDimension,"NuVista  P/L R/W  by Altus",F-RW,Compass 5 000
+BF6E46,AlignedDimension,"NuVista  P/L R/W  by Altus  59089-74})",F-RW,Compass 5 000
+BFF494,MText,"15.0x200.0 Workspace",T-WATER,10
+C03142,BlockReference,"Disclaimer_Legal",C-AR-T,0.15

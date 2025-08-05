@@ -1,0 +1,335 @@
+Handle,ObjType,Content,Layer,Extra
+BCE1DB,BlockReference,"L-SECLBL",L-SECLBL,1
+BCE1E1,BlockReference,"L-SECLBL",L-SECLBL,1
+BCE1F3,BlockReference,"L-SECLBL",L-SECLBL,1
+BCEA14,BlockReference,"L-SECLBL",L-SECLBL,1
+BCEA1A,BlockReference,"L-SECLBL",L-SECLBL,1
+BCEA20,BlockReference,"L-SECLBL",L-SECLBL,1
+BCEA33,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA34,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA37,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA38,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA39,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA3A,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA3B,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA3C,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA3D,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA3E,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA3F,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA40,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA41,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA42,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA43,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA44,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA52,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA53,DBText,"(Undeveloped)",T-TEXT,10
+BCEA54,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA55,DBText,"(Undeveloped)",T-TEXT,10
+BCEA5E,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA5F,DBText,"Government Road Allowance",L-ROAD-T,10
+BCEA66,DBText,"(High Grade Gravel)",T-TEXT,10
+BCEA67,DBText,"Government Road Allowance",L-ROAD-T,10
+BCF28B,DBText,"(High Grade Gravel)",T-TEXT,10
+BCF28C,DBText,"Government Road Allowance",L-ROAD-T,10
+BCF2AC,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+BCFBBE,DBText,"(High Grade Gravel)",T-TEXT,10
+BCFBBF,DBText,"Government Road Allowance",L-ROAD-T,10
+BCFBC6,DBText,"(High Grade Gravel)",T-TEXT,10
+BCFBC7,DBText,"Government Road Allowance",L-ROAD-T,10
+BD04D2,DBText,"S.W.1/4 Sec. 26-41-4-W.5M.",C-SYMBOL,20
+BD04D3,DBText,"S.E.1/4 Sec. 26-41-4-W.5M.",C-SYMBOL,20
+BD04D8,DBText,"S.W.1/4 Sec. 25-41-4-W.5M.",C-SYMBOL,20
+BD04D9,DBText,"S.E.1/4 Sec. 25-41-4-W.5M.",C-SYMBOL,20
+BD04DA,DBText,"S.W.1/4 Sec. 30-41-3-W.5M.",C-SYMBOL,20
+BD04DB,DBText,"S.E.1/4 Sec. 30-41-3-W.5M.",C-SYMBOL,20
+BD04DC,DBText,"S.W.1/4 Sec. 29-41-3-W.5M.",C-SYMBOL,20
+BD04DD,DBText,"S.E.1/4 Sec. 29-41-3-W.5M.",C-SYMBOL,20
+BD04DF,DBText,"N.E.1/4 Sec. 20-41-3-W.5M.",C-SYMBOL,20
+BD1F31,MText,"Clearwater County",L-33,12
+BD1F33,MText,"Lacombe County",L-33,12
+BD1F3B,MText,"Clearwater County",L-33,12
+BD1F3D,MText,"Lacombe County",L-33,12
+BD398E,AlignedDimension,"Canlin  P/L R/W  952 2388",F-RW-T,Compass 5 000
+BD39AE,AlignedDimension,"20.12 Road  3006 ET",L-TITLEDB-T,Compass 5 000
+BD39E1,AlignedDimension,"New North  P/L R/W  142 3587",F-RW-T,Compass 5 000
+BD3A04,AlignedDimension,"Canlin  P/L R/W  062 3726",F-RW-T,Compass 5 000
+BD4243,AlignedDimension,"Gran Tierra  P/L R/W  102 3834",F-RW-T,Compass 5 000
+BD4262,AlignedDimension,"Gran Tierra  P/L R/W  102 3834",F-RW-T,Compass 5 000
+BD4279,AlignedDimension,"Gran Tierra  P/L R/W  102 3834",F-RW-T,Compass 5 000
+BD42A0,AlignedDimension,"Taqa  P/L R/W  042 4317",F-RW-T,Compass 5 000
+BD42BE,AlignedDimension,"Gran Tierra  P/L R/W  902 3360",F-RW-T,Compass 5 000
+BD42F9,MText,"Plan 4132 TR",L-TITLEDB-T,10
+BD4B1A,AlignedDimension,"Canlin  P/L R/W  052 3390",F-RW-T,Compass 5 000
+BD4B43,AlignedDimension,"Gran Tierra  P/L R/W  962 2058",F-RW-T,Compass 5 000
+BD4B78,AlignedDimension,"Canlin  P/L R/W  952 2388",F-RW-T,Compass 5 000
+BD4B8E,AlignedDimension,"Canlin  P/L R/W  952 2388",F-RW-T,Compass 5 000
+BD54B7,AlignedDimension,"Canlin  P/L R/W  052 3390",F-RW-T,Compass 5 000
+BD54CE,AlignedDimension,"Gran Tierra  P/L R/W  102 3834",F-RW-T,Compass 5 000
+BD5DFF,AlignedDimension,"Journey  P/L R/W  102 0581",F-RW-T,Compass 5 000
+BD5E25,AlignedDimension,"PMC  P/L R/W  6050 MC",F-RW-T,Compass 5 000
+BD7084,AlignedDimension,"Gran Tierra  P/L R/W  022 3882",F-RW-T,Compass 5 000
+BD70A2,AlignedDimension,"Gran Tierra  P/L R/W  022 3882",F-RW-T,Compass 5 000
+BD70B8,AlignedDimension,"PMC  P/L R/W  6050 MC",F-RW-T,Compass 5 000
+BD70E9,AlignedDimension,"Gran Tierra  P/L R/W  094 0822",F-RW-T,Compass 5 000
+BD7A21,AlignedDimension,"Gran Tierra  P/L R/W  094 0822",F-RW-T,Compass 5 000
+BD834E,AlignedDimension,"Canlin  P/L R/W  952 0492",F-RW-T,Compass 5 000
+BD836E,AlignedDimension,"Canlin  P/L R/W  952 0492",F-RW-T,Compass 5 000
+BD8384,AlignedDimension,"Canlin  P/L R/W  952 0492",F-RW-T,Compass 5 000
+BD83AD,AlignedDimension,"Tourmaline  P/L R/W  012 2250",F-RW-T,Compass 5 000
+BD83D3,AlignedDimension,"Taqa  P/L R/W  062 3715",F-RW-T,Compass 5 000
+BD83F3,AlignedDimension,"Taqa  P/L R/W  062 3715",F-RW-T,Compass 5 000
+BD8408,AlignedDimension,"Taqa  P/L R/W  032 4708",F-RW-T,Compass 5 000
+BD8C62,AlignedDimension,"Taqa  P/L R/W  032 4708",F-RW-T,Compass 5 000
+BD8C77,AlignedDimension,"Taqa  P/L R/W  032 4708",F-RW-T,Compass 5 000
+BD959E,AlignedDimension,"Taqa  P/L R/W  032 4707",F-RW-T,Compass 5 000
+BD9ECE,AlignedDimension,"Canlin  P/L R/W  179 NY  1414",F-RW-T,Compass 5 000
+BD9EEE,MText,"Lot 1 Block 1 Plan 072 7248",L-TITLEDB-T,10
+BDBA87,AlignedDimension,"Canlin  P/L R/W  942 2097",F-RW-T,Compass 5 000
+BDBABB,AlignedDimension,"Canlin  P/L R/W  932 1187",F-RW-T,Compass 5 000
+BDC2B2,AlignedDimension,"Taqa  P/L R/W  032 4707",F-RW-T,Compass 5 000
+BDC2C7,AlignedDimension,"Canlin  P/L R/W  179 NY",F-RW-T,Compass 5 000
+BDCBB0,AlignedDimension,"Taqa  P/L R/W  032 4709",F-RW-T,Compass 5 000
+BDCBEB,AlignedDimension,"New North  P/L R/W  112 2076",F-RW-T,Compass 5 000
+BDD941,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+BDE129,BlockReference,"GABD",F-WS-S,5
+BDE12A,BlockReference,"GAS",F-WS-S,5
+BDE12B,BlockReference,"GAS",F-WS-S,5
+BDE12C,BlockReference,"GAS",F-WS-S,5
+BDE12D,BlockReference,"GAS",F-WS-S,5
+BDF9FC,MText,"Gran Tierra 14-23 (Surface)",F-WS-T,10
+BDF9FD,MText,"Gran Tierra 11-23 (Surface)",F-WS-T,10
+BE02D5,AlignedDimension,"Gran Tierra  A/R",F-AR-T,Compass 5 000
+BE0306,AlignedDimension,"Taqa  A/R",F-AR-T,Compass 5 000
+BE031A,MText,"Taqa 14-23 (Surface)",F-WS-T,10
+BE0C29,BlockReference,"GAS",F-WS-S,5
+BE0C43,MText,"Canlin 3-26 (Surface)",F-WS-T,10
+BE23DD,MText,"Medicine River",T-WATER-T,10
+BE23DE,MText,"Medicine River",T-WATER-T,10
+BE34C1,AlignedDimension,"Keyera  P/L R/W  162 0893",F-RW-T,Compass 5 000
+BE3CC1,AlignedDimension,"Keyera  P/L R/W  162 0893",F-RW-T,Compass 5 000
+BE3CE3,AlignedDimension,"Keyera  P/L R/W  162 0893",F-RW-T,Compass 5 000
+BE4EAE,AlignedDimension,"Canlin  P/L R/W  162 2139",F-RW-T,Compass 5 000
+BE5FD6,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+BE5FD7,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+BE67B1,AlignedDimension,"Canlin  A/R",F-AR-T,Compass 5 000
+BE7967,AlignedDimension,"New North  P/L R/W  Focus",F-RW-T,Compass 5 000
+BE8170,AlignedDimension,"New North  P/L R/W  Focus",F-RW-T,Compass 5 000
+BE9333,AlignedDimension,"New North  P/L R/W  Focus",F-RW-T,Compass 5 000
+BEDA0D,AlignedDimension,"Canlin  P/L R/W  172 0547",F-RW-T,Compass 5 000
+BEDA6A,AlignedDimension,"Canlin  P/L R/W  172 0547",F-RW-T,Compass 5 000
+BEEC77,AlignedDimension,"Canlin  A/R",F-AR-T,Compass 5 000
+BEF46E,BlockReference,"GAS",F-WS-S,5
+BF1816,BlockReference,"GABD",F-WS-S,5
+BF1817,MText,"6-25 (Abd.)",F-WS-T,10
+BF1818,BlockReference,"GAS",F-WS-S,5
+BF3A74,AlignedDimension,"Gran Tierra  A/R",F-AR-T,Compass 5 000
+BF4530,BlockReference,"GAS",F-WS-S,5
+BF4DFB,MText,"Journey 2-25 (Surface)",F-WS-T,10
+BF55CB,MText,"Gran Tierra 6-25 (Surface)",F-WS-T,10
+BF78D0,MText,"Journey 1-25 (Surface)",F-WS-T,10
+BF78D1,BlockReference,"GAS",F-WS-S,5
+BF78D4,AlignedDimension,"Gran Tierra  P/L R/W",F-RW-T,Compass 5 000
+BF790C,AlignedDimension,"Journey  P/L R/W  GeoTrek",F-RW-T,Compass 5 000
+BF7946,AlignedDimension,"Journey  P/L R/W  GeoTrek",F-RW-T,Compass 5 000
+BF8135,AlignedDimension,"Journey  A/R",F-AR-T,Compass 5 000
+BF8161,AlignedDimension,"Journey  A/R",F-AR-T,Compass 5 000
+BF8A5A,BlockReference,"GABD",F-WS-S,5
+BF8A5B,MText,"102/16-24 (Abd.)",F-WS-T,10
+BF8A5C,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+BF8A5D,BlockReference,"GABD",F-WS-S,5
+BF8A5E,MText,"6-30 (Abd.)",F-WS-T,10
+BF9320,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+BFACAD,BlockReference,"GAS",F-WS-S,5
+BFACC9,MText,"Canlin 8-26 (Surface)",F-WS-T,10
+BFACCA,MText,"Canlin 8-30 (Surface)",F-WS-T,10
+BFB588,BlockReference,"res_occ",AS-RESIDENCE,5
+BFB589,BlockReference,"res_occ",AS-RESIDENCE,5
+BFB629,MText,"Taqa 1-30 (Surface)",F-WS-T,10
+BFB62A,BlockReference,"GAS",F-WS-S,5
+BFCFD8,BlockReference,"GAS",F-WS-S,5
+BFCFD9,MText,"Taqa 5-29 (Surface)",F-WS-T,10
+BFCFDA,AlignedDimension,"Canlin  A/R",F-WS-T,Compass 5 000
+BFD001,AlignedDimension,"Taqa  A/R",F-AR-T,Compass 5 000
+BFF2F9,AlignedDimension,"Canlin  A/R",F-AR-T,Compass 5 000
+BFFBEF,MText,"Creek",T-WATER-T,10
+C00D38,AlignedDimension,"Canlin  A/R",F-AR-T,Compass 5 000
+C00D44,BlockReference,"GAS",F-WS-S,5
+C00D45,MText,"Canlin 1-29 (Surface)",F-WS-T,10
+C0279A,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+C030E8,MText,"Baytex 10-20 (Surface)",C-WS-T,9.99876
+C038C3,MText,"Canlin 7-20 (Surface)",F-WS-T,10.000469580274771
+C038C4,MText,"Gran Tierra 7-20  (Abd.)",F-WS-T,10.000469580274771
+C038C5,BlockReference,"GABD",F-WS-S,5
+C038C6,BlockReference,"GAS",F-WS-S,5
+C041AA,AlignedDimension,"Baytex  P/L R/W  Plan  Compass",C-RW-T,Compass 5 000
+C06434,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C06436,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C06439,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C0643C,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C074C7,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C074C8,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C074C9,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C074CA,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C074CD,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C07D8E,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C08561,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C08563,MText,"Fortis O/H Power Line",AS-POWER,10.000469580274771
+C08565,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C08E25,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C096F8,AlignedDimension,"Canlin  A/R",F-WS-T,Compass 5 000
+C09F02,MText,"Approximate Location of Journey's Buried Pipe (55110-7)",AS-PIPE-UG,10.000469580274771
+C0A7BF,MText,"Residence",AS-RESIDENCE,10
+C0A7C0,MText,"Residence",AS-RESIDENCE,10
+C0A7C1,BlockReference,"res_occ",AS-RESIDENCE,5
+C0A7C2,MText,"Residence",AS-RESIDENCE,10
+C0B94A,BlockReference,"res_occ",AS-RESIDENCE,5
+C0B94B,MText,"Residence",AS-RESIDENCE,10
+C0B950,BlockReference,"res_occ",AS-RESIDENCE,5
+C0B951,MText,"Residence",AS-RESIDENCE,10
+C0C122,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C0C123,MText,"Buried Telus Cable",AS-TELUS,10.000469580274771
+C0C9E6,MText,"Rge. 4",D-TXT,14
+C0C9E7,MText,"Rge. 3",D-TXT,14
+C12D42,AlignedDimension,"Propose Baytex  Waterline",T-EXISTING RTF-T,Compass 5 000
+C12E02,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C12E11,BlockReference,"*U91",CG-NOTES,0.9988221805584324
+C12E9D,MText,"Source Pump (__ psi)",P-TXT,10
+C12E9F,BlockReference,"A$C32476C2E",0,0.20000000000000007
+C12EF1,BlockReference,"*U93",CG-NOTES,0.9989580387917648
+C12F11,BlockReference,"*U94",CG-NOTES,0.9989580387917648
+C12F46,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C12F55,BlockReference,"*U95",CG-NOTES,0.9988221805584324
+C133E8,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C133F7,BlockReference,"*U97",CG-NOTES,0.9988221805584324
+C13438,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C13447,BlockReference,"*U98",CG-NOTES,0.9988221805584324
+C134AB,BlockReference,"*U96",CG-NOTES,0.9989580387917648
+C134BF,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C134CE,BlockReference,"*U96",CG-NOTES,0.9989580387917648
+C134E2,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C134F1,BlockReference,"*U98",CG-NOTES,0.9988221805584324
+C13505,BlockReference,"*U96",CG-NOTES,0.9989580387917648
+C13519,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C13537,BlockReference,"*U99",CG-NOTES,0.9988221805584324
+C1356C,BlockReference,"*U100",CG-NOTES,0.9989580387917648
+C135A1,BlockReference,"*U101",CG-NOTES,0.9989580387917648
+C135B5,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C135F1,BlockReference,"*U102",CG-NOTES,0.9989580387917648
+C13605,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C15836,BlockReference,"*U103",AS-OWNER,0.9999229522046806
+C1584C,MText,"Area Required = 0.213 ha  0.53 Ac.",L-AREAREQUIRED,9.99876
+C1584D,MText,"N.W.1/4 Sec. 23-41-4-W.5M.",C-SYMBOL,20
+C1668A,BlockReference,"*U105",P-PROPOSED-WL2,0.9997520153760007
+C166F5,BlockReference,"*U107",CG-NOTES,0.9998710000250055
+C171B6,AlignedDimension,"Baytex  A/R",C-AR-T,Compass 5 000
+C176A1,AlignedDimension,"Taqa  A/R",F-AR-T,Compass 5 000
+C176A2,MText,"Taqa Riser Site",F-WS-T,9.998759999999988
+C176E1,MText,"Creek",T-WATER-T,10
+C268C6,BlockReference,"*U110",P-CROSSINGS,1
+C27A3D,AlignedDimension,"Propose Baytex  Waterline",T-EXISTING RTF-T,Compass 5 000
+C2B01A,BlockReference,"L-SECLBL",L-SECLBL,1
+C2B024,DBText,"N.W.1/4 Sec. 21-41-3-W.5M.",C-SYMBOL,20.000000000000004
+C2B029,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.001240153779055
+C2B02B,DBText,"Government Road Allowance",L-ROAD-T,10.000000000000002
+C2B03F,AlignedDimension,"Taqa  A/R",F-AR-T,Compass 5 000
+C2B040,AlignedDimension,"Altalink  Power Line R/W  2972 MC",F-RW-T,Compass 5 000
+C2B041,AlignedDimension,"Manitok  P/L R/W  762 1245",F-RW-T,Compass 5 000
+C2B042,AlignedDimension,"New North  P/L R/W  112 2076",F-RW-T,Compass 5 000
+C2B043,AlignedDimension,"Taqa  P/L R/W  032 4709",F-RW-T,Compass 5 000
+C2B044,AlignedDimension,"New North  P/L R/W  142 3491",F-RW-T,Compass 5 000
+C2B045,AlignedDimension,"New North  P/L R/W  032 4710",F-RW-T,Compass 5 000
+C2B046,AlignedDimension,"Canlin  P/L R/W  1157 RS",F-RW-T,Compass 5 000
+C2B047,MText,"Taqa 14-21",F-WS-T,10.000000000000002
+C2B049,MText,"New North 14-21",F-WS-T,10.000000000000002
+C2B04B,DBText,"(High Grade Gravel)",T-TEXT,10.000000000000002
+C2B04C,DBText,"Cultivation",T-TEXT,9.999889986358315
+C2B04D,DBText,"Pasture",T-TEXT,9.999889986358315
+C2B04E,MText,"Fortis O/H Power Line",AS-POWER-T,10.000000000000002
+C2B050,MText,"Buried Telus Cable",AS-TELEPHONE-T,10.000000000000002
+C2B143,DBText,"Bush",T-BUSH-T,10.000000000000002
+C2B15E,MText,"I3 Energy 6-21",F-WS-T,10.000000000000002
+C2B17C,AlignedDimension,"Gran Tierra  A/R",F-AR-T,Compass 5 000
+C2B680,MText,"Approximate Location of G.L.D.C. Gas Coop. Ltd.",AS-PIPE-UG,10.000469580274771
+C2CC8E,BlockReference,"xing2",P-CROSSINGS,1
+C2CC95,BlockReference,"xing2",P-CROSSINGS,1
+C2CC9C,BlockReference,"xing2",P-CROSSINGS,1
+C2CCA3,BlockReference,"xing2",P-CROSSINGS,1
+C2CCAA,BlockReference,"xing2",P-CROSSINGS,1
+C2CCB1,BlockReference,"xing2",P-CROSSINGS,1
+C2CCB8,BlockReference,"xing2",P-CROSSINGS,1
+C2CCBF,BlockReference,"xing2",P-CROSSINGS,1
+C2CCC6,BlockReference,"xing2",P-CROSSINGS,1
+C2CCCD,BlockReference,"xing2",P-CROSSINGS,1
+C2CCD4,BlockReference,"xing2",P-CROSSINGS,1
+C2CCDB,BlockReference,"xing2",P-CROSSINGS,1
+C2CCE2,BlockReference,"xing2",P-CROSSINGS,1
+C2CCE9,BlockReference,"xing2",P-CROSSINGS,1
+C2CCF0,BlockReference,"xing2",P-CROSSINGS,1
+C2CCF7,BlockReference,"xing2",P-CROSSINGS,1
+C2CCFE,BlockReference,"xing2",P-CROSSINGS,1
+C2CD05,BlockReference,"xing2",P-CROSSINGS,1
+C2CD0C,BlockReference,"xing2",P-CROSSINGS,1
+C2CD13,BlockReference,"xing2",P-CROSSINGS,1
+C2CD1A,BlockReference,"xing2",P-CROSSINGS,1
+C2CD21,BlockReference,"xing2",P-CROSSINGS,1
+C2CD28,BlockReference,"xing2",P-CROSSINGS,1
+C2CD2F,BlockReference,"xing2",P-CROSSINGS,1
+C2CD36,BlockReference,"xing2",P-CROSSINGS,1
+C2CD3D,BlockReference,"xing2",P-CROSSINGS,1
+C2CD44,BlockReference,"xing2",P-CROSSINGS,1
+C2CD4B,BlockReference,"xing2",P-CROSSINGS,1
+C2CD52,BlockReference,"xing2",P-CROSSINGS,1
+C2CD59,BlockReference,"xing2",P-CROSSINGS,1
+C2CD60,BlockReference,"xing2",P-CROSSINGS,1
+C2CD67,BlockReference,"xing2",P-CROSSINGS,1
+C2CD6E,BlockReference,"xing2",P-CROSSINGS,1
+C2CD75,BlockReference,"xing2",P-CROSSINGS,1
+C2CD7C,BlockReference,"xing2",P-CROSSINGS,1
+C2CD83,BlockReference,"xing2",P-CROSSINGS,1
+C2CD8A,BlockReference,"xing2",P-CROSSINGS,1
+C2CD91,BlockReference,"xing2",P-CROSSINGS,1
+C2CDBD,DBText,"Pasture",T-TEXT,10
+C2CDBE,DBText,"Pasture",T-TEXT,10
+C2CDBF,DBText,"Cultivation",T-TEXT,10
+C2CDC0,DBText,"Cultivation",T-TEXT,10
+C2CDC1,DBText,"Pasture",T-TEXT,10
+C2CDC2,DBText,"Pasture",T-TEXT,10
+C2CDC3,DBText,"Cultivation",T-TEXT,10
+C2CDC4,DBText,"Cultivation",T-TEXT,10
+C2CDC5,DBText,"Cultivation",T-TEXT,10
+C2CDC6,DBText,"Cultivation",T-TEXT,10
+C2CDC7,DBText,"Cultivation",T-TEXT,10
+C2CDC8,DBText,"Cultivation",T-TEXT,10
+C2CDC9,DBText,"Pasture",T-TEXT,10
+C2CDCA,DBText,"Cultivation",T-TEXT,10
+C2CDCB,DBText,"Cultivation",T-TEXT,10
+C2CDCC,DBText,"Cultivation",T-TEXT,10
+C2CDCD,DBText,"Cultivation",T-TEXT,10
+C2CDCE,DBText,"Cultivation",T-TEXT,10
+C2CDCF,DBText,"Cultivation",T-TEXT,10
+C2CDD0,DBText,"Pasture",T-TEXT,10
+C2CDD1,DBText,"Pasture",T-TEXT,10
+C2CF9A,BlockReference,"*U121",CG-NOTES,0.9989580387917648
+C2CFAE,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C2CFBD,BlockReference,"*U122",CG-NOTES,0.9989580387917648
+C2CFD1,BlockReference,"*U90",CG-NOTES,0.9998710000250055
+C2CFE0,AlignedDimension,"Journey  A/R",F-AR-T,Compass 5 000
+C2CFE1,AlignedDimension,"Gran Tierra  A/R",F-AR-T,Compass 5 000
+C2CFE2,MText,"Dugout",T-WATER-T,10
+C2D036,MText,"Leedale Colony School",AS-RESIDENCE,10
+C37F00,BlockReference,"xing2",P-CROSSINGS,1
+C37F07,BlockReference,"xing2",P-CROSSINGS,1
+C37F10,MText,"Approximate C-Ring Location",CG-NOTES,9.998810000000027
+C37F23,BlockReference,"xing2",P-CROSSINGS,1
+C37F62,BlockReference,"xing2",P-CROSSINGS,1
+C37F69,BlockReference,"xing2",P-CROSSINGS,1
+C37F72,MText,"Approximate C-Ring Location",CG-NOTES,9.998810000000027
+C37F85,BlockReference,"xing2",P-CROSSINGS,1
+C3A214,BlockReference,"GAS",AS-DRILL-T,5
+C3A215,BlockReference,"GAS",AS-DRILL-T,5
+C3A216,BlockReference,"GAS",AS-DRILL-T,5
+C3A217,BlockReference,"GAS",AS-DRILL-T,5
+C3A218,BlockReference,"GAS",AS-DRILL-T,5
+C3A219,BlockReference,"GAS",AS-DRILL-T,5
+C3C0B8,BlockReference,"Disclaimer_Legal",AS-DRILL-T,0.2
+C3C3BE,DBText,"S.W.1/4 Sec. 28-41-3-W.5M.",C-SYMBOL,20

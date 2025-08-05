@@ -1,0 +1,63 @@
+Handle,ObjType,Content,Layer,Extra
+BD7F73,BlockReference,"L-SECLBL",L-SECLBL,0.999559
+BD890F,BlockReference,"UT",L-UNS-T,0.999559
+BD8911,MText,"L.S. 3",L-SECTION-LSD,9.99559
+BD8913,MText,"L.S. 4",L-SECTION-LSD,9.99559
+BD8915,MText,"L.S. 6",L-SECTION-LSD,9.99559
+BD8917,MText,"L.S. 5",L-SECTION-LSD,9.99559
+BD8919,MText,"L.S. 1",L-SECTION-LSD,9.99559
+BD891A,MText,"L.S. 2",L-SECTION-LSD,9.99559
+BD891C,MText,"L.S. 8",L-SECTION-LSD,9.99559
+BD891D,MText,"L.S. 7",L-SECTION-LSD,9.99559
+BD8953,BlockReference,"label_road_hggr",CG-NOTES,0.9995589999999999
+BD895B,BlockReference,"label_road_theoretic",CG-NOTES,0.999559
+BD895C,BlockReference,"label_road_theoretic",CG-NOTES,0.999559
+BD92E5,BlockReference,"label_road_theoretic",CG-NOTES,0.999559
+BD92E6,BlockReference,"RP",35,0.999559
+BDB9E0,AlignedDimension,"Allied Energy  A/R  210221",F-AR-T,Compass 5 000
+BDBA1A,AlignedDimension,"Allied Energy  P/L R/W  200161",F-RW-T,Compass 5 000
+BDC39D,AlignedDimension,"Allied Energy  P/L R/W  200161",F-RW-T,Compass 5 000
+BDC3E0,AlignedDimension,"Plains  P/L R/W  5348 RS  4145",F-RW-T,Compass 5 000
+BDC408,AlignedDimension,"Plains  P/L R/W  5348 RS  4145",F-RW-T,Compass 5 000
+BDC427,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",F-RW-T,Compass 5 000
+BDC473,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",F-RW-T,Compass 5 000
+BDC492,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+BDC4C3,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+BDC50F,AlignedDimension,"NGTL  P/L R/W  892 0507  880859",F-RW-T,Compass 5 000
+BDCE8D,AlignedDimension,"NGTL  P/L R/W  892 0507  880859",F-RW-T,Compass 5 000
+BDCEAB,AlignedDimension,"Pembina  P/L R/W  140400",F-RW-T,Compass 5 000
+BDCECA,AlignedDimension,"Pembina  P/L R/W  140400",F-RW-T,Compass 5 000
+BDCF0D,MText,"Pembina Pumping Station PIL 120534",F-WS-T,9.99559
+BDCF0E,AlignedDimension,"Pembina  A/R  230257",F-AR-T,Compass 5 000
+BDCF58,AlignedDimension,"ATCO  Width  Line R/W  912 0781  900176",F-EZE-T,Compass 5 000
+BDD8E0,AlignedDimension,"ATCO  Power Line R/W  852 1010  860288",F-EZE-T,Compass 5 000
+BDD924,AlignedDimension,"Conifer  A/R  4842",F-AR-T,Compass 5 000
+BDD968,AlignedDimension,"ATCO  Width  Control R/W  900060",F-VCE-T,Compass 5 000
+BDD9C4,AlignedDimension,"ATCO  Power Line R/W  160189",F-EZE-T,Compass 5 000
+BDE32C,AlignedDimension,"CNRL  P/L R/W  882 0645  870864",F-RW-T,Compass 5 000
+BDE368,AlignedDimension,"ATCO  Power Line R/W  130023",F-EZE-T,Compass 5 000
+BDECE4,AlignedDimension,"Pembina  P/L R/W  942 0618  930124",F-RW-T,Compass 5 000
+BDED2B,AlignedDimension,"Pembina  P/L  R/W  121426",F-RW-T,Compass 5 000
+BE267D,BlockReference,"*U46",P-TEMP-BLOCKS,0.999559
+BE26BD,BlockReference,"*U47",P-TEMP-BLOCKS,0.999559
+BE2712,BlockReference,"*U47",P-TEMP-BLOCKS,0.999559
+BE2725,BlockReference,"*U48",P-TEMP-BLOCKS,0.999559
+BE30C3,BlockReference,"*U49",P-TEMP-BLOCKS,0.999559
+BE3102,DBText,"S.W.1/4 Sec. 30-64-10-W.5M.",C-SYMBOL,19.99118
+BE3103,DBText,"Access Road = 1.706 ha  4.22 Ac.",L-AREAREQUIRED,10.995149
+BE3104,DBText,"Workspace = 0.750 ha  1.85 Ac.",L-AREAWORK,10.995149
+BE5B67,MText,"Blue Ridge CLR050199",F-WS-T,9.99559
+BE6DC9,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE6DD0,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE6DD7,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE6DDE,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE6DE5,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE6DEC,MText,"Theor. S.E.1/4 Sec. 30-64-10-W.5M.",C-SYMBOL,19.99118
+BE6DED,BlockReference,"xing2",P-CROSSINGS,0.999559
+BE89CF,MText,"SEE 'W2' DETAIL",DETAIL-T,15.992943999999996
+BE928E,BlockReference,"*U49",P-TEMP-BLOCKS,0.999559
+BE92AD,MText,"WS2 DETAIL NOT TO SCALE",DETAIL-T,19.99118
+BEF4AA,MText,"ATCO 6.00 Power Line R/W EZE 890230",F-EZE-T,10
+BEFA85,BlockReference,"xing2",P-CROSSINGS,0.999559
+BEFF38,BlockReference,"xing2",P-CROSSINGS,0.999559
+BF7B7B,BlockReference,"Disclaimer_Legal",0,0.3

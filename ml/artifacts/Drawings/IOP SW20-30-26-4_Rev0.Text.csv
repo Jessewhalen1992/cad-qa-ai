@@ -1,0 +1,80 @@
+Handle,ObjType,Content,Layer,Extra
+BCE86C,BlockReference,"L-SECLBL",L-SECLBL,1
+BCF0AA,MText,"Aspenleaf 5-20",F-WS-T,10
+BCF0B4,MText,"Ember 5-20",F-WS-T,10
+BCF0B5,DBText,"S.W.1/4 Sec. 20-30-26-W.4M.",C-SYMBOL,20
+BCF0B6,DBText,"Existing Well Site = 0.840 ha  2.08 Ac.",L-AREAREQUIRED,11
+BCF0B7,DBText,"Existing Access Road = 0.101 ha  0.25 Ac.",L-AREAWORK,11
+BCF8E8,MText,"Canstone 6-20",F-WS-T,10
+BD0132,AlignedDimension,"Ember  P/L R/W  131 2359",F-RW-T,Compass 5 000
+BD0165,AlignedDimension,"Ember  A/R",F-AR-T,Compass 5 000
+BD0189,AlignedDimension,"HWN  P/L R/W  021 1246",F-RW-T,Compass 5 000
+BD01BC,MText,"L.S. 3",L-SECTION-LSD,10
+BD01BE,MText,"L.S. 4",L-SECTION-LSD,10
+BD01C0,MText,"L.S. 6",L-SECTION-LSD,10
+BD01C2,MText,"L.S. 5",L-SECTION-LSD,10
+BD01DD,DBText,"Government Road Allowance",L-ROAD-T,10
+BD01DE,DBText,"(Paved)",T-TEXT,10
+BD0A25,BlockReference,"TEMP",L-MON,5
+BD0A26,BlockReference,"TEMP",L-MON,5
+BD0A27,BlockReference,"TEMP",L-MON,5
+BD1293,BlockReference,"TEMP",L-MON,5
+BD1294,BlockReference,"TEMP",L-MON,5
+BD1295,BlockReference,"TEMP",L-MON,5
+BD1296,BlockReference,"TEMP",L-MON,5
+BD1297,BlockReference,"TEMP",L-MON,5
+BD129F,BlockReference,"GAS",F-WS-S,5
+BD12A0,BlockReference,"GAS",F-WS-S,5
+BD1AC8,BlockReference,"GAS",F-WS-S,5
+BD1C73,BlockReference,"*U9",AS-OWNER,1
+BD1CB5,BlockReference,"TEMP",L-MON,5
+BD1CB6,BlockReference,"TEMP",L-MON,5
+BD1CB7,MText,"N.E. 18",L-MON,10
+BD1CB8,MText,"E.1/4 19",L-MON,10
+BD1CBA,DBText,"182°09'",L-BD,10
+BD1CBC,DBText,"182°09'",L-BD,10
+BD1CBE,DBText,"94°38'",L-BD,10
+BD252D,MText,"SEE DETAIL",DETAIL-T,16
+BD2543,DBText,"272°",L-BD,10
+BD2545,DBText,"07'",L-BD,10
+BD25BA,MText,"DETAIL SCALE 1:2000",DETAIL-T,20
+BD25BE,MText,"Fortis O/H Power Line",AS-POWER-T,10
+BD2E23,AlignedDimension,"Aspenleaf  P/L R/W  by Vector",F-RW-T,Compass 5 000
+BD3984,DBText,"Cultivation",T-TEXT,10
+BD3985,DBText,"Cultivation",T-TEXT,10
+BD7D86,DBText,"Access Road 100/6-20 = 0.505 ha  1.25 Ac.",L-AREAWORK,11
+BD7D87,DBText,"Total = 1.446 ha  3.58 Ac.",L-AREAWORK,11
+BDA7E9,AlignedDimension,"Canstone  A/R",F-AR-T,Compass 5 000
+BDA815,AlignedDimension,"Ember  P/L R/W  111 189 043",F-RW-T,Compass 5 000
+BDA846,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
+BDAD10,MText,"Monument Plan 091 2406",L-MON-T,10
+BDAD15,DBText,"20.1 calc.",L-BD,10
+BDAD2A,DBText,"91°57'",L-BD,10
+BDAD2B,AlignedDimension,"Ember  A/R",F-AR-T,Compass 5 000
+BDAD2E,BlockReference,"GAS",F-WS-S,5
+BDAD2F,BlockReference,"GAS",F-WS-S,5
+BDAD30,BlockReference,"GAS",F-WS-S,5
+BDAD31,BlockReference,"TEMP",L-MON,5
+BDAD32,BlockReference,"TEMP",L-MON,5
+BDAD33,BlockReference,"TEMP",L-MON,5
+BDAD34,BlockReference,"TEMP",L-MON,5
+BDAD35,BlockReference,"TEMP",L-MON,5
+BDAD36,BlockReference,"TEMP",L-MON,5
+BDAD37,BlockReference,"TEMP",L-MON,5
+BDAD39,AlignedDimension,"Canstone  A/R",F-AR-T,Compass 5 000
+BDAD3C,MText,"10.0x10.0 Corner Cut",P-TXT,10
+BDAD40,DBText,"2°07'",L-BD,10
+BDB1C3,DBText,"94°38'",L-BD,10
+BDB1C4,AlignedDimension,"15.00 A/R",P-TXT,Compass 5 000
+BDB204,AlignedDimension,"Ember  P/L R/W  131 2359",F-RW-T,Compass 5 000
+BDB205,AlignedDimension,"Aspenleaf  P/L R/W  by Vector",F-RW-T,Compass 5 000
+BDB230,MText,"E.-W.1/4 Line",L-QSEC,10
+BDB231,MText,"W/H 4-20",F-WS-T,10
+BDB233,MText,"W/H 13-20",F-WS-T,10
+BDB235,MText,"W/H 5-20",F-WS-T,10
+BDB237,AlignedDimension,"Ember  P/L R/W  111 189 043",F-RW-T,Compass 5 000
+BDB257,DBText,"2°07'",L-BD,10
+BDB259,DBText,"92°07'",L-BD,10
+BDB25B,DBText,"182°07'",L-BD,10
+BDB25C,DBText,"Cultivation",T-TEXT,10
+BDB25D,DBText,"Cultivation",T-TEXT,10

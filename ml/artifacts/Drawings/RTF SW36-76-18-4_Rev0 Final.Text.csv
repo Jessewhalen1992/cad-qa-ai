@@ -1,0 +1,39 @@
+Handle,ObjType,Content,Layer,Extra
+AF374D,BlockReference,"L-SECLBL",L-SECLBL,1
+AF41F9,DBText,"S.W.1/4 Sec. 36-76-18-W.4M.",C-SYMBOL,20
+AF41FA,DBText,"Pump-Off Sewage Disposal = 0.094 ha  0.23 Ac.",L-AREAREQUIRED,11
+AF4AE6,DBText,"Government Road Allowance",L-ROAD-T,9.99975911330008
+AF4AE7,DBText,"(Undeveloped)",T-TEXT,9.99975911330008
+AF5F92,AlignedDimension,"IPC  A/R  091363",C-AR-T,Compass 5 000
+AF5F9B,MText,"IPC 14-25 (Surface) MSL 091738",C-WS-T,10
+AFAEFF,MText,"IPC 2-36 (Surface) MSL 120977",C-WS-T,10
+AFAF01,AlignedDimension,"IPC  A/R  120977",C-AR-T,Compass 5 000
+AFE93B,BlockReference,"GAS",C-WS-S,5
+AFE93C,BlockReference,"GAS",C-WS-S,5
+AFE93D,BlockReference,"GAS",C-WS-S,5
+AFE93E,BlockReference,"GAS",C-WS-S,5
+AFE93F,BlockReference,"GAS",C-WS-S,5
+AFE940,BlockReference,"GAS",C-WS-S,5
+AFE941,BlockReference,"GAS",C-WS-S,5
+AFE942,BlockReference,"GAS",C-WS-S,5
+AFE943,BlockReference,"GABD",F-WS-S,5
+AFE944,BlockReference,"GAS",C-WS-S,5
+AFF2A5,AlignedDimension,"IPC  A/R  091364",C-AR-T,Compass 5 000
+AFFBF6,MText,"IPC 13-25 (Surface) MSL 091739",C-WS-T,10
+AFFBFF,MText,"IPC 4-25 (Surface) MSL 231340",C-WS-T,10
+B0292D,MText,"IPC 7-36 (Surface) MSL 120976",C-WS-T,10
+B03E47,AlignedDimension,"IPC  P/L R/W  992 5267  982591",C-AR-T,Compass 5 000
+B03E6F,AlignedDimension,"IPC  A/R  992447",C-AR-T,Compass 5 000
+B05162,AlignedDimension,"IPC  A/R  240116",C-AR-T,Compass 5 000
+B05197,AlignedDimension,"IPC  A/R  240153",C-AR-T,Compass 5 000
+B051CB,MText,"IPC 6-36 (Surface) MSL 240120",C-WS-T,10
+B05B01,MText,"IPC 5-36 (Surface) MSL 240095",C-WS-T,10
+B05B03,BlockReference,"*U27",AS-SURFACE IMPACT,1.0003600495890481
+B0818C,MText,"6-36 (Abd.)",F-WS-S,10.00360049589037
+B0A60D,BlockReference,"*U28",P-TEMP-BLOCKS,0.999642
+B0AE36,MText,"L.S. 3",L-SECTION-LSD,10
+B0AE38,MText,"L.S. 4",L-SECTION-LSD,10
+B0AE3A,MText,"L.S. 6",L-SECTION-LSD,10
+B0AE3C,MText,"L.S. 5",L-SECTION-LSD,10
+B0BED1,BlockReference,"*U29",0,1
+B1274C,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.3

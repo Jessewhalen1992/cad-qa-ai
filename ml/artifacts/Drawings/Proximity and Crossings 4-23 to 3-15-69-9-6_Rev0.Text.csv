@@ -1,0 +1,99 @@
+Handle,ObjType,Content,Layer,Extra
+BD311B,BlockReference,"L-SECLBL",L-SECLBL,0.999748
+BD3121,BlockReference,"L-SECLBL",L-SECLBL,0.999748
+BD3127,BlockReference,"L-SECLBL",L-SECLBL,0.999748
+BD4552,DBText,"S.W.1/4 Sec. 23-69-9-W.6M.",C-SYMBOL,19.99496
+BD4555,DBText,"N.W.1/4 Sec. 14-69-9-W.6M.",C-SYMBOL,19.99496
+BD4558,DBText,"N.E.1/4 Sec. 15-69-9-W.6M.",C-SYMBOL,19.99496
+BD455B,DBText,"N.W.1/4 Sec. 15-69-9-W.6M.",C-SYMBOL,19.99496
+BD57E5,DBText,"Government Road Allowance",L-ROAD-T,9.99748
+BD57E6,DBText,"(Undeveloped)",T-TEXT,9.99748
+BD59EE,BlockReference,"HRV",CG-NOTES,0.999748
+BD59F2,MText,"L.S. 11",L-SECTION-LSD,9.99748
+BD59F4,MText,"L.S. 12",L-SECTION-LSD,9.99748
+BD59F6,MText,"L.S. 14",L-SECTION-LSD,9.99748
+BD59F7,MText,"L.S. 13",L-SECTION-LSD,9.99748
+BD59F9,DBText,"Government Road Allowance",L-ROAD-T,9.99748
+BD59FA,DBText,"(Undeveloped)",T-TEXT,9.99748
+BD5B9D,MText,"L.S. 9",L-SECTION-LSD,10
+BD5B9F,MText,"L.S. 10",L-SECTION-LSD,10
+BD5BA1,MText,"L.S. 16",L-SECTION-LSD,10
+BD5BA3,MText,"L.S. 15",L-SECTION-LSD,10
+BD5BA5,MText,"L.S. 11",L-SECTION-LSD,10
+BD5BA7,MText,"L.S. 12",L-SECTION-LSD,10
+BD5BA9,MText,"L.S. 14",L-SECTION-LSD,10
+BD5BAA,MText,"L.S. 13",L-SECTION-LSD,10
+BD5BAC,MText,"L.S. 3",L-SECTION-LSD,10
+BD5BAE,MText,"L.S. 4",L-SECTION-LSD,10
+BD5BB0,MText,"L.S. 6",L-SECTION-LSD,10
+BD5BB2,MText,"L.S. 5",L-SECTION-LSD,10
+BD678B,DBText,"S.W.1/4 Sec. 15-69-9-W.6M.",C-SYMBOL,19.99496
+BD678E,MText,"L.S. 3",L-SECTION-LSD,9.99748
+BD6790,MText,"L.S. 4",L-SECTION-LSD,9.99748
+BD6792,MText,"L.S. 6",L-SECTION-LSD,9.99748
+BD6794,MText,"L.S. 5",L-SECTION-LSD,9.99748
+BD694B,DBText,"(High Grade Gravel)",T-TEXT,9.99748
+BD694D,BlockReference,"HRV",CG-NOTES,0.999748
+BD80B7,BlockReference,"*U21",AS-OWNER,0.999748
+BD8319,AlignedDimension,"Nova  P/L R/W  792 1033  780540",F-RW-T,Compass 5 000
+BD8CCE,AlignedDimension,"Nova  P/L R/W  822 0121  800718",F-RW-T,Compass 5 000
+BD967A,AlignedDimension,"Nova  P/L R/W  912 0488  900650",F-RW-T,Compass 5 000
+BDB4AC,AlignedDimension,"ATCO  Power Line R/W  010292",F-EZE-T,Compass 5 000
+BDB4DD,AlignedDimension,"Sinopec  A/R  033101",F-AR-T,Compass 5 000
+BDB520,AlignedDimension,"Sinopec  A/R  033101",F-AR-T,Compass 5 000
+BDBEF3,AlignedDimension,"CNRL  A/R  241543",C-AR-T,Compass 5 000
+BDD21A,AlignedDimension,"CNRL  A/R  771110",C-AR-T,Compass 5 000
+BDD25E,AlignedDimension,"CNRL  A/R  771110",C-AR-T,Compass 5 000
+BDD451,MText,"Sinopec 6-15 (Surface) MSL 012242",F-WS-T,9.99748
+BDD452,MText,"Sinopec 4-23 (Surface) MSL 034616",F-WS-T,9.99748
+BDE737,MText,"CNRL 9-15 (Surface) MSL 042308",C-WS-T,9.99748
+BDF0AA,MText,"Sinopec 13-15 (Surface) MSL 113558",F-WS-T,9.99748
+BDF0B4,MText,"CNRL 5-23 (Surface) MSL 241132",C-WS-T,9.99748
+BE053B,MText,"CNRL 14-14 (Surface) MSL 792025",C-WS-T,9.99748
+BE053C,AlignedDimension,"CNRL  A/R  792025",C-AR-T,Compass 5 000
+BE0EEA,AlignedDimension,"CNRL  A/R  972360",C-AR-T,Compass 5 000
+BE2219,AlignedDimension,"Sinopec  P/L R/W  022 6784  012591",F-RW-T,Compass 5 000
+BE2BC5,AlignedDimension,"Sinopec  P/L R/W  082 7413  042643",F-RW-T,Compass 5 000
+BE2D24,AlignedDimension,"Sinopec  P/L R/W  082 7413  042643",F-RW-T,Compass 5 000
+BE2D43,AlignedDimension,"Sinopec  P/L R/W  082 7413  042643",F-RW-T,Compass 5 000
+BE2D67,AlignedDimension,"Sinopec  P/L R/W  082 7413  042643",F-RW-T,Compass 5 000
+BE3713,AlignedDimension,"CNRL  P/L R/W  082 1425  051362",C-RW-T,Compass 5 000
+BE40C9,AlignedDimension,"Sinopec  P/L R/W  212 0646  120021",F-RW-T,Compass 5 000
+BE4AB1,AlignedDimension,"Sinopec  P/L R/W  120465",F-RW-T,Compass 5 000
+BE4AD9,AlignedDimension,"Sinopec  P/L R/W  120465",F-RW-T,Compass 5 000
+BE549F,AlignedDimension,"Sinopec  P/L R/W  230166",F-RW-T,Compass 5 000
+BE5E4B,AlignedDimension,"Sinopec  P/L R/W  240243",F-RW-T,Compass 5 000
+BE67E9,AlignedDimension,"Sinopec  P/L R/W  240397",F-RW-T,Compass 5 000
+BE7B18,AlignedDimension,"CNRL  P/L R/W  241105",C-RW-T,Compass 5 000
+BE7B7F,AlignedDimension,"CNRL  P/L R/W  792 0806  780357",C-RW-T,Compass 5 000
+BE7BFF,AlignedDimension,"CNRL  P/L R/W  792 0806  780357",C-RW-T,Compass 5 000
+BE85B4,AlignedDimension,"Sinopec  A/R  033101",F-AR-T,Compass 5 000
+BE8F4D,AlignedDimension,"CNRL  P/L R/W  802 1298  800092",C-RW-T,Compass 5 000
+BE98F3,AlignedDimension,"Cenovus  P/L R/W  852 0235  840386",F-RW-T,Compass 5 000
+BEA2CC,AlignedDimension,"CNRL  P/L R/W  980843",C-RW-T,Compass 5 000
+BEA306,AlignedDimension,"CNRL  P/L R/W  980843",C-RW-T,Compass 5 000
+BEACA9,MText,"Peace River Regional Office Land and Forest Service DRS 900057",F-WS-T,9.99748
+BECB37,BlockReference,"GABD",F-WS-S,4.99874
+BECB38,MText,"4-23  (Abd.)",F-WS-T,9.99748
+BECB39,BlockReference,"GAS",C-WS-S,4.99874
+BECB3A,BlockReference,"GAS",C-WS-S,4.99874
+BECB3B,BlockReference,"GAS",C-WS-S,4.99874
+BECB3C,BlockReference,"GAS",F-WS-S,4.99874
+BECB3D,BlockReference,"GAS",F-WS-S,4.99874
+BECB3E,BlockReference,"GAS",F-WS-S,4.99874
+BEDE23,BlockReference,"GABD",F-WS-S,4.99874
+BEDE24,MText,"6-15  (Abd.)",F-WS-T,9.99748
+BEF773,MText,"Mountain Goat and Sheep Area Zone Boundary",AS-WILDLIFE,9.99748
+BF419B,MText,"Government Road Allowance",L-ROAD-T,9.99748
+BFA6CA,DBText,"RP",35,9.99748
+C00B08,BlockReference,"XING3",P-CROSSINGS,1
+C0A1EE,MText,"SEE 'W4' DETAIL",DETAIL-T,15.995968
+C0B7E9,BlockReference,"XING3",P-CROSSINGS,1
+C0B7F0,BlockReference,"XING3",P-CROSSINGS,1
+C0B812,BlockReference,"XING3",P-CROSSINGS,1
+C127B8,BlockReference,"XING3",P-CROSSINGS,1
+C127BF,BlockReference,"XING3",P-CROSSINGS,1
+C1332F,DBText,"Government Road Allowance",L-ROAD-T,9.99748
+C13330,DBText,"(Undeveloped)",T-TEXT,9.99748
+C1746D,BlockReference,"XING3",P-CROSSINGS,1
+C1BED7,BlockReference,"Disclaimer_Legal",0,1

@@ -1,0 +1,56 @@
+Handle,ObjType,Content,Layer,Extra
+AF5D6A,BlockReference,"L-SECLBL",L-SECLBL,0.999654
+AFD41B,BlockReference,"*U21",AS-OWNER,1
+AFD456,AlignedDimension,"ATCO  P/L R/W  074 0340",C-RW-T,Compass 5 000
+AFD487,AlignedDimension,"ATCO  P/L R/W  5078 KS",C-RW-T,Compass 5 000
+AFD65B,AlignedDimension,"Inplay  P/L R/W  022 3602",F-RW-T,Compass 5 000
+AFD9C2,AlignedDimension,"PMC  P/L R/W  842 1119",F-RW-T,Compass 5 000
+AFD9E1,AlignedDimension,"PMC  P/L R/W  5220 KS",F-RW-T,Compass 5 000
+AFDBD4,AlignedDimension,"ATCO  P/L R/W  182 0593",C-RW-T,Compass 5 000
+AFDDE1,AlignedDimension,"Pembina  P/L R/W  969 KS",F-RW-T,Compass 5 000
+AFDF98,AlignedDimension,"Pembina  P/L R/W  982 4181",F-RW-T,Compass 5 000
+AFE15B,AlignedDimension,"ATCO  P/L R/W  5077 KS",C-RW-T,Compass 5 000
+AFE343,AlignedDimension,"Pembina  P/L R/W  102 3480",F-RW-T,Compass 5 000
+AFF06E,MText,"L.S. 1",L-SECTION-LSD,9.99654
+AFF06F,MText,"L.S. 2",L-SECTION-LSD,9.99654
+AFF071,MText,"L.S. 8",L-SECTION-LSD,9.99654
+AFF072,MText,"L.S. 7",L-SECTION-LSD,9.99654
+AFF7EC,BlockReference,"GAS",F-WS-S,4.99827
+AFF7F7,BlockReference,"GABD",F-WS-S,4.99827
+AFF910,BlockReference,"GAS",F-WS-S,4.99827
+AFFA31,AlignedDimension,"10.36 Road  1161 LZ",L-TITLEDB-T,Compass 5 000
+AFFA53,MText,"Approximate Location of  Evergreen Natural Gas Co-op Ltd.",AS-PIPE-UG-T,9.99654
+AFFB72,MText,"Telus Buried Cable",AS-TELUS,9.99654
+AFFB76,MText,"Fortis O/H Power Line",AS-POWER-T,9.99654
+AFFB77,MText,"2-29 (Abd.)",F-WS-T,9.99654
+AFFB78,MText,"InPlay 4-28",F-WS-T,9.99654
+AFFC91,AlignedDimension,"InPlay  A/R",F-AR-T,Compass 5 000
+AFFCB5,MText,"InPlay 7-28",F-WS-T,9.99654
+B00257,AlignedDimension,"5.18 Road  832 0045",L-TITLEDB-T,Compass 5 000
+B0039F,MText,"Lot 1 Plan 992 3131",L-TITLEDB-T,9.99654
+B003A0,MText,"Lot 1 Plan 002 1935",L-TITLEDB-T,9.99654
+B00B1F,AlignedDimension,"ATCO  P/L R/W  5078 KS",C-RW-T,Compass 5 000
+B00B20,AlignedDimension,"InPlay  P/L R/W  022 3602",F-RW-T,Compass 5 000
+B00CC0,BlockReference,"L-SECLBL",L-SECLBL,0.999654
+B00CC6,AlignedDimension,"ATCO  P/L R/W  182 0593",C-RW-T,Compass 5 000
+B00D4E,AlignedDimension,"Pembina  P/L R/W  969 KS",F-RW-T,Compass 5 000
+B013A6,MText,"SEE DETAIL",DETAIL-T,15.994463999999994
+B01697,DBText,"(High Grade Gravel)",T-TEXT,9.99654
+B01698,DBText,"Government Road Allowance",L-ROAD-T,9.99654
+B01884,DBText,"(High Grade Gravel)",T-TEXT,10
+B01885,DBText,"Government Road Allowance",L-ROAD-T,10
+B01886,DBText,"S.E.1/4 Sec. 29-48-8-W.5M.",C-SYMBOL,20
+B01887,DBText,"Workspace = 0.124 ha  0.31 Ac.",L-AREAREQUIRED,10.999999999999993
+B019E8,MText,"N.-S.1/4 Line",L-SECQ,10
+B01DCA,AlignedDimension,"ATCO  P/L R/W  074 0340",C-RW-T,Compass 5 000
+B01DF8,AlignedDimension,"ATCO  P/L R/W  5077 KS",C-RW-T,Compass 5 000
+B02302,AlignedDimension,"InPlay  P/L R/W  Plan by Bellatrix",F-RW-T,Compass 5 000
+B02563,AlignedDimension,"Condor  Flow Line R/W",F-RW-T,Compass 5 000
+B03B3E,AlignedDimension,"Inplay  P/L R/W  Plan by Bellatrix",F-RW-T,Compass 5 000
+B05BF2,MText,"E.-W.1/4 Line",L-SECQ,10
+B077C7,MText,"ATCO Riser Site",C-WS-T,10.996194000000001
+B077F7,MText,"ATCO Riser Site",C-WS-T,10.996194000000001
+B1FACB,DBText,"RP",35,9.99654
+B23247,MText,"Workspace =0.124 ha",P-TEMP-T,9.99654
+B23250,MText,"Workspace =0.124 ha",P-TEMP-T,9.99654
+B27315,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

@@ -1,0 +1,110 @@
+Handle,ObjType,Content,Layer,Extra
+AF2AF2,BlockReference,"L-SECLBL",L-SECLBL,4
+AF2AF8,BlockReference,"L-SECLBL",L-SECLBL,4
+AF2AFE,BlockReference,"L-SECLBL",L-SECLBL,4
+AF2B04,BlockReference,"L-SECLBL",L-SECLBL,4
+AF2B0A,BlockReference,"L-SECLBL",L-SECLBL,4
+AF32F8,BlockReference,"L-SECLBL",L-SECLBL,4
+AF32FE,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3304,BlockReference,"L-SECLBL",L-SECLBL,4
+AF330A,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3310,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3316,BlockReference,"L-SECLBL",L-SECLBL,4
+AF331C,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3322,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B10,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B16,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B1C,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B22,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B28,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B2E,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B34,BlockReference,"L-SECLBL",L-SECLBL,4
+AF3B5E,BlockReference,"AA",CG-NOTES,4
+AF3B66,BlockReference,"AA",CG-NOTES,4
+AF435D,BlockReference,"AA",CG-NOTES,4
+AF435E,BlockReference,"Route_Letters",CG-NOTES,4
+AF4361,BlockReference,"AA",CG-NOTES,4
+AF4B65,BlockReference,"L-SECLBL",L-SECLBL,4
+AF4B6B,BlockReference,"L-SECLBL",L-SECLBL,4
+AF4B71,BlockReference,"L-SECLBL",L-SECLBL,4
+AF4B77,BlockReference,"L-SECLBL",L-SECLBL,4
+AF4B7D,BlockReference,"L-SECLBL",L-SECLBL,4
+AF6350,BlockReference,"AA",CG-NOTES,4
+AF6351,BlockReference,"AA",CG-NOTES,4
+AF6352,BlockReference,"AA",CG-NOTES,4
+AF6353,BlockReference,"AA",CG-NOTES,4
+AF6354,BlockReference,"AA",CG-NOTES,4
+AF6355,BlockReference,"AA",CG-NOTES,4
+AF6356,BlockReference,"AA",CG-NOTES,4
+AF6357,BlockReference,"AA",CG-NOTES,4
+AF6358,BlockReference,"AA",CG-NOTES,4
+AF6359,BlockReference,"AA",CG-NOTES,4
+AF635A,BlockReference,"AA",CG-NOTES,4
+AF635B,BlockReference,"AA",CG-NOTES,4
+AF6E1B,BlockReference,"AA",CG-NOTES,4
+AF6E1C,BlockReference,"AA",CG-NOTES,4
+AF6E28,BlockReference,"AA",CG-NOTES,4
+AF6E29,BlockReference,"AA",CG-NOTES,4
+AF6E2C,BlockReference,"AA",CG-NOTES,4
+AF6E2D,BlockReference,"AA",CG-NOTES,4
+AF8BE5,BlockReference,"NEZD Point",L-SECLBL,1
+AF8BEA,BlockReference,"NEZD Point",L-SECLBL,1
+AF8BEF,BlockReference,"NEZD Point",L-SECLBL,1
+AF8BF4,BlockReference,"NEZD Point",L-SECLBL,1
+AF8BF9,BlockReference,"NEZD Point",L-SECLBL,1
+AF8BFE,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C03,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C08,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C0D,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C12,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C17,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C1C,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C21,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C26,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C2B,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C30,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C35,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C3A,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C3F,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C44,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C49,BlockReference,"NEZD Point",L-SECLBL,1
+AF8C4E,BlockReference,"NEZD Point",L-SECLBL,1
+AF9CCB,AlignedDimension,"{",P-TXT,Compass 10 000
+AF9D00,AlignedDimension,"{",P-TXT,Compass 10 000
+AF9D16,AlignedDimension,"{",P-TXT,Compass 10 000
+AFFD1C,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD1F,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD22,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD25,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD28,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD2B,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD2E,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD31,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD34,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD37,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD3A,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD3D,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD40,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD43,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD46,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD49,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD4C,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD4F,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD52,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD55,BlockReference,"Route_Letters",CG-NOTES,4
+AFFD58,BlockReference,"Route_Letters",CG-NOTES,4
+B02E3C,BlockReference,"Route_Letters",CG-NOTES,4
+B02E40,BlockReference,"Route_Letters",CG-NOTES,4
+B02E43,BlockReference,"Route_Letters",CG-NOTES,4
+B0327F,BlockReference,"Route_Letters",CG-NOTES,4
+B03282,BlockReference,"Route_Letters",CG-NOTES,4
+B03299,BlockReference,"Route_Letters",CG-NOTES,4
+B032B0,BlockReference,"Route_Letters",CG-NOTES,4
+B139E7,BlockReference,"Route_Letters",CG-NOTES,4
+B13E10,BlockReference,"Route_Letters",CG-NOTES,4
+B13E13,BlockReference,"Route_Letters",CG-NOTES,4
+B13E16,BlockReference,"Route_Letters",CG-NOTES,4
+B13E19,BlockReference,"Route_Letters",CG-NOTES,4
+B13E1C,BlockReference,"Route_Letters",CG-NOTES,4
+B1569A,BlockReference,"Route_Letters",CG-NOTES,4
+B1A035,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.8999999999999999

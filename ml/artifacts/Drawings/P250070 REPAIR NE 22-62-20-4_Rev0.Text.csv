@@ -1,0 +1,33 @@
+Handle,ObjType,Content,Layer,Extra
+BC8915,BlockReference,"L-SECLBL",L-SECLBL,0.9996799999999999
+BC891B,DBText,"N.E.1/4 Sec. 22-62-20-W.4M.",C-SYMBOL,19.993600000000153
+BC8937,DBText,"(High Grade Gravel)",T-TEXT,9.996800000000077
+BC8938,DBText,"Government Road Allowance",L-ROAD-T,9.996800000000077
+BC8AEA,DBText,"Government Road Allowance",L-ROAD-T,9.996800000000077
+BC8AEB,DBText,"(Undeveloped)",T-TEXT,9.996800000000077
+BC8AEC,DBText,"Buried Telus Cable",AS-TELUS,9.996800000000077
+BCBA12,BlockReference,"*U21",CG-NOTES,0.9996799999999999
+BCC8E8,AlignedDimension,"Shaw  Fibre Optic Cable R/W  002 3799",F-RW-T,Compass 5 000
+BCD3EA,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4560  48184-4)",P-PROPOSED-T,Compass 5 000
+BCD406,AlignedDimension,"Inter Pipeline (Corridor) Inc.  Pipeline Polaris Inc.  P/L R/W  022 2115  33527-1)  33528-2)",P-PROPOSED-T,Compass 5 000
+BCF87D,AlignedDimension,"Suncor  P/L R/W  3786 NY  3907-143)",F-RW-T,Compass 5 000
+BD3C6C,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5728  54778-1)",P-PROPOSED-T,Compass 5 000
+BD3C9E,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3734  52321-3)",P-PROPOSED-T,Compass 5 000
+BD84BF,AlignedDimension,"Grand Rapids  Unregistered  by Focus  132 277 008)  56699-20, 56673-17)",F-RW-T,Compass 5 000
+BDBC78,BlockReference,"GABD",F-WS-S,4.998400000000022
+BDBCAC,MText,"10-22 Rec. Certified (Abd.)",F-WS-T,9.996800000000045
+BDEF27,BlockReference,"*U30",DETAIL-T,0.9996799999999999
+BDEF39,BlockReference,"*U31",0,0.9993710988800047
+BDF089,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.996800000000045
+BDF18A,AlignedDimension,"10.0x368.4 A/R  Existing R/W)",P-TEMP-T,Compass 5 000
+BDF253,MText,"10.0x85.3 A/R (Within Existing R/W)",P-TEMP-BLUE-T,9.996800000000038
+BEC2F6,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+BEC2FD,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+BEC304,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+BEC960,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+BEF581,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+BF20A5,DBText,"Rge. Rd. 202",L-ROAD-T,9.996800000000077
+BF3E30,MText,"C. of T.",L-TITLEDB-T,9.996800000000045
+C0092F,MText,"Thorhild County Buried Pipe (AER 22644-3)",AS-PIPE-UG-T,9.996800000000045
+C019D0,BlockReference,"xing2",P-CROSSINGS,0.9996799999999999
+C0723B,BlockReference,"Disclaimer_Legal",0,1

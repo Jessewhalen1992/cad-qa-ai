@@ -1,0 +1,1106 @@
+Handle,ObjType,Content,Layer,Extra
+B01622,BlockReference,"L-SECLBL",L-SECLBL,1
+B01628,BlockReference,"L-SECLBL",L-SECLBL,1
+B0162E,BlockReference,"L-SECLBL",L-SECLBL,1
+B01640,BlockReference,"L-SECLBL",L-SECLBL,1
+B01646,BlockReference,"L-SECLBL",L-SECLBL,1
+B0164C,BlockReference,"L-SECLBL",L-SECLBL,1
+B01652,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E40,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E46,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E4C,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E52,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E5E,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E64,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E6A,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E70,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E76,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E7C,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E82,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E88,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E8E,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E94,BlockReference,"L-SECLBL",L-SECLBL,1
+B01E9A,BlockReference,"L-SECLBL",L-SECLBL,1
+B1EB5E,MText,"C. of T.",L-TITLEDB-T,10
+B1EB60,AlignedDimension,"30.48 Road  5658 RS",L-TITLEDB-T,Compass 5 000
+B1EB8B,DBText,"Government Road Allowance",L-ROAD-T,10
+B1EB8C,DBText,"(Paved)",T-TEXT,10
+B1EB8D,DBText,"Secondary Highway 611",L-ROAD-T,10
+B1EBAF,MText,"Twp. 44",D-TXT,13.999999999999998
+B1EBB0,MText,"Twp. 45",D-TXT,13.999999999999998
+B1EBB1,AlignedDimension,"Bonavista  P/L R/W  082 1558",F-RW-T,Compass 5 000
+B1EBCD,AlignedDimension,"Bonavista  P/L R/W  082 1544",F-RW-T,Compass 5 000
+B1EC07,AlignedDimension,"Bonavista  P/L R/W  082 1544",F-RW-T,Compass 5 000
+B1EC23,AlignedDimension,"Bonavista  P/L R/W  912 2742",F-RW-T,Compass 5 000
+B1F3E4,AlignedDimension,"Bonavista  P/L R/W  822 1254",F-RW-T,Compass 5 000
+B1F403,MText,"Lot 1 Block 1 Plan 082 3541",L-TITLEDB-T,10
+B1F404,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B1FBC4,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B1FC82,AlignedDimension,"CNRL  P/L R/W  042 0824",F-RW-T,Compass 5 000
+B1FCAA,AlignedDimension,"CNRL  P/L R/W  142 1903",F-RW-T,Compass 5 000
+B1FCC9,AlignedDimension,"CNRL  P/L R/W  042 5206",F-RW-T,Compass 5 000
+B1FD0C,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B1FD20,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B1FD46,AlignedDimension,"CNRL  P/L R/W  142 1903",F-RW-T,Compass 5 000
+B1FD6B,AlignedDimension,"CNRL  P/L R/W  042 5206",F-RW-T,Compass 5 000
+B2062C,AlignedDimension,"Bonavista  P/L R/W  912 2742",F-RW-T,Compass 5 000
+B2067C,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B20690,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B206A4,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B20EE0,AlignedDimension,"Bonavista  P/L R/W  092 4398",F-RW-T,Compass 5 000
+B20EFF,AlignedDimension,"I3 Energy  P/L R/W  842 2241",F-RW-T,Compass 5 000
+B20F4B,AlignedDimension,"Bonavista  P/L R/W  012 1741",F-RW-T,Compass 5 000
+B20F58,AlignedDimension,"Bonavista  P/L R/W  822 1746",F-RW-T,Compass 5 000
+B21751,AlignedDimension,"Bonavista  P/L R/W  062 2604",F-RW-T,Compass 5 000
+B2175D,AlignedDimension,"Bonavista  P/L R/W  142 5682",F-RW-T,Compass 5 000
+B21799,AlignedDimension,"CNRL  P/L R/W  982 0671",F-RW-T,Compass 5 000
+B217D1,AlignedDimension,"CNRL  P/L R/W  982 0671",F-RW-T,Compass 5 000
+B21F8B,AlignedDimension,"CNRL  P/L R/W  132 4613",F-RW-T,Compass 5 000
+B21FC4,AlignedDimension,"Bonavista  P/L R/W  062 2604",F-RW-T,Compass 5 000
+B21FEC,AlignedDimension,"Bonavista  P/L R/W  092 4520",F-RW-T,Compass 5 000
+B22010,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B22024,AlignedDimension,"Bonavista  P/L R/W  092 4520",F-RW-T,Compass 5 000
+B227DD,AlignedDimension,"Bonavista  P/L R/W  012 1741",F-RW-T,Compass 5 000
+B22813,AlignedDimension,"Bonavista  P/L R/W  962 1042",F-RW-T,Compass 5 000
+B22820,AlignedDimension,"Bonavista  P/L R/W  952 0156",F-RW-T,Compass 5 000
+B2282D,AlignedDimension,"Bonavista  P/L R/W  052 1971",F-RW-T,Compass 5 000
+B228AF,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B228C3,AlignedDimension,"Bonavista  P/L R/W  092 3115",F-RW-T,Compass 5 000
+B2308B,AlignedDimension,"Bonavista  P/L R/W  082 4610",F-RW-T,Compass 5 000
+B230F2,AlignedDimension,"Bonavista  P/L R/W  922 3089",F-RW-T,Compass 5 000
+B2310E,AlignedDimension,"Bonavista  P/L R/W  062 1579",F-RW-T,Compass 5 000
+B23142,MText,"Bonavista Compressor Site Plan 962 1042",F-RW-T,10
+B238E9,AlignedDimension,"Bonavista  P/L R/W  092 3115",F-RW-T,Compass 5 000
+B2390D,AlignedDimension,"Bonavista  P/L R/W  922 3089",F-RW-T,Compass 5 000
+B23929,AlignedDimension,"Bonavista  P/L R/W  062 2618",F-RW-T,Compass 5 000
+B23973,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B23997,AlignedDimension,"Bonavista  P/L R/W  922 3089",F-RW-T,Compass 5 000
+B239D1,AlignedDimension,"Bonavista  P/L R/W  062 2618",F-RW-T,Compass 5 000
+B23A00,AlignedDimension,"Bonavista  P/L R/W  092 3115",F-RW-T,Compass 5 000
+B23A4C,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B23A72,AlignedDimension,"Bonavista  P/L R/W  092 3115",F-RW-T,Compass 5 000
+B23AA3,AlignedDimension,"Bonavista  P/L R/W  062 2618",F-RW-T,Compass 5 000
+B23AD4,AlignedDimension,"Bonavista  P/L R/W  922 3089",F-RW-T,Compass 5 000
+B23AFC,AlignedDimension,"Bonavista  P/L R/W  082 1525",F-RW-T,Compass 5 000
+B23B20,AlignedDimension,"Bonavista  P/L R/W  952 2233",F-RW-T,Compass 5 000
+B23B74,AlignedDimension,"I3 Energy  P/L R/W  932 3248",F-RW-T,Compass 5 000
+B23B9C,AlignedDimension,"I3 Energy  P/L R/W  932 3248",F-RW-T,Compass 5 000
+B24359,AlignedDimension,"I3 Energy  P/L R/W  962 0663",F-RW-T,Compass 5 000
+B24378,AlignedDimension,"I3 Energy  P/L R/W  952 2613",F-RW-T,Compass 5 000
+B243A6,AlignedDimension,"I3 Energy  P/L R/W  162 2081",F-RW-T,Compass 5 000
+B243D2,AlignedDimension,"I3 Energy  P/L R/W  112 0251",F-RW-T,Compass 5 000
+B243EE,AlignedDimension,"I3 Energy  P/L R/W  094 0814",F-RW-T,Compass 5 000
+B24440,AlignedDimension,"I3 Energy  P/L R/W  862 2378",F-RW-T,Compass 5 000
+B24C17,AlignedDimension,"Bonavista  P/L R/W  082 1525",F-RW-T,Compass 5 000
+B24C46,AlignedDimension,"Bonavista  P/L R/W  092 3115",F-RW-T,Compass 5 000
+B24C7C,AlignedDimension,"Bonavista  P/L R/W  062 2618",F-RW-T,Compass 5 000
+B24CA1,AlignedDimension,"Bonavista  P/L R/W  062 2618",F-RW-T,Compass 5 000
+B24CD9,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B24CF5,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B24D09,AlignedDimension,"30.18 Road  2853 NY",L-TITLEDB-T,Compass 5 000
+B24D1D,AlignedDimension,"50.60 Road  2943 NY",L-TITLEDB-T,Compass 5 000
+B24D42,MText,"Lot 1 Block 1 Plan 082 6306",L-TITLEDB-T,10
+B24D43,MText,"Lot 1 Block 2 Plan 102 5305",L-TITLEDB-T,10
+B24D44,MText,"Lot 1 Plan 892 0920",L-TITLEDB-T,10
+B24D45,MText,"Lot 2 Block 1 Plan 052 4460",L-TITLEDB-T,10
+B24D67,AlignedDimension,"30.18 Road  2943 NY",L-TITLEDB-T,Compass 5 000
+B24D9B,MText,"Lloyd Creek",T-WATER-T,10
+B24D9C,MText,"Lloyd Creek",T-WATER-T,10
+B25551,MText,"Twp. 43",D-TXT,14
+B25552,MText,"Twp. 44",D-TXT,14
+B2556F,AlignedDimension,"I3 Energy  P/L R/W  102 0573",F-RW-T,Compass 5 000
+B2558B,MText,"Lot 2 Block 1 Plan 082 6306",L-TITLEDB-T,10
+B2558C,AlignedDimension,"I3 Energy  P/L R/W  102 1095",F-RW-T,Compass 5 000
+B25D5B,AlignedDimension,"I3 Energy  P/L R/W  052 3884",F-RW-T,Compass 5 000
+B25D87,AlignedDimension,"I3 Energy  P/L R/W  822 1807",F-RW-T,Compass 5 000
+B25DD0,MText,"Lot 1 Block 1 Plan 912 3317",L-TITLEDB-T,10
+B25DD1,AlignedDimension,"I3 Energy  P/L R/W  052 0409",F-RW-T,Compass 5 000
+B25DF0,AlignedDimension,"I3 Energy  P/L R/W  102 0573",F-RW-T,Compass 5 000
+B25E18,AlignedDimension,"I3 Energy  P/L R/W  822 1807",F-RW-T,Compass 5 000
+B25E6D,AlignedDimension,"I3 Energy  P/L R/W  102 3907",F-RW-T,Compass 5 000
+B26650,DBText,"N.W.1/4 Sec. 27-43-2-W.5M.",C-SYMBOL,20
+B26663,AlignedDimension,"I3 Energy  P/L R/W  102 0573  032576",F-RW-T,Compass 5 000
+B2669D,AlignedDimension,"I3 Energy  P/L R/W  822 1807  800375",F-RW-T,Compass 5 000
+B266D7,AlignedDimension,"I3 Energy  P/L R/W  952 1359  950182",F-RW-T,Compass 5 000
+B26723,AlignedDimension,"Blindman Beef   Bison Ltd.  Drainage Ditch R/W  850970",F-AR-T,Compass 5 000
+B26767,AlignedDimension,"I3 Energy  A/R  800656",F-AR-T,Compass 5 000
+B26FBF,MText,"I3 Energy 10-28(Surface) MSL 800656",F-WS-T,10
+B26FE4,AlignedDimension,"Gull Lake Deer   Gas Co-op Ltd.  P/L R/W  960770",F-RW-T,Compass 5 000
+B27042,MText,"I3 Energy 16-28(Surface) MSL 861321",F-WS-T,10
+B27043,AlignedDimension,"I3 Energy  P/L R/W  102 0732  022355",F-RW-T,Compass 5 000
+B2705F,AlignedDimension,"I3 Energy  P/L R/W  922 2191  880651",F-RW-T,Compass 5 000
+B270A1,AlignedDimension,"I3 Energy  P/L R/W  922 2191",F-RW-T,Compass 5 000
+B270C9,AlignedDimension,"I3 Energy  P/L R/W  102 0732",F-RW-T,Compass 5 000
+B278A4,MText,"C. of T.",L-TITLEDB-T,10
+B278A5,MText,"Lot 1 Block 1 Plan 072 0407",L-TITLEDB-T,10
+B278A6,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2883B,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2885A,MText,"C. of T.",L-TITLEDB-T,10
+B2885B,MText,"C. of T.",L-TITLEDB-T,10
+B2885C,MText,"C. of T.",L-TITLEDB-T,10
+B2885D,AlignedDimension,"I3 Energy  P/L R/W  862 1035",F-RW-T,Compass 5 000
+B2887C,AlignedDimension,"I3 Energy  P/L R/W  132 0455",F-RW-T,Compass 5 000
+B28898,AlignedDimension,"I3 Energy  Site  132 0455",F-RW-T,Compass 5 000
+B288C4,AlignedDimension,"I3 Energy  P/L R/W  132 0454",F-RW-T,Compass 5 000
+B288F5,AlignedDimension,"I3 Energy  P/L R/W  922 2191",F-RW-T,Compass 5 000
+B298F2,AlignedDimension,"Bonavista  P/L R/W  822 0978",F-RW-T,Compass 5 000
+B2992C,AlignedDimension,"I3 Energy  P/L R/W  922 2191",F-RW-T,Compass 5 000
+B2997F,AlignedDimension,"I3 Energy  P/L R/W  132 0454",F-RW-T,Compass 5 000
+B299B0,MText,"Lot 1 Block 1 Plan 232 2122",L-TITLEDB-T,10
+B29A13,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B29A27,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2A2DC,AlignedDimension,"Nova  P/L R/W  1821 MC",F-RW-T,Compass 5 000
+B2A359,AlignedDimension,"Nova  P/L R/W  1821 MC",F-RW-T,Compass 5 000
+B2A36F,AlignedDimension,"I3 Energy  P/L R/W  872 0966",F-RW-T,Compass 5 000
+B2A385,AlignedDimension,"Pembina  P/L R/W  912 3605  912 0989  912 0990",F-RW-T,Compass 5 000
+B2A3BA,AlignedDimension,"Keyera  P/L R/W  182 3466",F-RW-T,Compass 5 000
+B2B35A,AlignedDimension,"I3 Energy  P/L R/W  002 2297",F-RW-T,Compass 5 000
+B2B386,AlignedDimension,"CNRL  P/L R/W  902 0088",F-RW-T,Compass 5 000
+B2B3B4,AlignedDimension,"I3 Energy  P/L R/W  872 0966",F-RW-T,Compass 5 000
+B2B3E5,AlignedDimension,"Nova  P/L R/W  1821 MC",F-RW-T,Compass 5 000
+B2B431,AlignedDimension,"Pembina  P/L R/W  912 3605  912 0989  912 0990",F-RW-T,Compass 5 000
+B2B46B,AlignedDimension,"30.18 Road  072 3199",L-TITLEDB-T,Compass 5 000
+B2B492,AlignedDimension,"30.18 Road  2802 NY",L-TITLEDB-T,Compass 5 000
+B2B4CC,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2B50B,AlignedDimension,"I3 Energy  P/L R/W  102 1063",F-RW-T,Compass 5 000
+B2B52A,AlignedDimension,"Keyera  P/L R/W  1336 MC",F-RW-T,Compass 5 000
+B2B55B,AlignedDimension,"Keyera  P/L R/W  1336 MC",F-RW-T,Compass 5 000
+B2B57A,AlignedDimension,"CNRL  P/L R/W  902 0068  885 2552",F-RW-T,Compass 5 000
+B2B5CF,AlignedDimension,"CNRL  P/L R/W  902 0068",F-RW-T,Compass 5 000
+B2B5EE,AlignedDimension,"CNRL  P/L R/W  885 2552",F-RW-T,Compass 5 000
+B2B61F,AlignedDimension,"CP  Railway  4038 MC",L-TITLEDB-T,Compass 5 000
+B2B64F,AlignedDimension,"CP  Railway  4038 MC",L-TITLEDB-T,Compass 5 000
+B2BE52,AlignedDimension,"CNRL  P/L R/W  902 0088",F-RW-T,Compass 5 000
+B2BE71,AlignedDimension,"CNRL  P/L R/W  902 0088",F-RW-T,Compass 5 000
+B2CE2E,AlignedDimension,"Keyera  P/L R/W  182 3466",F-RW-T,Compass 5 000
+B2CE71,AlignedDimension,"Keyera  P/L R/W  182 3466",F-RW-T,Compass 5 000
+B2CEAB,AlignedDimension,"I3 Energy  P/L R/W  082 3860",F-RW-T,Compass 5 000
+B2D6AB,AlignedDimension,"I3 Energy  P/L R/W  152 4785",F-RW-T,Compass 5 000
+B2D6CA,AlignedDimension,"I3 Energy  P/L R/W  152 4785",F-RW-T,Compass 5 000
+B2D705,AlignedDimension,"Nova  P/L R/W  1821 MC",F-RW-T,Compass 5 000
+B2D72D,AlignedDimension,"Pembina  P/L R/W  912 3605  912 0989  912 0990",F-RW-T,Compass 5 000
+B2D75E,AlignedDimension,"I3 Energy  P/L R/W  912 1457",F-RW-T,Compass 5 000
+B2D7D7,AlignedDimension,"I3 Energy  P/L R/W  872 0966",F-RW-T,Compass 5 000
+B2D803,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2D81F,AlignedDimension,"I3 Energy  P/L R/W  082 3860",F-RW-T,Compass 5 000
+B2D855,AlignedDimension,"I3 Energy  P/L R/W  112 2872",F-RW-T,Compass 5 000
+B2E033,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2E047,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2E05B,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B2E06F,AlignedDimension,"30.18 Road  962 0894",L-TITLEDB-T,Compass 5 000
+B2E0A7,AlignedDimension,"I3 Energy  P/L R/W  112 2872",F-RW-T,Compass 5 000
+B2E0CD,AlignedDimension,"I3 Energy  P/L R/W  952 4845",F-RW-T,Compass 5 000
+B2E107,MText,"Lot 2 Block 2 Plan 042 5872",L-TITLEDB-T,10
+B2E108,MText,"Lot 2 Plan 892 3092",L-TITLEDB-T,10
+B2E109,MText,"Lot 2 Plan 892 3093",L-TITLEDB-T,10
+B2E10A,MText,"Lot 2 Plan 982 4581",L-TITLEDB-T,10
+B2E9C9,AlignedDimension,"CP  Railway  982 CL",L-TITLEDB-T,Compass 5 000
+B2E9FA,AlignedDimension,"I3 Energy  P/L R/W  062 3631",F-RW-T,Compass 5 000
+B2EA19,AlignedDimension,"Taqa  P/L R/W  002 0466",F-RW-T,Compass 5 000
+B2EA41,AlignedDimension,"50.00 Road  962 0894",L-TITLEDB-T,Compass 5 000
+B2EA66,AlignedDimension,"50.00 Road  962 0894",L-TITLEDB-T,Compass 5 000
+B2EAA0,AlignedDimension,"Taqa  P/L R/W  002 0466",F-RW-T,Compass 5 000
+B2EABF,AlignedDimension,"Taqa  P/L R/W  052 0730",F-RW-T,Compass 5 000
+B2EADE,AlignedDimension,"Taqa  P/L R/W  002 0888",F-RW-T,Compass 5 000
+B2EB06,AlignedDimension,"Taqa  P/L R/W  022 1916",F-RW-T,Compass 5 000
+B2EB2A,AlignedDimension,"CP  Railway  982 CL",L-TITLEDB-T,Compass 5 000
+B2EB91,AlignedDimension,"Taqa  P/L R/W  002 0888",F-RW-T,Compass 5 000
+B2EBC9,AlignedDimension,"Taqa  P/L R/W  022 1914",F-RW-T,Compass 5 000
+B2EBE8,AlignedDimension,"Taqa  P/L R/W  012 5107",F-RW-T,Compass 5 000
+B2F3D1,AlignedDimension,"Gibson  P/L R/W  002 0971",F-RW-T,Compass 5 000
+B2F413,AlignedDimension,"Taqa  P/L R/W  002 1520",F-RW-T,Compass 5 000
+B2F444,AlignedDimension,"Taqa  P/L R/W  022 2953",F-RW-T,Compass 5 000
+B2F47A,AlignedDimension,"CP  Railway  982 CL",L-TITLEDB-T,Compass 5 000
+B2F49E,MText,"Lot 1 Plan 892 0144",L-TITLEDB-T,10
+B2FDE3,DBText,"Government Road Allowance",L-ROAD-T,10
+B2FDE4,DBText,"(Paved)",T-TEXT,10
+B2FDE5,DBText,"Highway 53",L-ROAD-T,10
+B2FDE6,MText,"Lot 3 Block 1 Plan 082 1573",L-TITLEDB-T,10
+B2FDE9,MText,"Lot 2 Block 1 Plan 082 1573",L-TITLEDB-T,10
+B2FDEB,MText,"Lot 1 Block 1 Plan 792 1693",C-SYMBOL,20
+B2FDFD,AlignedDimension,"CP  Railway  982 CL",L-TITLEDB-T,Compass 5 000
+B2FE19,AlignedDimension,"CP  Railway  982 CL",L-TITLEDB-T,Compass 5 000
+B2FE49,MText,"Lot 1 Block 1 Plan 972 3513",L-TITLEDB-T,10
+B2FE4B,AlignedDimension,"50.00 Road  882 2958",L-TITLEDB-T,Compass 5 000
+B2FE69,AlignedDimension,"10.06 Sewage  Line R/W  4933 MC",F-RW-T,Compass 5 000
+B2FE91,AlignedDimension,"Taqa  P/L R/W  022 2953",F-RW-T,Compass 5 000
+B2FEA5,AlignedDimension,"Taqa  P/L R/W  022 3924",F-RW-T,Compass 5 000
+B306CB,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B306E7,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B306FB,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B3070F,AlignedDimension,"30.18 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B3E40F,AlignedDimension,"Taqa  P/L R/W  002 1520",F-RW-T,Compass 5 000
+B3E41B,AlignedDimension,"Gibson  P/L R/W  314 KS",F-RW-T,Compass 5 000
+B3E465,AlignedDimension,"Gibson  P/L R/W  3908 TR",F-RW-T,Compass 5 000
+B3E484,AlignedDimension,"15.00 Drainage  R/W  852 1514",L-TITLEDB-T,Compass 5 000
+B3E4A3,MText,"C. of T.",L-TITLEDB-T,10
+B3E4A5,AlignedDimension,"22.86 Utility R/W  862 2200",F-RW-T,Compass 5 000
+B3ECD6,AlignedDimension,"Gibson  P/L R/W  3908 TR",F-RW-T,Compass 5 000
+B3ED1D,AlignedDimension,"Gibson  P/L R/W  314 KS",F-RW-T,Compass 5 000
+B3ED60,AlignedDimension,"6.00 Waterline R/W  102 4477",F-RW-T,Compass 5 000
+B3ED8C,AlignedDimension,"CP  Railway  132 0734",L-TITLEDB-T,Compass 5 000
+B3EDD8,AlignedDimension,"48.14 Road  882 2958",L-TITLEDB-T,Compass 5 000
+B3EDFF,MText,"Block A Plan 6268 CE",L-TITLEDB-T,10
+B3EE01,MText,"Lot 2 Block 26 Plan 162 3047",L-TITLEDB-T,10
+B3EE0D,MText,"Lot 1 Block 26 Plan 162 3047",L-TITLEDB-T,10
+B3EE0F,MText,"Block B Plan 6268 CE",L-TITLEDB-T,10
+B3EE11,AlignedDimension,"30.48 Road  1304 NY",L-TITLEDB-T,Compass 5 000
+B3F5EB,AlignedDimension,"ATCO  P/L R/W  950 MC",F-RW-T,Compass 5 000
+B3F62E,AlignedDimension,"CP  Railway  132 0734",L-TITLEDB,Compass 5 000
+B3F64D,AlignedDimension,"Road  2262 JY",L-TITLEDB,Compass 5 000
+B3F686,MText,"Block B Plan 2530 KS",L-TITLEDB-T,10
+B3F688,MText,"Lot 1 Block 1 Plan 002 2456",L-TITLEDB-T,10
+B3F69C,AlignedDimension,"Taqa  P/L R/W  002 1520",F-RW-T,Compass 5 000
+B3F6C0,MText,"Lot 1 Block 1 Plan 972 3266",L-TITLEDB-T,10
+B3F6C2,DBText,"N.E.1/4 Sec. 21-42-2-W.5M.",C-SYMBOL,20
+B3F6C3,DBText,"S.W.1/4 Sec. 21-42-2-W.5M.",C-SYMBOL,20
+B3F6C4,DBText,"S.W.1/4 Sec. 27-42-2-W.5M.",C-SYMBOL,20
+B3F6C5,DBText,"N.E.1/4 Sec. 28-42-2-W.5M.",C-SYMBOL,20
+B3F6C6,DBText,"S.E.1/4 Sec. 33-42-2-W.5M.",C-SYMBOL,20
+B3F6C7,DBText,"N.E.1/4 Sec. 33-42-2-W.5M.",C-SYMBOL,20
+B3F6C8,DBText,"S.W.1/4 Sec. 3-43-2-W.5M.",C-SYMBOL,20
+B3F6C9,DBText,"S.E.1/4 Sec. 4-43-2-W.5M.",C-SYMBOL,20
+B3F6CA,DBText,"S.E.1/4 Sec. 9-43-2-W.5M.",C-SYMBOL,20
+B3FE8A,DBText,"N.E.1/4 Sec. 33-44-2-W.5M.",C-SYMBOL,20
+B3FE8B,DBText,"S.E.1/4 Sec. 33-44-2-W.5M.",C-SYMBOL,20
+B3FE8C,DBText,"N.E.1/4 Sec. 28-44-2-W.5M.",C-SYMBOL,20
+B3FE8D,DBText,"S.E.1/4 Sec. 28-44-2-W.5M.",C-SYMBOL,20
+B3FE8E,DBText,"N.E.1/4 Sec. 21-44-2-W.5M.",C-SYMBOL,20
+B3FE8F,DBText,"S.E.1/4 Sec. 21-44-2-W.5M.",C-SYMBOL,20
+B3FE90,DBText,"N.E.1/4 Sec. 16-44-2-W.5M.",C-SYMBOL,20
+B3FE91,DBText,"S.E.1/4 Sec. 16-44-2-W.5M.",C-SYMBOL,20
+B3FE92,DBText,"N.E.1/4 Sec. 9-44-2-W.5M.",C-SYMBOL,20
+B3FE93,DBText,"S.E.1/4 Sec. 9-44-2-W.5M.",C-SYMBOL,20
+B3FE94,DBText,"N.E.1/4 Sec. 4-44-2-W.5M.",C-SYMBOL,20
+B3FE95,DBText,"N.W.1/4 Sec. 3-44-2-W.5M.",C-SYMBOL,20
+B3FE96,DBText,"S.W.1/4 Sec. 3-44-2-W.5M.",C-SYMBOL,20
+B3FE97,DBText,"N.W.1/4 Sec. 34-43-2-W.5M.",C-SYMBOL,20
+B3FE98,DBText,"N.E.1/4 Sec. 28-43-2-W.5M.",C-SYMBOL,20
+B3FE99,DBText,"S.E.1/4 Sec. 28-43-2-W.5M.",C-SYMBOL,20
+B3FE9A,DBText,"N.E.1/4 Sec. 21-43-2-W.5M.",C-SYMBOL,20
+B3FE9B,DBText,"S.E.1/4 Sec. 21-43-2-W.5M.",C-SYMBOL,20
+B3FE9E,DBText,"S.W.1/4 Sec. 15-43-2-W.5M.",C-SYMBOL,20
+B3FE9F,DBText,"S.E.1/4 Sec. 16-43-2-W.5M.",C-SYMBOL,20
+B3FEA0,DBText,"N.E.1/4 Sec. 9-43-2-W.5M.",C-SYMBOL,20
+B3FEA1,DBText,"N.W.1/4 Sec. 10-43-2-W.5M.",C-SYMBOL,20
+B3FEB7,MText,"Bonavista 10-33",F-WS-T,10
+B40679,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B4162D,MText,"Bonavista 15-33",F-WS-T,10
+B4162E,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B48249,BlockReference,"GAS",F-WS-S,5
+B48259,BlockReference,"GABD",F-WS-S,5
+B4826A,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B48A55,MText,"Bonavista 7-33",F-WS-T,10
+B48A56,BlockReference,"GAS",F-WS-S,5
+B48A76,AlignedDimension,"CNRL  A/R",F-RW-T,Compass 5 000
+B48A94,MText,"CNRL 16-28",F-WS-T,10
+B49274,BlockReference,"GAS",F-WS-S,5
+B49275,MText,"CNRL 1-28",F-WS-T,10
+B49276,BlockReference,"GABD",F-WS-S,5
+B49277,MText,"15-21 (Abd.)",F-WS-T,10
+B49286,BlockReference,"GAS",F-WS-S,5
+B49287,MText,"Bonavista 10-21",F-WS-T,10
+B49288,AlignedDimension,"Bonavista  A/R",F-RW-T,Compass 5 000
+B4AA41,BlockReference,"GAS",F-WS-S,5
+B4AA42,BlockReference,"GAS",F-WS-S,5
+B4B22D,BlockReference,"GABD",F-WS-S,5
+B4B22E,BlockReference,"GABD",F-WS-S,5
+B4B22F,BlockReference,"GABD",F-WS-S,5
+B4B230,BlockReference,"GABD",F-WS-S,5
+B4B231,BlockReference,"GABD",F-WS-S,5
+B4B232,BlockReference,"GABD",F-WS-S,5
+B4B233,MText,"Bonavista 10-16 (Abd.)",F-WS-T,10
+B4B234,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B4BA54,MText,"CNRL 7-16",F-WS-T,10
+B4BA55,MText,"CNRL 7-16",F-WS-T,10
+B4BA56,BlockReference,"GAS",F-WS-S,5
+B4BA57,BlockReference,"GAS",F-WS-S,5
+B4BA58,BlockReference,"GAS",F-WS-S,5
+B4BA59,BlockReference,"GAS",F-WS-S,5
+B4BAAE,AlignedDimension,"CNRL  A/R",F-RW-T,Compass 5 000
+B4BAEA,MText,"CNRL 15-16",F-WS-T,10
+B4C2CF,MText,"Bonavista 15-16",F-WS-T,10
+B4C2D0,BlockReference,"GABD",F-WS-S,5
+B4C2D1,MText,"S0/4-15 (Abd.)",F-WS-T,10
+B4C2D2,BlockReference,"GAS",F-WS-S,5
+B4CABB,AlignedDimension,"Bonavista  A/R",F-RW-T,Compass 5 000
+B4CAD7,BlockReference,"GABD",F-WS-S,5
+B4CAD8,MText,"11-9 (Abd.)",F-WS-T,10
+B4CAD9,BlockReference,"GABD",F-WS-S,5
+B4CADA,BlockReference,"GABD",F-WS-S,5
+B4CADB,BlockReference,"GABD",F-WS-S,5
+B4CADC,BlockReference,"GABD",F-WS-S,5
+B4CADD,BlockReference,"GABD",F-WS-S,5
+B4CADE,BlockReference,"GABD",F-WS-S,5
+B4DAD9,MText,"Bonavista 11-9",F-WS-T,10
+B4DADA,MText,"Bonavista 10-9 (Abd.)",F-WS-T,10
+B4DADB,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B4DAFF,BlockReference,"GAS",F-WS-S,5
+B4DB00,BlockReference,"GABD",F-WS-S,5
+B4E2E6,MText,"16-4 (Abd.)",F-WS-T,10
+B4E2F7,AlignedDimension,"Bonavista  A/R",F-RW-T,Compass 5 000
+B4E316,MText,"Bonavista 13-3",F-WS-T,10
+B4E317,BlockReference,"GABD",F-WS-S,5
+B4E318,BlockReference,"GABD",F-WS-S,5
+B4E319,BlockReference,"GABD",F-WS-S,5
+B4E31A,BlockReference,"GABD",F-WS-S,5
+B4E31B,BlockReference,"GABD",F-WS-S,5
+B4E31C,BlockReference,"GABD",F-WS-S,5
+B4EB21,MText,"Bonavista 6-3",F-WS-T,10
+B4EB22,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B4EB46,BlockReference,"GAS",F-WS-S,5
+B4F33E,AlignedDimension,"Bonavista  A/R",F-AR-T,Compass 5 000
+B4F365,MText,"Bonavista 4-3",F-WS-T,10
+B4FC4B,BlockReference,"GAS",F-WS-S,5
+B4FC4C,BlockReference,"GAS",F-WS-S,5
+B4FC4D,BlockReference,"GAS",F-WS-S,5
+B4FC4E,BlockReference,"GABD",F-WS-S,5
+B4FC4F,MText,"4-34 (Abd.)",F-WS-T,10
+B4FC66,AlignedDimension,"I3 Energy  P/L R/W  102 1182",F-RW-T,Compass 5 000
+B4FC9E,MText,"I3 Energy 1-33",F-WS-T,10
+B4FC9F,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B504B7,BlockReference,"GABD",F-WS-S,5
+B504B8,MText,"1W0/4-34 (Abd.)",F-WS-T,10
+B504B9,BlockReference,"GAS",F-WS-S,5
+B504BA,BlockReference,"GAS",F-WS-S,5
+B50529,MText,"I3 Energy 13-27",F-WS-T,10
+B50539,BlockReference,"GABD",F-WS-S,5
+B5053A,MText,"I3 Energy 10-28 (Abd.)",F-WS-T,10
+B50D33,BlockReference,"GAS",F-WS-S,5
+B50D34,BlockReference,"GAS",F-WS-S,5
+B50D35,BlockReference,"GAS",F-WS-S,5
+B50D3E,MText,"I3 Energy 2-28",F-WS-T,10
+B50D40,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B50D5C,BlockReference,"GABD",F-WS-S,5
+B50D5D,MText,"1S0/1-28 (Abd.)",F-WS-T,10
+B50D5E,BlockReference,"GAS",F-WS-S,5
+B50D69,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B5158E,MText,"I3 Energy 14-21",F-WS-T,10
+B51590,BlockReference,"GAS",F-WS-S,5
+B51591,MText,"I3 Energy 6-21",F-WS-T,10
+B515A0,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B515BC,BlockReference,"GABD",F-WS-S,5
+B515BD,MText,"4-22 (Abd.)",F-WS-T,10
+B51DD2,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B51DFD,BlockReference,"GABD",F-WS-S,5
+B51DFE,MText,"S0/4-15 (Abd.)",F-WS-T,10
+B51E00,BlockReference,"GAS",F-WS-S,5
+B52617,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B52636,MText,"I3 Energy 3-15",F-WS-T,10
+B52653,BlockReference,"GAS",F-WS-S,5
+B52E67,MText,"I3 Energy 13-10",F-WS-T,10
+B52E69,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B52E88,BlockReference,"GAS",F-WS-S,5
+B52EA0,MText,"I3 Energy 16-9",F-WS-T,10
+B52EA2,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B52EC1,BlockReference,"GABD",F-WS-S,5
+B536D0,MText,"I3 Energy 7-9 (Abd.)",F-WS-T,10
+B536D2,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B536F5,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B53714,BlockReference,"GABD",F-WS-S,5
+B53715,MText,"W0/4-10 (Abd.)",F-WS-T,10
+B53717,BlockReference,"GABD",F-WS-S,5
+B53718,MText,"I3 Energy 14-4 (Abd.)",F-WS-T,10
+B53F2E,AlignedDimension,"I3 Energy  A/R",F-RW-T,Compass 5 000
+B54851,MText,"Twp. 42",D-TXT,14
+B54852,MText,"Twp. 43",D-TXT,14
+B54853,MText,"Twp. 42",D-TXT,14
+B54854,MText,"Twp. 43",D-TXT,14
+B54855,BlockReference,"GAS",F-WS-S,5
+B54869,MText,"Taqa 1-4",F-WS-T,10
+B5486B,AlignedDimension,"Taqa  A/R",F-RW-T,Compass 5 000
+B54889,BlockReference,"GABD",F-WS-S,5
+B5488A,BlockReference,"GABD",F-WS-S,5
+B5488B,MText,"1-4 (Abd.)",F-WS-T,10
+B5488D,MText,"1-4 (Abd.)",F-WS-T,10
+B55097,BlockReference,"GAS",F-WS-S,5
+B55098,BlockReference,"GAS",F-WS-S,5
+B55099,BlockReference,"GAS",F-WS-S,5
+B550A7,MText,"I3 Energy 6-3",F-WS-T,10
+B550A9,AlignedDimension,"I3 Energy  18.00 A/R",F-RW-T,Compass 5 000
+B550C7,BlockReference,"GABD",F-WS-S,5
+B558DA,MText,"Gibson 15-33 (Abd.)",F-WS-T,10
+B558DC,BlockReference,"GAS",F-WS-S,5
+B558ED,AlignedDimension,"Taqa  A/R",F-RW-T,Compass 5 000
+B5611E,MText,"Taqa 16-33",F-WS-T,10
+B56120,BlockReference,"GAS",F-WS-S,5
+B56939,MText,"Taqa 16-33",F-WS-T,10
+B5693B,AlignedDimension,"Taqa  A/R",F-RW-T,Compass 5 000
+B5698D,MText,"Taqa 12-34",F-WS-T,10
+B5698F,BlockReference,"GAS",F-WS-S,5
+B56990,BlockReference,"GAS",F-WS-S,5
+B56991,BlockReference,"GABD",F-WS-S,5
+B56992,MText,"W0/13-27 (Abd.)",F-WS-T,10
+B571AA,BlockReference,"GAS",F-WS-S,5
+B571D6,AlignedDimension,"Taqa  A/R",F-RW-T,Compass 5 000
+B571F2,MText,"Taqa 2-33",F-WS-T,10
+B57A06,BlockReference,"GABD",F-WS-S,5
+B57A07,MText,"S0/4-27 (Abd.)",F-WS-T,10
+B58219,BlockReference,"GAS",F-WS-S,5
+B58A34,MText,"PMC 16-21",F-WS-T,10
+B5925B,MText,"Town of Rimbey",L-33,12
+B5A2BC,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD4,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD5,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD6,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD7,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD8,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAD9,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADA,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADB,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADC,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADD,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADE,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AADF,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE0,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE1,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE2,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE3,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE4,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE5,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE7,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE8,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAE9,MText,"Approximate Location of ATCO Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAEA,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAEB,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAEC,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAED,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5AAEE,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B5DCF2,BlockReference,"GAS",F-WS-S,5
+B5DCF3,BlockReference,"GAS",F-WS-S,5
+B5E54D,AlignedDimension,"I3 Energy  A/R",F-AR-T,Compass 5 000
+B5E575,MText,"I3 Energy 10-4",F-WS-T,10
+B629FD,MText,"C. of T.",L-TITLEDB-T,10
+B629FF,MText,"C. of T.",L-TITLEDB-T,10
+B62A01,MText,"3 St. E.",L-ROAD-T,10
+B62A05,MText,"South Rimbey Lagoon",T-WATER-T,10
+B62A0A,MText,"North Rimbey Lagoon",T-WATER-T,10
+B63265,MText,"Plan 002 2799",L-TITLEDB-T,10
+B63267,AlignedDimension,"6.00 Utility R/W  002 2800",F-RW-T,Compass 5 000
+B63AE1,MText,"Plan 792 1770",L-TITLEDB-T,10
+B63AE4,MText,"Lot 1 Block 1 Plan 002 2041",L-TITLEDB-T,10
+B63AE6,AlignedDimension,"ATCO  P/L R/W  950 MC",F-RW-T,Compass 5 000
+B63B32,AlignedDimension,"9.00 P/L R/W  882 2424",F-RW-T,Compass 5 000
+B63B5A,MText,"Road Plan 882 2959",L-TITLEDB-T,10
+B643C7,MText,"Lot 1 Block 1 Plan 152 4314",L-TITLEDB-T,10
+B64C2A,MText,"Lot 1 Block 1 Plan 202 2053",L-TITLEDB-T,10
+B654A2,AlignedDimension,"17.50 Utility R/W  202 2218",F-RW-T,Compass 5 000
+B654C6,AlignedDimension,"17.50 Utility R/W  202 2218",F-RW-T,Compass 5 000
+B654DA,AlignedDimension,"17.50 Utility R/W  202 2218",F-RW-T,Compass 5 000
+B654EE,MText,"Approximate Location of G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+B65D5C,BlockReference,"GAS",F-WS-S,5
+B65D5D,BlockReference,"GAS",F-WS-S,5
+B65D62,BlockReference,"GAS",F-WS-S,5
+B65D63,BlockReference,"GAS",F-WS-S,5
+B65D64,BlockReference,"GAS",F-WS-S,5
+B65D65,BlockReference,"GAS",F-WS-S,5
+B65D66,BlockReference,"GAS",F-WS-S,5
+B65D67,BlockReference,"GAS",F-WS-S,5
+B65D68,BlockReference,"GAS",F-WS-S,5
+B65D69,BlockReference,"GAS",F-WS-S,5
+B65D6D,BlockReference,"GABD",F-WS-S,5
+B65D6E,MText,"1W0/13-34 (Abd.)",F-WS-T,10
+B65D72,BlockReference,"GABD",F-WS-S,5
+B65D73,MText,"1S0/4-30 (Abd.)",F-WS-T,10
+B65D74,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B65D75,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B65D76,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B65D77,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B65D78,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B65D79,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B665E9,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B665EB,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B665EC,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B665ED,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B665EE,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6A,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6B,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6C,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6D,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6E,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E6F,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E70,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E71,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E72,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E73,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E74,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E75,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E76,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E77,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E78,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B66E79,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B6771B,MText,"Equs O/H Power Line",AS-POWER-T,10
+B6771C,MText,"Equs O/H Power Line",AS-POWER-T,10
+B67FB9,MText,"Equs O/H Power Line",AS-POWER-T,10
+B67FBE,MText,"Equs O/H Power Line",AS-POWER-T,10
+B67FBF,MText,"Equs O/H Power Line",AS-POWER-T,10
+B69AB6,MText,"I3 Energy 8-16",F-WS-T,10
+B6A35A,MText,"CNRL 1-16",F-WS-T,10
+B6A36C,DBText,"(High Grade Gravel)",T-TEXT,10
+B6A36D,DBText,"Government Road Allowance",L-ROAD-T,10
+B6A370,MText,"Government Road Allowance",L-ROAD-T,10
+B6A371,MText,"(High Grade Gravel)",T-TEXT,10
+B6A372,MText,"Government Road Allowance",L-ROAD-T,10
+B6A373,MText,"(High Grade Gravel)",T-TEXT,10
+B6A374,MText,"Government Road Allowance",L-ROAD-T,10
+B6A375,MText,"(High Grade Gravel)",T-TEXT,10
+B6A376,MText,"Government Road Allowance",L-ROAD-T,10
+B6A377,MText,"(High Grade Gravel)",T-TEXT,10
+B6A378,MText,"Government Road Allowance",L-ROAD-T,10
+B6A379,MText,"(High Grade Gravel)",T-TEXT,10
+B6A37A,MText,"Government Road Allowance",L-ROAD-T,10
+B6A37B,MText,"(Paved)",T-TEXT,10
+B6AC1F,DBText,"Highway 53",L-ROAD-T,10
+B6AC20,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC21,DBText,"(Paved)",T-TEXT,10
+B6AC22,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC23,DBText,"(Paved)",T-TEXT,10
+B6AC2A,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC2B,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC2C,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC2D,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC2E,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC2F,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC30,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC31,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC32,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC33,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC34,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC35,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC36,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC37,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC38,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC39,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC3A,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC3B,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC3D,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC3E,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC3F,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC40,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC41,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC42,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC43,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC44,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC45,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC46,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC47,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC48,DBText,"Government Road Allowance",L-ROAD-T,10
+B6AC49,DBText,"(High Grade Gravel)",T-TEXT,10
+B6AC4A,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4EE,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4EF,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4F0,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4F1,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4F2,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4F3,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4F4,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4F5,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4F6,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4F7,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4F8,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4F9,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4FD,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B4FE,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B4FF,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B500,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B501,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B502,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B503,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B504,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B505,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B506,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B507,DBText,"(High Grade Gravel)",T-TEXT,10
+B6B508,DBText,"Government Road Allowance",L-ROAD-T,10
+B6B50B,MText,"(High Grade Gravel)",T-TEXT,10
+B6B50C,MText,"Government Road Allowance",L-ROAD-T,10
+B6CEF6,MText,"Highway 20",L-ROAD-T,10
+B6CEF8,MText,"Highway 20",L-ROAD-T,10
+B6CEFA,MText,"Highway 20",L-ROAD-T,10
+B6F324,BlockReference,"*U244",CG-NOTES,0.99969901
+B6FCD7,BlockReference,"*U247",AS-POWER-T,0.99969901
+B70599,BlockReference,"*U248",AS-POWER-T,0.99969901
+B7185C,BlockReference,"*U249",AS-POWER-T,0.99969901
+B72179,BlockReference,"*U250",AS-POWER-T,0.99969901
+B721F1,BlockReference,"*U251",AS-POWER-T,0.99969901
+B72AFF,BlockReference,"*U252",AS-POWER-T,0.99969901
+B72B65,BlockReference,"*U253",AS-POWER-T,0.99969901
+B79B3C,AlignedDimension,"I3 Energy  P/L R/W  862 2378",F-RW-T,Compass 5 000
+B7A4A2,BlockReference,"*U255",AS-POWER-T,0.99969901
+B7A4D8,BlockReference,"*U256",AS-POWER-T,0.99969901
+B7A50E,BlockReference,"*U257",AS-POWER-T,0.99969901
+B7A574,BlockReference,"*U258",AS-POWER-T,0.99969901
+B7A5DE,BlockReference,"*U259",AS-POWER-T,0.99969901
+B7AF2E,BlockReference,"*U260",AS-POWER-T,0.99969901
+B7AF84,BlockReference,"*U261",AS-POWER-T,0.99969901
+B7AFD0,BlockReference,"*U262",AS-POWER-T,0.99969901
+B7B991,BlockReference,"*U263",AS-POWER-T,0.99969901
+B7C31C,BlockReference,"*U264",AS-POWER-T,0.99969901
+B7C35C,BlockReference,"*U265",AS-POWER-T,0.99969901
+B7D654,BlockReference,"*U266",AS-POWER-T,0.99969901
+B7D6C9,BlockReference,"*U266",AS-POWER-T,0.99969901
+B7D70F,BlockReference,"*U267",AS-POWER-T,0.99969901
+B7E10E,BlockReference,"*U268",AS-POWER-T,0.99969901
+B7E154,BlockReference,"*U269",AS-POWER-T,0.99969901
+B7FE7A,AlignedDimension,"Gibson  P/L R/W  by  Geomatics",F-RW-T,Compass 5 000
+B7FEBE,AlignedDimension,"Gibson  P/L R/W  by  Geomatics",F-RW-T,Compass 5 000
+B7FEEA,AlignedDimension,"Gibson  P/L R/W  by  Geomatics",F-RW-T,Compass 5 000
+B7FF23,AlignedDimension,"Gibson  P/L R/W  by  Geomatics",F-RW-T,Compass 5 000
+B808D8,AlignedDimension,"Gibson  P/L R/W  by  Geomatics",F-RW-T,Compass 5 000
+B80931,BlockReference,"*U275",AS-POWER-T,0.99969901
+B80997,BlockReference,"*U276",AS-POWER-T,0.99969901
+B813E0,BlockReference,"*U277",AS-POWER-T,0.99969901
+B81EB4,BlockReference,"*U278",AS-POWER-T,0.99969901
+B81EEB,BlockReference,"*U279",AS-POWER-T,0.99969901
+B81F31,BlockReference,"*U280",AS-POWER-T,0.99969901
+B83431,BlockReference,"*U281",AS-POWER-T,0.99969901
+B83493,MText,"Road Plan 882 2959",L-TITLEDB-T,10
+B83495,BlockReference,"GABD",F-WS-S,5
+B83496,MText,"S0/4-27 (Abd.)",F-WS-T,10
+B83498,DBText,"Government Road Allowance",L-ROAD-T,10
+B834E9,BlockReference,"*U282",AS-POWER-T,0.9996990100000002
+B835AC,BlockReference,"*U283",AS-POWER-T,0.9996990100000002
+B84028,DBText,"(Paved)",T-TEXT,10
+B84029,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B8402B,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B8402F,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B84037,AlignedDimension,"CP  Railway  132 0734",L-TITLEDB-T,Compass 5 000
+B8406E,MText,"Highway 20",L-ROAD-T,10
+B8407C,AlignedDimension,"5.03 Road  2944 NY",L-TITLEDB-T,Compass 5 000
+B840C9,AlignedDimension,"30.48 Road  1304 NY",L-TITLEDB-T,Compass 5 000
+B84B3B,MText,"Buried Telus Cables",AS-TELEPHONE-T,10
+B84B3D,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+B84B4C,MText,"SEE DETAIL",DETAIL-T,16
+B84B4E,MText,"CP Railway Plan 982 CL",L-TITLEDB-T,10
+B84B51,AlignedDimension,"5.03 Road  927 EU",L-TITLEDB-T,Compass 5 000
+B855CB,MText,"6.00 Utility R/W Plan 092 9617",F-RW-T,10
+B85618,DBText,"(High Grade Gravel)",T-TEXT,10
+B85619,DBText,"Government Road Allowance",L-ROAD-T,10
+B85717,BlockReference,"*U21",DETAIL-T,1
+B85725,MText,"DETAIL",DETAIL-T,20
+B8616E,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+B86170,AlignedDimension,"48.14 Road Plan 882 2958",L-TITLEDB-T,Compass 5 000
+B878BF,BlockReference,"*U289",CG-NOTES,0.999081924950458
+B878D3,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B88F1C,BlockReference,"*U289",CG-NOTES,0.999081924950458
+B88F30,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B88F3F,BlockReference,"*U291",CG-NOTES,0.999081924950458
+B88F53,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B88F83,BlockReference,"*U292",CG-NOTES,0.999081924950458
+B88F97,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B88FC7,BlockReference,"*U292",CG-NOTES,0.999081924950458
+B88FF3,DBText,"RIMBEY",C-SYMBOL,20.002620343264958
+B89BA1,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B89BBF,BlockReference,"*U293",CG-NOTES,0.999081924950458
+B89BD3,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B89C03,BlockReference,"*U294",CG-NOTES,0.999081924950458
+B89C17,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B89C47,BlockReference,"*U296",CG-NOTES,0.999081924950458
+B89C5B,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B89C6A,BlockReference,"*U295",CG-NOTES,0.999081924950458
+B8A75B,BlockReference,"*U297",CG-NOTES,0.999081924950458
+B8A790,BlockReference,"*U298",CG-NOTES,0.999081924950458
+B8A7A4,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8A7D4,BlockReference,"*U299",CG-NOTES,0.999081924950458
+B8A7E8,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8A818,BlockReference,"*U300",CG-NOTES,0.999081924950458
+B8A87F,BlockReference,"*U301",CG-NOTES,0.999081924950458
+B8A893,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8BFD4,BlockReference,"*U302",CG-NOTES,0.999081924950458
+B8BFE8,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C047,BlockReference,"*U303",CG-NOTES,0.999081924950458
+B8C05B,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C08F,BlockReference,"*U304",CG-NOTES,0.999081924950458
+B8C0A3,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C0D3,BlockReference,"*U305",CG-NOTES,0.999081924950458
+B8C0E7,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C117,BlockReference,"*U306",CG-NOTES,0.999081924950458
+B8C15B,BlockReference,"*U307",CG-NOTES,0.999081924950458
+B8C16F,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C19F,BlockReference,"*U308",CG-NOTES,0.999081924950458
+B8C1B3,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8C1EF,BlockReference,"*U309",CG-NOTES,0.999081924950458
+B8C23F,BlockReference,"*U310",CG-NOTES,0.999081924950458
+B8C253,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CDA1,BlockReference,"*U310",CG-NOTES,0.999081924950458
+B8CDB5,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CDC4,BlockReference,"*U311",CG-NOTES,0.999081924950458
+B8CDD8,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CE08,BlockReference,"*U312",CG-NOTES,0.999081924950458
+B8CE1C,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CE4C,BlockReference,"*U382",CG-NOTES,0.999081924950458
+B8CE60,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CE6F,BlockReference,"*U313",CG-NOTES,0.999081924950458
+B8CE83,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8CEB3,BlockReference,"*U314",CG-NOTES,0.999081924950458
+B8CEC7,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DA30,BlockReference,"*U315",CG-NOTES,0.999081924950458
+B8DA44,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DA80,BlockReference,"*U316",CG-NOTES,0.999081924950458
+B8DA94,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DAD8,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DAE7,BlockReference,"*U317",CG-NOTES,0.999081924950458
+B8DAFB,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DB2B,BlockReference,"*U317",CG-NOTES,0.999081924950458
+B8DB3F,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8DB4E,BlockReference,"*U318",CG-NOTES,0.999081924950458
+B8DB62,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E844,BlockReference,"*U319",CG-NOTES,0.999081924950458
+B8E8A6,BlockReference,"*U320",CG-NOTES,0.999081924950458
+B8E8BA,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E8EA,BlockReference,"*U321",CG-NOTES,0.999081924950458
+B8E8FE,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E92E,BlockReference,"*U322",CG-NOTES,0.999081924950458
+B8E942,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E972,BlockReference,"*U323",CG-NOTES,0.999081924950458
+B8E986,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E9B6,BlockReference,"*U324",CG-NOTES,0.999081924950458
+B8E9CA,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8E9FA,BlockReference,"*U325",CG-NOTES,0.999081924950458
+B8EA0E,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F5FD,BlockReference,"*U326",CG-NOTES,0.999081924950458
+B8F611,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F641,BlockReference,"*U326",CG-NOTES,0.999081924950458
+B8F655,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F664,BlockReference,"*U327",CG-NOTES,0.999081924950458
+B8F678,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F6A8,BlockReference,"*U328",CG-NOTES,0.999081924950458
+B8F6BC,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F6EC,BlockReference,"*U329",CG-NOTES,0.999081924950458
+B8F700,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F730,BlockReference,"*U330",CG-NOTES,0.999081924950458
+B8F744,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F774,BlockReference,"*U331",CG-NOTES,0.999081924950458
+B8F788,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B8F7B8,BlockReference,"*U332",CG-NOTES,0.999081924950458
+B8F7CC,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B903F9,BlockReference,"*U333",CG-NOTES,0.999081924950458
+B9040D,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B9043D,BlockReference,"*U334",CG-NOTES,0.999081924950458
+B90451,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90481,BlockReference,"*U335",CG-NOTES,0.999081924950458
+B90495,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B904C5,BlockReference,"*U336",CG-NOTES,0.999081924950458
+B904D9,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90509,BlockReference,"*U337",CG-NOTES,0.999081924950458
+B9051D,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90570,BlockReference,"*U338",CG-NOTES,0.999081924950458
+B90584,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90679,BlockReference,"*U339",CG-NOTES,0.999081924950458
+B9068D,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90701,BlockReference,"*U340",CG-NOTES,0.999081924950458
+B90715,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B90789,BlockReference,"*U341",CG-NOTES,0.999081924950458
+B9079D,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B907D9,BlockReference,"*U342",CG-NOTES,0.999081924950458
+B907ED,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B91490,BlockReference,"*U343",CG-NOTES,0.999081924950458
+B914A4,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B91525,BlockReference,"*U344",CG-NOTES,0.999081924950458
+B91539,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B91572,BlockReference,"*U345",CG-NOTES,0.999081924950458
+B91586,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B91640,BlockReference,"*U346",CG-NOTES,0.999081924950458
+B91654,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B92329,BlockReference,"*U347",CG-NOTES,0.999081924950458
+B92382,BlockReference,"xing2",P-CROSSINGS,1
+B93034,BlockReference,"xing2",P-CROSSINGS,1
+B9303B,BlockReference,"xing2",P-CROSSINGS,1
+B93042,BlockReference,"xing2",P-CROSSINGS,1
+B93067,BlockReference,"xing2",P-CROSSINGS,1
+B93D19,BlockReference,"xing2",P-CROSSINGS,1
+B93D20,BlockReference,"*U348",AS-POWER-T,0.99969901
+B93D56,BlockReference,"xing2",P-CROSSINGS,1
+B93D5D,BlockReference,"*U349",AS-POWER-T,0.99969901
+B94A42,BlockReference,"xing2",P-CROSSINGS,1
+B94A49,BlockReference,"xing2",P-CROSSINGS,1
+B94A50,BlockReference,"*U350",CG-NOTES,0.999081924950458
+B94A85,BlockReference,"*U351",CG-NOTES,0.999081924950458
+B94ABA,BlockReference,"*U352",CG-NOTES,0.999081924950458
+B94ACE,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B94AFE,BlockReference,"xing2",P-CROSSINGS,1
+B94B05,BlockReference,"xing2",P-CROSSINGS,1
+B94B0C,BlockReference,"xing2",P-CROSSINGS,1
+B94B15,BlockReference,"xing2",P-CROSSINGS,1
+B957E4,BlockReference,"xing2",P-CROSSINGS,1
+B957EB,BlockReference,"xing2",P-CROSSINGS,1
+B957F2,BlockReference,"xing2",P-CROSSINGS,1
+B957F9,BlockReference,"xing2",P-CROSSINGS,1
+B95800,BlockReference,"xing2",P-CROSSINGS,1
+B95807,BlockReference,"xing2",P-CROSSINGS,1
+B9580E,BlockReference,"xing2",P-CROSSINGS,1
+B95859,BlockReference,"*U353",CG-NOTES,0.999081924950458
+B9589D,BlockReference,"xing2",P-CROSSINGS,1
+B958A4,BlockReference,"*U354",CG-NOTES,0.999081924950458
+B958B8,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+B958E8,BlockReference,"xing2",P-CROSSINGS,1
+B958EF,BlockReference,"xing2",P-CROSSINGS,1
+B96619,BlockReference,"xing2",P-CROSSINGS,1
+B96620,BlockReference,"xing2",P-CROSSINGS,1
+B96627,BlockReference,"xing2",P-CROSSINGS,1
+B9662E,BlockReference,"xing2",P-CROSSINGS,1
+B96635,BlockReference,"xing2",P-CROSSINGS,1
+B97321,BlockReference,"xing2",P-CROSSINGS,1
+B97328,BlockReference,"xing2",P-CROSSINGS,1
+B97347,BlockReference,"xing2",P-CROSSINGS,1
+B97355,BlockReference,"xing2",P-CROSSINGS,1
+B9735C,BlockReference,"xing2",P-CROSSINGS,1
+B97363,BlockReference,"xing2",P-CROSSINGS,1
+B9803F,BlockReference,"xing2",P-CROSSINGS,1
+B9805E,BlockReference,"xing2",P-CROSSINGS,1
+B98065,BlockReference,"*U355",AS-POWER-T,0.9996990100000002
+B9809B,BlockReference,"xing2",P-CROSSINGS,1
+B980A2,BlockReference,"xing2",P-CROSSINGS,1
+B98D93,BlockReference,"xing2",P-CROSSINGS,1
+B98D9A,BlockReference,"xing2",P-CROSSINGS,1
+B98DA1,BlockReference,"xing2",P-CROSSINGS,1
+B98DA8,BlockReference,"xing2",P-CROSSINGS,1
+B98DB6,BlockReference,"xing2",P-CROSSINGS,1
+B98DC9,BlockReference,"xing2",P-CROSSINGS,1
+B98DEF,BlockReference,"xing2",P-CROSSINGS,1
+B9B5ED,BlockReference,"xing2",P-CROSSINGS,1
+B9B5F4,BlockReference,"*U356",AS-POWER-T,0.99969901
+B9B62A,BlockReference,"*U357",AS-POWER-T,0.99969901
+B9B660,BlockReference,"xing2",P-CROSSINGS,1
+B9B667,BlockReference,"xing2",P-CROSSINGS,1
+B9B66E,BlockReference,"xing2",P-CROSSINGS,1
+B9B675,BlockReference,"xing2",P-CROSSINGS,1
+B9B67C,BlockReference,"xing2",P-CROSSINGS,1
+B9C3C4,BlockReference,"*U359",CG-NOTES,1
+B9C3EF,BlockReference,"xing2",P-CROSSINGS,1
+B9C41E,BlockReference,"xing2",P-CROSSINGS,1
+B9C425,BlockReference,"xing2",P-CROSSINGS,1
+B9C42C,BlockReference,"xing2",P-CROSSINGS,1
+B9C433,BlockReference,"xing2",P-CROSSINGS,1
+B9C43A,BlockReference,"xing2",P-CROSSINGS,1
+B9D128,BlockReference,"xing2",P-CROSSINGS,1
+B9D147,BlockReference,"xing2",P-CROSSINGS,1
+B9D14E,BlockReference,"xing2",P-CROSSINGS,1
+B9D155,BlockReference,"xing2",P-CROSSINGS,1
+B9D15C,BlockReference,"xing2",P-CROSSINGS,1
+B9D163,BlockReference,"xing2",P-CROSSINGS,1
+B9D16A,BlockReference,"xing2",P-CROSSINGS,1
+B9D171,BlockReference,"xing2",P-CROSSINGS,1
+B9D190,BlockReference,"xing2",P-CROSSINGS,1
+B9D197,BlockReference,"xing2",P-CROSSINGS,1
+B9DE85,BlockReference,"xing2",P-CROSSINGS,1
+B9DE8C,BlockReference,"xing2",P-CROSSINGS,1
+B9DE93,BlockReference,"xing2",P-CROSSINGS,1
+B9DE9A,BlockReference,"xing2",P-CROSSINGS,1
+B9DEA1,BlockReference,"xing2",P-CROSSINGS,1
+B9DEA8,BlockReference,"xing2",P-CROSSINGS,1
+B9DEAF,BlockReference,"xing2",P-CROSSINGS,1
+B9DEB6,BlockReference,"xing2",P-CROSSINGS,1
+B9EBA4,BlockReference,"xing2",P-CROSSINGS,1
+B9EBAB,BlockReference,"xing2",P-CROSSINGS,1
+B9EBB2,BlockReference,"xing2",P-CROSSINGS,1
+B9EBB9,BlockReference,"xing2",P-CROSSINGS,1
+B9EBC0,BlockReference,"xing2",P-CROSSINGS,1
+B9F8AE,BlockReference,"xing2",P-CROSSINGS,1
+B9F8B5,BlockReference,"xing2",P-CROSSINGS,1
+B9F8BC,BlockReference,"xing2",P-CROSSINGS,1
+B9FE48,BlockReference,"xing2",P-CROSSINGS,1
+B9FE56,BlockReference,"xing2",P-CROSSINGS,1
+B9FE5D,BlockReference,"xing2",P-CROSSINGS,1
+B9FE64,BlockReference,"xing2",P-CROSSINGS,1
+B9FE6D,BlockReference,"xing2",P-CROSSINGS,1
+BA0B5B,BlockReference,"xing2",P-CROSSINGS,1
+BA0B62,BlockReference,"xing2",P-CROSSINGS,1
+BA0B69,BlockReference,"*U360",CG-NOTES,0.999081924950458
+BA0B7D,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BA0BAD,BlockReference,"*U361",CG-NOTES,0.999081924950458
+BA0BC1,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BA0BF1,BlockReference,"*U362",CG-NOTES,0.999081924950458
+BA0C05,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BA0C45,BlockReference,"xing2",P-CROSSINGS,1
+BA0C4C,BlockReference,"xing2",P-CROSSINGS,1
+BA1984,BlockReference,"xing2",P-CROSSINGS,1
+BA198B,BlockReference,"xing2",P-CROSSINGS,1
+BA1992,BlockReference,"xing2",P-CROSSINGS,1
+BA19D3,BlockReference,"xing2",P-CROSSINGS,1
+BA26DF,BlockReference,"xing2",P-CROSSINGS,1
+BA26FC,BlockReference,"xing2",P-CROSSINGS,1
+BA2703,BlockReference,"xing2",P-CROSSINGS,1
+BA270A,BlockReference,"xing2",P-CROSSINGS,1
+BA2711,BlockReference,"xing2",P-CROSSINGS,1
+BA271F,BlockReference,"xing2",P-CROSSINGS,1
+BA272D,BlockReference,"xing2",P-CROSSINGS,1
+BA3439,BlockReference,"xing2",P-CROSSINGS,1
+BA3447,BlockReference,"xing2",P-CROSSINGS,1
+BA3463,BlockReference,"xing2",P-CROSSINGS,1
+BA346A,BlockReference,"xing2",P-CROSSINGS,1
+BA3471,BlockReference,"xing2",P-CROSSINGS,1
+BA3478,BlockReference,"xing2",P-CROSSINGS,1
+BA347F,BlockReference,"xing2",P-CROSSINGS,1
+BA3486,BlockReference,"xing2",P-CROSSINGS,1
+BA4192,BlockReference,"xing2",P-CROSSINGS,1
+BA4199,BlockReference,"xing2",P-CROSSINGS,1
+BA41A0,BlockReference,"xing2",P-CROSSINGS,1
+BA4FA4,BlockReference,"xing2",P-CROSSINGS,1
+BA4FAB,BlockReference,"xing2",P-CROSSINGS,1
+BA5CB8,BlockReference,"xing2",P-CROSSINGS,1
+BA5CBF,BlockReference,"xing2",P-CROSSINGS,1
+BA5CC6,BlockReference,"xing2",P-CROSSINGS,1
+BA5CCD,BlockReference,"*U363",CG-NOTES,0.999081924950458
+BA5D02,BlockReference,"xing2",P-CROSSINGS,1
+BA6A14,BlockReference,"xing2",P-CROSSINGS,1
+BA6A1B,BlockReference,"xing2",P-CROSSINGS,1
+BA6A22,BlockReference,"xing2",P-CROSSINGS,1
+BA6A29,BlockReference,"xing2",P-CROSSINGS,1
+BA773B,BlockReference,"xing2",P-CROSSINGS,1
+BA7742,BlockReference,"xing2",P-CROSSINGS,1
+BA7749,BlockReference,"xing2",P-CROSSINGS,1
+BA7750,BlockReference,"*U364",CG-NOTES,0.999081924950458
+BA7794,BlockReference,"xing2",P-CROSSINGS,1
+BA779B,BlockReference,"xing2",P-CROSSINGS,1
+BA77A2,BlockReference,"xing2",P-CROSSINGS,1
+BA77A9,BlockReference,"xing2",P-CROSSINGS,1
+BA77B0,BlockReference,"xing2",P-CROSSINGS,1
+BA77B7,BlockReference,"xing2",P-CROSSINGS,1
+BA77BE,BlockReference,"xing2",P-CROSSINGS,1
+BA77C5,BlockReference,"xing2",P-CROSSINGS,1
+BA77F0,BlockReference,"xing2",P-CROSSINGS,1
+BA850C,BlockReference,"xing2",P-CROSSINGS,1
+BA8513,BlockReference,"xing2",P-CROSSINGS,1
+BA851A,BlockReference,"xing2",P-CROSSINGS,1
+BA8521,BlockReference,"xing2",P-CROSSINGS,1
+BA8528,BlockReference,"xing2",P-CROSSINGS,1
+BA8541,BlockReference,"xing2",P-CROSSINGS,1
+BA855A,BlockReference,"xing2",P-CROSSINGS,1
+BA8561,BlockReference,"xing2",P-CROSSINGS,1
+BA8568,BlockReference,"*U365",CG-NOTES,0.999081924950458
+BA857C,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BA85AC,BlockReference,"xing2",P-CROSSINGS,1
+BA85B3,BlockReference,"xing2",P-CROSSINGS,1
+BA92D7,BlockReference,"xing2",P-CROSSINGS,1
+BA92DE,BlockReference,"xing2",P-CROSSINGS,1
+BA92EC,BlockReference,"xing2",P-CROSSINGS,1
+BA92F3,BlockReference,"xing2",P-CROSSINGS,1
+BA92FA,BlockReference,"xing2",P-CROSSINGS,1
+BA9301,BlockReference,"xing2",P-CROSSINGS,1
+BA9308,BlockReference,"xing2",P-CROSSINGS,1
+BA930F,BlockReference,"xing2",P-CROSSINGS,1
+BA9316,BlockReference,"xing2",P-CROSSINGS,1
+BA931D,BlockReference,"xing2",P-CROSSINGS,1
+BA9324,BlockReference,"xing2",P-CROSSINGS,1
+BAA048,BlockReference,"xing2",P-CROSSINGS,1
+BAA067,BlockReference,"xing2",P-CROSSINGS,1
+BAA06E,BlockReference,"xing2",P-CROSSINGS,1
+BAA075,BlockReference,"xing2",P-CROSSINGS,1
+BAA07C,BlockReference,"xing2",P-CROSSINGS,1
+BAA083,BlockReference,"xing2",P-CROSSINGS,1
+BAADA7,BlockReference,"xing2",P-CROSSINGS,1
+BAADBA,BlockReference,"xing2",P-CROSSINGS,1
+BAADD8,BlockReference,"xing2",P-CROSSINGS,1
+BAADDF,BlockReference,"xing2",P-CROSSINGS,1
+BAADE6,BlockReference,"xing2",P-CROSSINGS,1
+BAADED,BlockReference,"xing2",P-CROSSINGS,1
+BAAE17,BlockReference,"xing2",P-CROSSINGS,1
+BAAE1E,BlockReference,"xing2",P-CROSSINGS,1
+BAAE25,BlockReference,"xing2",P-CROSSINGS,1
+BAAE2C,BlockReference,"xing2",P-CROSSINGS,1
+BAAE33,BlockReference,"xing2",P-CROSSINGS,1
+BABB57,BlockReference,"xing2",P-CROSSINGS,1
+BABB5E,BlockReference,"xing2",P-CROSSINGS,1
+BABB77,BlockReference,"xing2",P-CROSSINGS,1
+BABB7E,BlockReference,"xing2",P-CROSSINGS,1
+BABB85,BlockReference,"xing2",P-CROSSINGS,1
+BABB8C,BlockReference,"xing2",P-CROSSINGS,1
+BAC8B0,BlockReference,"xing2",P-CROSSINGS,1
+BAC8B7,BlockReference,"xing2",P-CROSSINGS,1
+BAC8BE,BlockReference,"xing2",P-CROSSINGS,1
+BAC8C5,BlockReference,"xing2",P-CROSSINGS,1
+BAC8DE,BlockReference,"xing2",P-CROSSINGS,1
+BAC8E5,BlockReference,"xing2",P-CROSSINGS,1
+BAD6A4,BlockReference,"*U366",AS-POWER-T,0.99969901
+BAD6DA,BlockReference,"xing2",P-CROSSINGS,1
+BAD6E8,BlockReference,"xing2",P-CROSSINGS,1
+BAD6EF,BlockReference,"xing2",P-CROSSINGS,1
+BAE41E,BlockReference,"xing2",P-CROSSINGS,1
+BAE433,BlockReference,"xing2",P-CROSSINGS,1
+BAF15B,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BAF16A,BlockReference,"xing2",P-CROSSINGS,1
+BAF171,BlockReference,"xing2",P-CROSSINGS,1
+BAF180,BlockReference,"xing2",P-CROSSINGS,1
+BAFEAC,BlockReference,"xing2",P-CROSSINGS,1
+BAFEB3,BlockReference,"xing2",P-CROSSINGS,1
+BAFEBA,BlockReference,"xing2",P-CROSSINGS,1
+BAFEC1,BlockReference,"xing2",P-CROSSINGS,1
+BAFEC8,BlockReference,"xing2",P-CROSSINGS,1
+BB0BF4,BlockReference,"xing2",P-CROSSINGS,1
+BB0BFB,BlockReference,"xing2",P-CROSSINGS,1
+BB0C02,BlockReference,"xing2",P-CROSSINGS,1
+BB0C09,BlockReference,"xing2",P-CROSSINGS,1
+BB0C10,BlockReference,"xing2",P-CROSSINGS,1
+BB0C17,BlockReference,"xing2",P-CROSSINGS,1
+BCAE8E,AlignedDimension,"Baytex  Waterline R/W",T-EXISTING TFA-T,Compass 5 000
+BD1EA0,BlockReference,"*U368",CG-NOTES,0.99969901
+BD2CD6,BlockReference,"*U370",CG-NOTES,1
+BD2CF8,BlockReference,"*U371",CG-NOTES,1
+BD2D2E,BlockReference,"*U372",CG-NOTES,0.99969901
+BD56F1,BlockReference,"*U359",CG-NOTES,1
+BD64D2,BlockReference,"*U373",CG-NOTES,0.99969901
+BD8319,BlockReference,"RP",AS-ROADS,1
+BDB684,BlockReference,"*U245",CG-NOTES,0.99969901
+BDD16C,BlockReference,"*U374",AS-OWNER,1
+BDDD8E,BlockReference,"*U375",CG-NOTES,1
+BDE9C5,DBText,"Area Required = 0.208 ha  0.51 Ac.",L-AREAREQUIRED,11
+BDEA0A,BlockReference,"*U376",AS-OWNER,1
+BDF652,DBText,"Area Required = 0.053 ha  0.13 Ac.",L-AREAREQUIRED,11
+BDF653,MText,"Sewage Disposal Plant Plan 3755 HW",C-SYMBOL,20
+BDF655,DBText,"Area Required = 0.031 ha  0.08 Ac.",L-AREAREQUIRED,11
+BDF69A,BlockReference,"*U377",AS-OWNER,1
+BE2AA0,BlockReference,"xing2",P-CROSSINGS,1
+BE34D6,BlockReference,"xing2",P-CROSSINGS,1
+BE34DD,AlignedDimension,"PMC  P/L R/W  002 3948",F-RW-T,Compass 5 000
+BE3509,AlignedDimension,"PMC  P/L R/W  852 1186",F-RW-T,Compass 5 000
+BE352D,MText,"Lot 3 Block 1 Plan 002 2456",L-TITLEDB-T,10
+BE3530,MText,"Lot 2 Block 1 Plan 002 2456",L-TITLEDB-T,10
+BE3544,MText,"Plan 3755 HW",L-TITLEDB-T,10
+BE3546,DBText,"(Correction Line)",L-ROAD-T,10
+BE494B,BlockReference,"*U380",AS-POWER-T,0.99969901
+BE5439,MText,"Lot 1 Block 1 Plan 162 4048",L-TITLEDB-T,10
+BE543C,AlignedDimension,"ATCO  P/L R/W  738 RS",F-RW-T,Compass 5 000
+BE5464,MText,"Approximate Location of ATCO Gas  Co-op Ltd.",AS-PIPE-UG-T,10
+BE5467,DBText,"(Correction Line)",L-ROAD-T,10
+BE68A3,MText,"Equs O/H Power Line",AS-POWER-T,10
+BE72F7,BlockReference,"*U383",CG-NOTES,0.999081924950458
+BE738C,MText,"Equs O/H Power Line",AS-POWER-T,10
+BE739E,AlignedDimension,"CNRL  P/L R/W  922 1275",F-RW-T,Compass 5 000
+BE7E95,BlockReference,"xing2",P-CROSSINGS,1
+BE7E9C,BlockReference,"xing2",P-CROSSINGS,1
+BE7EF9,MText,"Equs O/H Power Line",AS-POWER-T,10
+BE7EFB,AlignedDimension,"Bonavista  P/L R/W  062 2603",F-RW-T,Compass 5 000
+BE7F2D,MText,"Equs O/H Power Line",AS-POWER-T,10
+BE893C,MText,"Equs O/H Power Line",AS-POWER-T,10
+BFB22A,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+BFB23A,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C030C0,DBText,"N.E.1/4 Sec. 16-43-2-W.5M.",C-SYMBOL,20
+C03B31,AlignedDimension,"Taqa  P/L R/W  022 6146",F-RW-T,Compass 5 000
+C03B32,AlignedDimension,"Keyera  P/L R/W  162 1027",F-RW-T,Compass 5 000
+C05044,AlignedDimension,"I3 Energy  A/R",F-AR-T,Compass 5 000
+C0CD54,BlockReference,"xing2",P-CROSSINGS,1
+C0CD69,BlockReference,"xing2",P-CROSSINGS,1
+C12A7A,BlockReference,"xing2",P-CROSSINGS,1
+C12A81,BlockReference,"xing2",P-CROSSINGS,1
+C187DC,BlockReference,"*U389",CG-NOTES,0.999081924950458
+C187F0,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C18820,BlockReference,"*U390",CG-NOTES,0.999081924950458
+C18834,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C18870,BlockReference,"*U390",CG-NOTES,0.999081924950458
+C18884,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C1929E,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C192AF,BlockReference,"*U391",CG-NOTES,0.999081924950458
+C192C3,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C192F3,BlockReference,"xing2",P-CROSSINGS,1
+C1930D,BlockReference,"xing2",P-CROSSINGS,1
+C19314,BlockReference,"xing2",P-CROSSINGS,1
+C19E17,BlockReference,"xing2",P-CROSSINGS,1
+C31CBB,BlockReference,"*U392",AS-POWER-T,0.99969901
+C326C8,BlockReference,"xing2",P-CROSSINGS,1
+C33B07,BlockReference,"*U393",CG-NOTES,0.999081924950458
+C3452F,BlockReference,"xing2",P-CROSSINGS,1
+C34536,BlockReference,"*U394",AS-POWER-T,0.99969901
+C34F53,BlockReference,"*U395",CG-NOTES,1
+C34F8E,BlockReference,"xing2",P-CROSSINGS,1
+C41621,BlockReference,"*U290",CG-NOTES,1.0001310171632478
+C48AA4,BlockReference,"Disclaimer_Legal",0,2

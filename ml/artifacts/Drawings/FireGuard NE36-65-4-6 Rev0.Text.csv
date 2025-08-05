@@ -1,0 +1,74 @@
+Handle,ObjType,Content,Layer,Extra
+B186E8,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B1F653,MText,"L.S. 15",L-SECTION-LSD,10
+B1F65D,BlockReference,"L-SECLBL",L-SECLBL,1
+B1F665,MText,"Theor. N.E.1/4  Sec. 36-65-4-W.6M.",C-SYMBOL,20
+B1F6AA,MText,"CPEC Plant Site LOC 230251",F-WS-T,10
+B20CC2,MText,"Twp. 65",C-SYMBOL,13.993027387921577
+B20CC4,MText,"Rge. 4",C-SYMBOL,13.99302738792165
+B20CC5,MText,"Rge. 3",C-SYMBOL,13.99302738792165
+B20CE0,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995727299999958
+B20D06,MText,"L.S. 9",L-SECTION-LSD,9.995679799999898
+B20D0C,MText,"L.S. 15",L-SECTION-LSD,9.995679799999898
+B20D0E,MText,"L.S. 10",L-SECTION-LSD,9.995679799999898
+B20D35,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-BOUNDARY,9.999999999999828
+B20D38,AlignedDimension,"CNRL  P/L R/W  220903",C-RW,Compass 5 000
+B20D77,AlignedDimension,"CPEC  P/L R/W  210892",F-WS-T,Compass 5 000
+B20D78,AlignedDimension,"CPEC  P/L R/W  130052",F-RW,Compass 5 000
+B20D79,AlignedDimension,"CPEC  P/L R/W  220277",F-RW,Compass 5 000
+B20D7A,AlignedDimension,"CPEC  P/L R/W  170041",F-RW,Compass 5 000
+B20D7B,AlignedDimension,"CPEC  P/L R/W PLA 160827",F-RW,Compass 5 000
+B20D7C,MText,"CPEC Riser Site PIL 180170",F-WS,9.999999999999899
+B20D80,AlignedDimension,"CNRL  A/R  880425",C-AR,Compass 5 000
+B20D81,AlignedDimension,"CNRL  A/R  902 1976  880646",F-AR-T,Compass 5 000
+B20D84,MText,"Alberta Rail 20.00 A/R DLO 012332",F-AR-T,9.999999999999826
+B20D87,AlignedDimension,"CNRL  P/L R/W  130988",F-RW-T,Compass 5 000
+B20D88,AlignedDimension,"CNRL  P/L R/W  902 1976  890719",F-RW-T,Compass 5 000
+B20D89,AlignedDimension,"CNRL  P/L R/W  922 0802  900203",C-RW,Compass 5 000
+B20D8A,AlignedDimension,"CNRL  P/L R/W  130327",C-RW,Compass 5 000
+B20D8B,AlignedDimension,"CNRL  P/L R/W  140332",C-RW,Compass 5 000
+B20D8C,AlignedDimension,"CNRL  P/L R/W  130940",F-RW-T,Compass 5 000
+B20D8D,AlignedDimension,"PGI Processing  P/L R/W  210723",F-RW-T,Compass 5 000
+B20D8F,AlignedDimension,"CNRL  P/L R/W  902 2057  890720",F-RW-T,Compass 5 000
+B20D90,AlignedDimension,"CNRL  P/L R/W  140474",C-RW,Compass 5 000
+B20D9B,MText,"CNRL 15-36 (Surface) MSL 131097",F-WS-T,9.999999999999812
+B20D9D,MText,"CNRL 16-36 (Surface) MSL 890477 (Expired)",C-WS,9.999999999999812
+B20D9F,MText,"CNRL Dehydrator Site Plan 902 2657 PIL 890107 (Expired)",C-WS,9.999999999999812
+B21629,BlockReference,"*U39",AS-SURFACE IMPACT,1
+B2164F,MText,"Twp. 66",C-SYMBOL,13.993027387921577
+B22676,MText,"Twp. 65",C-SYMBOL,10
+B2267C,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B22699,MText,"Twp. 66",C-SYMBOL,10
+B226AD,AlignedDimension,"CPEC  P/L R/W  210892",C-AR-T,Compass 5 000
+B226AE,AlignedDimension,"CPEC  P/L R/W  130052",F-RW,Compass 5 000
+B226AF,AlignedDimension,"CPEC  P/L R/W  220277",F-RW,Compass 5 000
+B226B0,AlignedDimension,"CPEC  P/L R/W  170041",F-RW,Compass 5 000
+B226B2,MText,"CPEC Riser Site PIL 180170",F-WS,10
+B226B6,AlignedDimension,"CNRL  A/R  880425",F-AR-T,Compass 5 000
+B226BA,AlignedDimension,"CNRL  P/L R/W  130988",C-RW,Compass 5 000
+B226BB,AlignedDimension,"CNRL  P/L R/W  902 1976  890719",C-RW,Compass 5 000
+B226BF,AlignedDimension,"CNRL  P/L R/W  130940",C-RW,Compass 5 000
+B226CD,MText,"CNRL 16-36 (Surface) MSL 890477 (Expired)",F-WS-T,10
+B226CF,MText,"CNRL Dehydrator Site Plan 902 2657 PIL 890107 (Expired)",F-WS-T,10
+B228E6,AlignedDimension,"Alberta Rail  A/R  012332",F-AR-T,Compass 5 000
+B2293B,AlignedDimension,"CNRL  P/L R/W  902 1976  890719",F-AR-T,Compass 5 000
+B229A4,AlignedDimension,"CNRL  P/L R/W  140332",F-AR-T,Compass 5 000
+B22F6B,AlignedDimension,"CPEC  P/L R/W PLA 160827",C-RW-T,Compass 5 000
+B22FA8,AlignedDimension,"PGI  P/L R/W  210723",F-RW-T,Compass 5 000
+B22FEE,AlignedDimension,"CNRL  P/L R/W  140474",C-RW,Compass 5 000
+B230AB,AlignedDimension,"CNRL  P/L R/W  130327",C-RW-T,Compass 5 000
+B230CD,AlignedDimension,"CNRL  A/R  880425",C-RW-T,Compass 5 000
+B23111,AlignedDimension,"CNRL  A/R  880425",C-RW-T,Compass 5 000
+B237AA,BlockReference,"*U58",P-TEMP-BLOCKS,1
+B2386C,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995727299999958
+B23952,DBText,"L.S. 16",L-SECTION-LSD,10
+B2A5A9,MText,"CNRL 15.00 A/R Plan 902 2057 LOC 890704 (Expired)",F-RW-T,10
+B2A88B,BlockReference,"*U57",35,1
+B2A8DD,BlockReference,"*U38",CG-NOTES,1
+B2AF49,AlignedDimension,"CPEC  A/R  180526",F-AR-T,Compass 5 000
+B2CD84,AlignedDimension,"CPEC  A/R  180526",F-RW,Compass 5 000
+B2CF2F,AlignedDimension,"CNRL  P/L R/W  922 0802  900203",F-AR-T,Compass 5 000
+B2CF9E,MText,"CNRL 15.00 P/L R/W PLA 220903",F-AR-T,10
+B2F30D,BlockReference,"xing2",P-CROSSINGS,1
+B2F328,BlockReference,"xing2",P-CROSSINGS,1
+B39B58,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

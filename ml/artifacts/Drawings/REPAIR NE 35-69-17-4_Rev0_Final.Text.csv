@@ -1,0 +1,46 @@
+Handle,ObjType,Content,Layer,Extra
+AF3073,MText,"Twp. 69",D-TXT,14
+AF3074,MText,"Twp. 70",D-TXT,14
+AF3CD6,BlockReference,"L-SECLBL",L-SECLBL,1
+AF3CDF,DBText,"N.E.1/4 Sec. 35-69-17-W.4M.",C-SYMBOL,20
+AF60B6,BlockReference,"*U18",CG-NOTES,1
+AF62B6,DBText,"(High Grade Gravel)",T-TEXT,10
+AF62B7,DBText,"Twp. Rd. 700",L-ROAD-T,10
+AF7982,MText,"Lot 3 Block 1 Plan 132 0003",L-TITLEDB,10
+AF7983,MText,"Lot 2 Block 1 Plan 132 0003",L-TITLEDB,10
+AF7984,MText,"Lot 1 Block 1 Plan 132 0003",C-SYMBOL,20
+AF7B13,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  092 5186  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+AF7B47,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3741  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+AF7BF8,AlignedDimension,"30.48 Road Plan  3277",L-TITLEDB-T,Compass 5 000
+AF7DB7,DBText,"(Low Grade Gravel)",T-TEXT,10
+AF7DB8,DBText,"Government Road Allowance",L-ROAD-T,10
+AF871F,AlignedDimension,"30.00 Road Plan  0127",L-TITLEDB-T,Compass 5 000
+AFC9FD,MText,"Fortis O/H Power Line",AS-POWER-T,10
+AFCA06,MText,"Buried Telus Cable",AS-TELUS,10
+B087B3,AlignedDimension,"Grand Rapids  P/L R/W  by Focus  56699-18, 56673-14)",F-RW-T,Compass 5 000
+B0A88A,AlignedDimension,"CNRL  P/L R/W  062 5023  37936-2)",F-RW-T,Compass 5 000
+B0A8B2,MText,"Fortis Buried Power Line",AS-POWER-T,10
+B0C000,BlockReference,"*U25",CG-NOTES,1
+B0C804,AlignedDimension,"Fortis  Utility R/W  212 106 887",F-RW-T,Compass 5 000
+B0E00F,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B10352,MText,"30.48 Road Plan 832 2439",L-TITLEDB-T,10
+B10965,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.996949999999991
+B133FF,DBText,"Government Road Allowance",L-ROAD-T,10
+B139F9,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B13A01,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B13FE2,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B13FEA,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B17201,BlockReference,"*U27",0,0.9993471061400016
+B1A068,AlignedDimension,"5.18 Future Road  102 416 903",F-AR-T,Compass 5 000
+B1B489,BlockReference,"*U29",CG-NOTES,1
+B1B922,AlignedDimension,"Fortis  Utility R/W  162 327 113",F-RW-T,Compass 5 000
+B1B980,MText,"Grand Rapids Meter Station",F-RW-T,10
+B1BECE,BlockReference,"*U31",0,1
+B1BEF8,BlockReference,"*U32",0,1
+B1C809,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1C811,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1E793,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1EC10,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1EC19,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1EC27,MText,"10.0x30.0 A/R (Temporary)",P-TEMP-T,10
+B22FE0,BlockReference,"Disclaimer_Legal",0,0.25

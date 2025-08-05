@@ -1,0 +1,118 @@
+Handle,ObjType,Content,Layer,Extra
+BC5316,BlockReference,"L-SECLBL",L-SECLBL,1
+BC5322,BlockReference,"L-SECLBL",L-SECLBL,1
+BC5328,BlockReference,"RP",L-SECLBL,1
+BC532C,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994759999999983
+BC532D,DBText,"Theor. S.W.1/4",C-SYMBOL,19.989519999999967
+BC532E,DBText,"Sec. 14-63-20-W.5M.",C-SYMBOL,19.989519999999967
+BC5331,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994759999999983
+BC5334,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991615999999969
+BC5336,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991615999999969
+BC542F,AlignedDimension,"Murphy  A/R  110660",F-AR-T,Compass 5 000
+BC5430,MText,"Veren 20.00 A/R LOC 150934",C-AR-T,9.999999999999991
+BC5432,MText,"Veren 6-14 MSL 150809",C-WS-T,9.999999999999991
+BC5433,AlignedDimension,"Paramount  P/L R/W  082 2201  032508",F-AR-T,Compass 5 000
+BC5434,AlignedDimension,"Veren  P/L R/W  141206",C-RW-T,Compass 5 000
+BC5435,AlignedDimension,"Paramount  A/R  031595",F-AR-T,Compass 5 000
+BC5436,MText,"Veren Water Reservoir LOC 150475",C-WS-T,9.999999999999991
+BC5437,AlignedDimension,"Paramount  A/R  962829",F-AR-T,Compass 5 000
+BC5438,AlignedDimension,"Veren  P/L R/W  190149",C-RW-T,Compass 5 000
+BC5439,MText,"Veren 2-15 MSL 112149",C-WS-T,9.999999999999991
+BC543A,MText,"CNRL 1-15 MSL 004001",F-AR-T,9.999999999999991
+BC543B,MText,"CNRL 20.00 A/R LOC 810346",F-AR-T,9.999999999999991
+BC543D,AlignedDimension,"Veren  A/R  111955",C-AR-T,Compass 5 000
+BC543E,AlignedDimension,"CNRL  A/R  992513",F-AR-T,Compass 5 000
+BC543F,MText,"Veren Riser Site PIL 140531",C-WS-T,9.999999999999991
+BC5441,AlignedDimension,"Veren  A/R  141244",C-AR-T,Compass 5 000
+BC5442,MText,"Pembina 12.19 P/L R/W Plan 1377 KS ROE 5906",F-AR-T,9.999999999999991
+BC544F,AlignedDimension,"Veren  P/L R/W  141206",C-RW-T,Compass 5 000
+BC5450,AlignedDimension,"ATCO  Power Line R/W  160008",F-EZE-T,Compass 5 000
+BC5451,AlignedDimension,"ATCO  Power Line R/W  160008",F-EZE-T,Compass 5 000
+BC5454,AlignedDimension,"Murphy  P/L R/W  122052",F-RW-T,Compass 5 000
+BC5455,AlignedDimension,"Murphy  P/L R/W  120686",F-RW-T,Compass 5 000
+BC5456,AlignedDimension,"Murphy  P/L R/W  110751",F-RW-T,Compass 5 000
+BC5457,AlignedDimension,"Murphy  P/L R/W  120687",F-RW-T,Compass 5 000
+BC5458,AlignedDimension,"Murphy  P/L R/W  230548",F-RW-T,Compass 5 000
+BC5459,AlignedDimension,"Veren  Water Line R/W  180026",C-AR-T,Compass 5 000
+BC545A,AlignedDimension,"Veren  P/L R/W  130946",C-RW-T,Compass 5 000
+BC545B,AlignedDimension,"CNRL  P/L R/W  131561",F-RW-T,Compass 5 000
+BC545C,AlignedDimension,"Athabasca  P/L R/W  121577",F-RW-T,Compass 5 000
+BC545D,AlignedDimension,"Paramount  P/L R/W  012 3777  991836",F-RW-T,Compass 5 000
+BC545E,AlignedDimension,"Veren  P/L R/W  150802",C-RW-T,Compass 5 000
+BC545F,AlignedDimension,"Veren  P/L R/W  121150",C-RW-T,Compass 5 000
+BC5460,AlignedDimension,"Veren  P/L R/W  160146",C-RW-T,Compass 5 000
+BC5461,AlignedDimension,"Pembina  P/L R/W  1377 KS  2188",F-RW-T,Compass 5 000
+BC5462,AlignedDimension,"CNRL  P/L R/W  012 4034  001028",F-RW-T,Compass 5 000
+BC5463,AlignedDimension,"Veren  P/L R/W  141205",C-RW-T,Compass 5 000
+BC546C,AlignedDimension,"Veren  P/L R/W  210444",C-RW-T,Compass 5 000
+BC546D,MText,"Murphy 4-14 MSL 110686",F-WS-T,9.99999999999998
+BC546F,MText,"Murphy Storage Site MLL 210032",F-WS-T,9.999999999999995
+BC5470,MText,"Paramount 4-14 (Surface) MSL 963775 (Expired)",F-WS-T,9.999999999999991
+BC547C,AlignedDimension,"Alberta Transportation  Road  5574 JY",L-TITLEDB-T,Compass 5 000
+BC547D,MText,"Highway 43",L-TITLEDB-T,9.99999999999999
+BC547E,AlignedDimension,"30.00 Road  022 6781",L-TITLEDB-T,Compass 5 000
+BC54AF,MText,"Veren Water Reservoir LOC 150475",C-WS-T,9.999999999999991
+BC55BA,BlockReference,"*U24",ROUTE-MAP-LABELS,0.9994759999999996
+BC561D,AlignedDimension,"Veren  A/R  150410",C-AR-T,Compass 5 000
+BC561E,DBText,"Theor. S.E.1/4",C-SYMBOL,19.989519999999967
+BC561F,DBText,"Sec. 15-63-20-W.5M.",C-SYMBOL,19.989519999999967
+BC566E,AlignedDimension,"ATCO  Vegetation   R/W  880555",F-EZE-T,Compass 5 000
+BC56B4,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.994759999999983
+BC56CB,MText,"Buried Telus Cable",AS-TELEPHONE,9.999999999999996
+BC56EF,MText,"Paved Road",T-TEXT,9.999999999999996
+BC56F0,MText,"Paved Road",T-TEXT,9.999999999999996
+BC56F2,MText,"Gravel Road",T-TEXT,9.999999999999996
+BC56F4,MText,"Gravel Road",T-TEXT,9.999999999999996
+BDA3FC,BlockReference,"xing2",P-CROSSINGS,1
+BDA403,AlignedDimension,"Veren  Water Line R/W  240705",C-AR-T,Compass 5 000
+BDA434,BlockReference,"xing2",P-CROSSINGS,1
+BDA43B,BlockReference,"xing2",P-CROSSINGS,1
+BDA442,BlockReference,"xing2",P-CROSSINGS,1
+BE6A0C,BlockReference,"xing2",P-CROSSINGS,0.999471
+BE8357,BlockReference,"*U62",AS-OWNER,0.999471
+BEAC1B,AlignedDimension,"Veren  Water Line R/W  240705",C-AR-T,Compass 5 000
+BEAC67,AlignedDimension,"Shell  P/L R/W  141207",C-RW-T,Compass 5 000
+BEACBA,BlockReference,"TEMP",L-MON,4.997355
+BEB2DE,BlockReference,"TEMP",L-MON,4.997355
+BEB2DF,BlockReference,"TEMP",L-MON,4.997355
+BEB2E0,BlockReference,"TEMP",L-MON,4.997355
+BEB2E1,BlockReference,"TEMP",L-MON,4.997355
+BEB2E2,BlockReference,"TEMP",L-MON,4.997355
+BEB2E3,BlockReference,"TEMP",L-MON,4.997355
+BEB2E4,BlockReference,"TEMP",L-MON,4.997355
+BEB2E5,BlockReference,"TEMP",L-MON,4.997355
+BEB2EC,DBText,"59°17'",L-BD,9.99471
+BEB2EE,DBText,"60°42'",L-BD,9.99471
+BEB2F0,DBText,"40°01'",L-BD,9.99471
+BEB2F2,DBText,"14°16'",L-BD,9.99471
+BEB5CA,BlockReference,"xing2",P-CROSSINGS,0.999471
+BEB5D1,BlockReference,"xing2",P-CROSSINGS,0.999471
+BEB5D8,BlockReference,"TEMP",L-MON,4.997355
+BEB5D9,BlockReference,"TEMP",L-MON,4.997355
+BEB5DA,BlockReference,"TEMP",L-MON,4.997355
+BEB5DB,BlockReference,"TEMP",L-MON,4.997355
+BEB5DC,AlignedDimension,"Veren  Water Line R/W  180026",C-RW,Compass 5 000
+BEB5DE,DBText,"287°00'",L-BD,9.99471
+BEB5E0,DBText,"219°09'",L-BD,9.99471
+BEB5E2,DBText,"306°09'",L-BD,9.99471
+BEB5E3,AlignedDimension,"Veren  Water Line R/W  240705",C-AR,Compass 5 000
+BEB5E5,DBText,"14°16'",L-BD,9.99471
+BEB5E6,MText,"Gravel Road",T-TEXT,9.999999999999996
+BEB631,MText,"SEE DETAIL",DETAIL-T,15.991536
+BEB71E,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.98942
+BEBD57,MText,"Veren Water Reservoir LOC 150475",C-WS-T,9.999999999999991
+BEBE21,BlockReference,"Route_Letters",CG-NOTES,0.9989472771960001
+BEBE24,BlockReference,"AA",CG-NOTES,0.9989472771960001
+BEBE25,BlockReference,"AA",CG-NOTES,0.9989472771960001
+BEBE2F,BlockReference,"Route_Letters",CG-NOTES,0.9989472771960001
+BEBE32,BlockReference,"AA",CG-NOTES,0.9989472771960001
+BEBE33,BlockReference,"Route_Letters",CG-NOTES,0.9989472771960001
+BEC5FF,AlignedDimension,"Veren  P/L R/W  231143",C-RW-T,Compass 5 000
+BEF500,BlockReference,"TEMP",L-MON,4.997355
+BEF503,DBText,"59°17'",L-BD,9.99471
+BEF518,DBText,"328°45'",L-BD,9.99471
+BF1D68,DBText,"391.8(Tie)",L-BD,9.99471
+BF1D69,DBText,"304°50'",L-BD,9.99471
+BF21C7,MText,"217.8(Tie) 316°36'",L-BD,9.99471
+BF21D3,MText,"391.8(Tie) 304°50'",L-BD,9.99471
+BF4EB9,BlockReference,"Disclaimer_Legal",AS-UNDERLAY-H,0.24986775

@@ -1,0 +1,127 @@
+Handle,ObjType,Content,Layer,Extra
+A85F32,BlockReference,"L-SECLBL",L-SECLBL,0.999755
+A85F95,AlignedDimension,"Nova  P/L R/W  022 3093",F-RW-T,Compass 5 000
+A85FB2,AlignedDimension,"30.18 Road  892 2240",L-TITLEDB-T,Compass 5 000
+A85FB5,AlignedDimension,"Tidewater  P/L R/W  032 0151",F-RW-T,Compass 5 000
+A85FB6,AlignedDimension,"Tidewater  P/L R/W  032 0150",F-RW-T,Compass 5 000
+A85FB7,AlignedDimension,"Tidewater  P/L R/W  032 1847",F-RW-T,Compass 5 000
+A85FB8,AlignedDimension,"Tidewater  P/L R/W  842 0117",F-RW-T,Compass 5 000
+A85FC6,BlockReference,"GAS",F-WS-S,4.998775
+A85FC7,BlockReference,"GAS",F-WS-S,4.998775
+A85FCA,MText,"Tidewater 5-32",F-WS-T,9.99755
+A85FCC,BlockReference,"GAS",F-WS-S,4.998775
+A85FD0,MText,"Tidewater 102/6-32",F-WS-T,9.99755
+A85FD2,MText,"Tidewater 6-32",F-WS-T,9.99755
+A85FD9,MText,"Tidewater 14-32",F-WS-T,9.99755
+A85FDB,BlockReference,"GAS",F-WS-S,4.998775
+A85FDC,BlockReference,"GAS",F-WS-S,4.998775
+A85FDD,MText,"Tidewater 102/3-32(HZ)",F-WS-T,9.99755
+A85FDF,MText,"Tidewater 11-32",F-WS-T,9.99755
+A85FE1,BlockReference,"GAS",F-WS-S,4.998775
+A85FE4,BlockReference,"GAS",F-WS-S,4.998775
+A85FE5,MText,"Tidewater 102/14-32",F-WS-T,9.99755
+A85FE7,MText,"Tidewater 13-32",F-WS-T,9.99755
+A85FE9,BlockReference,"GAS",F-WS-S,4.998775
+A85FEB,BlockReference,"GAS",F-WS-S,4.998775
+A85FEC,MText,"CNRL 16-31",F-WS-T,9.99755
+A86061,BlockReference,"*U26",AS-OWNER,0.999755
+A860BA,AlignedDimension,"Tidewater  A/R",F-AR-T,Compass 5 000
+A860BB,AlignedDimension,"Tidewater  A/R",F-AR-T,Compass 5 000
+A86176,AlignedDimension,"Tidewater  A/R",F-AR-T,Compass 5 000
+A86198,AlignedDimension,"Tidewater  A/R",F-AR-T,Compass 5 000
+A86199,AlignedDimension,"Tidewater  P/L R/W  892 2562",F-RW-T,Compass 5 000
+A991F1,DBText,"Government Road Allowance",L-ROAD-T,9.99755
+A991F8,DBText,"Government Road Allowance",L-ROAD-T,9.99755
+A991F9,DBText,"(8m High Grade Gravel)",T-TEXT,9.99755
+B87725,MText,"Trumpeter Swan 800m Boundary",AS-WILDLIFE,9.99755
+C4BFDD,DBText,"Twp. 74",D-TXT,13.996570000000176
+C4BFDE,DBText,"Twp. 75",D-TXT,13.996570000000176
+C4BFE1,DBText,"(Correction Line)",L-ROAD-T,9.99755
+C5207C,AlignedDimension,"ATCO  Power Line R/W  792 135 079",F-EZE-T,Compass 5 000
+CBA397,MText,"CNRL 12-32 (On Title)",F-WS-T,10.997305000000164
+CBA398,AlignedDimension,"CNRL  A/R",F-WS-T,Compass 5 000
+CBB715,MText,"ATCO Anchor R/W Reg.# 072 171 829",F-EZE-T,9.99755
+CD9B70,DBText,"(8m High Grade Gravel)",T-TEXT,9.99755
+CEE796,MText,"Trumpeter Swan 500m Boundary",AS-WILDLIFE,9.99755
+F79446,BlockReference,"FDI",L-MON,4.998775
+F79490,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+F7949D,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+F794AE,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+F79A67,BlockReference,"FDI",L-MON,4.998775
+F7A207,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+F7A20C,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+F7A211,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+1073BB7,MText,"Approximate Location of  ATCO Gas and Pipelines Ltd.",AS-PIPE-UG-T,9.99755
+114195D,MText,"Buried Pipe",AS-PIPE-UG-T,9.99755
+114195E,MText,"Buried Telus Cable",AS-TELUS,9.99755
+1171F6E,MText,"Buried Telus Cables",AS-TELUS,9.99755
+1171FF2,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+1171FF3,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.998775
+1172036,MText,"Tidewater 13-32",F-WS-T,9.99755
+11739D1,AlignedDimension,"30.18 Road  892 2240",L-TITLEDB-T,Compass 5 000
+11739ED,DBText,"Twp. 74",D-TXT,13.996570000000176
+11739EF,MText,"Approximate Location of  ATCO Gas and Pipelines Ltd.",AS-PIPE-UG-T,9.99755
+11739F0,MText,"N.-S.1/4 Line",L-QSEC,9.99755
+11739FB,DBText,"(Correction Line)",L-ROAD-T,9.99755
+11739FC,DBText,"(8m High Grade Gravel)",T-TEXT,9.99755
+11739FD,DBText,"Government Road Allowance",L-ROAD-T,9.99755
+1173A47,MText,"Buried Pipe",AS-PIPE-UG-T,9.99755
+1173A49,MText,"Dugout",T-WATER-T,9.99755
+1173A4A,AlignedDimension,"Nova  P/L R/W  by Global",F-RW-T,Compass 5 000
+1173A6E,AlignedDimension,"Nova  P/L R/W  022 3093",F-RW-T,Compass 5 000
+11828CD,DBText,"Cultivation",T-TEXT,9.99755
+11828CE,DBText,"Cultivation",T-TEXT,9.99755
+11842A1,DBText,"Cultivation",T-TEXT,9.99755
+118C5E7,MText,"Fd.I. Mp. R5",L-MON,9.99755
+118C5EB,DBText,"Fd.I. Mp.",L-MON,9.99755
+118C5EE,MText,"Fd.I. Mp. R6",L-MON,9.99755
+1556134,DBText,"91°",L-BD,9.99755
+1556136,DBText,"15''",L-BD,9.99755
+155613C,DBText,"91°",L-BD,9.99755
+1A1C7BD,MText,"N.W.1/4 Sec. 32 74-9-W.6M.",C-SYMBOL,19.9951
+1A1C7BE,MText,"Riser Site = 0.150 ha  0.37 Ac.",L-AREAREQUIRED,10.997305000000052
+1A1C7BF,MText,"Access Road = 0.030 ha  0.07 Ac.",L-AREAWORK,10.997305000000052
+1C39D82,AlignedDimension,"ATCO  Power Line R/W  792 153 250",F-EZE-T,Compass 5 000
+23D7C20,BlockReference,"TEMP",L-MON,4.998775
+23D7C24,BlockReference,"TEMP",L-MON,4.998775
+23D7C28,BlockReference,"FDI",L-MON,4.998775
+23D8069,AlignedDimension,"CSV  P/L R/W  ___ ____",C-RW-T,Compass 5 000
+23D8098,AlignedDimension,"CSV  P/L R/W  ___ ____",C-RW-T,Compass 5 000
+23DA28F,DBText,"181°50'45''",L-BD1,9.99755
+23DA290,AlignedDimension,"10.00 A/R",P-TXT,Compass 5 000
+23DA2D5,DBText,"271°50'45''",L-BD1,9.99755
+23DB209,DBText,"1°",L-BD1,9.99755
+23DB658,MText,"L.S. 11",L-SECTION-LSD,9.99755
+23DB65A,MText,"L.S. 12",L-SECTION-LSD,9.99755
+23DB65C,MText,"L.S. 14",L-SECTION-LSD,9.99755
+23DB65D,MText,"L.S. 13",L-SECTION-LSD,9.99755
+23E226B,DBText,"RP",35,9.99755
+23E24A2,BlockReference,"*U50",DETAIL-T,1
+23E24E6,MText,"Fd.I. Mp.",L-MON,10.000000000000004
+23E24E7,BlockReference,"FDI",L-MON,5.000000000000002
+23E257B,MText,"RP",35,10.000000000000004
+23E257C,BlockReference,"*U51",DETAIL-T,1
+23F2159,BlockReference,"TEMP",L-MON,4.998775
+23F215B,BlockReference,"TEMP",L-MON,4.998775
+23F215C,BlockReference,"TEMP",L-MON,4.998775
+23F5B3F,BlockReference,"xing2",P-CROSSINGS,0.999755
+23F5D1C,BlockReference,"xing2",P-CROSSINGS,0.999755
+23F5D32,DBText,"54'",L-BD,9.99755
+23FAB29,DBText,"54'",L-BD,9.99755
+23FAB30,MText,"26°17'15'' 98.81 (Tie)",L-BD,9.99755
+23FB505,DBText,"91°50'45''",L-BD1,9.99755
+23FC09B,MText,"Twp. 75",D-TXT,13.996570000000176
+23FC0D9,AlignedDimension,"ATCO Gas   Utility R/W  822 023 337",F-RW-T,Compass 5 000
+23FC37E,DBText,"15''",L-BD,9.99755
+23FC37F,MText,"26°17'15'' 98.81 (Tie)",L-BD,9.99755
+24007C8,DBText,"50'",L-BD1,9.99755
+24007C9,DBText,"45''",L-BD1,9.99755
+240199E,BlockReference,"TEMP",L-MON,4.998775
+240199F,BlockReference,"TEMP",L-MON,4.998775
+24019A0,BlockReference,"TEMP",L-MON,4.998775
+24019A1,BlockReference,"TEMP",L-MON,4.998775
+24019A8,BlockReference,"TEMP",L-MON,4.998775
+2401D60,AlignedDimension,"Nova  P/L R/W  242 2070",F-RW-T,Compass 5 000
+2402FE4,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.9951
+2403007,AlignedDimension,"Nova  P/L R/W  242 2070",F-RW-T,Compass 5 000
+2408299,BlockReference,"Disclaimer_Legal",C-AR,0.2

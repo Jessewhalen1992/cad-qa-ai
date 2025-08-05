@@ -1,0 +1,96 @@
+Handle,ObjType,Content,Layer,Extra
+BD1C0E,BlockReference,"L-SECLBL",L-SECLBL,0.9994709999999981
+BD1C19,MText,"Rge. 21",D-TXT,13.992593999999931
+BD1C1A,MText,"Rge. 20",D-TXT,13.992593999999931
+BD1C21,DBText,"Government Road Allowance",L-ROAD-T,9.994709999999964
+BD1C24,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999964
+BD1C25,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999964
+BD1E33,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991535999999934
+BD1E37,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991535999999934
+BD1E41,MText,"Theor. S.W.1/4 Sec. 30-62-20-W.5M.",C-SYMBOL,19.989419999999935
+BD1E42,MText,"Theor. S.E.1/4 Sec. 30-62-20-W.5M.",C-SYMBOL,19.989419999999935
+BD1E62,BlockReference,"HRV",CG-NOTES,0.9994709999999981
+BD1E69,MText,"Veren Water Reservoir LOC 150927",C-WS-T,9.994709999999968
+BD1E7A,AlignedDimension,"Paramount  A/R  941145",F-AR-T,Compass 5 000
+BD1E7C,AlignedDimension,"ATCO  Power Line R/W  140304",F-EZE-T,Compass 5 000
+BD1E7D,AlignedDimension,"ATCO  Power Line R/W  140304",F-EZE-T,Compass 5 000
+BD1E82,AlignedDimension,"ATCO  Power Line R/W  180023",F-EZE-T,Compass 5 000
+BD1E8D,AlignedDimension,"Procyon  A/R  122346",F-AR-T,Compass 5 000
+BD1E91,AlignedDimension,"Texcal  Flowline R/W  1939",F-FLOWLINE-T,Compass 5 000
+BD1E93,AlignedDimension,"Texcal  A/R  2164",F-AR-T,Compass 5 000
+BD1E9F,AlignedDimension,"Pembina  P/L R/W  160648",F-RW-T,Compass 5 000
+BD1EA1,AlignedDimension,"Pembina  P/L R/W  160648",F-RW-T,Compass 5 000
+BD1EA3,AlignedDimension,"Pembina  P/L R/W  131393",F-RW-T,Compass 5 000
+BD1EA4,AlignedDimension,"Pembina  P/L R/W  131393",F-RW-T,Compass 5 000
+BD1EB3,AlignedDimension,"Paramount  P/L R/W  961300",F-RW-T,Compass 5 000
+BD1EB6,AlignedDimension,"Paramount  P/L R/W  160174",F-RW-T,Compass 5 000
+BD1EB7,AlignedDimension,"Paramount  P/L R/W  160175  be Cancelled)",F-RW-T,Compass 5 000
+BD1EB8,AlignedDimension,"Paramount  P/L R/W  160175  be Cancelled)",F-RW-T,Compass 5 000
+BD1EB9,AlignedDimension,"Paramount  P/L R/W  972 4001  941240",F-RW-T,Compass 5 000
+BD1EBA,AlignedDimension,"Paramount  P/L R/W  972 4001  941240",F-RW-T,Compass 5 000
+BD1EBD,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BD1EBE,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BD1ECB,MText,"Paramount 6-30 (Surface) MSL 941145 (Expired)",F-WS-T,9.994709999999968
+BD1ED5,MText,"2-30 (Abd.)",F-WS-T,9.994709999999968
+BD1ED7,DBText,"(Undeveloped)",T-TEXT,9.994709999999964
+BD1EDF,BlockReference,"GABD",F-WS-S,4.997354999999989
+BD1EE0,BlockReference,"GAS",F-WS-S,4.997354999999989
+BD1EE1,BlockReference,"GAS",F-WS-S,4.997354999999989
+BD1EEA,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.994709999999982
+BD1EEC,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.994709999999982
+BD1EEE,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.994709999999982
+BD1EEF,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.994709999999982
+BD1EF0,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999964
+BD3B55,AlignedDimension,"Procyon  A/R  122123",F-AR-T,Compass 5 000
+BD3BA0,AlignedDimension,"Procyon  A/R  122346",F-AR-T,Compass 5 000
+BD3BD0,AlignedDimension,"Paramount  A/R  131164",F-AR-T,Compass 5 000
+BD3FB2,AlignedDimension,"CRR  A/R  911108",F-EZE-T,Compass 5 000
+BD3FC7,AlignedDimension,"Paramount  Flowline R/W  1641",F-FLOWLINE-T,Compass 5 000
+BD5C87,AlignedDimension,"Texcal  P/L R/W  2617",F-FLOWLINE-T,Compass 5 000
+BD6F80,AlignedDimension,"Paramount  P/L R/W  be Cancelled)",C-RW-T,Compass 5 000
+BDD5C1,AlignedDimension,"Veren  Waterline R/W  241332",C-RW-T,Compass 5 000
+BDDB5A,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB5B,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB5C,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB5D,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB5E,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB5F,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB60,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDB61,BlockReference,"TEMP",L-MON,4.997319999999996
+BDDC70,DBText,"874.3 (Tie)",L-BD,9.994639999999992
+BDDC71,DBText,"81°35'",L-BD,9.994639999999992
+BDDC76,DBText,"343°33'",L-BD1,9.994639999999992
+BDDC78,DBText,"327°01'",L-BD1,9.994639999999992
+BDDC7A,DBText,"335°16'",L-BD1,9.994639999999992
+BDDC7C,DBText,"270°37'",L-BD1,9.994639999999992
+BDDC7E,DBText,"260°30'",L-BD1,9.994639999999992
+BDDC80,DBText,"271°47'",L-BD1,9.994639999999992
+BDEC91,MText,"312°41' 79.8",L-BD1,9.994639999999992
+BDF5FA,BlockReference,"TEMP",L-MON,4.997319999999996
+BDF5FB,BlockReference,"TEMP",L-MON,4.997319999999996
+BDF5FC,BlockReference,"TEMP",L-MON,4.997319999999996
+BDF5FD,BlockReference,"TEMP",L-MON,4.997319999999996
+BDFE7A,MText,"295°26'",L-BD,9.994639999999992
+BDFE7B,MText,"395.7 (Tie)",L-BD,9.994639999999992
+BDFE83,MText,"295°26'",L-BD,9.994639999999992
+BDFE84,MText,"395.7 (Tie)",L-BD,9.994639999999992
+BDFE85,MText,"Veren Water Reservoir LOC 150927",C-WS-T,9.994709999999968
+BDFE89,DBText,"335°16'",L-BD1,9.994639999999992
+BDFE8C,AlignedDimension,"Paramount  Flowline R/W  1641",F-FLOWLINE-T,Compass 5 000
+BDFEB3,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BDFFE2,AlignedDimension,"Paramount  P/L R/W  160174",F-RW-T,Compass 5 000
+BE0012,AlignedDimension,"Procyon  A/R  122346",F-AR-T,Compass 5 000
+BE0039,AlignedDimension,"Paramount  A/R  941145",F-AR-T,Compass 5 000
+BE069C,MText,"SEE DETAIL",DETAIL-T,15.991423999999991
+BE0C5F,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.989279999999983
+BE12AD,BlockReference,"xing2",P-CROSSINGS,0.9994639999999999
+BE1875,BlockReference,"xing2",P-CROSSINGS,0.9994639999999999
+BE37DB,DBText,"RP",35,9.994709999999984
+C044A4,AlignedDimension,"Keyera  P/L R/W  200142",F-RW-T,Compass 5 000
+C044D4,AlignedDimension,"Procyon  P/L R/W  130340",F-RW-T,Compass 5 000
+C04B52,AlignedDimension,"Alliance  P/L R/W  981082",F-RW-T,Compass 5 000
+C04CF7,AlignedDimension,"Alliance  P/L R/W  981082",F-RW-T,Compass 5 000
+C05F3F,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+C05F5E,AlignedDimension,"Paramount  P/L R/W  160174",F-RW-T,Compass 5 000
+C09780,AlignedDimension,"Paramount  P/L R/W  160175  be Cancelled)",F-RW-T,Compass 5 000
+C109BC,BlockReference,"Disclaimer_Legal",0,1

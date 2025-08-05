@@ -1,0 +1,132 @@
+Handle,ObjType,Content,Layer,Extra
+B078AC,BlockReference,"FDI",L-MON,1
+B078CD,BlockReference,"FDI",L-MON,1
+B078DC,BlockReference,"FDI",L-MON,1
+B078E9,BlockReference,"FDI",L-MON,1
+B199ED,MText,"Rail Tracks",C-AR-T,2
+B1E159,MText,"Culvert",T-TEXT,2
+B1E16B,AlignedDimension,"10.06 Road   1372 R",L-TITLEDB-T,Compass 1 000
+B1E898,AlignedDimension,"10.06 Road  2483 P",L-TITLEDB-T,Compass 1 000
+B24AD9,MText,"Wayside Campsite & Access Plan 3383 LZ",L-TITLEDB-T,2
+B25AE2,AlignedDimension,"20.12 Road  2643 AY",L-TITLEDB-T,Compass 1 000
+B261F4,MText,"Road Plan 5449 PX",L-TITLEDB-T,1.8
+B261F5,MText,"Road Plan 831 JY",L-TITLEDB-T,1.8
+B28FFF,BlockReference,"VALVE",AS-SYMBOL,1
+B29000,BlockReference,"VALVE",AS-SYMBOL,1
+B296CC,MText,"(2)Fire Hydrants",T-TEXT,2
+B296D6,MText,"(2)Water Valves",T-WATER-T,2
+B29D9D,MText,"Buried Gas Line",AS-PIPE-UG-T,2
+B2A6BC,MText,"Buried  Telus Cable",AS-TELUS-ATCO PIPELINES,2
+B2A6C6,MText,"Road Shoulder",T-TEXT,2
+B2A6C8,MText,"Road Shoulder",T-TEXT,2
+B2AD9B,MText,"(3)Signs",T-TEXT,2
+B2B4B8,MText,"Building",T-TEXT,2
+B2B4C2,MText,"Building",T-TEXT,2
+B2B4CC,MText,"Building",T-TEXT,2
+B2BBD7,MText,"(2)Signs",T-TEXT,2
+B2E7AF,MText,"Building",T-TEXT,2
+B2E7B9,MText,"Building",T-TEXT,2
+B2E7BB,MText,"Residence",AS-RESIDENCE,2
+B378E1,MText,"49 AVE.",L-TITLEDB-T,2
+B38EA8,BlockReference,"*U29",DETAIL-T,0.2
+B38EBA,MText,"Fd.I.",L-MON-T,2
+B3A001,BlockReference,"*U30",DETAIL-T,0.2
+B3A01B,MText,"Fd.I.",L-MON-T,2
+B3B7DB,MText,"Sidewalk",T-TEXT,2
+B3B7ED,MText,"47 ST.",L-TITLEDB-T,2
+B3B7EF,MText,"Curb",T-TEXT,2
+B3B7F3,MText,"Sidewalk",T-TEXT,2
+B3B7F5,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,1
+B3BE55,MText,"Sidewalk",T-TEXT,2
+B3BE69,MText,"Road Shoulder",T-TEXT,2
+B3BE6B,MText,"Road Shoulder",T-TEXT,2
+B3BE75,MText,"(2)Buried Telus Cables",AS-TELUS-ATCO PIPELINES,2
+B3BE80,MText,"Curb",T-TEXT,2
+B3BF0D,MText,"Road Shoulder",T-TEXT,2
+B3BF0F,MText,"Road Shoulder",T-TEXT,2
+B3BF18,MText,"50 AVE.",L-TITLEDB-T,2
+B3BF20,MText,"49 AVE.",L-TITLEDB-T,1.9999999999999996
+B3BF29,MText,"Pedestal",T-TEXT,2
+B3BF3D,MText,"Vermillion River",T-WATER-T,2
+B3BFCF,MText,"Buried Power Cable",AS-POWER-OH-ATCO PIPELINES-T,2
+B3BFDB,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,1
+B3BFDC,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,1
+B3BFE5,MText,"O/H Power Line",AS-POWER-T,2
+B3BFF0,MText,"Pedestal",T-TEXT,2
+B3C6E9,BlockReference,"*U31",DETAIL-T,0.2
+B3C721,MText,"Fd.I. c.s. (Disturbed)",L-MON-T,2
+B3EA61,BlockReference,"*U33",DETAIL-T,0.2
+B3EAA5,BlockReference,"*U32",DETAIL-T,0.2
+B3EB18,BlockReference,"*U33",DETAIL-T,0.2
+B3EB27,BlockReference,"*U32",DETAIL-T,0.2
+B3EB3D,MText,"HWY.16A",L-TITLEDB-T,1.7999999999999998
+B3EB45,MText,"HWY.16A",L-TITLEDB-T,1.7999999999999998
+B3EB86,BlockReference,"*U34",DETAIL-T,0.2
+B3EBA0,MText,"Fd.I. (Bent)",L-MON-T,2
+B3F353,MText,"Culvert",T-TEXT,2
+B3F367,MText,"Buried Gas Line",AS-PIPE-UG-T,2
+B3F371,MText,"Pedestal",T-TEXT,2
+B3F43B,MText,"Road Shoulder",T-TEXT,2
+B3F445,MText,"Road Shoulder",T-TEXT,2
+B3F463,MText,"Proposed C/L",P-PROPOSED-T,2
+B3F46D,MText,"Proposed C/L",P-PROPOSED-T,2
+B3F481,MText,"Sidewalk",T-TEXT,2
+B3F491,MText,"47 ST.",L-TITLEDB-T,2
+B3F4D1,MText,"49 AVE.",L-TITLEDB-T,1.7999999999999998
+B3F4D9,MText,"43 ST.",L-TITLEDB-T,1.7999999999999998
+B3F4E1,MText,"Elks/Kinsmen Park",L-TITLEDB-T,1.9999999999999996
+B3FCEC,MText,"Vermillion River",T-WATER-T,2
+B3FDB6,MText,"Bridge",L-TITLEDB-T,1.8
+B41FD8,AlignedDimension,"20.12 Road  2643 AY",L-TITLEDB-T,Compass 1 000
+B42008,AlignedDimension,"10.06 Road  2483 P",L-TITLEDB-T,Compass 1 000
+B4201E,AlignedDimension,"10.06 Road   1372 R",L-TITLEDB-T,Compass 1 000
+B422DA,MText,"Road Plan 831 JY",L-TITLEDB-T,1.8
+B422F0,MText,"Road Plan 9220454",L-TITLEDB-T,1.8
+B46D4E,AlignedDimension,"4.57 Power Line RW  3164 HW",L-TITLEDB-T,Compass 1 000
+B46FE3,BlockReference,"lightpole",L-TITLEDB-T,1
+B46FE4,MText,"Light Pole (Typ.)",T-TEXT,1.9999999999999996
+B47130,MText,"Man Hole",T-TEXT,1.9999999999999996
+B4713A,MText,"Pedestal",T-TEXT,1.9999999999999996
+B47149,MText,"Sign",T-TEXT,2
+B4716F,BlockReference,"lightpole",L-TITLEDB-T,1
+B4780E,MText,"Sign",T-TEXT,2
+B47810,BlockReference,"lightpole",L-TITLEDB-T,1
+B47811,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,1
+B478B8,MText,"Block A Plan 918 HW",L-TITLEDB-T,2
+B478B9,MText,"Lot 1  Block 1 Plan 2483 P",L-TITLEDB-T,2
+B478BB,MText,"Lot 10 Block 1 Plan 212 0932",L-TITLEDB-T,2
+B478BC,MText,"Lot 19 Block 1 Plan 152 1979",L-TITLEDB-T,2
+B478BD,MText,"Lot 1 Plan 782 2820",L-TITLEDB-T,2
+B478C5,MText,"Sign",T-TEXT,2
+B478D9,BlockReference,"*U40",AS-POWER-EXISTING-ANC,1
+B478F4,MText,"Anchor",AS-POWER-EXISTING-ANC,2
+B47984,MText,"Pedestal",T-TEXT,1.9999999999999996
+B47987,MText,"Lot 2  Block 1 Plan 2483 P",L-TITLEDB-T,2
+B47988,MText,"Lot 3  Block 1 Plan 2483 P",L-TITLEDB-T,2
+B47989,MText,"Lot 4  Block 1 Plan 2483 P",L-TITLEDB-T,2
+B4798A,MText,"Lot 1 Plan 852 1345",L-TITLEDB-T,2
+B4798B,MText,"Block P Plan 4078 EO",L-TITLEDB-T,2
+B4798C,MText,"Block L Plan 4078 EO",L-TITLEDB-T,2
+B4798D,BlockReference,"lightpole",L-TITLEDB-T,1
+B47AD4,MText,"Block C Plan 918 HW",L-TITLEDB-T,2
+B48215,BlockReference,"lightpole",L-TITLEDB-T,1
+B48216,BlockReference,"*U41",AS-POWER-EXISTING-ANC,1
+B4823A,MText,"Light Pole & Anchor",T-TEXT,2
+B48284,MText,"(2)Signs",T-TEXT,2
+B48286,BlockReference,"lightpole",L-TITLEDB-T,1
+B48287,MText,"Light Pole",T-TEXT,2
+B4828B,AlignedDimension,"Canadian National Rail  Railway  6461 R",L-TITLEDB-T,Compass 1 000
+B482B9,MText,"Lot 5 Block B Plan 912 2009",L-TITLEDB-T,2
+B482C2,MText,"Sign",T-TEXT,2
+B482C4,MText,"Block X Plan 2483 P",L-TITLEDB-T,2
+B48345,BlockReference,"*U43",AS-OWNER,0.19999999999999993
+B48399,BlockReference,"*U44",AS-OWNER,0.19999999999999993
+B48598,MText,"Lot 3 Block 22 Plan 812 2582",L-TITLEDB-T,2
+B48C7B,MText,"Lot 6 Block B Plan 912 2009",L-TITLEDB-T,2
+B48CE1,BlockReference,"FH",Topo-Waterlines,0.6
+B48CE2,BlockReference,"FH",Topo-Waterlines,0.6
+B48DA0,BlockReference,"FH",Topo-Waterlines,0.6
+B48DA1,MText,"Fire Hydrant",T-TEXT,1.9999999999999996
+B48DA3,MText,"Sign",T-TEXT,1.9999999999999996
+B48DA7,MText,"(2)Signs",T-TEXT,1.9999999999999996
+B48DB2,MText,"Sign",T-TEXT,1.9999999999999996

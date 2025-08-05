@@ -1,0 +1,103 @@
+Handle,ObjType,Content,Layer,Extra
+AF4842,BlockReference,"L-SECLBL",L-SECLBL,1
+AF487F,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99482000000003
+AF4880,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99482000000003
+AF4881,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99482000000003
+AF4882,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99482000000003
+AF4891,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991712000000035
+AF48A2,MText,"Rge. 18",D-TXT,13.992748000000002
+AF48A3,MText,"Rge. 17",D-TXT,13.992748000000002
+AF48A8,MText,"L.S. 3",L-SECTION-LSD,9.994820000000004
+AF48AA,MText,"L.S. 4",L-SECTION-LSD,9.994820000000004
+AF48AC,MText,"L.S. 6",L-SECTION-LSD,9.994820000000004
+AF48AE,MText,"L.S. 5",L-SECTION-LSD,9.994820000000004
+AF48B0,MText,"L.S. 1",L-SECTION-LSD,9.994820000000004
+AF48B1,MText,"L.S. 2",L-SECTION-LSD,9.994820000000004
+AF48B3,MText,"L.S. 8",L-SECTION-LSD,9.994820000000004
+AF48B4,MText,"L.S. 7",L-SECTION-LSD,9.994820000000004
+AF4953,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.99482000000003
+AF4956,MText,"L.S. 11",L-SECTION-LSD,9.9948219
+AF4958,MText,"L.S. 12",L-SECTION-LSD,9.9948219
+AF495A,MText,"L.S. 14",L-SECTION-LSD,9.9948219
+AF495B,MText,"L.S. 13",L-SECTION-LSD,9.9948219
+AF4961,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991712000000035
+AF4972,MText,"Theor. N.W.1/4 Sec. 13-64-18-W.5M.",C-SYMBOL,19.9896438
+AF4978,BlockReference,"*U61",35,0.99948219
+AF49ED,MText,"Murphy Water Reservoir LOC 200543",C-RW-T,9.994820000000018
+AF49EE,AlignedDimension,"Murphy  P/L R/W  120529",C-RW-T,Compass 5 000
+AF49EF,AlignedDimension,"Paramount  A/R  220703",F-AR-T,Compass 5 000
+AF49F0,AlignedDimension,"Paramount  A/R  1368",F-AR-T,Compass 5 000
+AF49F1,AlignedDimension,"Paramount  P/L R/W  240076",F-RW-T,Compass 5 000
+AF49F2,AlignedDimension,"Paramount  P/L R/W  240076",F-RW-T,Compass 5 000
+AF49F3,MText,"Paramount Riser Site PIL 240026",F-WS-T,9.994820000000018
+AF49F5,MText,"Paramount 4-13 (Surface) MSL 220563",F-WS-T,9.994820000000018
+AF49F6,MText,"6m High Grade Gravel Road",T-TEXT,10.000000000000021
+AF49F9,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10.000000000000021
+AF49FB,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,9.994820000000004
+AF49FD,BlockReference,"FDI",L-MON,5
+AF49FE,BlockReference,"FDI",L-MON,5
+AF4A04,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991712000000035
+AF4A15,MText,"Theor. S.W.1/4 Sec. 13-64-18-W.5M.",C-SYMBOL,19.989640000000037
+AF4A16,MText,"Buried Pipes (2)",AS-GENERAL,9.9948219
+AF4A17,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,9.994820000000004
+AF4A1A,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10.000000000000021
+AF4A1C,MText,"Existing Clearing (Old Borrow Pit)",T-TEXT,9.994820000000018
+AF4A1E,MText,"5m High Grade Gravel Road",T-TEXT,9.994820000000004
+AFF6E5,BlockReference,"FDI",L-MON,5
+AFF6EF,BlockReference,"FDI",L-MON,5
+AFF702,BlockReference,"plspike",L-MON,5
+B00548,BlockReference,"plspike",L-MON,5
+B0054F,BlockReference,"plspike",L-MON,5
+B00550,BlockReference,"fdspike",L-MON,5
+B005CB,BlockReference,"FDI",L-MON,5
+B03BEA,AlignedDimension,"Paramount  P/L R/W  230973",F-RW,Compass 5 000
+B04918,AlignedDimension,"Athabasca  A/R  231889",F-AR-T,Compass 5 000
+B04989,BlockReference,"*U77",AS-SURFACE IMPACT,1
+B04A10,BlockReference,"*U78",AS-SURFACE IMPACT,1
+B0598E,BlockReference,"*U80",0,1
+B059D2,BlockReference,"*U80",0,1
+B1668D,MText,"323°20'25'' 112.98",L-BD,10
+B16695,MText,"175.00 233°18'50''",L-BD1,10
+B16696,MText,"Murphy RSC 210006 (Expired) (To Be Cancelled)",C-RW-T,9.994820000000018
+B21079,BlockReference,"L-SECLBL",L-SECLBL,1
+B2108F,MText,"32.10 (Tie)  194°30'00''",L-TIE-T,10
+B21092,BlockReference,"*U61",35,1
+B210B3,MText,"20.12 (Tie) 323°20'25''",L-TIE-T,10
+B210DD,MText,"N.-S. 1/4 Line",L-QSEC,10
+B210DF,MText,"E.-W. 1/4 Line",L-QSEC,10
+B210E3,BlockReference,"*U81",DETAIL-T,1
+B210F5,BlockReference,"*U82",DETAIL-T,1
+B21107,BlockReference,"*U59",DETAIL-T,1
+B21115,MText,"DETAIL",DETAIL-T,20
+B2111A,MText,"53°18'50''  200.00",L-BD1,10
+B2111B,MText,"143°20'25''  100.00",L-BD1,10
+B2111C,MText,"323°20'25''  100.00",L-BD1,10
+B2111D,MText,"233°18'50'' 200.00",L-BD1,10
+B2111E,MText,"175.00 233°18'50''",L-BD1,10
+B2111F,MText,"323°20'25'' 112.98",L-BD,10
+B21120,MText,"Murphy Water Reservoir LOC 200543",C-RW-T,10
+B21121,MText,"Murphy RSC 210006 (Expired) (To Be Cancelled)",C-RW-T,9.994820000000018
+B21122,AlignedDimension,"Paramount  A/R  1368",F-AR-T,Compass 5 000
+B21123,MText,"Gravel Road",T-TEXT,10
+B21125,MText,"Existing Clearing  (Old Borrow Pit)",T-TEXT,10
+B21126,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10
+B21128,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10
+B2112A,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10
+B2112C,MText,"40cm Spruce, Poplar and Pine",T-BUSH-T,10
+B2112E,BlockReference,"FDI",L-MON,5
+B2112F,BlockReference,"FDI",L-MON,5
+B21130,MText,"Fd.I. Mp.",L-MON,10
+B21131,MText,"Fd.I. Mp.",L-MON,10
+B21132,BlockReference,"FDI",L-MON,5
+B21133,BlockReference,"FDI",L-MON,5
+B21134,BlockReference,"plspike",L-MON,5
+B21135,BlockReference,"plspike",L-MON,5
+B21136,BlockReference,"plspike",L-MON,5
+B21137,BlockReference,"fdspike",L-MON,5
+B21138,BlockReference,"FDI",L-MON,5
+B21139,BlockReference,"FDI",L-MON,5
+B2113A,MText,"Fd.I. Mp.",L-MON,10
+B2113B,AlignedDimension,"Paramount  P/L R/W  240076",F-RW-T,Compass 5 000
+B2113C,MText,"6m High Grade",T-TEXT,10
+B2113E,AlignedDimension,"Paramount  A/R  220703",F-RW-T,Compass 5 000
+B217AE,BlockReference,"Disclaimer_Legal",0,0.3

@@ -1,0 +1,53 @@
+Handle,ObjType,Content,Layer,Extra
+BCAF91,DBText,"(Medium Grade Gravel)",T-TEXT,9.995040000000035
+BCAF92,DBText,"Government Road Allowance",L-ROAD-T,9.995040000000035
+BCAF99,DBText,"(Medium Grade Gravel)",T-TEXT,9.995040000000037
+BCAF9A,DBText,"Government Road Allowance",L-ROAD-T,9.995040000000037
+BCD2AF,BlockReference,"L-SECLBL",L-SECLBL,0.999504
+BCDB84,DBText,"S.W.1/4 Sec. 2-53-6-W.4M.",C-SYMBOL,19.990080000000063
+BCDC07,BlockReference,"*U22",AS-OWNER,0.999504
+BCE559,MText,"Pumping Station Area A Plan 012 3729",L-TITLEDB-T,9.995040000000031
+BCE55A,AlignedDimension,"CNRL  P/L R/W  842 0924  41128-1)",F-RW-T,Compass 5 000
+BCE579,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0980  32247-3)",P-PROPOSED-T,Compass 5 000
+BCE5B2,AlignedDimension,"20.12 Road  3911 BM",L-TITLEDB-T,Compass 5 000
+BCEECF,AlignedDimension,"30.44 Road  932 0233",L-TITLEDB-T,Compass 5 000
+BD0142,AlignedDimension,"CNRL  P/L R/W  972 2115  29049-28)",F-RW-T,Compass 5 000
+BD0169,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD0968,MText,"West Lake 3-2 (Surface)",F-RW-T,9.995040000000031
+BD0977,BlockReference,"GABD",F-WS-S,4.997520000000016
+BD0978,MText,"Cenovus 14-35 (Abd.)",F-RW-T,9.995040000000031
+BD1B1C,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD1B27,AlignedDimension,"West Lake  A/R",F-AR-T,Compass 5 000
+BD1B6C,MText,"West Lake 4-2 (Surface)",F-RW-T,9.995040000000031
+BD235B,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD235C,MText,"West Lake 8-3 (Surface)",F-RW-T,9.995040000000031
+BD341F,MText,"West Lake 5-2 (Surface)",F-RW-T,9.995040000000031
+BD3420,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD3421,AlignedDimension,"West Lake  A/R",F-AR-T,Compass 5 000
+BD3461,AlignedDimension,"West Lake  A/R",F-AR-T,Compass 5 000
+BD3C6B,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD4E32,AlignedDimension,"West Lake  P/L R/W  212 0029  59930-8, 60528-1)",F-RW-T,Compass 5 000
+BD5E17,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2793  54759-1)",P-PROPOSED-T,Compass 5 000
+BD664C,AlignedDimension,"25.00 Road  242 1606",L-TITLEDB-T,Compass 5 000
+BD6F66,AlignedDimension,"Cenovus  A/R",F-AR-T,Compass 5 000
+BD77A5,BlockReference,"GAS",F-WS-S,4.997520000000016
+BD77A9,MText,"West Lake 6-2 (Surface)",F-RW-T,9.995040000000031
+BD7F95,AlignedDimension,"West Lake  A/R",F-AR-T,Compass 5 000
+BD9087,MText,"Approximate Location of  County of Vermilion River Gas Co-op.",AS-PIPE-UG-T,9.995040000000031
+BDB6D9,MText,"10.0x20.0 A/R (Temporary)",P-TEMP-BLUE-T,9.990102450240029
+BDC477,BlockReference,"*U37",AS-OWNER,0.999504
+BDDF14,BlockReference,"*U38",0,0.9990102450240033
+BDF8F9,MText,"30.0x50.0 Laydown Area",P-TEMP-T,9.995040000000031
+BDFDE4,BlockReference,"xing2",P-CROSSINGS,0.999504
+BDFDEB,BlockReference,"xing2",P-CROSSINGS,0.999504
+BDFDF9,BlockReference,"xing2",P-CROSSINGS,0.999504
+BDFE08,BlockReference,"xing2",P-CROSSINGS,0.999504
+BE0280,BlockReference,"xing2",P-CROSSINGS,0.999504
+BE0352,BlockReference,"*U39",AS-WILDLIFE-BLOCK,0.999504
+BE0FF1,DBText,"Twp. Rd. 530",L-ROAD-T,9.995040000000035
+BE0FF5,MText,"Buried Telus Cable",AS-TELUS,9.995040000000031
+BE0FF6,BlockReference,"xing2",P-CROSSINGS,0.999504
+BE9E97,DBText,"Rge. Rd. 62",L-ROAD-T,9.995040000000037
+BE9EA7,DBText,"(Undeveloped)",T-TEXT,9.995040000000035
+BF0A5A,MText,"10.0x25.0 A/R (Temporary)",P-TEMP-BLUE-T,9.995040000000031
+BF3FEC,BlockReference,"Disclaimer_Legal",0,0.3

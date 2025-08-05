@@ -1,0 +1,741 @@
+Handle,ObjType,Content,Layer,Extra
+BD790A,BlockReference,"L-SECLBL",L-SECLBL,1
+BD7910,BlockReference,"L-SECLBL",L-SECLBL,1
+BD7916,BlockReference,"L-SECLBL",L-SECLBL,1
+BD791C,BlockReference,"L-SECLBL",L-SECLBL,1
+BD7922,BlockReference,"L-SECLBL",L-SECLBL,1
+BD7928,BlockReference,"L-SECLBL",L-SECLBL,1
+BD792E,BlockReference,"L-SECLBL",L-SECLBL,1
+BD7C5A,MText,"Fortis O/H Power Line",AS-POWER,9.996849999999721
+BD7C7E,DBText,"Government Road Allowance",L-ROAD-T,9.996769999999644
+BD7C87,DBText,"N.E.1/4 Sec. 17-42-7-W.5M.",C-SYMBOL,19.99999999999933
+BD7C89,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7C8A,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7C8B,DBText,"S.W.1/4 Sec. 16-42-7-W.5M.",C-SYMBOL,19.993539999999307
+BD7C99,DBText,"N.W.1/4 Sec. 16-42-7-W.5M.",C-SYMBOL,19.9936799999995
+BD7CBA,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7CBB,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7CCF,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7CD9,DBText,"S.E.1/4 Sec. 16-42-7-W.5M.",C-SYMBOL,19.9936799999995
+BD7CDB,DBText,"S.W.1/4 Sec. 15-42-7-W.5M.",C-SYMBOL,19.9936799999995
+BD7CDF,DBText,"N.W.1/4 Sec. 11-42-7-W.5M.",C-SYMBOL,19.9936799999995
+BD7D28,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.999999999999675
+BD7D2A,MText,"Key Wildlife and Biodiversity  Zone Boundary",AS-WILDLIFE,9.999999999999673
+BD7D2C,MText,"N.E.1/4 Sec. 10-42-7-W.5M.",C-SYMBOL,19.993679999999504
+BD7D47,MText,"FGL900020",AS-FMA-T,9.99414999999969
+BD7D57,MText,"Key Wildlife and Biodiversity  Zone Boundary",AS-WILDLIFE,9.999999999999675
+BD7D59,DBText,"S.W.1/4 Sec. 11-42-7-W.5M.",C-SYMBOL,19.99999999999937
+BD7D63,MText,"FGL900020",AS-FMA-T,9.99414999999969
+BD7D65,MText,"Key Wildlife and Biodiversity  Zone Boundary",AS-WILDLIFE,9.999999999999675
+BD7D68,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7D69,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999686
+BD7D6D,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D78,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D7B,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D7D,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D7F,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D81,DBText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+BD7D8C,MText,"Fortis O/H Power Line",AS-POWER,9.996839999999763
+BD7D8F,MText,"Buried Telus Cable",AS-TELUS,9.996839999999763
+BD7D92,MText,"Fortis O/H Power Line",AS-POWER,9.996849999999721
+BD7D94,MText,"Fortis O/H Power Line",AS-POWER,9.996849999999721
+BD7DF6,BlockReference,"GABD",AS-DRILL-T,4.999999999999848
+BD7DF7,BlockReference,"GABD",AS-DRILL-T,4.999999999999848
+BD7DF8,BlockReference,"GABD",AS-DRILL-T,4.999999999999848
+BD7DFD,MText,"Key Wildlife and Biodiversity  Zone Boundary",AS-WILDLIFE,9.999999999999675
+BD8847,AlignedDimension,"Obsidian  A/R  597",C-AR-T,Compass 5 000
+BD8848,AlignedDimension,"Obsidian  Flow Line R/W  676",C-FLOWLINE-T,Compass 5 000
+BD884B,AlignedDimension,"Yangarra  A/R  080318",C-AR-T,Compass 5 000
+BD884C,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD884E,AlignedDimension,"Loyal  P/L R/W  032 1766  991316",F-RW-T,Compass 5 000
+BD8E8F,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.999999999999675
+BD8E92,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E93,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E94,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E95,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E96,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E97,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E98,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E99,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E9A,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E9B,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E9C,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8E9D,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8EA2,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BD8EEE,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999999
+BD8EEF,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999999
+BD8EF0,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999999
+BD8EF1,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999999
+BD8EF2,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999999
+BD91CD,AlignedDimension,"Obsidian  A/R  5142",C-AR-T,Compass 5 000
+BD91CE,AlignedDimension,"Obsidian  A/R  830847",C-AR-T,Compass 5 000
+BD91D0,AlignedDimension,"Obsidian  A/R  122162",C-AR-T,Compass 5 000
+BD91D2,MText,"Obsidian 5.00 A/R LOC 180057 (Expired)",C-AR-T,9.996839999999713
+BD91DA,AlignedDimension,"Obsidian  A/R  840708",C-AR-T,Compass 5 000
+BD91DB,AlignedDimension,"Obsidian  A/R  851260",C-AR-T,Compass 5 000
+BD91DE,AlignedDimension,"Obsidian  A/R  860265",C-AR-T,Compass 5 000
+BD91DF,AlignedDimension,"Obsidian  A/R  405",C-AR-T,Compass 5 000
+BD91E0,AlignedDimension,"Obsidian  A/R  418",C-AR-T,Compass 5 000
+BD91E1,MText,"Obsidian 6-12 (Surface) MSL 461",C-AR-T,9.999999999999616
+BD91E3,AlignedDimension,"Obsidian  A/R  461",C-AR-T,Compass 5 000
+BD91E4,AlignedDimension,"Obsidian  A/R  514",C-AR-T,Compass 5 000
+BD91E8,AlignedDimension,"Obsidian  A/R  221613",C-AR-T,Compass 5 000
+BD91E9,AlignedDimension,"Obsidian  A/R  597",C-AR-T,Compass 5 000
+BD91EA,AlignedDimension,"Obsidian  A/R  691",C-AR-T,Compass 5 000
+BD91EB,AlignedDimension,"Obsidian  A/R  913",C-AR-T,Compass 5 000
+BD91EC,AlignedDimension,"Obsidian  A/R  913",C-AR-T,Compass 5 000
+BD91ED,AlignedDimension,"Obsidian  A/R  958",C-AR-T,Compass 5 000
+BD91EE,AlignedDimension,"Obsidian  A/R  1174",C-AR-T,Compass 5 000
+BD91EF,AlignedDimension,"Obsidian  A/R  1197",C-AR-T,Compass 5 000
+BD91F0,AlignedDimension,"Obsidian   A/R  10504",C-AR-T,Compass 5 000
+BD91F1,AlignedDimension,"Obsidian   A/R  10504",C-AR-T,Compass 5 000
+BD91F2,MText,"Obsidian 14-1 (Surface) MSL 10937 (Expired)",C-AR-T,9.999999999999627
+BD91F4,MText,"Obsidian 6-12 (Surface) MSL 000618",C-AR-T,9.999999999999616
+BD91F6,AlignedDimension,"Obsidian  A/R  000618",C-AR-T,Compass 5 000
+BD91FB,MText,"Obsidian 14-10 (Surface) MSL 831117",C-AR-T,9.999999999999627
+BD9200,MText,"Obsidian  Riser Site PIL 120603 (Expired)",C-AR-T,9.999999999999627
+BD9202,MText,"Obsidian  Riser Site PIL 210199",C-AR-T,9.999999999999627
+BD9204,MText,"Obsidian Compressor Site Plan 012 1284 PIL 970031 (Expired)",C-AR-T,9.996839999999713
+BD9207,AlignedDimension,"Obsidian  P/L R/W  771 0464  770400",C-AR-T,Compass 5 000
+BD9208,AlignedDimension,"Obsidian  P/L R/W  772 0761  770399",C-AR-T,Compass 5 000
+BD920A,AlignedDimension,"Obsidian  P/L R/W  860501",C-AR-T,Compass 5 000
+BD920B,AlignedDimension,"Obsidian  P/L R/W  111561",C-AR-T,Compass 5 000
+BD920C,AlignedDimension,"Obsidian  P/L R/W  842 0200  830564",C-AR-T,Compass 5 000
+BD920D,AlignedDimension,"Obsidian   A/R  8298",C-AR-T,Compass 5 000
+BD920E,AlignedDimension,"Obsidian  A/R  1100",C-AR-T,Compass 5 000
+BD920F,AlignedDimension,"Obsidian  A/R  831090",C-AR-T,Compass 5 000
+BD9210,AlignedDimension,"Obsidian  A/R  678",C-AR-T,Compass 5 000
+BD9211,AlignedDimension,"Obsidian  P/L R/W  772 0761  770399",C-AR-T,Compass 5 000
+BD9212,AlignedDimension,"Obsidian  P/L R/W  772 0761  770399",C-AR-T,Compass 5 000
+BD9214,AlignedDimension,"Obsidian  A/R  405",C-AR-T,Compass 5 000
+BD9216,AlignedDimension,"Obsidian  A/R  840322",C-AR-T,Compass 5 000
+BD9226,AlignedDimension,"Obsidian  Flow Line R/W  813",C-FLOWLINE-T,Compass 5 000
+BD9227,AlignedDimension,"Obsidian  P/L R/W  842 0200  830585",C-FLOWLINE-T,Compass 5 000
+BD9228,AlignedDimension,"Obsidian  Flow Line R/W  676",C-FLOWLINE-T,Compass 5 000
+BD922B,AlignedDimension,"Obsidian  Flow Line R/W  842 0200  2725",C-FLOWLINE-T,Compass 5 000
+BD922C,AlignedDimension,"Obsidian  P/L R/W  842 0200  830585",C-FLOWLINE-T,Compass 5 000
+BD922E,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BD922F,AlignedDimension,"Obsidian  P/L R/W   772 0761  770399",C-RW-T,Compass 5 000
+BD9230,AlignedDimension,"Obsidian  P/L R/W  842 1512  850415",C-RW-T,Compass 5 000
+BD9231,AlignedDimension,"Obsidian  P/L R/W  982 3948  961055",C-RW-T,Compass 5 000
+BD9232,AlignedDimension,"Obsidian  P/L R/W  4103",C-RW-T,Compass 5 000
+BD9233,AlignedDimension,"Obsidian  Waterline R/W  002 3962  972132",C-RW-T,Compass 5 000
+BD9234,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BD9235,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+BD9236,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+BD9237,AlignedDimension,"Obsidian  P/L R/W  002 3975  982220",C-RW-T,Compass 5 000
+BD9239,AlignedDimension,"Obsidian  P/L R/W  789",C-RW-T,Compass 5 000
+BD923A,AlignedDimension,"Obsidian  P/L R/W  889  Constructed)",C-RW-T,Compass 5 000
+BD923B,AlignedDimension,"Obsidian  P/L R/W  889  Constructed)",C-RW-T,Compass 5 000
+BD923C,AlignedDimension,"Obsidian  P/L R/W  1115 NY  1616",C-RW-T,Compass 5 000
+BD923D,AlignedDimension,"Obsidian  P/L R/W  1115 NY  1616",C-RW-T,Compass 5 000
+BD923F,AlignedDimension,"Obsidian  P/L R/W  1275 NY  1802",C-RW-T,Compass 5 000
+BD9240,AlignedDimension,"Obsidian  P/L R/W  1275 NY  1802",C-RW-T,Compass 5 000
+BD9241,AlignedDimension,"Obsidian  P/L R/W  3836 NY  2200",C-RW-T,Compass 5 000
+BD9242,AlignedDimension,"Obsidian  P/L R/W  3836 NY  2200",C-RW-T,Compass 5 000
+BD9243,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BD9245,AlignedDimension,"Obsidian  P/L R/W  4759",C-RW-T,Compass 5 000
+BD9246,AlignedDimension,"Obsidian  P/L R/W  4854",C-RW-T,Compass 5 000
+BD9248,AlignedDimension,"Obsidian  P/L R/W  002 1378  000488",C-RW-T,Compass 5 000
+BD9249,AlignedDimension,"Obsidian  P/L R/W  002 1378  001385",C-RW-T,Compass 5 000
+BD924B,AlignedDimension,"Obsidian  P/L R/W  002963",C-RW-T,Compass 5 000
+BD924C,AlignedDimension,"Obsidian  P/L R/W  002963",C-RW-T,Compass 5 000
+BD924E,AlignedDimension,"Obsidian  P/L R/W  052122",C-RW-T,Compass 5 000
+BD9250,AlignedDimension,"Obsidian  P/L R/W  062 7668  061391",C-RW-T,Compass 5 000
+BD9251,AlignedDimension,"Obsidian  P/L R/W  064782",C-RW-T,Compass 5 000
+BD9253,AlignedDimension,"Obsidian  P/L R/W  092 7450  065241",C-RW-T,Compass 5 000
+BD9256,AlignedDimension,"Obsidian  P/L R/W  121445",C-RW-T,Compass 5 000
+BD9259,AlignedDimension,"Obsidian  P/L R/W  012 1271  981476",C-RW-T,Compass 5 000
+BD925A,AlignedDimension,"Obsidian  P/L R/W  842 1976  840461",C-RW-T,Compass 5 000
+BD925B,AlignedDimension,"Obsidian  P/L R/W  151104",C-RW-T,Compass 5 000
+BD925C,AlignedDimension,"Obsidian  P/L R/W",C-RW-T,Compass 5 000
+BD925D,AlignedDimension,"Obsidian  P/L R/W  840182",C-RW-T,Compass 5 000
+BD925F,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BD9261,AlignedDimension,"Obsidian  P/L R/W  121448",C-RW-T,Compass 5 000
+BD9262,AlignedDimension,"Obsidian  P/L R/W  012 1293  980487",C-RW-T,Compass 5 000
+BD9263,AlignedDimension,"Obsidian  P/L R/W  012 1293  980487",C-RW-T,Compass 5 000
+BD9264,AlignedDimension,"Obsidian  P/L R/W  121448",C-RW-T,Compass 5 000
+BD9266,AlignedDimension,"Obsidian  P/L R/W  842 1976  840459",C-RW-T,Compass 5 000
+BD9267,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+BD9268,AlignedDimension,"Obsidian  P/L R/W  981539",C-RW-T,Compass 5 000
+BD9269,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+BD926A,AlignedDimension,"Pembina  P/L R/W  2240 MC  651",C-RW-T,Compass 5 000
+BD926B,AlignedDimension,"Obsidian  P/L R/W  862 1320  860158",C-RW-T,Compass 5 000
+BD926C,AlignedDimension,"Obsidian  P/L R/W  002 3982  981540",C-RW-T,Compass 5 000
+BD926D,AlignedDimension,"Canlin  P/L R/W  002 3965  971841",C-RW-T,Compass 5 000
+BD926E,AlignedDimension,"Obsidian  P/L R/W  170588",C-RW-T,Compass 5 000
+BD926F,AlignedDimension,"Obsidian  P/L R/W  002 1384  063923",C-RW-T,Compass 5 000
+BD9271,AlignedDimension,"Obsidian  P/L R/W  1115 NY  1616",C-RW-T,Compass 5 000
+BD9281,MText,"Obsidian 16-10 (Surface) MSL 588",C-WS-T,9.996799999999611
+BD9283,MText,"Obsidian 9-10 (Surface) MSL 981931 (Expired)",C-WS-T,9.999999999999606
+BD9285,MText,"Obsidian 6-15 (Surface) MSL 405",C-WS-T,9.996839999999713
+BD9287,MText,"Obsidian 14-11 (Surface) MSL 7186 (Expired)",C-WS-T,9.996849999999721
+BD9289,MText,"Obsidian 3-11 (Surface) MSL 221368",C-WS-T,9.996849999999721
+BD928B,MText,"Obsidian Battery Site MSL 691",C-WS-T,9.999999999999627
+BD928D,MText,"Obsidian 16-1 (Surface) MSL 958",C-WS-T,9.996839999999713
+BD928F,MText,"Obsidian 6-16 (Surface) MSL 1174",C-WS-T,9.999999999999627
+BD9291,MText,"Obsidian 16-17 (Surface) MSL 1318",C-WS-T,9.999999999999627
+BD9293,MText,"Obsidian 14-16 (Surface) MSL 9004 (Expired)",C-WS-T,9.999999999999627
+BD9295,MText,"Obsidian 8-16 (Surface) MSL 10504 (Expired)",C-WS-T,9.999999999999627
+BD9297,MText,"Obsidian 8-11 (Surface) MSL 051465",C-WS-T,9.999999999999627
+BD9299,MText,"Obsidian 8-11 (Surface) MSL 831085",C-WS-T,9.999999999999627
+BD929D,MText,"Obsidian 6-15 (Surface) MSL 930461 (Expired)",C-WS-T,9.996839999999713
+BD929F,MText,"Obsidian Riser Site PIL 180014 (Expired)",C-WS-T,9.996839999999713
+BD92A2,MText,"Obsidian Riser Site PIL 240265",C-WS-T,9.996839999999713
+BD92A5,MText,"Obsidian Plant Site Plan 072 5514 MSL 063302",C-WS-T,9.999999999999627
+BD92AB,MText,"Pathfinder 15.00 A/R DLO 230133",F-AR-T,9.99683999999971
+BD92AD,AlignedDimension,"Obsidian  A/R  210783",F-AR-T,Compass 5 000
+BD92B1,AlignedDimension,"25.86 P/L R/W  802 1821  on PLSR)",F-AR-T,Compass 5 000
+BD92B2,AlignedDimension,"10.00 P/L R/W  002 3977  on PLSR)",F-AR-T,Compass 5 000
+BD92B4,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92B5,AlignedDimension,"Fortis  Power Line R/W  840065",F-EZE-T,Compass 5 000
+BD92B7,AlignedDimension,"Fortis  Power Line R/W  2046",F-EZE-T,Compass 5 000
+BD92B8,AlignedDimension,"Fortis  Power Line R/W  110120",F-EZE-T,Compass 5 000
+BD92B9,AlignedDimension,"Fortis  Power Line R/W  840142",F-EZE-T,Compass 5 000
+BD92BB,AlignedDimension,"Fortis  Power Line R/W  850032",F-EZE-T,Compass 5 000
+BD92BD,AlignedDimension,"Fortis  Vegetation Control R/W  880205",F-EZE-T,Compass 5 000
+BD92BE,AlignedDimension,"Fortis  Vegetation Control R/W  880205",F-EZE-T,Compass 5 000
+BD92BF,AlignedDimension,"Fortis  Power Line R/W  880205",F-EZE-T,Compass 5 000
+BD92C0,AlignedDimension,"Fortis  Vegetation Control R/W  880205",F-EZE-T,Compass 5 000
+BD92C1,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92C3,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92C4,AlignedDimension,"Fortis  Power Line R/W  980040",F-EZE-T,Compass 5 000
+BD92C5,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92C6,AlignedDimension,"Fortis  Power Line R/W  840065",F-EZE-T,Compass 5 000
+BD92C7,MText,"Fortis Power Line R/W EZE 850032",F-EZE-T,9.996769999999632
+BD92CA,AlignedDimension,"Fortis  Vegetation Control R/W  880205",F-EZE-T,Compass 5 000
+BD92CB,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92CC,MText,"Fortis Powerline R/W EZE 840065",F-EZE-T,9.996769999999648
+BD92CF,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+BD92D2,AlignedDimension,"Fortis  Power Line R/W  010204",F-EZE-T,Compass 5 000
+BD92D3,MText,"Diamond J. Industries Ltd. Non-Manufacturing Clay SML 080007",F-EZE-T,9.999999999999696
+BD92DD,AlignedDimension,"NGTL  P/L R/W  1267 MC  448",F-RW-T,Compass 5 000
+BD92DE,AlignedDimension,"NGTL  P/L R/W  3197 TR  4719",F-RW-T,Compass 5 000
+BD92DF,AlignedDimension,"Yangarra   P/L R/W  062 4239  050904",F-RW-T,Compass 5 000
+BD92E0,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92E1,AlignedDimension,"Pembina  P/L R/W  141993",F-RW-T,Compass 5 000
+BD92E2,AlignedDimension,"NGTL  P/L R/W  3197 TR  4719",F-RW-T,Compass 5 000
+BD92E3,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+BD92E4,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92E5,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+BD92E6,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92E7,AlignedDimension,"Yangarra  P/L R/W  080731",F-RW-T,Compass 5 000
+BD92E8,AlignedDimension,"10.00 P/L R/W  012 5704  on PLSR)",F-RW-T,Compass 5 000
+BD92E9,AlignedDimension,"Pembina  P/L R/W  6675 MC  1273",F-RW-T,Compass 5 000
+BD92EA,AlignedDimension,"Blue Sky  P/L R/W  074 1098  043993",F-RW-T,Compass 5 000
+BD92ED,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92EE,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92EF,AlignedDimension,"Canlin  P/L R/W  882 1811  890838",F-RW-T,Compass 5 000
+BD92F0,AlignedDimension,"Canlin  P/L R/W  882 1811  890838",F-RW-T,Compass 5 000
+BD92F1,AlignedDimension,"PMC   P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92F2,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92F3,AlignedDimension,"Canlin  P/L R/W  882 1811  900238",F-RW-T,Compass 5 000
+BD92F4,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92F5,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+BD92F6,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+BD92F7,AlignedDimension,"Petrochina  P/L R/W  121695",F-RW-T,Compass 5 000
+BD92F8,AlignedDimension,"Canlin  P/L R/W  970514",F-RW-T,Compass 5 000
+BD92F9,AlignedDimension,"Loyal  P/L R/W  032 3793  982832",F-RW-T,Compass 5 000
+BD92FB,AlignedDimension,"Fortis  Vegetation Control R/W  010037",F-RW-T,Compass 5 000
+BD92FC,AlignedDimension,"30.00 P/L R/W  842 1375  on PLSR)",F-RW-T,Compass 5 000
+BD92FE,AlignedDimension,"P/L R/W  802 1821  on PLSR)",F-RW-T,Compass 5 000
+BD930F,MText,"Pathfinder Power Station DML 230056",F-WS-T,9.99683999999971
+BD9311,MText,"Diamond J. Industries Ltd. Surface Materials - Non Manufacturing Clay SML 080007",F-WS-T,9.999999999999613
+BD9313,MText,"Yangarra 6-11 (Surface) MSL 080468",F-WS-T,9.996849999999721
+BD9317,MText,"Blue Sky 16-17 (Surface) MSL 830400",F-WS-T,9.999999999999627
+BD9319,MText,"Loyal 14-1 (Surface) MSL 972998",F-WS-T,9.999999999999627
+BD931B,MText,"Weyerhaeuser CLR980035",F-WS-T,9.999999999999686
+BD931D,MText,"Weyerhaeuser CLR980035",F-WS-T,9.999999999999686
+BD9321,MText,"16-1 (Abd.)",F-WS-T,9.999999999999696
+BD9323,MText,"Weyerhaeuser CLR980035",F-WS-T,9.999999999999686
+BD9325,AlignedDimension,"60.00 Road  852 1952",L-TITLEDB-T,Compass 5 000
+BD9326,AlignedDimension,"Road  852 1952",L-TITLEDB-T,Compass 5 000
+BD9327,MText,"Hwy. 22",L-TITLEDB-T,9.996839999999752
+BD9329,MText,"Hwy. 22",L-TITLEDB-T,9.996839999999752
+BD932E,DBText,"(Undeveloped)",T-TEXT,9.996769999999644
+BD932F,DBText,"(Undeveloped)",T-TEXT,9.99676999999965
+BD9330,DBText,"(Undeveloped)",T-TEXT,9.99676999999965
+BD9332,DBText,"(Undeveloped)",T-TEXT,9.99676999999965
+BD9334,DBText,"(Undeveloped)",T-TEXT,9.99676999999965
+BD9336,DBText,"(Undeveloped)",T-TEXT,9.99676999999965
+BD9337,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999686
+BD9338,DBText,"(High Grade Gravel)",T-TEXT,9.99676999999965
+BD9344,MText,"Muskeg",T-TEXT,9.99683999999984
+BD9345,MText,"Muskeg",T-TEXT,9.99683999999984
+BD9349,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.99683999999984
+BD934A,MText,"25cm Spruce, Pine & Poplar",T-BUSH-T,9.99683999999984
+BD934C,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.99683999999984
+BD9350,BlockReference,"*U33",AS-OWNER,1
+BD935F,BlockReference,"*U33",AS-OWNER,1
+BD936E,BlockReference,"*U33",AS-OWNER,1
+BD937D,BlockReference,"*U33",AS-OWNER,1
+BD938C,BlockReference,"*U34",AS-OWNER,1
+BD939B,BlockReference,"*U34",AS-OWNER,1
+BD93AA,BlockReference,"*U34",AS-OWNER,1
+BD93B9,BlockReference,"*U33",AS-OWNER,1
+BD93D7,BlockReference,"*U33",AS-OWNER,1
+BD93E6,BlockReference,"*U34",AS-OWNER,1
+BD93F5,BlockReference,"*U34",AS-OWNER,1
+BD9932,BlockReference,"GAS",F-WS-S,4.999999999999792
+BD9933,BlockReference,"GAS",F-WS-S,4.999999999999792
+BD9934,BlockReference,"GAS",F-WS-S,4.999999999999792
+BD9935,BlockReference,"GAS",F-WS-S,4.999999999999792
+BD9936,BlockReference,"GAS",C-WS-S,4.998384999999823
+BD993F,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9940,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9941,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9942,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9943,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9944,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9945,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9948,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9949,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD994A,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD994B,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD994F,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9950,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9951,BlockReference,"GAS",C-WS-S,4.999999999999792
+BD9952,BlockReference,"GAS",C-WS-S,4.999999999999792
+BEF08D,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BEF09A,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF0693,BlockReference,"RISER",AS-SYMBOL,4.999999999999949
+BF06A4,BlockReference,"RISER",AS-SYMBOL,4.999999999999949
+BF06A9,BlockReference,"RISER",AS-SYMBOL,4.999999999999949
+BF06B6,BlockReference,"RISER",AS-SYMBOL,4.999999999999949
+BF06C3,BlockReference,"RISER",AS-SYMBOL,4.999999999999949
+BF11B3,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF11C0,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF1265,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF126E,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF1D12,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF1D17,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF1D68,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BF607B,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+BFFDE2,MText,"Beaver Dam",AS-GENERAL,9.999999999999627
+BFFDEA,MText,"Beaver Dam",AS-GENERAL,9.999999999999627
+C0076E,MText,"Slope",T-TEXT,9.999999999999627
+C00771,MText,"Slope",T-TEXT,9.999999999999627
+C00778,MText,"Beaver Dam",AS-GENERAL,9.999999999999627
+C0077B,MText,"Beaver Dam",AS-GENERAL,9.999999999999627
+C0318F,DBText,"N.W.1/4 Sec. 1-42-7-W.5M.",C-SYMBOL,19.9936736
+C044A0,AlignedDimension,"Obsidian  P/L R/W  140978",C-RW-T,Compass 5 000
+C0FE2D,AlignedDimension,"NGTL  P/L R/W  1267 MC  448",F-RW-T,Compass 5 000
+C1AC80,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+C23C93,AlignedDimension,"Obsidian  P/L R/W  092 7450  065241",C-RW-T,Compass 5 000
+C2B464,MText,"Ephemeral Draw, Class D, No RAP",T-WATER-T,9.996839999999713
+C2DD98,BlockReference,"*U191",P-TEMP-BLOCKS,0.99968368
+C2DD9C,BlockReference,"*U193",P-TEMP-BLOCKS,0.99968368
+C2E925,BlockReference,"*U244",P-TEMP-BLOCKS,0.99968368
+C31C14,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C31C27,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C397E1,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C397F4,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C4A037,BlockReference,"*U249",P-TEMP-BLOCKS,0.99968368
+C4A04A,BlockReference,"*U223",P-TEMP-BLOCKS,0.99968368
+C4CAF4,BlockReference,"*U260",P-TEMP-BLOCKS,0.99968368
+C55BEA,AlignedDimension,"Obsidian  Flow Line R/W  842 0200  2725",C-FLOWLINE-T,Compass 5 000
+C5D922,BlockReference,"TEMP",L-MON,4.9984184
+C5D923,BlockReference,"TEMP",L-MON,4.9984184
+C5D924,BlockReference,"TEMP",L-MON,4.9984184
+C5D925,BlockReference,"TEMP",L-MON,4.9984184
+C5D926,BlockReference,"TEMP",L-MON,4.9984184
+C5D927,BlockReference,"TEMP",L-MON,4.9984184
+C5D928,BlockReference,"TEMP",L-MON,4.9984184
+C5D929,BlockReference,"TEMP",L-MON,4.9984184
+C5D92A,BlockReference,"TEMP",L-MON,4.9984184
+C5D92B,BlockReference,"TEMP",L-MON,4.9984184
+C5D92C,BlockReference,"TEMP",L-MON,4.9984184
+C5D92D,BlockReference,"TEMP",L-MON,4.9984184
+C5D92F,BlockReference,"TEMP",L-MON,4.9984184
+C5E349,BlockReference,"TEMP",L-MON,4.9984184
+C5E352,BlockReference,"TEMP",L-MON,4.9984184
+C5ED6D,BlockReference,"TEMP",L-MON,4.9984184
+C5ED6F,BlockReference,"TEMP",L-MON,4.9984184
+C5ED70,BlockReference,"TEMP",L-MON,4.9984184
+C5ED71,BlockReference,"TEMP",L-MON,4.9984184
+C5ED72,BlockReference,"TEMP",L-MON,4.9984184
+C5ED73,BlockReference,"TEMP",L-MON,4.9984184
+C5ED74,BlockReference,"TEMP",L-MON,4.9984184
+C5ED7E,BlockReference,"RP",35,0.99968368
+C60430,DBText,"288°53'",L-BD1,9.9968368
+C60432,DBText,"288°41'",L-BD1,9.9968368
+C60434,DBText,"288°41'",L-BD1,9.9968368
+C60436,DBText,"305°54'",L-BD1,9.9968368
+C60438,DBText,"306°19'",L-BD1,9.9968368
+C6043A,DBText,"291°02'",L-BD1,9.9968368
+C60442,DBText,"291°02'",L-BD1,9.9968368
+C60444,DBText,"291°08'",L-BD1,9.9968368
+C6044C,DBText,"291°10'",L-BD1,9.9968368
+C60450,DBText,"291°10'",L-BD1,9.9968368
+C60F1D,DBText,"N.E.1/4 Sec. 1-42-7-W.5M.",C-SYMBOL,19.9936736
+C60F1E,DBText,"Area Required = 0.232 ha  0.57 Ac.",L-AREAREQUIRED,10.99304206064168
+C60F1F,DBText,"Workspace = 0.208 ha  0.51 Ac.",L-AREAWORK,10.99304206064168
+C6194A,MText,"653.0 (Tie) 260°23'",L-BD,9.9968368
+C61A14,MText,"20cm Birch & Aspen",T-BUSH-T,9.99683999999984
+C61A15,MText,"Pasture",T-TEXT,9.99683999999984
+C61A16,MText,"20cm Birch & Aspen",T-BUSH-T,9.99683999999984
+C6243F,MText,"21.4 calc.",P-TXT,9.9968368
+C62450,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C62454,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C62457,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C6245A,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C62E94,MText,"21.8 calc.",P-TXT,9.9968368
+C62EC4,BlockReference,"TEMP",L-MON,4.9984184
+C62ECD,MText,"SEE DETAIL 'B'",DETAIL-T,15.994938879999914
+C62ECF,MText,"SEE DETAIL 'C'",DETAIL-T,15.994938879999914
+C63A06,MText,"30cm Poplar & Aspen",T-BUSH-T,9.99683999999984
+C63A07,MText,"40cm Spruce, Poplar, Aspen & Pine",T-BUSH-T,9.99683999999984
+C63A08,MText,"40cm Spruce, Poplar & Aspen",T-BUSH-T,9.99683999999984
+C63A09,MText,"30cm Spruce, Poplar & Pine",T-BUSH-T,9.99683999999984
+C64565,MText,"30cm Poplar & Spruce",T-BUSH-T,9.99683999999984
+C64566,MText,"40cm Poplar & Spruce",T-BUSH-T,9.99683999999984
+C64F96,AlignedDimension,"Fortis  Vegetation  R/W  880206",F-EZE-T,Compass 5 000
+C64FEF,BlockReference,"*U248",P-TEMP-BLOCKS,0.99968368
+C65025,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C65A6A,BlockReference,"*U199",P-TEMP-BLOCKS,0.99968368
+C65AAB,BlockReference,"*U230",P-TEMP-BLOCKS,0.99968368
+C6652F,MText,"51.8 calc.",P-TXT,9.9968368
+C66532,MText,"63.1 calc.",P-TXT,9.9968368
+C66533,MText,"Muskeg",T-TEXT,9.99683999999984
+C66534,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.99683999999984
+C66536,BlockReference,"TEMP",L-MON,4.9984184
+C66538,DBText,"291°10'",L-BD1,9.9968368
+C6653A,DBText,"291°10'",L-BD1,9.9968368
+C66FE4,MText,"336°10' 14.1",L-BD1,9.9968368
+C66FEB,MText,"21.8 calc.",P-TXT,9.9968368
+C66FEE,MText,"21.8 calc.",P-TXT,9.9968368
+C67ACB,DBText,"837.7 (Tie)",L-BD,9.9968368
+C67ACC,DBText,"315°47'",L-BD,9.9968368
+C67ACE,MText,"Muskeg",T-TEXT,9.99683999999984
+C67ACF,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.99683999999984
+C67AD0,MText,"Muskeg",T-TEXT,9.99683999999984
+C67AD1,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.99683999999984
+C67AD5,DBText,"Area Required = 0.176 ha  0.43 Ac.",L-AREAREQUIRED,10.99304206064168
+C67AD9,MText,"Workspace = 0.183 ha  0.45 Ac.",L-AREAWORK,10.993042060641681
+C67ADA,MText,"Area Required = 1.107 ha  2.74 Ac.",L-AREAREQUIRED,10.99304206064168
+C67ADB,MText,"S.W.1/4 Sec. 12-42-7-W.5M.",C-SYMBOL,19.99999999999937
+C68530,DBText,"Area Required = 0.049 ha  0.12 Ac.",L-AREAREQUIRED,10.99304206064168
+C6853A,DBText,"Area Required = 1.305 ha  3.22 Ac.",L-AREAREQUIRED,10.99304206064168
+C6853B,DBText,"Workspace = 0.080 ha  0.20 Ac.",L-AREAWORK,10.99304206064168
+C68F86,DBText,"Log Deck = 0.180 ha  0.44 Ac.",L-AREAWORK,10.99304206064168
+C68F99,DBText,"Area Required = 1.305 ha  3.22 Ac.",L-AREAREQUIRED,10.99304206064168
+C68F9A,DBText,"Workspace = 0.205 ha  0.51 Ac.",L-AREAWORK,10.99304206064168
+C68F9B,DBText,"Log Deck = 0.359 ha  0.88 Ac.",L-AREAWORK,10.99304206064168
+C6A6D7,MText,"Workspace = 0.249 ha  0.62 Ac.",L-AREAWORK,10.993042060641683
+C6A6D8,MText,"Area Required = 0.437 ha  1.08 Ac.",L-AREAREQUIRED,10.993042060641681
+C6A6D9,MText,"N.W.1/4 Sec. 10-42-7-W.5M.",C-SYMBOL,19.993679999999504
+C6A6E2,DBText,"Area Required = 0.704 ha  1.74 Ac.",L-AREAREQUIRED,10.993042060641681
+C6A6E3,DBText,"Workspace = 0.290 ha  0.72 Ac.",L-AREAWORK,10.993042060641681
+C6A6EC,DBText,"Area Required = 1.307 ha  3.23 Ac.",L-AREAREQUIRED,10.993042060641681
+C6A6ED,DBText,"Workspace = 0.129 ha  0.32 Ac.",L-AREAWORK,10.993042060641681
+C6B257,DBText,"Area Required = 0.958 ha  2.37 Ac.",L-AREAREQUIRED,10.993042060641681
+C6B258,DBText,"Workspace = 0.217 ha  0.54 Ac.",L-AREAWORK,10.993042060641681
+C6B26B,DBText,"Area Required = 0.362 ha  0.89 Ac.",L-AREAREQUIRED,10.993042060641681
+C6B26C,DBText,"Workspace = 0.088 ha  0.22 Ac.",L-AREAWORK,10.993042060641681
+C6B277,DBText,"Area Required = 0.382 ha  0.94 Ac.",L-AREAREQUIRED,10.993042060641681
+C6B278,DBText,"Workspace = 0.158 ha  0.39 Ac.",L-AREAWORK,10.993042060641681
+C6BDDD,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDDF,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDE2,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDE4,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDE6,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDE9,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDF4,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BDFF,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BE01,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6BE03,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6C87A,MText,"30m FNC Buffer",P-BUFFER-T,9.996839999999716
+C6C87C,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6C883,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6C88A,MText,"Grizzley Bear Support Zone Boundary",AS-WILDLIFE,9.999999999999675
+C6D2E6,MText,"Grizzley Bear Support Zone Boundary",AS-WILDLIFE,9.999999999999675
+C6D2E8,MText,"Grizzley Bear Support Zone Boundary",AS-WILDLIFE,9.999999999999675
+C6D2F3,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6D2FA,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C6D2FD,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+C6D300,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6D307,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6D36E,BlockReference,"*U201",P-CROSSINGS,0.99968368
+C6EA18,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C6EA1F,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7017A,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7018A,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C70191,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C701B8,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C701BF,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C70C4E,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C70C65,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C716DE,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C716E5,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C716EC,BlockReference,"*U202",P-CROSSINGS,0.99968368
+C71728,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7172F,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721B8,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721C6,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721CD,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721D4,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721F6,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C721FD,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C73847,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+C73849,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+C73948,BlockReference,"label_road_undeveloped",CG-NOTES,0.9996836799999997
+C73949,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C7395E,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C7397D,MText,"21.8 calc.",P-TXT,9.9968368
+C73981,BlockReference,"TEMP",L-MON,4.9984184
+C73982,BlockReference,"TEMP",L-MON,4.9984184
+C73983,BlockReference,"TEMP",L-MON,4.9984184
+C73984,BlockReference,"TEMP",L-MON,4.9984184
+C73985,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7398C,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C73993,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7399A,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C739A1,BlockReference,"*U203",P-CROSSINGS,0.99968368
+C739BC,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C739C3,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C744D3,DBText,"291°02'",L-BD1,9.9968368
+C744DE,AlignedDimension,"Obsidian  P/L R/W  3834 NY  2201",C-RW-T,Compass 5 000
+C74506,AlignedDimension,"Obsidian  A/R  5142",C-AR-T,Compass 5 000
+C75173,MText,"DETAIL 'B' SCALE 1:1000",DETAIL-T,19.9936736
+C751BF,AlignedDimension,"Fortis  Vegetation Control R/W  880206",F-EZE-T,Compass 5 000
+C751DB,AlignedDimension,"Obsidian  Flow Line R/W  813",C-FLOWLINE-T,Compass 5 000
+C751FF,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+C75249,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+C75270,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+C75296,DBText,"291°02'",L-BD1,9.9968368
+C76919,RadialDimension,"8m",P-POWER BUFFER-T,Compass 5 000
+C77501,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C79812,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7A3D9,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7A3E0,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7BB43,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7BB4A,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7BB51,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7D391,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7D4F6,BlockReference,"*U268",P-TEMP-BLOCKS,0.99968368
+C7D50B,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+C7D521,DBText,"344°56'",L-BD1,9.9968368
+C7D523,DBText,"268°18'",L-BD1,9.9968368
+C7D525,DBText,"291°10'",L-BD1,9.9968368
+C7D52A,AlignedDimension,"NGTL  P/L R/W  3197 TR  4719",F-RW-T,Compass 5 000
+C7D52B,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+C7D52E,MText,"51.8 calc.",P-TXT,9.9968368
+C7D530,BlockReference,"TEMP",L-MON,4.9984184
+C7D532,BlockReference,"TEMP",L-MON,4.9984184
+C7D533,BlockReference,"TEMP",L-MON,4.9984184
+C7D534,BlockReference,"TEMP",L-MON,4.9984184
+C7D537,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7D53E,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7D545,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7D553,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7E0A6,AlignedDimension,"Obsidian  P/L R/W  772 0762  770400",C-AR-T,Compass 5 000
+C7E0FB,MText,"DETAIL 'C' SCALE 1:1000",DETAIL-T,19.9936736
+C7E10D,DBText,"291°10'",L-BD1,9.9968368
+C7E10F,DBText,"291°10'",L-BD1,9.9968368
+C7E161,AlignedDimension,"Pembina  P/L R/W  141993",F-RW-T,Compass 5 000
+C7EC06,AlignedDimension,"NGTL  P/L R/W  1267 MC  448",F-RW-T,Compass 5 000
+C7EC61,AlignedDimension,"25.86 P/L R/W  802 1821  on PLSR)",F-AR-T,Compass 5 000
+C7EC87,DBText,"291°08'",L-BD1,9.9968368
+C7EC88,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7EC8F,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7F744,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7F74B,MText,"Flooded Area",T-WATER-T,9.996839999999713
+C7F759,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C7F760,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C801F6,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C80D7E,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C80D85,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C80D8C,BlockReference,"xing2",P-CROSSINGS,0.99968368
+C8184F,BlockReference,"xing2",P-CROSSINGS,0.99968368
+CB519F,AlignedDimension,"Pembina  P/L R/W  141993",F-RW-T,Compass 5 000
+D062A0,AlignedDimension,"Obsidian  A/R  241430",C-WS-T,Compass 5 000
+D06BE4,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+D06C03,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+D06C3D,BlockReference,"*U34",AS-OWNER,1
+D06C4C,BlockReference,"*U34",AS-OWNER,1
+D075B1,AlignedDimension,"Obsidian  A/R  958",C-AR-T,Compass 5 000
+D07644,MText,"Obsidian 6-11 (Surface) MSL 597",C-WS-T,9.999999999999627
+D07646,AlignedDimension,"10.00 P/L R/W  012 5704  on PLSR)",F-RW-T,Compass 5 000
+D088B6,AlignedDimension,"Obsidian  P/L R/W  842 2461  4906",C-RW-T,Compass 5 000
+D09BFD,AlignedDimension,"Obsidian  P/L R/W  860501",C-AR-T,Compass 5 000
+D0A64A,AlignedDimension,"Obsidian  P/L R/W  121445",C-RW-T,Compass 5 000
+D1176D,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D1177D,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D11780,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D117B8,MText,"94.2 calc.",P-TXT,9.9968368
+D132AE,MText,"164.4 calc.",P-TXT,9.9968368
+D132AF,BlockReference,"*U245",P-TEMP-BLOCKS,0.99968368
+D13B9A,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D13B9D,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D13CE2,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D145C0,BlockReference,"xing2",P-CROSSINGS,1
+D145D2,MText,"17.1 calc.",P-TXT,9.9968368
+D145D5,MText,"5.8 calc.",P-TXT,9.9968368
+D14F02,MText,"SEE 'LD3 & LD4' DETAIL",DETAIL-T,15.994938879999914
+D169A5,MText,"SEE 'W18 & W19' DETAIL",DETAIL-T,15.994938879999914
+D169AD,BlockReference,"*U247",P-TEMP-BLOCKS,0.99968368
+D169C2,BlockReference,"*U246",P-TEMP-BLOCKS,0.99968368
+D16A26,MText,"DETAIL 'LD3 & LD4' NOT TO SCALE",DETAIL-T,19.9936736
+D16A28,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D16A2C,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D17339,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D1733D,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D17342,BlockReference,"*U216",P-TEMP-BLOCKS,0.99968368
+D17C78,MText,"DETAIL 'W18 & W19' NOT TO SCALE",DETAIL-T,19.9936736
+D17C90,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D17C93,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D17CB7,BlockReference,"*U250",P-TEMP-BLOCKS,0.99968368
+D17CF3,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D17CF6,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D185CE,MText,"Log Deck = 0.001 ha  0.01 Ac.",L-AREAWORK,10.993042060641681
+D18EAC,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D1AA70,MText,"277.3 calc.",P-TXT,9.9968368
+D1AA7A,BlockReference,"xing2",P-CROSSINGS,1
+D2314A,MText,"30cm Spruce, Poplar & Pine",T-BUSH-T,9.99683999999984
+D2314B,MText,"30cm Poplar & Spruce",T-BUSH-T,9.99683999999984
+D2314C,MText,"40cm Poplar & Spruce",T-BUSH-T,9.99683999999984
+D2314D,MText,"40cm Poplar & Spruce",T-BUSH-T,9.99683999999984
+D34A02,BlockReference,"*U251",P-CROSSINGS,0.99968368
+D4213F,MText,"Ephemeral Draw, Class D, No RAP",T-WATER-T,9.996839999999713
+D42157,MText,"Area Required = 1.444 ha  3.57 Ac.",L-AREAREQUIRED,10.99304206064168
+D42158,MText,"Workspace = 0.262 ha  0.65 Ac.",L-AREAWORK,10.993042060641681
+D42159,MText,"S.E.1/4 Sec. 11-42-7-W.5M.",C-SYMBOL,19.99999999999937
+D42163,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D42165,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D42B00,MText,"Wooded Coniferous Swamp",WETLAND-T,9.996839999999713
+D42B27,MText,"Wooded Coniferous Swamp",WETLAND-T,9.996839999999713
+D434AA,BlockReference,"xing2",P-CROSSINGS,1
+D434B1,BlockReference,"xing2",P-CROSSINGS,1
+D434DC,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D434E0,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D4473F,MText,"(Undeveloped)",T-TEXT,9.99676999999965
+D44740,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D44742,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D44747,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D44759,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D4751D,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D4751F,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D47521,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D47523,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D47576,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D47584,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D48FE5,MText,"Small Permanent Watercourse, Class C, RAP from September 16 to June 30",T-WATER-T,9.996839999999713
+D498B1,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D4A19F,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999713
+D4B336,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D4C4DA,MText,"Small Permanent Watercourse, Class C, RAP from September 16 to June 30",T-WATER-T,9.996839999999713
+D4C4DD,MText,"Seasonal Shrubby Swamp",WETLAND-T,9.996839999999713
+D4C4DF,MText,"Seasonal Shrubby Swamp",WETLAND-T,9.996839999999713
+D4D672,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D4D681,MText,"Wooded Coniferous Swamp",WETLAND-T,9.996839999999713
+D4D68E,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D58508,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D5850C,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+D59936,DBText,"288°41'",L-BD1,9.9968368
+D5993B,AlignedDimension,"Pembina  P/L R/W  141996",F-RW-T,Compass 5 000
+D5993E,MText,"21.4 calc.",P-TXT,9.9968368
+D5993F,MText,"30cm Poplar & Aspen",T-BUSH-T,9.99683999999984
+D59940,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D59964,BlockReference,"TEMP",L-MON,4.9984184
+D5A2FC,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+D5A309,DBText,"(Undeveloped)",T-TEXT,9.9968368
+D5A30B,AlignedDimension,"Obsidian  P/L R/W  772 0760  750224",C-RW-T,Compass 5 000
+D5A332,MText,"Government Road Allowance",L-ROAD-T,9.9968368
+D5A357,MText,"DETAIL 'A' SCALE 1:1000",DETAIL-T,19.9936736
+D5A374,MText,"SEE DETAIL 'A'",DETAIL-T,15.994938879999914
+D5A376,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+D5A38B,BlockReference,"*U258",P-TEMP-BLOCKS,0.99968368
+D5A3A0,BlockReference,"*U258",P-TEMP-BLOCKS,0.99968368
+D5AD0A,BlockReference,"*U257",P-TEMP-BLOCKS,0.99968368
+D5AD34,DBText,"288°41'",L-BD1,9.9968368
+D5AD35,MText,"Log Deck = 0.180 ha  0.44 Ac.",L-AREAWORK,10.993042060641681
+D5BFCD,MText,"Sloping Ground",T-TEXT,9.99683999999984
+D5E594,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+D5E5AA,MText,"Temporary Access = 0.065 ha  0.16 Ac.",L-AREAWORK,10.993042060641681
+D5F8B1,MText,"Knoll",T-TEXT,9.99683999999984
+D5F8B3,DBText,"(Paved)",T-TEXT,9.99676999999965
+D60211,DBText,"(Paved)",T-TEXT,9.99676999999965
+D61F28,BlockReference,"Temp_Area4",P-TEMP-BLOCKS,0.99968368
+D61F30,BlockReference,"*U259",P-TEMP-BLOCKS,0.99968368
+D67569,BlockReference,"*U261",P-TEMP-BLOCKS,0.99968368
+D675A8,BlockReference,"XING3",P-TEMP-BLOCKS,0.99968368
+D688F1,DBText,"Temporary Access = 0.069 ha  0.17 Ac.",L-AREAWORK,10.993042060641681
+D6CC4C,BlockReference,"Temp_Area_Small_Pink",P-TEMP-BLOCKS,0.99968368
+D6D652,BlockReference,"*U262",P-TEMP-BLOCKS,0.99968368
+D74018,BlockReference,"*U192",P-TEMP-BLOCKS,0.99968368
+D749AA,BlockReference,"*U265",P-TEMP-BLOCKS,0.99968368
+D749E7,DBText,"291°02'",L-BD1,9.9968368
+D749E9,DBText,"323°47'",L-BD1,9.9968368
+D749EB,DBText,"275°07'",L-BD1,9.9968368
+D7538B,BlockReference,"*U266",P-TEMP-BLOCKS,0.99968368
+D753C1,BlockReference,"*U267",P-TEMP-BLOCKS,0.99968368
+D7715A,BlockReference,"*U269",P-TEMP-BLOCKS,0.99968368
+D77190,BlockReference,"*U270",P-TEMP-BLOCKS,0.99968368
+D81904,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+D81905,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9984184
+D81CC4,MText,"Wooded Coniferous Fen",WETLAND-T,9.996839999999715
+D81CCF,MText,"Seasonal Shrubby Swamp",WETLAND-T,9.996839999999713
+D81CD1,MText,"Wooded Coniferous Swamp",WETLAND-T,9.996839999999713
+D81CD3,MText,"Government Road Allowance",L-ROAD-T,9.996769999999644
+D81CD7,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.999999999999675
+D81CDA,AlignedDimension,"TO BE BORED 412.7",P-TEMP-NO CUT-T,Compass 5 000
+D81CDB,MText,"E.-W. 1/4 Line",L-QSEC,9.9968368
+D81CE4,MText,"Beaver Dam",AS-GENERAL,9.999999999999629
+D81CE9,MText,"DETAIL 'D' SCALE 1:1000",DETAIL-T,19.9936736
+D81CEC,BlockReference,"*U279",P-TEMP-BLOCKS,0.99968368
+D81D01,BlockReference,"*U200",P-TEMP-BLOCKS,0.99968368
+D81D16,BlockReference,"*U263",P-TEMP-BLOCKS,0.99968368
+D81D2B,BlockReference,"*U282",P-TEMP-BLOCKS,0.99968368
+D81D40,BlockReference,"*U264",P-TEMP-BLOCKS,0.99968368
+D81D55,BlockReference,"*U280",P-TEMP-BLOCKS,0.99968368
+D81D6A,BlockReference,"*U278",P-TEMP-BLOCKS,0.99968368
+D81D80,DBText,"291°10'",L-BD1,9.9968368
+D81D81,MText,"336°10' 14.1",L-BD1,9.9968368
+D81D82,MText,"246°10' 35.4",L-BD1,9.9968368
+D81D85,DBText,"291°10'",L-BD1,9.9968368
+D81D86,DBText,"837.7 (Tie)",L-BD,9.9968368
+D81D87,DBText,"315°47'",L-BD,9.9968368
+D81D88,AlignedDimension,"Obsidian  P/L R/W  772 0761  770399",C-AR-T,Compass 5 000
+D81D89,AlignedDimension,"Obsidian  P/L R/W  840182",C-RW-T,Compass 5 000
+D81D8A,AlignedDimension,"PMC  P/L R/W  962 1146  960735",F-RW-T,Compass 5 000
+D81D8B,AlignedDimension,"30.00 P/L R/W  842 1375  on PLSR)",F-RW-T,Compass 5 000
+D81D8C,MText,"21.8 calc.",P-TXT,9.9968368
+D81D91,MText,"Slope",T-TEXT,9.999999999999629
+D81D93,MText,"Slope",T-TEXT,9.999999999999629
+D81D95,MText,"Muskeg",T-TEXT,9.996839999999843
+D81D96,MText,"(Undeveloped)",T-TEXT,9.996769999999644
+D81D97,MText,"Small Permanent Watercourse, Class C, RAP from September 16 to June 30",T-WATER-T,9.996839999999715
+D81D9A,MText,"15cm Black Spruce & Tamarack",T-BUSH-T,9.996839999999843
+D81DB7,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DBE,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DC5,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DCC,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DD3,BlockReference,"*U281",P-CROSSINGS,0.99968368
+D81DEE,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DF5,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81DFC,BlockReference,"xing2",P-CROSSINGS,0.99968368
+D81E03,BlockReference,"TEMP",L-MON,4.9984184
+D81E04,BlockReference,"TEMP",L-MON,4.9984184
+D81E05,BlockReference,"TEMP",L-MON,4.9984184
+D81E06,BlockReference,"TEMP",L-MON,4.9984184
+D81E07,BlockReference,"TEMP",L-MON,4.9984184
+D9685F,MText,"SEE DETAIL 'D'",DETAIL-T,15.994938879999914
+D9A6C3,BlockReference,"*U283",P-TEMP-BLOCKS,0.99968368
+DA026D,DBText,"Log Deck = 0.180 ha  0.44 Ac.",L-AREAWORK,10.993042060641681
+DC6846,MText,"4m High Grade Gravel Road",T-TEXT,9.99676999999965
+DC6847,MText,"4m High Grade Gravel Road",T-TEXT,9.99676999999965
+DC86E3,BlockReference,"XING3",P-TEMP-BLOCKS,0.99968368
+DC86EF,MText,"Government Road Allowance",L-ROAD-T,9.99676999999965
+DC86F1,DBText,"291°10'",L-BD1,9.9968368
+DD4D9B,BlockReference,"*U284",CG-NOTES,1
+DD4DDC,MText,"(Undeveloped)",T-TEXT,9.99676999999965
+DD86F5,MText,"Sloping Ground",T-TEXT,9.99683999999984
+DDB95F,AlignedDimension,"{  BE BORED 211.0}",P-TEMP-NO CUT-T,Compass 5 000
+DDE248,MText,"Flooded Area",T-WATER-T,9.993677799570943
+E01723,BlockReference,"xing2",P-CROSSINGS,1
+E0172A,BlockReference,"xing2",P-CROSSINGS,1
+E01738,MText,"4m High Grade Gravel Road",T-TEXT,9.99676999999965
+E01739,AlignedDimension,"Obsidian  A/R  840322",C-AR-T,Compass 5 000
+E0A0BC,MText,"Rge. 7",D-TXT,13.999999999999991
+E0A0BD,MText,"Rge. 6",D-TXT,13.999999999999991
+E55D89,BlockReference,"Disclaimer_Legal",0,1

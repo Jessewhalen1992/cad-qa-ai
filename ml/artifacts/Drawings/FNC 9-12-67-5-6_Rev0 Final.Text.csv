@@ -1,0 +1,26 @@
+Handle,ObjType,Content,Layer,Extra
+AF3CF9,AlignedDimension,"PGI  P/L R/W  022 1876  002215",F-RW-T,Compass 5 000
+AF3D06,AlignedDimension,"CNRL  P/L R/W  092 7027  001141",C-RW-T,Compass 5 000
+AF3D6D,AlignedDimension,"CNRL  P/L R/W  061496",C-RW-T,Compass 5 000
+AF3D95,MText,"CNRL Riser Site PIL 061291",C-WS-T,9.9962529
+AF57A8,AlignedDimension,"CN  Railway  792 0875",L-TITLEDB-T,Compass 5 000
+AF6006,AlignedDimension,"CSV Midstream  P/L R/W  190289",F-RW-T,Compass 5 000
+AF6022,AlignedDimension,"Manitok  A/R  061723",F-AR-T,Compass 5 000
+AF88F5,MText,"CNRL 10-12(Surface) MSL 054397",C-WS-T,9.9962529
+AFE31F,AlignedDimension,"CNRL  A/R  052974",C-AR-T,Compass 5 000
+B21098,MText,"Rge. 5",D-TXT,14
+B21099,MText,"Rge. 4",D-TXT,14
+B36DDD,BlockReference,"*U10",DETAIL-T,1
+B372FC,BlockReference,"*U11",DETAIL-T,1
+B3732C,MText,"100m Buffer",P-BUFFER-YELLOW-T,10
+B3AF42,MText,"E.-W.1/4 Line",L-QSEC,9.99250720407584
+B3AFCF,AlignedDimension,"CNRL  P/L R/W  092 7027  001141",C-RW-T,Compass 5 000
+B3AFD0,AlignedDimension,"CNRL  P/L R/W  061496",C-RW-T,Compass 5 000
+B3AFD1,MText,"CNRL Riser Site PIL 061291",C-WS-T,9.99250720407584
+B3AFD3,MText,"CNRL 10-12(Surface) MSL 054397",C-WS-T,9.99250720407584
+B3AFD6,AlignedDimension,"PGI  P/L R/W  022 1876  002215",F-RW-T,Compass 5 000
+B3AFD7,AlignedDimension,"CSV Midstream  P/L R/W  190289",F-RW-T,Compass 5 000
+B3AFD8,AlignedDimension,"CN  Railway  792 0875",L-TITLEDB-T,Compass 5 000
+B3AFD9,AlignedDimension,"20.00 A/R",P-TXT,Compass 5 000
+B3B015,AlignedDimension,"CNRL  A/R  052974",C-AR-T,Compass 5 000
+B3CC80,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.299887587

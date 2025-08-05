@@ -1,0 +1,71 @@
+Handle,ObjType,Content,Layer,Extra
+BCA57B,BlockReference,"L-SECLBL",L-SECLBL,1
+BCA590,DBText,"Government Road Allowance",L-ROAD-T,9.996575699999935
+BCA591,DBText,"(Undeveloped)",T-TEXT,9.996575699999935
+BCAE7A,DBText,"N.E.1/4 Sec. 28-42-8-W.5M.",C-SYMBOL,19.993151399999885
+BCAE7B,DBText,"Workspace = 0.351 ha  0.87 Ac.",L-AREAREQUIRED,10.996233269999943
+BCC7F3,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.99999999999996
+BCC809,AlignedDimension,"Altalink  Powerline R/W  6245 MC  1841",F-EZE,Compass 5 000
+BCD102,AlignedDimension,"Pathfinder  A/R  220113",F-AR-T,Compass 5 000
+BCD11E,AlignedDimension,"Pathfinder  P/L R/W  220017",F-RW-T,Compass 5 000
+BCD159,AlignedDimension,"Obsidian  P/L R/W  842 0226  830333",C-RW-T,Compass 5 000
+BCD9EE,AlignedDimension,"Altalink  Powerline R/W  800117",F-EZE,Compass 5 000
+BCDA5A,AlignedDimension,"Fortis  Vegetation  R/W  870543",F-EZE,Compass 5 000
+BCDA7E,AlignedDimension,"Obsidian  A/R  5277",C-AR-T,Compass 5 000
+BCDAA2,AlignedDimension,"Pembina  P/L R/W  100639",F-RW-T,Compass 5 000
+BCE2AE,AlignedDimension,"Rocky Gas  P/L R/W  880618",F-RW-T,Compass 5 000
+BCE2DF,AlignedDimension,"Obsidian  P/L R/W  5135",C-RW-T,Compass 5 000
+BCE346,MText,"Pathfinder Power Station DML220030",F-EZE,9.996575699999964
+BCE347,AlignedDimension,"Obsidian  P/L R/W  842 0226  830333",C-RW-T,Compass 5 000
+BCE366,AlignedDimension,"Fortis  Powerline R/W  900006",F-EZE,Compass 5 000
+BCF44D,AlignedDimension,"Fortis  Powerline R/W  140361",F-EZE,Compass 5 000
+BCFD4D,MText,"Obsidian 10-28 (Surface) MSL 10648",C-WS-T,9.996575699999964
+BCFD75,MText,"Obsidian Riser Site PIL 281",C-WS-T,9.996575699999964
+BD0659,AlignedDimension,"Obsidian  P/L R/W  032 0197  012172",C-RW-T,Compass 5 000
+BD0685,AlignedDimension,"Obsidian  P/L R/W  012 3632  001799",C-RW-T,Compass 5 000
+BD0F91,AlignedDimension,"Fortis  Powerline R/W  060279",F-EZE,Compass 5 000
+BD18D9,AlignedDimension,"Obsidian  A/R  240149",C-AR-T,Compass 5 000
+BE3028,BlockReference,"GAS",AS-SYMBOL,4.999999999999983
+BE302D,BlockReference,"GAS",AS-SYMBOL,4.999999999999983
+BE3032,BlockReference,"GAS",AS-SYMBOL,4.999999999999983
+BE3037,BlockReference,"GAS",AS-SYMBOL,4.999999999999983
+BE303C,BlockReference,"GAS",AS-SYMBOL,4.999999999999983
+BE4D89,BlockReference,"XING3",P-CROSSINGS,0.99965757
+BE4D90,BlockReference,"XING3",P-CROSSINGS,0.99965757
+BE589A,MText,"L.S. 9",L-SECTION-LSD,9.996575699999978
+BE589C,MText,"L.S. 10",L-SECTION-LSD,9.996575699999978
+BE589E,MText,"L.S. 16",L-SECTION-LSD,9.996575699999978
+BE58A0,MText,"L.S. 15",L-SECTION-LSD,9.996575699999978
+BE642D,BlockReference,"RP",35,1
+BE7F5D,AlignedDimension,"Obsidian  P/L R/W  140835",C-RW-T,Compass 5 000
+BEFE74,MText,"Fortis O/H Power Line",AS-POWER,9.996575699999957
+BEFE75,MText,"Tank",AS-STRUCTURE-T,9.99657570000003
+BEFE77,MText,"Building",AS-STRUCTURE-T,9.99657570000003
+BEFE7D,MText,"Tank",AS-STRUCTURE-T,9.99657570000003
+BEFE7F,MText,"Building",AS-STRUCTURE-T,9.99657570000003
+BF0302,MText,"DETAIL SCALE 1:1000",DETAIL-T,19.993151399999956
+BF031A,BlockReference,"*U44",P-TEMP-BLOCKS,0.99965757
+BF033C,AlignedDimension,"Obsidian  A/R  5277",C-AR-T,Compass 5 000
+BF033D,AlignedDimension,"Obsidian  Flowline R/W  5135",C-RW-T,Compass 5 000
+BF033E,AlignedDimension,"Obsidian  P/L R/W  140835",C-RW-T,Compass 5 000
+BF033F,AlignedDimension,"Obsidian  P/L R/W  842 0226  830333",C-RW-T,Compass 5 000
+BF0340,AlignedDimension,"Obsidian  P/L R/W  032 0197  012172",C-RW-T,Compass 5 000
+BF0341,AlignedDimension,"Obsidian  P/L R/W  012 3632  001799",C-RW-T,Compass 5 000
+BF0342,MText,"Obsidian Riser Site PIL 281",C-WS-T,9.996575699999978
+BF0343,MText,"Obsidian 10-28 (Surface) MSL 10648",C-WS-T,9.996575699999957
+BF0345,AlignedDimension,"Fortis  Powerline R/W  060279",F-EZE-T,Compass 5 000
+BF0346,AlignedDimension,"Fortis  Powerline R/W  900006",F-EZE-T,Compass 5 000
+BF0348,MText,"5m High Grade Gravel Road",T-TEXT,9.996575699999957
+BF034A,MText,"40cm Poplar & Pine",T-BUSH-T,9.996575699999957
+BF034C,BlockReference,"*U45",AS-POWER-EXISTING-ANC,4.998287849999989
+BF0368,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,4.998287849999989
+BF037D,BlockReference,"*U42",AS-POWER-T,0.99965757
+BF0459,BlockReference,"*U55",P-TEMP-BLOCKS,0.9993152572583033
+BF046E,BlockReference,"*U54",P-TEMP-BLOCKS,0.9993152572583033
+BF15BC,BlockReference,"XING3",P-CROSSINGS,0.99965757
+BF15C3,BlockReference,"XING3",P-CROSSINGS,0.99965757
+BF1B9E,MText,"Proposed Buried Pipe",PROPOSED HP,9.996575699999957
+BF37C2,MText,"SEE DETAIL",DETAIL-T,15.994521119999973
+BF37C5,MText,"Fence",AS-GENERAL,9.99657570000003
+BF61D2,MText,"Tank",AS-STRUCTURE-T,9.99657570000003
+C05AC8,BlockReference,"Disclaimer_Legal",0,0.3

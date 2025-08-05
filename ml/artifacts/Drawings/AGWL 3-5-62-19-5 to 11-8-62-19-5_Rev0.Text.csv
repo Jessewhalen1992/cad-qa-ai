@@ -1,0 +1,203 @@
+Handle,ObjType,Content,Layer,Extra
+BDE334,BlockReference,"L-SECLBL",L-SECLBL,1
+BDE33A,BlockReference,"L-SECLBL",L-SECLBL,1
+BDE340,BlockReference,"L-SECLBL",L-SECLBL,1
+BDEDC5,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDC6,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDC7,MText,"Twp. 61",D-TXT,14.007526243850737
+BDEDC8,MText,"Twp. 62",D-TXT,14.007526243850737
+BDEDC9,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.008601421543794
+BDEDCB,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDCC,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDCD,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDCE,MText,"Twp. 61",D-TXT,14.007526243850737
+BDEDCF,MText,"Twp. 62",D-TXT,14.007526243850737
+BDEDD0,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BDEDD2,MText,"Theor. S.W.1/4  Sec. 5-62-19-W.5M.",C-SYMBOL,20.010751776929744
+BDEDE8,MText,"Fen",WETLAND-T,10.005375888464872
+BDEDE9,MText,"Wooded Coniferous Bog",WETLAND-T,10.005375888464872
+BDEDEB,MText,"Mixedwood Swamp",WETLAND-T,10.005375888464872
+BDEDEE,MText,"Fen",WETLAND-T,10.005375888464872
+BDEDEF,MText,"Swamp",WETLAND-T,10.005375888464872
+BDEDF3,MText,"Theor. N.E.1/4  Sec. 5-62-19-W.5M.",C-SYMBOL,20.010751776929744
+BDEDF4,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BDEDF5,MText,"Twp. 61",D-TXT,14.007526243850737
+BDEDF6,MText,"Twp. 62",D-TXT,14.007526243850737
+BDEDF7,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.008601421543794
+BDEDF9,MText,"Theor. S.E.1/4  Sec. 5-62-19-W.5M.",C-SYMBOL,20.010751776929744
+BDEDFA,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.008601421543794
+BDEDFC,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BDEDFE,MText,"Theor. S.W.1/4  Sec. 4-62-19-W.5M.",C-SYMBOL,20
+BDEE00,MText,"Theor. N.W.1/4  Sec. 4-62-19-W.5M.",C-SYMBOL,20
+BDEE01,MText,"Whitecap Riser Site  PIL 240186",C-FLOWLINE-T,9.999962980109055
+BDEE04,AlignedDimension,"Whitecap  P/L R/W  250402",C-FLOWLINE-T,Compass 5 000
+BDEE05,AlignedDimension,"Whitecap  P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
+BDEE06,AlignedDimension,"Whitecap  P/L R/W  792 1576  780563",C-RW-T,Compass 5 000
+BDEE07,AlignedDimension,"Whitecap  P/L R/W  240720",C-RW-T,Compass 5 000
+BDEE08,AlignedDimension,"Whitecap  P/L R/W  240720",C-RW-T,Compass 5 000
+BDEE09,AlignedDimension,"Whitecap  P/L R/W  250402",C-RW-T,Compass 5 000
+BDEE0A,AlignedDimension,"Pembina  P/L R/W  1132 KS  150783",F-RW-T,Compass 5 000
+BDEE0B,AlignedDimension,"CNRL  P/L R/W  170182",F-RW-T,Compass 5 000
+BDEE0C,AlignedDimension,"Pembina  P/L R/W  1132 KS  2587",F-RW-T,Compass 5 000
+BDEE0D,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDEE0E,AlignedDimension,"Paramount  P/L R/W  082 7684  012664",F-RW-T,Compass 5 000
+BDEE0F,AlignedDimension,"CNRL  P/L R/W PLA 170161",F-RW-T,Compass 5 000
+BDEE10,AlignedDimension,"CNRL  P/L R/W  170182",F-RW-T,Compass 5 000
+BDEE11,AlignedDimension,"CNRL  P/L R/W  190066",F-RW-T,Compass 5 000
+BDEE12,AlignedDimension,"CNRL  P/L R/W  190066",F-RW-T,Compass 5 000
+BDEE13,MText,"Pembina 12.19 P/L R/W Plan 1132 KS ROE 5906",F-RW-T,10.005375888464872
+BDEE16,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDEE17,AlignedDimension,"Paramount  P/L R/W  082 7684  012664",F-RW-T,Compass 5 000
+BDEE1F,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDEE23,MText,"30cm Poplar & Pine",T-BUSH-T,9.999999999999998
+BDEE27,MText,"30cm Poplar & Pine",T-BUSH-T,10
+BDEE29,MText,"30cm Poplar & Pine",T-BUSH-T,10
+BDEE2F,MText,"30cm Poplar & Pine",T-BUSH-T,10
+BDEE31,MText,"20cm Poplar & Pine (Re-Growth)",T-BUSH-T,10
+BDEE33,MText,"20cm Poplar & Pine (Re-Growth)",T-BUSH-T,10
+BDEE35,BlockReference,"*U26",AS-OWNER,1
+BDFA8B,DBText,"Theor. N.E.1/4 Sec. 8-62-19-W.5M.",C-SYMBOL,20
+BDFA8C,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BDFA8E,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BDFA90,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+BDFA98,BlockReference,"GAS",DRILL-T,5
+BDFA99,MText,"102/13-8 (Abd.)",DRILL-T,10
+BDFAA1,MText,"Texcal 13-8",DRILL-T,10
+BDFAA3,BlockReference,"GAS",DRILL-T,5
+BDFAA4,MText,"Paramount 7-8",DRILL-T,10
+BDFAB2,MText,"Swamp",WETLAND-T,10.005375888464874
+BDFAB4,MText,"Swamp",WETLAND-T,10.005375888464874
+BDFAB7,MText,"Theor. S.E.1/4  Sec. 8-62-19-W.5M.",C-SYMBOL,20
+BDFAB8,MText,"Shrubby Swamp",WETLAND-T,10.005375888464874
+BDFABA,BlockReference,"Gabd",DRILL-T,5
+BDFABD,MText,"Marsh/Shallow Open Water",WETLAND-T,10
+BDFABF,MText,"Theor. N.W.1/4 Sec. 8-62-19-W.5M.",C-SYMBOL,20
+BDFAC0,AlignedDimension,"Whitecap  P/L R/W  240720",C-RW-T,Compass 5 000
+BDFAC1,AlignedDimension,"Whitecap  P/L R/W  240720",C-RW-T,Compass 5 000
+BDFAC2,AlignedDimension,"Whitecap  P/L R/W  240720",C-RW-T,Compass 5 000
+BDFAC3,AlignedDimension,"Paramount  A/R  830482",F-AR-T,Compass 5 000
+BDFAC4,AlignedDimension,"Paramount  A/R  830482",F-AR-T,Compass 5 000
+BDFAC5,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+BDFAC6,AlignedDimension,"Paramount  A/R  830482",F-AR-T,Compass 5 000
+BDFAC7,AlignedDimension,"ATCO  Power Line R/W EZE 190204",F-EZE-T,Compass 5 000
+BDFAC8,AlignedDimension,"ATCO  Vegetation Control R/W  890557",F-EZE-T,Compass 5 000
+BDFAC9,AlignedDimension,"Texcal  Flowline R/W  3774",F-EZE-T,Compass 5 000
+BDFACA,AlignedDimension,"ATCO  Power Line R/W EZE 190204",F-EZE-T,Compass 5 000
+BDFACB,AlignedDimension,"NGTL  P/L R/W  983 RS  3290",F-RW-T,Compass 5 000
+BDFACC,AlignedDimension,"NGTL  P/L R/W  983 RS  3290",F-RW-T,Compass 5 000
+BDFACD,AlignedDimension,"PGI Processing  P/L R/W  848 RS  3236",F-RW-T,Compass 5 000
+BDFACE,AlignedDimension,"PGI Processing   P/L R/W  848 RS  3236",F-RW-T,Compass 5 000
+BDFACF,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDFAD0,AlignedDimension,"CNRL  P/L R/W PLA 190066",F-RW-T,Compass 5 000
+BDFAD1,AlignedDimension,"Paramount  P/L R/W  832 2652  810248",F-RW-T,Compass 5 000
+BDFAD2,AlignedDimension,"Paramount  P/L R/W  832 2652  810248",F-RW-T,Compass 5 000
+BDFAD3,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDFAD4,AlignedDimension,"Paramount  P/L R/W PLA 061996",F-RW-T,Compass 5 000
+BDFAD5,AlignedDimension,"CNRL  P/L R/W PLA 190066",F-RW-T,Compass 5 000
+BDFAD6,AlignedDimension,"Texcal  P/L R/W  892 0543  880371",F-RW-T,Compass 5 000
+BDFAD7,AlignedDimension,"Texcal  P/L R/W  942 3895  940226",F-RW-T,Compass 5 000
+BDFAD8,AlignedDimension,"Texcal  P/L R/W  952 4064 PLA 960073",F-RW-T,Compass 5 000
+BDFAD9,AlignedDimension,"Pembina  P/L R/W  5030 RS  4207",F-RW-T,Compass 5 000
+BDFADA,AlignedDimension,"CNRL  P/L R/W PLA 190066",F-RW-T,Compass 5 000
+BDFADB,AlignedDimension,"Paramount  P/L R/W  012 5065  082 7684  012664",F-RW-T,Compass 5 000
+BDFADC,AlignedDimension,"Paramount  P/L R/W  882 2394 PLA 880336",F-RW-T,Compass 5 000
+BDFADF,MText,"Texcal 13-8(Surface) MSL 6711 (Expired)",F-WS-T,10.005375888464874
+BDFAE1,MText,"Paramount 13-8(Surface) MSL 060370",F-WS-T,10.005375888464874
+BDFAE3,MText,"Paramount 7-8 (Surface) MSL 830579",F-WS-T,10.005375888464874
+BDFAE6,MText,"30cm Poplar  & Spruce",T-BUSH-T,10
+BDFAEA,BlockReference,"*U46",AS-OWNER,1
+BDFAF9,BlockReference,"*U46",AS-OWNER,1
+BDFB17,MText,"Swamp",WETLAND-T,10.005375888464874
+BE0EAC,AlignedDimension,"ATCO  Power Line R/W EZE 190204",F-EZE-T,Compass 5 000
+BE0ECC,AlignedDimension,"ATCO  Power Line R/W EZE 190204",F-EZE-T,Compass 5 000
+BE1772,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+BE179D,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+BE17CE,AlignedDimension,"Paramount  A/R  010166",F-AR-T,Compass 5 000
+BE20C9,MText,"Whitecap 20.00 A/R LOC 230128",C-AR-T,10
+BE20CB,AlignedDimension,"Whitecap  A/R  240012",C-AR-T,Compass 5 000
+BE210E,AlignedDimension,"Whitecap  A/R  240012",C-AR-T,Compass 5 000
+BE2138,AlignedDimension,"Whitecap  A/R  240012",C-AR-T,Compass 5 000
+BE2A09,AlignedDimension,"Texcal  A/R  6711",F-AR-T,Compass 5 000
+BE2A7C,MText,"Paramount 5-4(Surface) MSL 010198",F-WS-T,10.005375888464874
+BE3306,MText,"Whitecap FC657 6-8 (Surface) MSL 230100",C-WS-T,10.005375888464874
+BE3308,MText,"Whitecap FC658 3-5 (Surface) MSL 240013",C-WS-T,10.005375888464874
+BE4515,AlignedDimension,"CNRL  P/L R/W PLA 170161",F-RW-T,Compass 5 000
+BE608F,AlignedDimension,"Paramount  P/L R/W  882 2394 PLA 880336",F-RW-T,Compass 5 000
+BE60E0,BlockReference,"WC",L-MON,5
+BE60F3,BlockReference,"WC",L-MON,5
+BE60F4,BlockReference,"WC",L-MON,5
+BE60F5,BlockReference,"WC",L-MON,5
+BE60F6,BlockReference,"WC",L-MON,5
+BE60F7,BlockReference,"WC",L-MON,5
+BE60F8,BlockReference,"WC",L-MON,5
+BE60F9,BlockReference,"WC",L-MON,5
+BE60FA,BlockReference,"WC",L-MON,5
+BE60FB,BlockReference,"WC",L-MON,5
+BE9D06,BlockReference,"*U92",CG-NOTES,0.9989510452182897
+BEA5B0,BlockReference,"GAS",C-WS-S,5
+BEA5B1,BlockReference,"Gabd",F-WS-S,5
+BEA5B2,MText,"5-4 (Abd.)",DRILL-T,10
+BEAE40,BlockReference,"GAS",F-WS-S,5
+BEAE41,BlockReference,"GAS",F-WS-S,5
+BEAE42,BlockReference,"GAS",C-WS-S,5
+BEAE43,BlockReference,"GAS",C-WS-S,5
+BEAE44,BlockReference,"GAS",C-WS-S,5
+BEAE45,BlockReference,"GAS",C-WS-S,5
+BEC7FA,MText,"Existing Borrow Pit",T-EXISTING TFA-T,9.994589999999944
+BEC7FE,BlockReference,"WAT",0,4.997313499999916
+BEC7FF,MText,"Water Well Piezometer (Owner Unknown)",0,9.99462699999984
+BEC82A,AlignedDimension,"Whitecap  Water Line",P-TEMP-BLUE,Compass 5 000
+BEEAF2,MText,"Culvert",AS-GENERAL,9.994589999999963
+BEEAF3,MText,"Ephemeral Draw",T-WATER-T,9.994589999999963
+BEF38F,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BEF390,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BEF391,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BEF392,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BEF393,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.005375888464872
+BEF394,BlockReference,"xing2",P-CROSSINGS,1
+BEF39B,BlockReference,"xing2",P-CROSSINGS,1
+BEF3A2,BlockReference,"xing2",P-CROSSINGS,1
+BEF3A9,BlockReference,"xing2",P-CROSSINGS,1
+BEF3B0,BlockReference,"xing2",P-CROSSINGS,1
+BEF3B7,BlockReference,"xing2",P-CROSSINGS,1
+BEF3BE,BlockReference,"xing2",P-CROSSINGS,1
+BEF3C5,BlockReference,"xing2",P-CROSSINGS,1
+BEF3CC,BlockReference,"xing2",P-CROSSINGS,1
+BEFC63,BlockReference,"xing2",P-CROSSINGS,1
+BEFC6A,BlockReference,"xing2",P-CROSSINGS,1
+BEFC71,BlockReference,"xing2",P-CROSSINGS,1
+BEFC78,BlockReference,"xing2",P-CROSSINGS,1
+BEFC7F,BlockReference,"xing2",P-CROSSINGS,1
+BF0532,BlockReference,"xing2",P-CROSSINGS,1
+BF0539,BlockReference,"xing2",P-CROSSINGS,1
+BF0540,BlockReference,"xing2",P-CROSSINGS,1
+BF0547,BlockReference,"xing2",P-CROSSINGS,1
+BF054E,BlockReference,"xing2",P-CROSSINGS,1
+BF0555,BlockReference,"xing2",P-CROSSINGS,1
+BF055C,BlockReference,"xing2",P-CROSSINGS,1
+BF0563,BlockReference,"xing2",P-CROSSINGS,1
+BF056A,BlockReference,"xing2",P-CROSSINGS,1
+BF4721,BlockReference,"AA",CG-NOTES,0.9994627
+BF4722,BlockReference,"Route_Letters",CG-NOTES,0.9994627
+BF4725,BlockReference,"AA",CG-NOTES,0.9994627
+BF4726,BlockReference,"Route_Letters",CG-NOTES,0.9994627
+BF472A,BlockReference,"AA",CG-NOTES,0.9994627
+BF472B,BlockReference,"Route_Letters",CG-NOTES,0.9994627
+BF472E,BlockReference,"AA",CG-NOTES,0.9994627
+BF472F,BlockReference,"Route_Letters",CG-NOTES,0.9994627
+BF4732,BlockReference,"AA",CG-NOTES,0.9994627
+BF4733,BlockReference,"Route_Letters",CG-NOTES,0.9994627
+BF508E,MText,"4m Trail",T-TEXT,9.999999999999673
+BF508F,MText,"4m Trail",T-TEXT,9.999999999999673
+BF5090,MText,"4m Trail",T-TEXT,9.999999999999673
+BF5940,MText,"9m High Grade Gravel Road",T-SLOPE,10
+BFAD84,MText,"Ephemeral Draw",T-WATER-T,9.994589999999963
+C0D29B,MText,"Spruce & Pine (3m Tall Re-growth)",T-BUSH-T,9.994667799999778
+C0D2A5,MText,"Spruce  (1m Tall Re-growth)",T-BUSH-T,9.994667799999778
+C0D2B5,MText,"Cut Block",T-TEXT,9.994589999999993
+C0D2BD,MText,"Cut Block",T-TEXT,9.994589999999993
+C17187,BlockReference,"xing2",P-CROSSINGS,1
+C183D1,BlockReference,"*U90",P-TEMP-BLOCKS,1
+C18402,BlockReference,"*U90",P-TEMP-BLOCKS,1
+C1DBF5,DBText,"RP",35,10
+C1E5D3,BlockReference,"Disclaimer_Legal",0,0.5

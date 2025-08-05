@@ -1,0 +1,201 @@
+Handle,ObjType,Content,Layer,Extra
+AFD1ED,BlockReference,"L-SECLBL",L-SECLBL,1
+AFD1F3,BlockReference,"L-SECLBL",L-SECLBL,1
+AFD1FB,MText,"Rge. 11",D-TXT,13.99999999999999
+AFD1FC,MText,"Rge. 10",D-TXT,13.99999999999999
+AFD344,DBText,"N.W.1/4 Sec. 30-64-10-W.5M.",0,19.99999999999994
+AFD34C,MText,"Blue Ridge ISP 050181",F-WS,9.99999999999997
+AFD363,AlignedDimension,"ATCO  Power Line R/W  912 0781  900176",C-EZE-T,Compass 5 000
+AFD3CF,AlignedDimension,"(Not on PLSR) 7.62 R/W P/L  3739 TR",F-RW,Compass 5 000
+AFD3D2,DBText,"Government Road Allowance",L-ROAD-T,9.99999999999997
+AFD3ED,MText,"Conifer Plant Site Plan 3323 RS MLL 220041",F-WS-T,9.99999999999997
+AFD3EF,AlignedDimension,"Plains  P/L R/W  5348 RS   4145",F-RW-T,Compass 5 000
+AFD3F0,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",C-RW-T,Compass 5 000
+AFD3F1,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+AFD3F3,MText,"Pembina Meter Station Site Plan 852 1802  PIL 860067",F-WS-T,9.99999999999997
+AFD3F6,MText,"Nova 6.10 A/R DLO 2825",F-AR-T,9.99999999999997
+AFD3FC,AlignedDimension,"Razor  P/L R/W  918 RS   3365",F-WS-T,Compass 5 000
+AFD3FD,AlignedDimension,"Razor  P/L R/W  3984 RS  3830",F-RW-T,Compass 5 000
+AFD3FE,MText,"Conifer Fire Protection LOC 5144",F-AR-T,9.99999999999997
+AFD400,AlignedDimension,"Razor  P/L R/W  862 2127  850436",F-RW-T,Compass 5 000
+AFD401,AlignedDimension,"Conifer  A/R  4842",F-AR-T,Compass 5 000
+AFD48B,AlignedDimension,"Razor  P/L R/W  832 2906  830291",F-RW,Compass 5 000
+AFD6B8,AlignedDimension,"Crescent Point  P/L R/W  151529",F-RW,Compass 5 000
+AFD6BA,AlignedDimension,"Conifer  A/R  4753",F-AR-T,Compass 5 000
+AFD6BB,AlignedDimension,"Conifer  A/R  5645 MC  1679",F-EZE-T,Compass 5 000
+AFD6BC,AlignedDimension,"ATCO  Power Line R/W  890225",C-EZE-T,Compass 5 000
+AFD6BD,AlignedDimension,"ATCO  Power Line R/W  130023",C-EZE-T,Compass 5 000
+AFD6BE,AlignedDimension,"ATCO  Power Line R/W  852 1011  840179",C-EZE-T,Compass 5 000
+AFD6BF,AlignedDimension,"Conifer  A/R  5645 MC  1679",C-EZE-T,Compass 5 000
+AFD6C0,AlignedDimension,"ATCO  Power Line R/W  1745",C-EZE-T,Compass 5 000
+AFD6C1,MText,"ATCO 15.00 Power Line R/W EZE 910028",C-EZE-T,9.99999999999997
+AFD6C3,AlignedDimension,"ATCO  Power Line R/W  902 1425  890417",C-EZE-T,Compass 5 000
+AFD6D0,AlignedDimension,"ATCO  Power Line R/W  790148",C-EZE-T,Compass 5 000
+AFD6D1,AlignedDimension,"ATCO  Power Line R/W  8521010  860288",C-EZE-T,Compass 5 000
+AFD6D6,AlignedDimension,"ATCO  Power Line R/W   1495",C-EZE-T,Compass 5 000
+AFD6D7,AlignedDimension,"Power Line R/W  900149",C-EZE-T,Compass 5 000
+AFD6E7,AlignedDimension,"Razor  P/L R/W  4687 TR  5187",F-RW-T,Compass 5 000
+AFD6E9,MText,"Conifer Plant Site Plan 852 0211 MLL 840165",F-RW-T,9.99999999999997
+AFD6EB,MText,"Conifer Plant Site Plan 892 2311 MSL 890828",F-RW-T,9.99999999999997
+AFD6ED,AlignedDimension,"Conifer  A/R  1044",F-RW-T,Compass 5 000
+AFD6F0,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",C-RW-T,Compass 5 000
+AFD6F2,MText,"Conifer Storage Site MLL 220057",F-RW-T,9.99999999999997
+AFD6F5,MText,"ATCO Sub Station Plan 902 0321 DML 890164 (Expired)",F-RW-T,9.99999999999997
+AFD6F7,AlignedDimension,"CNRL  P/L R/W  150419",F-RW-T,Compass 5 000
+AFD6F8,AlignedDimension,"Conifer  P/L R/W  6381 NY  2753",F-RW-T,Compass 5 000
+AFD6F9,AlignedDimension,"Conifer  P/L R/W  5930 MC  1213",F-RW-T,Compass 5 000
+AFD700,AlignedDimension,"Conifer  P/L R/W  060050",F-RW-T,Compass 5 000
+AFD701,AlignedDimension,"CNRL  P/L R/W  100277",F-RW-T,Compass 5 000
+AFD72A,MText,"Conifer Sanitary Landfill Site LOC 4886",F-RW-T,9.99999999999997
+AFD72C,AlignedDimension,"Razor  P/L R/W  862 1871  840405",F-RW-T,Compass 5 000
+AFD72D,MText,"Conifer Camp Site LOC 4842",F-RW-T,9.99999999999997
+AFD72F,AlignedDimension,"Razor  P/L R/W  772 1344  770014",F-RW-T,Compass 5 000
+AFD730,AlignedDimension,"Plains  P/L R/W  4492 TR  5240",F-RW-T,Compass 5 000
+AFD731,AlignedDimension,"Razor  P/L R/W  2283 TR  5021",F-RW-T,Compass 5 000
+AFD732,AlignedDimension,"Razor  P/L R/W  812 1208  790264",F-RW-T,Compass 5 000
+AFD733,AlignedDimension,"Razor  P/L R/W  812 1208  790264",F-RW-T,Compass 5 000
+AFD734,AlignedDimension,"CNRL  P/L R/W  150419",F-RW-T,Compass 5 000
+AFD735,AlignedDimension,"Conifer  P/L R/W  3046 TR  4813",F-RW-T,Compass 5 000
+AFD736,AlignedDimension,"Plains  P/L R/W  5326",F-RW-T,Compass 5 000
+AFD737,AlignedDimension,"ATCO  P/L R/W  902 0172  890531",F-RW-T,Compass 5 000
+AFD73A,AlignedDimension,"Conifer  P/L R/W  4980 RS  4202",F-RW-T,Compass 5 000
+AFD73C,AlignedDimension,"ATCO  P/L R/W  752 0110  5791",C-RW-T,Compass 5 000
+AFD73D,AlignedDimension,"ATCO  P/L R/W  5851 MC  1935",C-RW-T,Compass 5 000
+AFD73E,AlignedDimension,"Conifer  P/L R/W  5800 NY  2576",F-RW-T,Compass 5 000
+AFD73F,AlignedDimension,"Conifer  P/L R/W  5851 MC  1211",F-RW-T,Compass 5 000
+AFD740,AlignedDimension,"Pembina  P/L R/W  940 0618  930124",F-RW-T,Compass 5 000
+AFD741,AlignedDimension,"CNRL  P/L R/W  882 0645  870864",F-RW-T,Compass 5 000
+AFD742,AlignedDimension,"Pembina  P/L R/W  5241 RS  4176",F-RW-T,Compass 5 000
+AFD745,AlignedDimension,"Nova  P/L R/W  6588 NY  2795",F-RW-T,Compass 5 000
+AFD746,AlignedDimension,"Conifer  P/L R/W  872 1143  850447",F-RW-T,Compass 5 000
+AFD747,MText,"Conifer Riser Site Plan 852 1802 PIL 220076",F-RW-T,9.99999999999997
+AFD749,AlignedDimension,"Conifer  P/L R/W  872 1026  840772",F-RW-T,Compass 5 000
+AFD754,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+AFD756,AlignedDimension,"Pembina  P/L R/W  6562 KS  194",F-RW-T,Compass 5 000
+AFD768,AlignedDimension,"Plains  P/L R/W  730054",F-RW-T,Compass 5 000
+AFD76F,AlignedDimension,"ATCO  Width Vegetation Control  900060",C-VCE-T,Compass 5 000
+AFD772,MText,"Nova Meter Station Site Plan 6588 NY DPI 147 (Expired)",F-WS-T,9.99999999999997
+AFD774,MText,"(Not on PLSR) Rise Site Plan 802 1768",F-WS-T,9.99999999999997
+AFD777,MText,"(Not on PLSR) Compressor Site Plan 852 1498",F-WS-T,9.99999999999997
+AFD782,DBText,"(Undeveloped)",T-TEXT,9.99999999999997
+AFE622,BlockReference,"*U20",AS-WILDLIFE-BLOCK,1
+AFE631,BlockReference,"*U20",AS-WILDLIFE-BLOCK,1
+AFE733,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+AFE750,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+AFE759,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+AFE75E,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+AFEB2A,BlockReference,"*U79",0,1
+AFF0F6,BlockReference,"*U79",0,1
+AFF8DD,AlignedDimension,"Nova  P/L R/W  6588 NY  2795",F-RW-T,Compass 5 000
+AFFC9A,AlignedDimension,"ATCO  Power Line R/W  160189",C-EZE-T,Compass 5 000
+AFFED3,AlignedDimension,"ATCO  Vegetation Control R/W  880688",C-EZE-T,Compass 5 000
+B002A9,AlignedDimension,"Razor  A/R  1718 TR  8858",F-RW-T,Compass 5 000
+B0076E,AlignedDimension,"Conifer  P/L R/W  5820 MC  1210",F-RW-T,Compass 5 000
+B00B52,AlignedDimension,"Plains  P/L R/W  5348 RS   4145",F-RW-T,Compass 5 000
+B00B83,AlignedDimension,"ATCO  P/L R/W  802 1766  800098",C-RW-T,Compass 5 000
+B00BAC,MText,"N.E.1/4  Sec. 25-64-11-W.5M.",0,19.99999999999994
+B00EE4,AlignedDimension,"Conifer  P/L R/W  1105 TR  4637",F-RW-T,Compass 5 000
+B0223C,AlignedDimension,"Conifer  P/L R/W  812 2921  800709",F-RW-T,Compass 5 000
+B026ED,AlignedDimension,"Pembina  P/L R/W  982 2508  971258",F-RW-T,Compass 5 000
+B03C10,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+B03D27,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+B03D30,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+B03D35,BlockReference,"POWERPOLE",AS-POWER-EXISTING,4.9978026
+B03DDD,MText,"Conifer  Fire Protection LOC 5144",F-AR-T,9.9956052
+B03DE2,AlignedDimension,"ATCO  Power Line R/W  160189",C-EZE-T,Compass 5 000
+B03DE4,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",C-RW-T,Compass 5 000
+B03DE5,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+B03DED,AlignedDimension,"Pembina  P/L R/W  940 0618  930124",F-RW-T,Compass 5 000
+B03DEE,AlignedDimension,"CNRL  P/L R/W  882 0645  870864",F-RW-T,Compass 5 000
+B03DF7,MText,"(Not on PLSR) Rise Site Plan 802 1768",F-WS-T,9.9956052
+B03DFA,MText,"(Not on PLSR) Compressor Site Plan 852 1498",F-WS-T,9.9956052
+B04065,AlignedDimension,"ATCO  Power Line R/W  8521010  860288",C-EZE-T,Compass 5 000
+B04099,DBText,"Government Road Allowance",L-ROAD-T,9.99999999999997
+B0409A,DBText,"(Undeveloped)",T-TEXT,9.99999999999997
+B04258,AlignedDimension,"Plains  P/L R/W  4785 MC  966",F-RW-T,Compass 5 000
+B04288,AlignedDimension,"ATCO  Power Line R/W  1745",C-EZE-T,Compass 5 000
+B042CD,AlignedDimension,"ATCO  Vegetation Control R/W  880688",C-EZE-T,Compass 5 000
+B042D9,AlignedDimension,"ATCO  Power Line R/W   1495",C-EZE-T,Compass 5 000
+B04499,AlignedDimension,"Razor  P/L R/W  812 1208  790264",F-RW-T,Compass 5 000
+B044BE,AlignedDimension,"Pembina  P/L R/W  6562 KS  194",F-RW-T,Compass 5 000
+B04692,AlignedDimension,"Plains  P/L R/W  5348 RS   4145",F-RW-T,Compass 5 000
+B046B0,AlignedDimension,"ATCO  P/L R/W  4785 MC  1174",C-RW-T,Compass 5 000
+B046D7,AlignedDimension,"Conifer  A/R  5645 MC  1679",F-EZE-T,Compass 5 000
+B04718,AlignedDimension,"ATCO  Power Line R/W  890225",C-EZE-T,Compass 5 000
+B048E6,AlignedDimension,"Conifer  A/R  4842",F-AR-T,Compass 5 000
+B04970,AlignedDimension,"Razor  P/L R/W  812 1208  790264",F-RW-T,Compass 5 000
+B05CDC,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05DD8,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05DE4,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05DF0,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05DFC,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E08,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E14,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E20,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E2C,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E38,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E44,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05E68,BlockReference,"*U109",P-ELEVATION,0.99956052
+B05E74,BlockReference,"*U110",P-ELEVATION,0.99956052
+B05E8C,BlockReference,"*U108",P-ELEVATION,0.99956052
+B05EB6,BlockReference,"*U111",P-ELEVATION,0.99956052
+B07578,MText,"5m High Grade Gravel Road",T-TEXT,9.9903150259479
+B0757E,MText,"5m High Grade Gravel Road",T-TEXT,9.9903150259479
+B07703,BlockReference,"NEZD Point",F-RW-T,0.99956052
+B07708,BlockReference,"NEZD Point",F-RW-T,0.99956052
+B0770D,BlockReference,"NEZD Point",F-RW-T,0.99956052
+B0B7EA,MText,"0+000",CHAINAGE-T,9.9956052
+B0B7EB,MText,"0+100",CHAINAGE-T,9.9956052
+B0B7EC,MText,"0+200",CHAINAGE-T,9.9956052
+B0B7ED,MText,"0+273",CHAINAGE-T,9.9956052
+B0BB48,MText,"Buried Telus Cable",AS-TELUS-ATCO PIPELINES,10.005684380404618
+B0BB4A,MText,"Buried Telus  Cable",AS-TELUS-ATCO PIPELINES,10.005684380404618
+B0BC2E,MText,"Buried Telus Cable",AS-TELUS-ATCO PIPELINES,10.005684380404618
+B0CDD0,AlignedDimension,"(Not on PLSR) 15.24 R/W P/L  752 0306",F-RW,Compass 5 000
+B0F265,BlockReference,"*U108",P-ELEVATION,0.99956052
+B0F271,BlockReference,"*U108",P-ELEVATION,0.99956052
+B0F27D,BlockReference,"*U115",P-ELEVATION,0.99956052
+B0F28A,MText,"Buried Pipe",AS-PIPE-UG-T,9.9956052
+B0F28B,MText,"Buried Pipe",AS-PIPE-UG-T,9.9956052
+B0F476,MText,"ATCO O/H  Power Line",AS-POWER-OH-ATCO PIPELINES,9.995605200000016
+B0F583,MText,"ATCO Buried Pipe Line/Lic.# 3861-1",EXISTING PIPE (EXIST OR HP),9.9956052
+B0F585,AlignedDimension,"ATCO  P/L R/W  802 1766  800098",C-RW-T,Compass 5 000
+B0F736,DBText,"0+000",S-T7,9.9956052
+B0F737,DBText,"0+010",S-T7,9.9956052
+B0F738,DBText,"0+020",S-T7,9.9956052
+B0F739,DBText,"0+030",S-T7,9.9956052
+B0F73A,DBText,"0+040",S-T7,9.9956052
+B0F73B,DBText,"0+050",S-T7,9.9956052
+B0F73C,DBText,"PROFILE OF DEPTH OF BURIED PIPE",L-DETAIL-T,17.4923091
+B0F746,DBText,"0+060",S-T7,9.9956052
+B0F747,DBText,"0+070",S-T7,9.9956052
+B0F748,DBText,"0+080",S-T7,9.9956052
+B0F749,DBText,"0+090",S-T7,9.9956052
+B0F74A,DBText,"0+100",S-T7,9.9956052
+B0F74C,MText,"Scale	1: 500 (Horiz.) 	1: 200 (Vert.)",DETAIL-T,9.9956052
+B0F74D,DBText,"NORTHWEST",0,9.9956052
+B0F74E,DBText,"SOUTHEAST",0,9.9956052
+B0F750,DBText,"0+110",S-T7,9.9956052
+B0F751,DBText,"0+120",S-T7,9.9956052
+B0F752,DBText,"0+130",S-T7,9.9956052
+B0F753,DBText,"0+140",S-T7,9.9956052
+B0F754,DBText,"0+150",S-T7,9.9956052
+B0F755,DBText,"0+160",S-T7,9.9956052
+B0F756,DBText,"0+170",S-T7,9.9956052
+B0F757,DBText,"0+180",S-T7,9.9956052
+B0F758,DBText,"0+190",S-T7,9.9956052
+B0F759,DBText,"0+200",S-T7,9.9956052
+B0F75A,DBText,"0+210",S-T7,9.9956052
+B0F75B,DBText,"0+220",S-T7,9.9956052
+B0F75C,DBText,"0+230",S-T7,9.9956052
+B0F75D,DBText,"0+240",S-T7,9.9956052
+B0F75E,DBText,"0+250",S-T7,9.9956052
+B0F75F,DBText,"0+260",S-T7,9.9956052
+B0F760,DBText,"0+270",S-T7,9.9956052
+B0F761,DBText,"0+280",S-T7,9.9956052
+B0F773,MText,"ATCO Buried Pipe (Line/Lic.# 3861-1)",EXISTING PIPE (EXIST OR HP),10
+B116D9,MText,"SEE DETAIL",DETAIL-T,15.992968319999997
+B11DA5,BlockReference,"*U110",P-ELEVATION,0.99956052
+B178F0,BlockReference,"*U18",DETAIL-T,1
+B178FE,MText,"DETAIL",DETAIL-T,20
+B17914,BlockReference,"Disclaimer_Legal",0,0.3

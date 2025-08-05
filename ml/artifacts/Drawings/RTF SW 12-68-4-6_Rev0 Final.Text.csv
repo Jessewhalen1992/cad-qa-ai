@@ -1,0 +1,27 @@
+Handle,ObjType,Content,Layer,Extra
+AF2DA5,DBText,"RP",35,9.995980000000008
+AF2F5D,BlockReference,"L-SECLBL",L-SECLBL,0.999598
+AF2F71,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.993568000000014
+AF2F7E,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995980000000007
+AF2F7F,MText,"L.S. 3",L-SECTION-LSD,9.995980000000007
+AF2F81,MText,"L.S. 4",L-SECTION-LSD,9.995980000000007
+AF2F83,MText,"L.S. 6",L-SECTION-LSD,9.995980000000007
+AF2F85,MText,"L.S. 5",L-SECTION-LSD,9.995980000000007
+AF317C,BlockReference,"*U18",L-SECLBL,0.999598
+AF319B,MText,"Hammerhead 6-12 (Surface) MLL 180094",F-WS-T,9.995980000000005
+AF3331,AlignedDimension,"Hammerhead  A/R  031870",F-AR-T,Compass 5 000
+AF336B,AlignedDimension,"Hammerhead  A/R  170409",F-AR-T,Compass 5 000
+AF3C54,AlignedDimension,"Crescent  A/R  820853",C-AR-T,Compass 5 000
+AF3C80,AlignedDimension,"Hammerhead  P/L R/W  142151",F-RW-T,Compass 5 000
+AF3CBA,AlignedDimension,"PGI  P/L R/W  160498",F-RW-T,Compass 5 000
+AF3E74,AlignedDimension,"Hammerhead  P/L R/W  180941",F-RW-T,Compass 5 000
+AF3EC0,AlignedDimension,"Hammerhead  P/L R/W  180854",F-RW-T,Compass 5 000
+AF3F1D,AlignedDimension,"PGI  P/L R/W  200448",F-RW-T,Compass 5 000
+AF3F57,AlignedDimension,"Hammerhead  A/R  221029",F-RW-T,Compass 5 000
+AF3FA3,AlignedDimension,"Crescent  P/L R/W  942 0742  930219",C-RW-T,Compass 5 000
+AF416B,AlignedDimension,"Hammerhead  P/L R/W  962 1829  940632",F-RW-T,Compass 5 000
+AF41AA,MText,"Theor. S.W.1/4 Sec. 12-68-4-W.6M.",C-SYMBOL,19.991960000000013
+AF4A60,AlignedDimension,"Hammerhead  P/L R/W  210663",F-RW-T,Compass 5 000
+AF87EB,BlockReference,"*U31",P-TEMP-BLOCKS,0.999598
+B017A4,BlockReference,"*U32",DETAIL-T,0.999598
+B04714,BlockReference,"Disclaimer_Legal",0,0.5

@@ -1,0 +1,32 @@
+Handle,ObjType,Content,Layer,Extra
+BCE2EA,BlockReference,"L-SECLBL",L-SECLBL,1
+BD075E,AlignedDimension,"CNRL  P/L R/W  002 1792  56208-10)",F-WS-T,Compass 5 000
+BD078F,AlignedDimension,"NGTL  P/L R/W  812 2551  80431-6)",F-RW-T,Compass 5 000
+BD079C,AlignedDimension,"CNRL  P/L R/W  002 1792  56208-10)",F-RW-T,Compass 5 000
+BD0C66,AlignedDimension,"Cold Lake Pipeline Ltd.  Oil Resources Ltd.  P/L R/W  822 0136  21025-24, 19113-22)  19112-36)",P-PROPOSED-T3,Compass 5 000
+BD1C45,AlignedDimension,"60.96 Road  138 LZ",L-TITLEDB-T,Compass 5 000
+BD26B8,AlignedDimension,"40.00 Road  832 3148",L-TITLEDB-T,Compass 5 000
+BD89E2,MText,"Lot 1 Plan 912 0177",L-TITLEDB-T,9.995059999999897
+BD9428,DBText,"S.W.1/4 Sec. 26-59-15-W.4M.",C-SYMBOL,19.990119999999795
+BD9429,BlockReference,"*U14",AS-OWNER,0.999506
+BD9E7A,MText,"Approximate Location of  Smoky Lake Natural Gas Co-op",AS-PIPE-UG-T,9.996369999999947
+BDB26E,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+BDB26F,DBText,"(Paved)",T-TEXT,9.999999999999998
+BDB270,DBText,"HIGHWAY 28",L-TITLEDB-T,9.999999999999998
+BDB279,DBText,"Government Road Allowance   Rge. Rd. 152",L-ROAD-T,9.990142430479933
+BDB27A,DBText,"(Paved)",T-TEXT,9.990142430479933
+BDC89A,MText,"30.0x50.0 Laydown (Temporary) (Option A)",P-TEMP_WORKSPACE,9.996369999999962
+BDCDC0,AlignedDimension,"10.0x161.1 A/R  A)}",P-TEMP-T,Compass 5 000
+BDD31F,BlockReference,"res_occ",AS-RESIDENCE,5
+BDD324,BlockReference,"res_occ",AS-RESIDENCE,5
+BE96DF,MText,"Residence",AS-RESIDENCE,10
+BE96E1,MText,"Residence",AS-RESIDENCE,10
+BE9CCD,BlockReference,"*U16",DETAIL-T,1
+BE9CDF,BlockReference,"*U17",0,1
+BED3B6,BlockReference,"xing2",P-CROSSINGS,1
+BED3C4,BlockReference,"xing2",P-CROSSINGS,1
+BF4A36,MText,"Approximate Location of  Apex Utilities Natural Gas Co-op",AS-PIPE-UG-T,9.996369999999947
+BF631E,MText,"9.9x10.0 A/R (Temporary) (Option A)",P-TEMP-BLUE,9.996369999999962
+BF694D,BlockReference,"xing2",P-CROSSINGS,1
+BFF0FB,BlockReference,"xing2",P-CROSSINGS,1
+C106B8,BlockReference,"*U19",0,0.999506

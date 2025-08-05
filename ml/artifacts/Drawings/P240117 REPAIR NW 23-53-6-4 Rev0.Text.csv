@@ -1,0 +1,41 @@
+Handle,ObjType,Content,Layer,Extra
+AF6D8B,AlignedDimension,"20.12 Road  277 EO",L-TITLEDB-T,Compass 5 000
+AF7703,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7F3C,BlockReference,"*U21",AS-OWNER,1
+AF7F7F,DBText,"N.W.1/4 Sec. 23-53-6-W.4M.",C-SYMBOL,20
+AF7FDF,BlockReference,"*U22",AS-WILDLIFE-BLOCK,1
+AF88D0,BlockReference,"HRV",CG-NOTES,1
+AF9A60,AlignedDimension,"CNRL  P/L R/W Plan 972 2114  29049-28)",F-RW-T,Compass 5 000
+AF9A8C,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0980  32247-3, LS 7562)",P-PROPOSED-T,Compass 5 000
+AFF8F0,AlignedDimension,"CNRL  P/L R/W Plan 152 3443  18287-111)",F-RW-T,Compass 5 000
+B000D0,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2793  54759-1, LS 7566)",P-PROPOSED-T,Compass 5 000
+B0252E,MText,"Road Plan  862 1276",L-TITLEDB-T,10
+B02D0D,MText,"Road Plan 842 2449",L-TITLEDB-T,10
+B02D1B,DBText,"Government Road Allowance",L-ROAD-T,10
+B02D1C,DBText,"(Paved)",T-TEXT,10
+B02D1D,MText,"Hwy. 45",L-ROAD-T,10
+B0366D,MText,"County of Vermilion River - Alberta",L-33,12
+B0366E,MText,"County of Two Hills No. 21 - Alberta",L-33,12
+B0470A,MText,"ATCO O/H Power Line",AS-POWER-T,10
+B04ED1,MText,"Twp. Rd. 533A",L-ROAD-T,10
+B056A7,MText,"30.0x50.0 Laydown (Temporary)",P-TEMP-T,10
+B06E48,DBText,"(High Grade Gravel)",T-TEXT,10
+B06E49,DBText,"Government Road Allowance",L-ROAD-T,10
+B06E4A,MText,"Rge. Rd. 62",L-ROAD-T,10
+B076B8,BlockReference,"*U28",DETAIL-T,1
+B076CA,BlockReference,"*U29",0,1
+B1ECEA,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B2A758,BlockReference,"xing2",P-CROSSINGS,1
+B2A76C,BlockReference,"xing2",P-CROSSINGS,1
+B2A794,BlockReference,"xing2",P-CROSSINGS,1
+B2A7A8,BlockReference,"xing2",P-CROSSINGS,1
+B2A7BC,BlockReference,"xing2",P-CROSSINGS,1
+B2A7D0,BlockReference,"xing2",P-CROSSINGS,1
+B2DE9F,BlockReference,"HRV",CG-NOTES,1
+B384BA,AlignedDimension,"5.0x58.3",P-TEMP-T,Compass 5 000
+B384BB,AlignedDimension,"5.0x88.1",P-TEMP-T,Compass 5 000
+B384BC,AlignedDimension,"5.0x522.5",P-TEMP-T,Compass 5 000
+B38AAF,AlignedDimension,"10.0x40.7  Work Area)",P-TEMP-BLUE-T,Compass 5 000
+B38AE9,AlignedDimension,"10.0x47.0  Work Area)",P-TEMP-BLUE-T,Compass 5 000
+B38B26,AlignedDimension,"10.0x159.1  Work Area)",P-TEMP-T,Compass 5 000
+B40CAB,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.4

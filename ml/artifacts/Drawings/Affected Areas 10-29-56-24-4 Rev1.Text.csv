@@ -1,0 +1,58 @@
+Handle,ObjType,Content,Layer,Extra
+BD2271,BlockReference,"L-SECLBL",L-SECLBL,1
+BD2279,AlignedDimension,"Baytex  P/L R/W  762 2199",C-RW-T,Compass 5 000
+BD2296,AlignedDimension,"Baytex  P/L R/W  802 0931",C-RW-T,Compass 5 000
+BD22BE,AlignedDimension,"Baytex  P/L R/W  912 3467",C-RW-T,Compass 5 000
+BD2E29,AlignedDimension,"Baytex  P/L R/W  1275 KS",C-RW-T,Compass 5 000
+BD2E51,AlignedDimension,"Baytex  P/L R/W  852 1808",C-RW-T,Compass 5 000
+BD2E91,MText,"Lot 1  Plan 772 2543",L-TITLEDB,10
+BD3CF0,MText,"Lot 1  Plan 902 1902",L-TITLEDB,10
+BD542F,BlockReference,"GAS",C-WS-S,5
+BE411B,DBText,"N.E.1/4 Sec. 29-56-24-W.4M.",C-SYMBOL,20
+BE4120,MText,"Battery Site",L-TITLEDB,10
+BE419F,MText,"Approximate Location of  Apex Buried Gas Co-op.",AS-PIPE-UG,10
+BE41A0,MText,"Buried Telus Cable",AS-TELUS,10
+BE41A1,MText,"Fortis O/H Power Line",AS-POWER,10
+BE5A08,DBText,"(High Grade Gravel)",T-TEXT,10
+BE5A09,DBText,"Government Road Allowance",L-ROAD-T,10
+BE76B1,BlockReference,"res_occ",AS-RESIDENCE,5
+BE76B2,MText,"Residence",AS-RESIDENCE,10
+BE76BB,BlockReference,"res_occ",AS-RESIDENCE,5
+BE76BC,MText,"Residence",AS-RESIDENCE,10
+BEBE1F,MText,"Battery Site",L-TITLEDB,10
+BEBE22,MText,"Fortis O/H Power Line",AS-POWER,10
+BEBE25,AlignedDimension,"Baytex  P/L R/W  762 2199",AB_SEC_N83UTMz12,Compass 5 000
+BEBE26,AlignedDimension,"Baytex  P/L R/W  802 0931",AB_SEC_N83UTMz12,Compass 5 000
+BEBE27,AlignedDimension,"Baytex  P/L R/W  912 3467",C-RW-T,Compass 5 000
+BEBE28,AlignedDimension,"Baytex  P/L R/W  1275 KS",C-RW-T,Compass 5 000
+BEBE29,AlignedDimension,"Baytex  P/L R/W  852 1808",C-RW-T,Compass 5 000
+BEC238,AlignedDimension,"Baytex  P/L R/W  872 1652",AB_SEC_N83UTMz12,Compass 5 000
+BF4FC3,MText,"N.-S. 1/4 Line",AB_SEC_N83UTMz12,10
+BF4FC4,MText,"E.-W. 1/4 Line",AB_SEC_N83UTMz12,10
+BFEBDB,AlignedDimension,"{  P/L R/W  182 2570}",AB_SEC_N83UTMz12,Compass 5 000
+BFFEE0,MText,"Zone 2 Area  = 1.546 ha  3.82 Ac.",P-BUFFER-PURPLE,11
+C002E1,MText,"Zone 1 Area  = 0.678 ha  1.68 Ac.",P-BUFFER-PURPLE,11
+C00B9C,MText,"Zone 3 Area  = 2.298 ha  5.68 Ac.",P-BUFFER-PURPLE,10
+C08499,BlockReference,"*U60",AS-OWNER,1
+C10E3E,MText,"Lot 1  Plan 772 2543",L-TITLEDB,10
+C10E3F,MText,"Lot 1  Plan 902 1902",L-TITLEDB,10
+C10E4D,DBText,"N.E.1/4 Sec. 29-56-24-W.4M.",C-SYMBOL,20
+C10E4E,MText,"Battery Site",L-TITLEDB,10
+C10E4F,MText,"Approximate Location of  Apex Buried Gas Co-op.",AS-PIPE-UG,10
+C10E50,MText,"Buried Telus Cable",AS-TELUS,10
+C10E51,MText,"Fortis O/H Power Line",AS-POWER,10
+C10E52,DBText,"Government Road Allowance",L-ROAD-T,10
+C10E5B,AlignedDimension,"Baytex  P/L R/W  762 2199",C-RW-T,Compass 5 000
+C10E5C,AlignedDimension,"Baytex  P/L R/W  802 0931",C-RW-T,Compass 5 000
+C10E5D,AlignedDimension,"Baytex  P/L R/W  912 3467",C-RW-T,Compass 5 000
+C10E5E,AlignedDimension,"Baytex  P/L R/W  1275 KS",C-RW-T,Compass 5 000
+C10E5F,AlignedDimension,"Baytex  P/L R/W  852 1808",C-RW-T,Compass 5 000
+C10E60,DBText,"(High Grade Gravel)",T-TEXT,10
+C10E61,BlockReference,"*U60",AS-OWNER,1
+C10E7D,MText,"Residence",AS-RESIDENCE,10
+C10E7F,MText,"Residence",AS-RESIDENCE,10
+C10E80,BlockReference,"GAS",C-WS-S,5
+C117EF,DBText,"Zone 1",P-BUFFER-PURPLE,11
+C117FF,DBText,"Zone 2",P-BUFFER-PURPLE,11
+C1180E,DBText,"Zone 3",P-BUFFER-PURPLE,11
+C12669,BlockReference,"Disclaimer_Legal",0,0.3

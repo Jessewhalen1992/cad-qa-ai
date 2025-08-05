@@ -1,0 +1,145 @@
+Handle,ObjType,Content,Layer,Extra
+BD4550,BlockReference,"L-SECLBL",L-SECLBL,0.9994709999999999
+BD46F8,BlockReference,"L-SECLBL",L-SECLBL,0.9994709999999999
+BD67F6,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999953
+BD67F7,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999953
+BD67F8,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999953
+BD7527,DBText,"Theor. N.W.1/4 Sec. 29-62-20-W.5M.",C-SYMBOL,19.989419999999914
+BD7538,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991535999999913
+BD753A,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991535999999913
+BD753C,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991535999999913
+BD81E2,AlignedDimension,"Texcal  Communications Cable R/W  780800",F-RW-T,Compass 5 000
+BD8B7D,MText,"ATCO Power Station DML 160093",F-WS-T,9.994709999999957
+BD951E,BlockReference,"*U22",CG-NOTES,0.9994709999999999
+BD957B,BlockReference,"HRV",CG-NOTES,0.9994709999999999
+BD9758,MText,"Peyto Tower Site DML 950101",F-WS-T,9.994709999999957
+BD975A,AlignedDimension,"Alliance  P/L R/W  002 3895  981082",F-RW-T,Compass 5 000
+BD996E,AlignedDimension,"ATCO  Power Line R/W  140304",F-EZE-T,Compass 5 000
+BD9B64,AlignedDimension,"ATCO  Power Line R/W  140304",F-EZE-T,Compass 5 000
+BDA547,MText,"Theor. S.W.1/4 Sec. 29-62-20-W.5M.",C-SYMBOL,19.989419999999914
+BDA548,AlignedDimension,"ATCO  Power Line R/W  170160",F-EZE-T,Compass 5 000
+BDAEE2,AlignedDimension,"ATCO  Power Line R/W  170161",F-EZE-T,Compass 5 000
+BDC1DF,AlignedDimension,"ATCO  Power Line R/W  170042",F-EZE-T,Compass 5 000
+BDCB81,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BDDEA9,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BDDEC5,AlignedDimension,"ATCO  Vegetation Control R/W  890416",F-VCE-T,Compass 5 000
+BDDEED,AlignedDimension,"ATCO  Power Line R/W  190087",F-EZE-T,Compass 5 000
+BE04D1,AlignedDimension,"ATCO  Power Line R/W  180023",F-EZE-T,Compass 5 000
+BE2B4B,AlignedDimension,"Procyon  A/R  122346",F-EZE-T,Compass 5 000
+BE2BA3,MText,"Veren Water Reservoir LOC 150927",C-WS-T,9.994709999999957
+BE3E78,MText,"Veren Water Reservoir LOC 160401",C-WS-T,9.994709999999957
+BE47E5,AlignedDimension,"CRR  A/R  211109",F-AR-T,Compass 5 000
+BE646D,AlignedDimension,"Pembina  A/R  220123",F-AR-T,Compass 5 000
+BE649E,AlignedDimension,"Veren  Waterline R/W  241332",C-RW-T,Compass 5 000
+BE79A6,AlignedDimension,"Paramount  A/R  851197",F-AR-T,Compass 5 000
+BE8D1E,MText,"Paramount Storage MLL 2122",F-WS-T,9.994709999999957
+BE8F1C,MText,"Paramount 12-29 (Surface) MSL 1422",F-WS-T,9.994709999999957
+BE9894,AlignedDimension,"Paramount  A/R  1422",F-AR-T,Compass 5 000
+BEA238,AlignedDimension,"ATCO  Power Line R/W  170160",F-EZE-T,Compass 5 000
+BEA272,MText,"Paramount Injection Site MSL 1614",F-WS-T,9.994709999999957
+BEB557,AlignedDimension,"Paramount  Flowline R/W  1614",F-FLOWLINE-T,Compass 5 000
+BEC86F,AlignedDimension,"Paramount  A/R  1913",F-AR-T,Compass 5 000
+BED212,AlignedDimension,"Texcal  Flowline R/W  1939",F-FLOWLINE-T,Compass 5 000
+BED24C,AlignedDimension,"Texcal  Flowline R/W  1939",F-FLOWLINE-T,Compass 5 000
+BED27D,AlignedDimension,"Texcal  A/R  2164",F-FLOWLINE-T,Compass 5 000
+BEF0D1,MText,"R360 Battery Site MSL 231265",F-WS-T,9.994709999999957
+BEF0D2,AlignedDimension,"CNRL  A/R  831539",F-AR-T,Compass 5 000
+BF03F6,AlignedDimension,"Paramount  A/R  941145",F-AR-T,Compass 5 000
+BF0438,MText,"Paramount 6-30 (Surface) MSL 941145 (Expired)",F-WS-T,9.994709999999957
+BF05F8,MText,"Paramount Compressor Site PIL 168 (Expired)",F-WS-T,9.994709999999957
+BF1945,AlignedDimension,"Pembina  P/L R/W  5793 MC  1185",F-RW-T,Compass 5 000
+BF196D,AlignedDimension,"Pembina  P/L R/W  5793 MC  1185",F-RW-T,Compass 5 000
+BF48F9,AlignedDimension,"Paramount  P/L R/W  242 NY  1373",F-RW-T,Compass 5 000
+BF4933,AlignedDimension,"Texcal  P/L R/W  1522",F-RW-T,Compass 5 000
+BF54BC,AlignedDimension,"Paramount  Flowline R/W  1641",F-FLOWLINE-T,Compass 5 000
+BF54F6,AlignedDimension,"Pembina  P/L R/W  160313",F-RW-T,Compass 5 000
+BF69DC,AlignedDimension,"R360  P/L R/W  142 4061  080284",F-RW-T,Compass 5 000
+BF6A28,AlignedDimension,"R360  P/L R/W  102 2525  065306",F-RW-T,Compass 5 000
+BF8700,AlignedDimension,"R360  P/L R/W  992 2842  961626",F-RW-T,Compass 5 000
+BFA3AB,AlignedDimension,"Pembina  P/L R/W  160648",F-RW-T,Compass 5 000
+BFA3F6,AlignedDimension,"Pembina  P/L R/W  160648",F-RW-T,Compass 5 000
+BFB762,AlignedDimension,"Pembina  P/L R/W  131393",F-RW-T,Compass 5 000
+BFB7C0,AlignedDimension,"Pembina  P/L R/W  131393",F-RW-T,Compass 5 000
+BFC199,AlignedDimension,"Cenovus  P/L R/W  042 5623  001275",F-RW-T,Compass 5 000
+BFD6BE,AlignedDimension,"Keyera  P/L R/W  200142",F-RW-T,Compass 5 000
+BFEA38,AlignedDimension,"CNRL  P/L R/W  842 2511  840736",F-RW-T,Compass 5 000
+BFEA7B,AlignedDimension,"Procyon  P/L R/W  130340",F-RW-T,Compass 5 000
+BFF5F2,AlignedDimension,"Paramount  P/L R/W  911 RS  3235",F-RW-T,Compass 5 000
+BFFFF4,AlignedDimension,"Texcal  P/L R/W  4037",F-RW-T,Compass 5 000
+C01361,AlignedDimension,"Texcal  P/L R/W  862 2095  850491",F-RW-T,Compass 5 000
+C01D52,AlignedDimension,"Veren  P/L R/W  241019",C-RW-T,Compass 5 000
+C03A06,AlignedDimension,"CNRL  P/L R/W  180124",F-RW-T,Compass 5 000
+C043AB,AlignedDimension,"Veren  P/L R/W  131562",C-RW-T,Compass 5 000
+C05712,AlignedDimension,"Texcal  P/L R/W  2522",F-RW-T,Compass 5 000
+C06A46,AlignedDimension,"Paramount  P/L R/W  782 2906  780136",F-RW-T,Compass 5 000
+C09169,AlignedDimension,"Texcal  P/L R/W  842 1852  830293",F-RW-T,Compass 5 000
+C0A6E3,AlignedDimension,"Texcal  P/L R/W  842 1855  830217",F-RW-T,Compass 5 000
+C0A71D,AlignedDimension,"Texcal  P/L R/W  4798",F-RW-T,Compass 5 000
+C0BA59,AlignedDimension,"Texcal  P/L R/W  762 0292  6062",F-RW-T,Compass 5 000
+C0CDDA,AlignedDimension,"Paramount  P/L R/W  961300",F-RW-T,Compass 5 000
+C0CE7B,AlignedDimension,"Texcal  P/L R/W  882 2106  870541",F-RW-T,Compass 5 000
+C0E205,AlignedDimension,"Paramount  P/L R/W  160174",F-RW-T,Compass 5 000
+C0E279,AlignedDimension,"Paramount  Waterline R/W  160175  be Cancelled)",C-RW-T,Compass 5 000
+C0EC53,AlignedDimension,"Paramount  P/L R/W  972 4001  941240",F-RW-T,Compass 5 000
+C1241F,BlockReference,"HRV",CG-NOTES,0.9994709999999999
+C12D15,MText,"Theor. S.E.1/4 Sec. 30-62-20-W.5M.",C-SYMBOL,19.989419999999914
+C12D1F,BlockReference,"HRV",CG-NOTES,0.9994709999999999
+C141BD,BlockReference,"GAS",F-WS-S,4.997354999999984
+C141C8,BlockReference,"GABD",F-WS-S,4.997354999999984
+C141E4,MText,"11-29 (Abd.)",F-WS-T,9.994709999999957
+C141E6,BlockReference,"GAS",F-WS-S,4.997354999999984
+C14B2A,DBText,"10.50 Power Line R/W",F-EZE-T,9.994709999999968
+C14B2B,DBText,"EZE 160092",F-EZE-T,9.994709999999968
+C14B2C,MText,"ATCO",F-EZE-T,9.994709999999968
+C15429,BlockReference,"GAS",C-WS-S,4.997354999999984
+C1542B,BlockReference,"GAS",C-WS-S,4.997354999999984
+C1542C,BlockReference,"GAS",C-WS-S,4.997354999999984
+C1542D,BlockReference,"GAS",C-WS-S,4.997354999999984
+C1542E,BlockReference,"GAS",C-WS-S,4.997354999999984
+C1542F,BlockReference,"GAS",C-WS-S,4.997354999999984
+C16F12,BlockReference,"GABD",F-WS-S,4.997354999999984
+C16F13,MText,"2-30 (Abd.)",F-WS-T,9.994709999999957
+C16F15,BlockReference,"GAS",F-WS-S,4.997354999999984
+C180EC,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,9.994709999999971
+C18515,DBText,"CRR",F-AR-T,9.994709999999975
+C18516,DBText,"40.23 A/R",F-AR-T,9.994709999999975
+C18518,MText,"LOC 911108",F-AR-T,9.994709999999975
+C186C4,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.994709999999971
+C186C6,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.994709999999971
+C18FD1,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.994709999999953
+C18FDC,MText,"Grizzly Bear Support Zone Boundary",AS-WILDLIFE,9.994709999999971
+C18FE6,AlignedDimension,"Veren  Waterline R/W  241332",C-RW-T,Compass 5 000
+C19044,MText,"Grizzly Bear Secondary Access Management Area Boundary",AS-WILDLIFE,9.994709999999971
+C260DC,AlignedDimension,"Pembina  P/L R/W  160648",F-RW-T,Compass 5 000
+C298EA,BlockReference,"TEMP",L-MON,4.997354999999989
+C2C70C,MText,"2°32'",L-BD1,9.994709999999985
+C2C70F,MText,"72.2 121°12'",L-BD1,9.994709999999985
+C2D095,DBText,"506.8 (Tie)",L-BD,9.994709999999985
+C2D096,DBText,"358°53'",L-BD,9.994709999999985
+C2D0AE,DBText,"56°20'",L-BD1,9.994709999999985
+C2D241,MText,"71°54' 35.7",L-BD1,9.994709999999985
+C2DB5E,DBText,"643.9 (Tie)",L-BD,9.994709999999985
+C2DB5F,DBText,"341°33'",L-BD,9.994709999999985
+C2DD5C,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD63,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD6A,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD71,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD78,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD7F,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD86,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C2DD8D,BlockReference,"xing2",P-CROSSINGS,0.9994709999999999
+C316A8,AlignedDimension,"Veren  Waterline R/W  ______",C-RW-T,Compass 5 000
+C3629D,DBText,"RP",35,9.994709999999989
+C3FA31,AlignedDimension,"CRR  A/R  911108",F-AR-T,Compass 5 000
+C3FADF,AlignedDimension,"Paramount  Waterline R/W  160173  be Cancelled)",C-RW-T,Compass 5 000
+C40555,BlockReference,"TEMP",L-MON,4.997354999999998
+C40556,BlockReference,"TEMP",L-MON,4.997354999999998
+C40557,BlockReference,"TEMP",L-MON,4.997354999999998
+C4055B,DBText,"1°59'",L-BD1,9.994709999999996
+C4065F,BlockReference,"TEMP",L-MON,4.997354999999998
+C40660,BlockReference,"TEMP",L-MON,4.997354999999998
+C4117B,AlignedDimension,"Paramount  Flowline R/W  1614",F-FLOWLINE-T,Compass 5 000
+C4448E,DBText,"Anchor",F-EZE-T,9.994709999999957
+C4448F,DBText,"EZE 900289",F-EZE-T,9.994709999999957
+C44490,MText,"ATCO",F-EZE-T,9.994709999999957
+C4A8BE,BlockReference,"Disclaimer_Legal",0,1

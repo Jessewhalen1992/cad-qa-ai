@@ -1,0 +1,332 @@
+Handle,ObjType,Content,Layer,Extra
+BCDC54,BlockReference,"FDI",L-MON,5
+BCDC59,BlockReference,"FDI",L-MON,5
+BCDC5E,BlockReference,"FDI",L-MON,5
+BE05DD,BlockReference,"L-SECLBL",L-SECLBL,1
+BE05E4,MText,"Lott Creek Blvd.",L-TITLEDB-T,10
+BE061E,MText,"Lot 1 Block 4 Plan 181 2182",L-TITLEDB-T,10
+BE0620,MText,"Unit 1 Plan 981 0245",L-TITLEDB-T,10
+BE0FAD,MText,"Unit 1 Plan 981 3459",L-TITLEDB-T,10
+BE0FAF,MText,"Clearwater Dr.",L-TITLEDB-T,10
+BE193E,MText,"Unit 1 Plan 001 3252",L-TITLEDB-T,10
+BE1940,MText,"HIGHWAY 8",L-TITLEDB-T,10
+BE1942,MText,"Block 1 Plan 981 0871",L-TITLEDB-T,10
+BE22D4,AlignedDimension,"6.00 Utility R/W  981 2390",F-RW-T,Compass 5 000
+BE2305,AlignedDimension,"18.00 Utility R/W  181 2187",L-TITLEDB-T,Compass 5 000
+BE2CC1,AlignedDimension,"15.00 Drainage R/W  981 0247",F-RW-T,Compass 5 000
+BE2CFB,MText,"Lott Creek Dr.",L-TITLEDB-T,10
+BE370D,AlignedDimension,"18.00 Utility & Access R/W  981 0246",F-RW-T,Compass 5 000
+BE4A73,MText,"BARE LAND CONDOMINIUM Plan 181 2183",L-TITLEDB-T,10
+BE543D,MText,"Creek",T-WATER-T,10
+BE5DD0,MText,"Road Plan 171 0878",L-TITLEDB-T,10
+BE5DD2,MText,"Lott Creek Dr.",L-TITLEDB-T,10
+BE6855,MText,"SEE DETAIL",DETAIL-T,16
+BE872C,MText,"TSUU T'INA INDIAN  RESERVE # 145",L-33,12
+BE8783,MText,"L.S. 1",L-SECTION-LSD,10
+BE8784,MText,"L.S. 2",L-SECTION-LSD,10
+BE8786,MText,"L.S. 8",L-SECTION-LSD,10
+BE8787,MText,"L.S. 7",L-SECTION-LSD,10
+BF1CDA,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2684,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2685,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2686,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2687,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2688,BlockReference,"FENCE POST",AS-GENERAL,2
+BF2689,BlockReference,"FENCE POST",AS-GENERAL,2
+BF268A,BlockReference,"FENCE POST",AS-GENERAL,2
+BF268B,BlockReference,"FENCE POST",AS-GENERAL,2
+BF268C,BlockReference,"FENCE POST",AS-GENERAL,2
+BF268D,BlockReference,"FENCE POST",AS-GENERAL,2
+BF268E,BlockReference,"FENCE POST",AS-GENERAL,2
+BF7418,MText,"Access R/W Plan 181 2185",L-TITLEDB-T,10
+BF7434,AlignedDimension,"3.50 Utility R/W  181 2188",F-RW-T,Compass 5 000
+BF7490,MText,"ATCO 13.00 P/L R/W Plan 991 1509",F-RW-T,10
+BFC641,BlockReference,"FDI",L-MON,0.5
+BFCE37,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE38,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE39,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3A,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3B,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3C,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3D,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3E,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE3F,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE40,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE41,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE42,BlockReference,"FENCE POST",AS-GENERAL,2
+BFCE75,BlockReference,"VALVE",AS-SYMBOL,0.1
+BFCE76,BlockReference,"FDI",L-MON,0.5
+BFCE77,BlockReference,"FDI",L-MON,0.5
+BFCEDB,DBText,"Government Road Allowance",L-ROAD-T,9.998805000000011
+C05798,AlignedDimension,"3.50 Utility R/W  181 2188",F-RW-T,Compass 500
+C057D4,MText,"Access R/W Plan 181 2185",L-TITLEDB-T,1
+C0619E,AlignedDimension,"P/L R/W  991 1509",F-RW-T,Compass 500
+C061F6,MText,"Lott Creek Dr.",L-TITLEDB-T,1
+C06CC7,BlockReference,"TEMP",L-MON,0.5
+C06CC8,BlockReference,"TEMP",L-MON,0.5
+C06CD4,BlockReference,"*U38",35,0.1
+C06CE3,BlockReference,"*U24",35,1
+C07714,DBText,"86°03'40''",L-BD1,1
+C07716,DBText,"176°",L-BD1,1
+C07718,DBText,"266°03'40''",L-BD1,1
+C07719,MText,"30.00 356°03'40''",L-BD1,1
+C080EA,DBText,"40''",L-BD,1
+C080EC,DBText,"03'",L-BD,1
+C0987C,MText,"Unit 15 Plan 181 2183",L-TITLEDB-T,1
+C0987E,MText,"Unit 16",L-TITLEDB-T,1
+C09880,MText,"Unit 17",L-TITLEDB-T,1
+C09882,MText,"Unit 14",L-TITLEDB-T,1
+C09884,MText,"Unit 13",L-TITLEDB-T,1
+C09886,MText,"Unit 12",L-TITLEDB-T,1
+C09888,MText,"Unit 11",L-TITLEDB-T,1
+C0988A,MText,"Unit 50 Plan 181 2183",L-TITLEDB-T,1
+C0988C,MText,"Road Plan 941 0745",L-TITLEDB-T,10
+C0A266,MText,"Road Plan 941 0745",L-TITLEDB-T,1
+C0AC41,MText,"Gate",T-TEXT,1
+C0AC42,MText,"Gate",T-TEXT,1
+C0AC45,MText,"Grass",T-BUSH-T,1
+C0AC47,MText,"0.1m Pine  Tree(Typ.)",T-BUSH-T,1
+C0AC49,MText,"Grass",T-BUSH-T,1
+C0AC4B,MText,"Grass",T-BUSH-T,1
+C0D59D,BlockReference,"*U25",CG-NOTES,0.1
+C0D5B7,BlockReference,"*U26",CG-NOTES,0.1
+C0D5D9,BlockReference,"*U27",CG-NOTES,0.1
+C0DFD1,BlockReference,"*U28",CG-NOTES,0.1
+C0DFEB,BlockReference,"*U29",CG-NOTES,0.1
+C0E005,BlockReference,"*U30",CG-NOTES,0.1
+C0E01F,BlockReference,"*U31",CG-NOTES,0.1
+C0EA17,BlockReference,"*U32",CG-NOTES,0.1
+C0EA35,BlockReference,"*U33",CG-NOTES,0.1
+C0EA5B,BlockReference,"*U34",CG-NOTES,0.1
+C0F453,BlockReference,"*U35",CG-NOTES,0.1
+C0F46D,BlockReference,"*U36",CG-NOTES,0.1
+C0F487,BlockReference,"*U37",CG-NOTES,0.1
+C109D5,MText,"Manhole",T-TEXT,1
+C109D7,MText,"Culvert Top (0.45m)",T-TEXT,1
+C113B9,MText,"Wooden Post (Typ.)",T-TEXT,1
+C11EA0,MText,"Gravel Road",T-TEXT,1
+C11EA2,MText,"Manhole",T-TEXT,1
+C11EA4,MText,"Manhole",T-TEXT,1
+C11EA6,MText,"Storm Drain",T-TEXT,1
+C1288E,MText,"Retaining Wall",AS-STRUCTURE-T,1
+C12890,MText,"Gate",T-TEXT,1
+C12891,MText,"Fd.I.",L-MON,1
+C132B8,MText,"Fd.I.",L-MON,1
+C132BA,MText,"Fd.I.",L-MON,1
+C132BC,MText,"Slope Top (Typ.)",T-TEXT,1
+C132BE,MText,"Slope Bottom (Typ.)",T-TEXT,1
+C13D1B,MText,"Grass",T-BUSH-T,1
+C1470D,MText,"METER STATION",L-TITLEDB-T,1
+C1470F,MText,"Sidewalk Edge",AS-STRUCTURE-T,1
+C14711,MText,"Driveway Edge",AS-STRUCTURE-T,1
+C15109,MText,"House",AS-STRUCTURE-T,1
+C15AFE,MText,"Low Area Gravel (Dry)",T-TEXT,1
+C15B00,MText,"Sidewalk",AS-STRUCTURE-T,1
+C15B0A,MText,"Asphalt",T-TEXT,1
+C227E9,MText,"BARE LAND CONDOMINIUM Plan 181 2183",L-TITLEDB-T,1
+C299FD,MText,"Gas Valve",T-TEXT,1
+C3603A,MText,"Storm Drain",T-TEXT,1
+C3CD95,BlockReference,"*U39",DETAIL-T,0.1
+C3D736,BlockReference,"*U39",DETAIL-T,0.1
+C3EA20,MText,"Power Panel",AS-CABLE-T,1
+C5A70F,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A710,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A711,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A712,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A713,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A714,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A715,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A716,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A717,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A718,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A719,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71A,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71B,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71C,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71D,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71E,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A71F,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A720,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A721,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A722,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A723,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A724,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A725,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A726,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A727,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A728,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A729,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A72A,BlockReference,"RISER",AS-SYMBOL,0.1
+C5A738,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A739,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73A,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73B,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73C,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73D,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73E,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A73F,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A740,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A741,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A742,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A743,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A744,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A745,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A746,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A747,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A748,BlockReference,"VALVE",AS-SYMBOL,0.1
+C5A749,BlockReference,"Flange",AS-SYMBOL,0.2
+C5A74A,BlockReference,"Flange",AS-SYMBOL,0.2
+C5AFDF,MText,"Transformer",AS-STRUCTURE-T,1
+C5F590,BlockReference,"*U41",0,0.1000155304115623
+C60F8F,BlockReference,"*U42",0,0.1000155304115623
+C60FAF,BlockReference,"*U43",0,0.1000155304115623
+C60FBB,BlockReference,"*U44",0,0.1000155304115623
+C60FC7,BlockReference,"*U45",0,0.1000155304115623
+C60FD3,BlockReference,"*U46",0,0.1000155304115623
+C60FDF,BlockReference,"*U48",0,0.1000155304115623
+C60FEB,BlockReference,"*U47",0,0.1000155304115623
+C61057,BlockReference,"*U49",0,0.1000155304115623
+C6165F,BlockReference,"*U50",0,0.1000155304115623
+C6166B,BlockReference,"*U51",0,0.1000155304115623
+C61677,BlockReference,"*U52",0,0.1000155304115623
+C616B3,BlockReference,"*U53",0,0.1000155304115623
+C616CF,BlockReference,"*U54",0,0.1000155304115623
+C616EB,BlockReference,"*U61",0,0.1000155304115623
+C616F7,BlockReference,"*U60",0,0.1000155304115623
+C61CFB,BlockReference,"*U59",0,0.1000155304115623
+C61D07,BlockReference,"*U58",0,0.1000155304115623
+C61D13,BlockReference,"*U57",0,0.1000155304115623
+C61D1F,BlockReference,"*U56",0,0.1000155304115623
+C61D2B,BlockReference,"*U55",0,0.1000155304115623
+C624A2,MText,"Power Panel",AS-CABLE-T,1
+C6307F,BlockReference,"*U62",0,0.1000155304115623
+C6308B,BlockReference,"*U63",0,0.1000155304115623
+C63097,BlockReference,"*U64",0,0.1000155304115623
+C630A3,BlockReference,"*U65",0,0.1000155304115623
+C630AF,BlockReference,"*U66",0,0.1000155304115623
+C630BB,BlockReference,"*U81",0,0.1000155304115623
+C630C7,BlockReference,"*U80",0,0.1000155304115623
+C63710,BlockReference,"*U74",0,0.1000155304115623
+C6372C,BlockReference,"*U73",0,0.1000155304115623
+C63738,BlockReference,"*U72",0,0.1000155304115623
+C63744,BlockReference,"*U71",0,0.1000155304115623
+C63750,BlockReference,"*U70",0,0.1000155304115623
+C6375C,BlockReference,"*U69",0,0.1000155304115623
+C63768,BlockReference,"*U68",0,0.1000155304115623
+C63DC1,BlockReference,"*U76",0,0.1000155304115623
+C63DCD,BlockReference,"*U77",0,0.1000155304115623
+C63DD9,BlockReference,"*U78",0,0.1000155304115623
+C63DE5,BlockReference,"*U79",0,0.1000155304115623
+C63DF1,BlockReference,"*U67",0,0.1000155304115623
+C63DFD,BlockReference,"*U75",0,0.1000155304115623
+C64ADF,MText,"Utility Boxes",AS-STRUCTURE-T,1
+C656CC,MText,"Gas Meter",AS-STRUCTURE-T,1
+C65E4B,MText,"Utility Corridor",T-TEXT,1
+C6643E,MText,"0.6m Utility Corridor",T-TEXT,1
+C66461,BlockReference,"*U82",0,0.1000155304115623
+C6647D,BlockReference,"*U83",0,0.1000155304115623
+C66A8E,BlockReference,"*U85",0,0.1000155304115623
+C66AA6,BlockReference,"*U87",0,0.1000155304115623
+C66AB2,BlockReference,"*U86",0,0.1000155304115623
+C66ABE,BlockReference,"*U84",0,0.1000155304115623
+C68BF0,MText,"Ground Cable Casing",T-TEXT,1
+C6E36E,MText,"Power Panel",AS-CABLE-T,0.2
+C6E3A9,BlockReference,"*U39",DETAIL-T,0.020000000000000004
+C6E434,BlockReference,"*U103",CG-NOTES,0.02
+C6E46C,MText,"METER STATION",L-TITLEDB-T,0.2
+C6E496,MText,"Gate",T-TEXT,0.2
+C6E497,MText,"Gate",T-TEXT,0.2
+C6E4A9,BlockReference,"*U101",0,0.02
+C6E4B5,BlockReference,"*U100",0,0.02
+C6E5D5,BlockReference,"*U102",0,0.02
+C6E5E1,BlockReference,"*U98",0,0.02
+C6E5ED,BlockReference,"*U96",0,0.02
+C6E695,BlockReference,"*U97",0,0.02
+C6E6A1,BlockReference,"*U99",0,0.02
+C6E6AD,BlockReference,"*U90",0,0.02
+C6E6B9,BlockReference,"*U88",0,0.02
+C6E6D1,BlockReference,"*U89",0,0.02
+C6E6DE,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6DF,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E0,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E1,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E2,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E3,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E4,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E5,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E6,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E7,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E8,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6E9,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6EA,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6EB,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6EC,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6ED,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6EE,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6EF,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6F0,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6F1,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6F2,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F3,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F4,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F5,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F6,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F7,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F8,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6F9,BlockReference,"RISER",AS-SYMBOL,0.1
+C6E6FA,BlockReference,"VALVE",AS-SYMBOL,0.1
+C6E6FB,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E6FC,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E6FD,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E6FE,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E6FF,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E700,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E701,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E702,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E703,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E704,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E705,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E706,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E707,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E708,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E709,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E70A,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E70B,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E70C,BlockReference,"Flange",AS-SYMBOL,0.2
+C6E70D,BlockReference,"FDI",L-MON,0.1
+C6E70E,BlockReference,"FDI",L-MON,0.1
+C6E710,BlockReference,"TEMP",L-MON,0.1
+C6E711,BlockReference,"TEMP",L-MON,0.1
+C6E714,MText,"Fd.I.",L-MON,0.2
+C6E716,MText,"Fd.I.",L-MON,0.2
+C6E71D,MText,"Ground Cable Casing (Typ.)",T-TEXT,0.2
+C6FE72,BlockReference,"*U91",0,0.02
+C6FE7E,BlockReference,"*U92",0,0.02
+C6FE8A,BlockReference,"*U93",0,0.02
+C6FE96,BlockReference,"*U94",0,0.02
+C6FEA2,BlockReference,"*U95",0,0.02
+C6FF16,MText,"Solar Power Panel",AS-CABLE-T,0.2
+C6FF20,MText,"Building",AS-STRUCTURE-T,0.2
+C6FF22,MText,"Roof Edge",AS-STRUCTURE-T,0.2
+C6FF24,MText,"Cable Tray",AS-POWER-BURIED-ATCO PIPELINES,0.2
+C6FF26,MText,"Building",AS-STRUCTURE-T,0.2
+C705EE,BlockReference,"Flange",AS-SYMBOL,0.2
+C7537B,BlockReference,"*U105",CG-NOTES,0.02
+C75386,BlockReference,"*U104",CG-NOTES,0.02
+C753B3,BlockReference,"*U106",CG-NOTES,0.02
+C753CD,BlockReference,"*U107",CG-NOTES,0.02
+C75A20,BlockReference,"*U112",CG-NOTES,0.02
+C75B9E,BlockReference,"*U108",CG-NOTES,0.1
+C761F1,BlockReference,"*U109",CG-NOTES,0.02
+C768C2,BlockReference,"*U110",CG-NOTES,0.02
+C76F19,BlockReference,"*U111",CG-NOTES,0.02
+C7757F,BlockReference,"*U113",CG-NOTES,0.02
+C77599,BlockReference,"*U35",CG-NOTES,0.1
+C915B8,MText,"Tag #: D10838",T-TEXT,0.2
+C91A78,MText,"Tag #: D10837",T-TEXT,0.2
+C91A7B,MText,"Tag #: T10793",T-TEXT,0.2
+C91A7E,MText,"Tag #: 20055",T-TEXT,0.2
+C91A8B,MText,"Tag #: T10807 (Valve on Vertical Pipe)",T-TEXT,0.2
+C94021,MText,"DETAIL SCALE 1:500",CG-NOTES,20
+C94039,MText,"INSET SCALE 1:100",CG-NOTES,20
+C944E4,BlockReference,"Disclaimer_Legal",Parcel Mapping,0.2

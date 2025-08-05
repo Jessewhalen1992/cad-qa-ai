@@ -1,0 +1,33 @@
+Handle,ObjType,Content,Layer,Extra
+AF379F,BlockReference,"L-SECLBL",L-SECLBL,1
+AF37A5,DBText,"S.W.1/4 Sec. 8-59-20-W.4M.",C-SYMBOL,20
+AF7A3E,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op. (Abd.)",AS-PIPE-UG-T,10
+AF7A40,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op.",AS-PIPE-UG-T,10
+AF8A23,MText,"Buried Telus Cable",AS-TELUS,10
+AF92D1,BlockReference,"*U18",AS-OWNER,1
+AF9353,MText,"Road Plan 802 2966",L-TITLEDB-T,10
+B01472,BlockReference,"res_occ",AS-RESIDENCE,5
+B01473,MText,"Residences",AS-RESIDENCE,10
+B01474,BlockReference,"res_occ",AS-RESIDENCE,5
+B01475,BlockReference,"res_occ",AS-RESIDENCE,5
+B01476,BlockReference,"res_occ",AS-RESIDENCE,5
+B01477,BlockReference,"res_occ",AS-RESIDENCE,5
+B01478,BlockReference,"res_occ",AS-RESIDENCE,5
+B01C43,AlignedDimension,"10.0x534.3  Road",P-TEMP-T,Compass 5 000
+B01D6D,BlockReference,"*U20",0,1
+B01D86,MText,"30.0x50.0 Laydown Area  Option 'B' (Temporary)",P-TEMP-T,10
+B01D88,BlockReference,"*U21",0,1
+B01DE1,MText,"30.0x50.0 Laydown Area  Option 'A' (Temporary)",P-TEMP-T,10
+B02606,DBText,"(High Grade Gravel)",T-TEXT,9.999999999999998
+B02607,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B02608,DBText,"Rge. Rd. 205",L-ROAD-T,9.999999999999998
+B02619,MText,"Namepi Creek",T-WATER-T,10.00107101469496
+B02E18,DBText,"Cultivation",T-TEXT,10
+B02E20,DBText,"Cultivation",T-TEXT,10
+B03A83,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B04739,MText,"5.0x254.8 Workspace (Temporary)",P-TEMP-T,10
+B05A20,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3729  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+B0BF99,MText,"5.0x204.8 Workspace (Temporary)",P-TEMP-T,10
+B0C9EE,BlockReference,"*U23",0,1
+B0CA85,BlockReference,"*U24",0,1
+B10C4B,BlockReference,"Disclaimer_Legal",0,0.25

@@ -1,0 +1,173 @@
+Handle,ObjType,Content,Layer,Extra
+AF906B,BlockReference,"L-SECLBL",L-SECLBL,0.999634
+AF9071,BlockReference,"L-SECLBL",L-SECLBL,0.999634
+AF9077,DBText,"Theor. S.E.1/4 Sec. 35-47-9-W.5M.",C-SYMBOL,19.99268
+AF9086,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.994144
+AF9088,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.994144
+AF908A,MText,"L.S. 1",L-SECTION-LSD,9.99634
+AF908B,MText,"L.S. 2",L-SECTION-LSD,9.99634
+AF908D,MText,"L.S. 8",L-SECTION-LSD,9.99634
+AF908E,MText,"L.S. 7",L-SECTION-LSD,9.99634
+AF9090,MText,"L.S. 3",L-SECTION-LSD,9.99634
+AF9092,MText,"L.S. 4",L-SECTION-LSD,9.99634
+AF9094,MText,"L.S. 6",L-SECTION-LSD,9.99634
+AF9096,MText,"L.S. 5",L-SECTION-LSD,9.99634
+AFBEA0,BlockReference,"*U41",AS-OWNER,0.999634
+AFC7B4,AlignedDimension,"Fortis  Vegetation Control R/W  870463",F-EZE-T,Compass 5 000
+AFC7E0,AlignedDimension,"Fortis  Vegetation Control R/W  870463",F-EZE-T,Compass 5 000
+AFC81C,BlockReference,"*U21",AS-SURFACE IMPACT,0.999634
+AFD153,MText,"Barrel 3-35(Surface) MSL 062558",F-WS-T,9.99634
+AFD154,AlignedDimension,"Barrel  A/R  061941",F-AR-T,Compass 5 000
+AFD178,AlignedDimension,"Barrel  P/L R/W  080258  Constructed)",F-RW-T,Compass 5 000
+AFD1B2,AlignedDimension,"Barrel  P/L R/W  080258  Constructed)",F-RW-T,Compass 5 000
+AFD1DA,AlignedDimension,"Obsidian  Flow Line R/W  4716",C-FLOWLINE-T,Compass 5 000
+AFDB28,AlignedDimension,"Obsidian  P/L R/W  032 0115  012186",C-RW-T,Compass 5 000
+AFE46D,AlignedDimension,"Obsidian  P/L R/W  5368 KS  5226 KS  4916",C-RW-T,Compass 5 000
+AFEDC4,AlignedDimension,"Obsidian  Flow Line R/W  1661",C-AR-T,Compass 5 000
+AFEE19,MText,"Obsidian 2-35(Surface) ROE 1661",C-WS-T,9.99634
+AFEE1A,MText,"Obsidian 8-35(Surface) ROE 1663",C-WS-T,9.99634
+AFEE1B,AlignedDimension,"Obsidian  Flow Line R/W  1663",C-AR-T,Compass 5 000
+AFF75A,AlignedDimension,"Obsidian  P/L R/W  5226 KS  5870",C-RW-T,Compass 5 000
+AFF7C3,MText,"Obsidian 9-35(Surface) ROE 1730",C-WS-T,9.99634
+B01333,AlignedDimension,"Pembina  P/L R/W  2127",F-RW-T,Compass 5 000
+B0136D,AlignedDimension,"Pembina  P/L R/W  653 KS  2049",F-RW-T,Compass 5 000
+B01CAD,AlignedDimension,"Pembina  P/L R/W  652 KS  1980",F-RW-T,Compass 5 000
+B025FC,BlockReference,"*U34",AS-SURFACE IMPACT,0.999634
+B02622,AlignedDimension,"Obsidian  P/L R/W  043008",C-RW-T,Compass 5 000
+B0265C,AlignedDimension,"Obsidian  Flow Line R/W  2570",C-FLOWLINE-T,Compass 5 000
+B02688,MText,"Obsidian 4-36(Surface) ROE 1515",C-WS-T,9.99634
+B02689,AlignedDimension,"Obsidian  A/R  1515",C-FLOWLINE-T,Compass 5 000
+B03065,MText,"Obsidian 6-36(Surface) ROE 1664",C-WS-T,9.99634
+B03066,AlignedDimension,"Obsidian  A/R  1664",C-AR-T,Compass 5 000
+B0309F,AlignedDimension,"Bonterra  A/R  2313",F-AR-T,Compass 5 000
+B030E1,AlignedDimension,"Obsidian  P/L R/W  5226 KS  4925",C-RW-T,Compass 5 000
+B03A21,MText,"Theor. S.W.1/4 Sec. 36-47-9-W.5M.",C-SYMBOL,19.99268
+B03A40,BlockReference,"*U41",AS-OWNER,0.999634
+B056F8,BlockReference,"GAS",F-WS-S,4.99817
+B056F9,BlockReference,"GAS",C-WS-S,4.99817
+B05709,BlockReference,"GABD",C-WS-S,4.99817
+B0570A,BlockReference,"GAS",C-WS-S,4.99817
+B0570B,MText,"F1/8-35 (Abd.)",C-WS-T,9.99634
+B05715,BlockReference,"GAS",C-WS-S,4.99817
+B05716,BlockReference,"GAS",C-WS-S,4.99817
+B05717,BlockReference,"GAS",C-WS-S,4.99817
+B05718,BlockReference,"GAS",C-WS-S,4.99817
+B05719,BlockReference,"GABD",C-WS-S,4.99817
+B0571A,BlockReference,"GAS",C-WS-S,4.99817
+B0571B,MText,"F1/6-36 (Abd.)",C-WS-T,9.99634
+B0BCE5,MText,"Fortis O/H Power Line",AS-POWER,9.99634
+B0E97F,BlockReference,"*U44",P-TEMP-BLOCKS,0.999634
+B0FAF9,MText,"Fortis O/H Power Line",AS-POWER,9.99634
+B1293C,MText,"SEE DETAIL 'B'",DETAIL-T,15.994144
+B15443,BlockReference,"*U46",P-TEMP-BLOCKS,0.999634
+B16E4D,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B16E5A,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B16E5D,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B16E63,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B16E66,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B20824,MText,"30m Buffer",P-BUFFER-T,9.99633999999998
+B292A8,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996339999999998
+B292B7,BlockReference,"RP",35,0.999634
+B32A89,AlignedDimension,"45.72 Road  2626 PX",L-TITLEDB-T,Compass 5 000
+B35C2E,MText,"Barrel 9-35(Surface) MSL 060171",F-WS-T,9.99634
+B35C3F,AlignedDimension,"Obsidian  A/R  1663",C-AR-T,Compass 5 000
+B361B2,BlockReference,"Temp_Area",P-TEMP-BLOCKS,0.999634
+B361B5,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999634
+B361C3,BlockReference,"Temp_Area",P-TEMP-BLOCKS,0.999634
+B361DE,AlignedDimension,"Obsidian  A/R  1661",C-AR-T,Compass 5 000
+B3683E,AlignedDimension,"Barrel  P/L R/W  063912",F-RW-T,Compass 5 000
+B36B24,BlockReference,"*U51",P-TEMP-BLOCKS,0.999634
+B36B45,AlignedDimension,"Barrel  P/L R/W  080258",F-RW-T,Compass 5 000
+B36B46,BlockReference,"*U44",P-TEMP-BLOCKS,0.999634
+B36B5B,BlockReference,"*U45",P-TEMP-BLOCKS,0.999634
+B36B71,BlockReference,"*U43",P-TEMP-BLOCKS,0.999634
+B36B87,AlignedDimension,"Obsidian  P/L R/W  5368 KS  5226 KS  4916",C-RW-T,Compass 5 000
+B36B88,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B36B8B,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B36B8F,BlockReference,"*U13",DETAIL-T,0.999634
+B36B9D,MText,"DETAIL 'B'",DETAIL-T,19.99268
+B44984,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B44993,BlockReference,"Temp_Area",P-TEMP-BLOCKS,0.999634
+B4A646,BlockReference,"*U54",P-TEMP-BLOCKS,0.999634
+B4A65B,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999634
+B4A65E,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999634
+B4ABD4,BlockReference,"*U54",P-TEMP-BLOCKS,0.999634
+B53BF7,BlockReference,"L-SECLBL",L-SECLBL,1
+B53BFD,AlignedDimension,"Obsidian  P/L R/W  5226 KS  4916",C-RW,Compass 5 000
+B53BFF,AlignedDimension,"Obsidian  P/L R/W  1058",C-RW,Compass 5 000
+B53CFF,AlignedDimension,"Obsidian  Flowline R/W  1937",C-RW,Compass 5 000
+B53D01,AlignedDimension,"Barrel  P/L R/W  061025",F-RW,Compass 5 000
+B53D14,DBText,"Government Road Allowance",L-ROAD-T,9.99769
+B53D1F,AlignedDimension,"Obsidian  A/R  1933",C-AR-T,Compass 5 000
+B53D20,AlignedDimension,"Obsidian  A/R  2350",C-AR-T,Compass 5 000
+B53D21,AlignedDimension,"Obsidian  P/L R/W  072719",C-RW-T,Compass 5 000
+B53D22,AlignedDimension,"Obsidian  Flowline R/W  4716",C-RW-T,Compass 5 000
+B53D23,AlignedDimension,"Obsidian  A/R  1937",C-AR-T,Compass 5 000
+B53D24,AlignedDimension,"Obsidian  Flowline R/W  1933",C-WS-T,Compass 5 000
+B53D25,MText,"Obsidian 2-34 (Surface) ROE 1933",C-WS-T,9.999999999999998
+B53D26,MText,"Obsidian 8-34 (Surface) ROE 1937",C-WS-T,9.999999999999998
+B53D27,MText,"Obsidian Battery Site ROE 1814",C-WS-T,9.999999999999998
+B53D28,AlignedDimension,"Fortis  Vegetation Control R/W  870463",F-EZE-T,Compass 5 000
+B53D2A,AlignedDimension,"ATCO  P/L R/W  5078 KS  64",F-RW-T,Compass 5 000
+B53D2B,AlignedDimension,"ATCO  P/L R/W  074 0339  064518",F-RW-T,Compass 5 000
+B53D2C,AlignedDimension,"Pembina  P/L R/W  767 KS  2141  Buried Pipe)",F-RW-T,Compass 5 000
+B53D2D,AlignedDimension,"Bonterra  P/L R/W  112 5287  063154",F-RW-T,Compass 5 000
+B53D2E,AlignedDimension,"Bonterra  P/L R/W  063153",F-RW-T,Compass 5 000
+B53D2F,MText,"Bonterra Riser Site PIL 060664",F-RW-T,9.99769
+B53D36,AlignedDimension,"45.72 Road  Plan 2626PX",L-TITLEDB-T,Compass 5 000
+B53D37,DBText,"(Low Grade Gravel)",T-TEXT,9.99769
+B53D3A,BlockReference,"*U55",AS-OWNER,0.999769
+B54A15,BlockReference,"*U34",AS-SURFACE IMPACT,0.999634
+B5657E,MText,"Obsidian Riser Site PIL 230071",C-WS-T,9.999999999999998
+B57298,AlignedDimension,"Obsidian  A/R  230424",C-AR-T,Compass 5 000
+B585C1,MText,"Fortis O/H Power Line",AS-POWER,9.99634
+B58E81,BlockReference,"GABD",C-WS-S,4.99817
+B58E83,BlockReference,"GAS",C-WS-S,4.99817
+B58E84,BlockReference,"GAS",C-WS-S,4.99817
+B5BA2C,MText,"30m Buffer",P-BUFFER-T,9.99633999999998
+B5BAD5,MText,"8-34 Abd.",C-WS-T,9.999999999999998
+B5BAD7,MText,"SEE DETAIL 'A'",DETAIL-T,15.994144
+B5C09D,DBText,"Government Road Allowance",L-ROAD-T,9.99769
+B5C09E,DBText,"(Low Grade Gravel)",T-TEXT,9.99769
+B5C09F,AlignedDimension,"Obsidian  P/L R/W  5226 KS  4916",C-RW,Compass 5 000
+B5C117,AlignedDimension,"Bonterra  P/L R/W  112 5287  063154",F-RW-T,Compass 5 000
+B5C13B,AlignedDimension,"Obsidian  Flowline R/W  4716",C-RW-T,Compass 5 000
+B5C167,AlignedDimension,"Pembina  P/L R/W  767 KS  2141  Buried Pipe)",F-RW-T,Compass 5 000
+B5C19B,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,0.999634
+B5C19E,BlockReference,"Temp_Area",P-TEMP-BLOCKS,0.999634
+B5CEC8,BlockReference,"*U79",P-TEMP-BLOCKS,0.999634
+B5CEDE,BlockReference,"*U80",P-TEMP-BLOCKS,0.999634
+B5DBE1,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBE4,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBE7,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBEA,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBED,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBF0,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBF3,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B5DBF6,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B60583,DBText,"S.E.1/4 Sec. 34-47-9-W.5M.",C-SYMBOL,19.99268
+B62A9E,BlockReference,"*U81",P-TEMP-BLOCKS,0.999634
+B6868C,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B68691,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B68696,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B6869B,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B686A0,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B686A5,BlockReference,"POWERPOLE",AS-POWER-EXISTING,5
+B68E86,BlockReference,"plspike",L-MON,5
+B69D82,BlockReference,"*U83",AS-POWER-T,0.999634
+B6B8C6,AlignedDimension,"Obsidian  A/R  1930",C-AR-T,Compass 5 000
+B72261,MText,"30m Buffer",P-BUFFER-T,9.99633999999998
+B72266,BlockReference,"Well_proximity",P-CROSSINGS,0.999634
+B72BEC,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.994144
+B72C09,MText,"L.S. 1",L-SECTION-LSD,9.99634
+B72C0A,MText,"L.S. 2",L-SECTION-LSD,9.99634
+B72C0C,MText,"L.S. 8",L-SECTION-LSD,9.99634
+B72C0D,MText,"L.S. 7",L-SECTION-LSD,9.99634
+B73830,MText,"30m Buffer",P-BUFFER-T,9.99633999999998
+B82DC2,MText,"Buried Pipe",AS-PIPE-UG-T,9.99634
+B82DC6,MText,"Buried Pipe",AS-PIPE-UG-T,9.99634
+B83380,MText,"Buried Pipe",AS-PIPE-UG-T,9.99634
+B83381,MText,"Buried Pipe",AS-PIPE-UG-T,9.99634
+B884DA,BlockReference,"Disclaimer_Legal",0,0.3
+B88700,BlockReference,"*U79",P-TEMP-BLOCKS,0.999634
+B88716,BlockReference,"Temp_Area",P-TEMP-BLOCKS,0.999634

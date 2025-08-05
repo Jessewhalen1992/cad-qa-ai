@@ -1,0 +1,65 @@
+Handle,ObjType,Content,Layer,Extra
+AF2FBC,BlockReference,"L-SECLBL",L-SECLBL,1
+AF2FC3,DBText,"Fireguard = 1.342 ha  3.32 Ac.",L-AREAREQUIRED,11
+AF2FDA,DBText,"Government Road Allowance",L-ROAD-T,10
+AF2FDB,DBText,"HWY 666",L-ROAD-T,10
+AFA81C,AlignedDimension,"15.00 P/L R/W  812 1691",F-RW-T,Compass 5 000
+AFA84E,AlignedDimension,"CNRL  P/L R/W  922 0427",C-RW-T,Compass 5 000
+AFA85A,AlignedDimension,"CNRL  P/L R/W  832 1657",C-RW-T,Compass 5 000
+AFAA26,AlignedDimension,"Alliance  P/L R/W  012 5359",F-RW-T,Compass 5 000
+AFAA56,AlignedDimension,"Alliance  P/L R/W  012 1467",F-RW-T,Compass 5 000
+AFAA86,AlignedDimension,"20.12 Road  3104 EU",L-TITLEDB-T,Compass 5 000
+AFAAAA,AlignedDimension,"CNRL  P/L R/W  792 0984",C-RW-T,Compass 5 000
+AFB36D,AlignedDimension,"Pembina  P/L R/W  852 0234",F-RW-T,Compass 5 000
+AFB559,AlignedDimension,"30.47 Road  812 0254",L-TITLEDB-T,Compass 5 000
+AFB585,AlignedDimension,"Nova  Access R/W  792 3005",L-TITLEDB-T,Compass 5 000
+AFB5A1,AlignedDimension,"Nova  P/L R/W  792 0921",F-RW-T,Compass 5 000
+AFB5B6,AlignedDimension,"Nova  P/L R/W  822 2445",F-RW-T,Compass 5 000
+AFB5CC,AlignedDimension,"15.00 P/L R/W  062 5248",F-RW-T,Compass 5 000
+AFBE86,MText,"Alliance Meter Station Site Plan 012 5359",F-WS-T,10
+AFBE87,MText,"CNRL Meter Station Site Plan 832 1657",C-WS-T,10
+AFBE89,MText,"Meter Site Addition Plan 792 3005",L-TITLEDB-T,10
+AFBE8A,MText,"Nova Meter Station Site Plan 852 0851",L-TITLEDB-T,10
+AFBE8B,MText,"ATCO Sub-Station Site Plan 852 0404",L-TITLEDB-T,10
+AFD018,AlignedDimension,"CNRL  P/L R/W  832 0161",C-RW-T,Compass 5 000
+AFD1C2,AlignedDimension,"Nova  P/L R/W  792 3005",F-RW-T,Compass 5 000
+AFD1EA,AlignedDimension,"CNRL  P/L R/W  792 0984",C-RW-T,Compass 5 000
+AFD558,AlignedDimension,"CNRL  A/R  832 1657",C-AR-T,Compass 5 000
+AFD5A3,AlignedDimension,"CNRL  P/L R/W  092 0491",C-RW-T,Compass 5 000
+AFD5C7,AlignedDimension,"CNRL  P/L R/W  072 4407",C-RW-T,Compass 5 000
+AFD9A3,AlignedDimension,"CNRL  P/L R/W  892 1587",C-RW-T,Compass 5 000
+B0040B,MText,"L.S. 3",L-SECTION-LSD,10
+B0040D,MText,"L.S. 4",L-SECTION-LSD,10
+B0040F,MText,"L.S. 6",L-SECTION-LSD,10
+B00411,MText,"L.S. 5",L-SECTION-LSD,10
+B0074A,BlockReference,"L-SECLBL",L-SECLBL,1
+B00FFE,DBText,"N.W.1/4 Sec. 5-69-8-W.6M.",C-SYMBOL,20
+B00FFF,DBText,"Fireguard = 0.195 ha  0.48 Ac.",L-AREAREQUIRED,11
+B01001,MText,"L.S. 11",L-SECTION-LSD,10
+B01003,MText,"L.S. 12",L-SECTION-LSD,10
+B01005,MText,"L.S. 14",L-SECTION-LSD,10
+B01006,MText,"L.S. 13",L-SECTION-LSD,10
+B026E8,AlignedDimension,"CNRL  P/L R/W  832 0161",C-RW-T,Compass 5 000
+B0270C,AlignedDimension,"CNRL  P/L R/W  852 1921",C-RW-T,Compass 5 000
+B02740,AlignedDimension,"Sinopec  P/L R/W  022 2742",F-RW-T,Compass 5 000
+B02903,AlignedDimension,"CNRL  P/L R/W  092 0491",C-RW-T,Compass 5 000
+B040FE,AlignedDimension,"Pembina  P/L R/W  172 3430",F-RW-T,Compass 5 000
+B0489A,BlockReference,"*U42",CG-NOTES,1
+B048DC,MText,"S.W.1/4 Sec. 8 69-8-W.6M.",C-SYMBOL,20
+B048ED,BlockReference,"*U43",CG-NOTES,1
+B0492F,AlignedDimension,"30.47 Road  812 0254",L-TITLEDB-T,Compass 5 000
+B05AA5,AlignedDimension,"Pembina  P/L R/W  202 0894",F-RW,Compass 5 000
+B05FFC,AlignedDimension,"PGI  P/L R/W  By Velocity Group",F-RW,Compass 5 000
+B06AA3,MText,"C. of T.",L-TITLEDB-T,10
+B06C32,MText,"C. of T.",L-TITLEDB-T,10
+B06C33,MText,"C. of T.",L-TITLEDB-T,10
+B06C39,AlignedDimension,"ATCO  Power Line R/W  852 138 893",F-EZE-T,Compass 5 000
+B0756A,MText,"ATCO 15.00 Power Line R/W Reg.# 872 199 359",F-EZE-T,10
+B0756B,MText,"ATCO 20.00 Power Line R/W Reg.# 242 036 236",F-EZE-T,10
+B0770A,AlignedDimension,"ATCO  Power Line R/W  002 135 634",F-EZE-T,Compass 5 000
+B07963,MText,"ATCO 7.00 Power Line R/W Reg.# 022 035 699",F-EZE-T,10
+B07E44,AlignedDimension,"ATCO  Power Line R/W  232 154 331",F-EZE-T,Compass 5 000
+B07E68,DBText,"Government Road Allowance",L-ROAD-T,10
+B07E69,DBText,"HWY 666",L-ROAD-T,10
+B111D8,MText,"Nova Meter Site Plan 792 3005",L-TITLEDB-T,10
+B20830,BlockReference,"Disclaimer_Legal",0,0.5

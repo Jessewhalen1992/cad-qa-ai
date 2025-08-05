@@ -1,0 +1,67 @@
+Handle,ObjType,Content,Layer,Extra
+AFE365,AlignedDimension,"CNRL  P/L R/W  2499 RS  3685",C-RW-T,Compass 5 000
+AFEE60,AlignedDimension,"CNRL  P/L R/W  150037",C-RW-T,Compass 5 000
+AFEEA4,AlignedDimension,"PGI  P/L R/W  200447",F-RW-T,Compass 5 000
+AFEF5B,AlignedDimension,"CNRL  P/L R/W  2499 RS  3685",C-RW-T,Compass 5 000
+AFEFC6,AlignedDimension,"CPEC  P/L R/W  952 5057  121880",F-RW-T,Compass 5 000
+AFF000,AlignedDimension,"CPEC  P/L R/W  160496",F-RW-T,Compass 5 000
+AFF094,AlignedDimension,"CNRL  P/L R/W  992 2646  951405",C-RW-T,Compass 5 000
+AFF0FB,BlockReference,"L-SECLBL",L-SECLBL,1
+AFFEE2,AlignedDimension,"CNRL  P/L R/W  952 0972  950474",C-RW-T,Compass 5 000
+AFFF2E,AlignedDimension,"CNRL  P/L R/W  952 0972  951444",C-RW-T,Compass 5 000
+AFFF8A,AlignedDimension,"CNRL  P/L R/W  170512",C-RW-T,Compass 5 000
+AFFFCD,AlignedDimension,"CPEC  P/L R/W  180661",F-RW-T,Compass 5 000
+B00020,AlignedDimension,"CNRL  P/L R/W  2558 RS  3548",C-RW-T,Compass 5 000
+B00087,AlignedDimension,"CNRL  P/L R/W  992 6557  961506",C-RW-T,Compass 5 000
+B000D3,AlignedDimension,"CNRL  P/L R/W  210491",C-RW-T,Compass 5 000
+B0011F,AlignedDimension,"CNRL  P/L R/W  970295",C-RW-T,Compass 5 000
+B00185,AlignedDimension,"CNRL  P/L R/W  2499 RS  3685",C-RW-T,Compass 5 000
+B001B0,MText,"CNRL 10-5 (Surface) MSL 3246 (Expired)",C-RW-T,10
+B001B1,AlignedDimension,"CNRL  A/R",C-RW-T,Compass 5 000
+B00CBA,AlignedDimension,"CNRL  A/R  3182",C-RW-T,Compass 5 000
+B00CFE,AlignedDimension,"CNRL  A/R  3182",C-RW-T,Compass 5 000
+B0197F,DBText,"Theor. N.E.1/4 Sec. 5-68-4-W.6M.",C-SYMBOL,20
+B01980,DBText,"Theor. S.E.1/4 Sec. 5-68-4-W.6M.",C-SYMBOL,20
+B0198C,MText,"L.S. 9",L-SECTION-LSD,10
+B0198E,MText,"L.S. 10",L-SECTION-LSD,10
+B01990,MText,"L.S. 16",L-SECTION-LSD,10
+B01992,MText,"L.S. 15",L-SECTION-LSD,10
+B01994,MText,"L.S. 1",L-SECTION-LSD,10
+B01995,MText,"L.S. 2",L-SECTION-LSD,10
+B01997,MText,"L.S. 8",L-SECTION-LSD,10
+B01998,MText,"L.S. 7",L-SECTION-LSD,10
+B02B70,AlignedDimension,"CNRL  P/L R/W  2499 RS  3685",C-RW-T,Compass 5 000
+B02B72,MText,"CNRL Compressor Site Plan 2499 RS MSL 6388",C-RW-T,10
+B02B77,AlignedDimension,"CNRL  P/L R/W  992 6557  961506",C-RW-T,Compass 5 000
+B02B78,AlignedDimension,"CNRL  P/L R/W  210491",C-RW-T,Compass 5 000
+B02B7B,AlignedDimension,"PGI  P/L R/W  200447",F-RW-T,Compass 5 000
+B02D44,AlignedDimension,"CNRL  P/L R/W  970295",C-RW-T,Compass 5 000
+B02D95,AlignedDimension,"CNRL  P/L R/W  992 2646  951405",C-RW-T,Compass 5 000
+B02DCE,AlignedDimension,"CPEC  P/L R/W  160496",F-AR-T,Compass 5 000
+B02E05,AlignedDimension,"CPEC  P/L R/W  952 5057  121880",F-AR-T,Compass 5 000
+B0387F,AlignedDimension,"CPEC  P/L R/W  180661",F-AR-T,Compass 5 000
+B038B8,AlignedDimension,"CNRL  P/L R/W  952 0972  951444",C-RW-T,Compass 5 000
+B038F1,AlignedDimension,"CNRL  P/L R/W  952 0972  950474",C-RW-T,Compass 5 000
+B03955,AlignedDimension,"CNRL  P/L R/W  170512",C-RW-T,Compass 5 000
+B03990,AlignedDimension,"CNRL  P/L R/W  2558 RS  3548",C-RW-T,Compass 5 000
+B05706,BlockReference,"RP",35,1
+B05AB1,BlockReference,"*U51",P-TEMP-BLOCKS,1
+B05B2C,BlockReference,"*U51",P-TEMP-BLOCKS,1
+B06444,MText,"E.-W. 1/4 Line",L-SECQ,10
+B0714D,BlockReference,"*U55",AS-SURFACE IMPACT,1
+B07173,BlockReference,"*U52",AS-SURFACE IMPACT,1
+B0718F,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B07191,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B0719A,MText,"CNRL Riser Site PIL 050440",C-RW-T,10
+B07A3B,AlignedDimension,"CPEC  P/L R/W  962 1829  940632",F-RW-T,Compass 5 000
+B07AC6,AlignedDimension,"CPEC  P/L R/W  962 1829  940632",F-RW-T,Compass 5 000
+B07AFF,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B07B02,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B09401,BlockReference,"*U57",AS-WILDLIFE-BLOCK,1
+B09410,BlockReference,"*U57",AS-WILDLIFE-BLOCK,1
+B09438,DBText,"Theor. S.E.1/4 Sec. 5-68-4-W.6M.",C-SYMBOL,20
+B09ADA,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B09ADB,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B09ADC,MText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B0C9A7,MText,"CNRL Compressor Site Plan 2499 RS MSL 6388",C-RW-T,10
+B14036,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

@@ -1,0 +1,24 @@
+Handle,ObjType,Content,Layer,Extra
+BD6CBC,BlockReference,"L-SECLBL",L-SECLBL,0.9995379999999999
+BD709B,MText,"Athabasca Work Camp - Industrial DML120294",F-WS-T,10.000000000000014
+BD70B4,AlignedDimension,"ATCO  Power Line R/W  130368",F-EZE-T,Compass 5 000
+BD7282,AlignedDimension,"Athabasca  A/R  090331",F-AR-T,Compass 5 000
+BD72A6,MText,"Athabasca Central Processing Facility MLL 120218",F-WS-T,10.000000000000014
+BD72A7,MText,"Inter Pipeline Meter Site PIL 240033",C-WS-T,9.99538000000001
+BD7466,AlignedDimension,"Enbridge  P/L R/W  130796",F-RW-T,Compass 5 000
+BD7492,AlignedDimension,"Athabasca  P/L R/W  130905",F-RW-T,Compass 5 000
+BD74CE,AlignedDimension,"Inter Pipeline  P/L R/W  220111",C-RW,Compass 5 000
+BD76A8,AlignedDimension,"ATCO  Vegetation Control R/W  130045",F-EZE-T,Compass 5 000
+BD76DC,AlignedDimension,"Athabasca  A/R  091204",F-AR-T,Compass 5 000
+BD7715,AlignedDimension,"ATCO  Power Line R/W  130257",F-EZE-T,Compass 5 000
+BD7739,AlignedDimension,"ATCO  Power Line R/W  130259",F-EZE-T,Compass 5 000
+BD7765,AlignedDimension,"Athabasca  P/L R/W  130690",F-EZE-T,Compass 5 000
+BD7953,AlignedDimension,"Athabasca  A/R  121844",F-EZE-T,Compass 5 000
+BD797F,MText,"ATCO Substation DML 130095",F-EZE-T,9.99538000000001
+BE2BBF,BlockReference,"*U30",P-TEMP-BLOCKS,1
+BE2FAC,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995380000000003
+BE2FAD,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995380000000003
+BE5760,BlockReference,"xing2",P-CROSSINGS,0.9995379999999999
+BE5767,BlockReference,"xing2",P-CROSSINGS,0.9995379999999999
+BE576E,BlockReference,"xing2",P-CROSSINGS,0.9995379999999999
+BEE8F0,BlockReference,"Disclaimer_Legal",P-CROSSINGS,0.2

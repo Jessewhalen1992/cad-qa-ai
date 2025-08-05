@@ -1,0 +1,64 @@
+Handle,ObjType,Content,Layer,Extra
+AF27CC,BlockReference,"RP",0,0.999657
+AF27E6,BlockReference,"L-SECLBL",L-SECLBL,0.999657
+AF27ED,MText,"L.S. 3",L-SECTION-LSD,9.996569999999972
+AF27EF,MText,"L.S. 4",L-SECTION-LSD,9.996569999999972
+AF27F1,MText,"L.S. 6",L-SECTION-LSD,9.996569999999972
+AF27F3,MText,"L.S. 5",L-SECTION-LSD,9.996569999999972
+AF2800,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.996569999999972
+AF36A5,MText,"Theor. S.W.1/4  Sec. 11-68-6-W.6M.",C-SYMBOL,19.993211599999977
+AF36A6,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.994569279999991
+AF36BF,AlignedDimension,"CPEC  P/L R/W  141275",F-RW-T,Compass 5 000
+AF36C0,MText,"CPEC Compressor Site MLL 140102",F-WS-T,9.999999999999966
+AF36C2,MText,"CPEC Riser Site PIL 200164",F-WS-T,9.999999999999968
+AF36C3,AlignedDimension,"Weyerhaeuser  A/R  3890",F-AR-T,Compass 5 000
+AF36C4,MText,"Shell Water Resevoir LOC 160711",F-AR-T,9.999999999999966
+AF36C5,MText,"Shell 20.00 A/R LOC 160763",F-AR-T,9.999999999999966
+AF36C6,AlignedDimension,"CNRL  A/R  050519",C-AR-T,Compass 5 000
+AF36C7,AlignedDimension,"CNRL  A/R  090693",C-AR-T,Compass 5 000
+AF36C9,AlignedDimension,"Paramount  P/L R/W  190312",F-AR-T,Compass 5 000
+AF36CA,AlignedDimension,"Shell  A/R  151881",F-AR-T,Compass 5 000
+AF36CC,AlignedDimension,"CNRL  A/R  040415",C-AR-T,Compass 5 000
+AF36CD,AlignedDimension,"ATCO  Power Line R/W  060290",F-EZE-T,Compass 5 000
+AF36CE,AlignedDimension,"ATCO  Power Line R/W",F-EZE-T,Compass 5 000
+AF36CF,AlignedDimension,"Keyera  P/L R/W  170023",F-RW-T,Compass 5 000
+AF36D1,AlignedDimension,"Nova  P/L R/W  190003",F-RW-T,Compass 5 000
+AF36D2,AlignedDimension,"Nova  P/L R/W  792 0934  780543",F-RW-T,Compass 5 000
+AF36D3,AlignedDimension,"Nova  P/L R/W  822 1895  800715",F-RW-T,Compass 5 000
+AF36D4,AlignedDimension,"Alliance  P/L R/W  012 4339  981220",F-RW-T,Compass 5 000
+AF36D5,AlignedDimension,"CNRL  P/L R/W  001970",C-RW-T,Compass 5 000
+AF36D6,AlignedDimension,"CNRL  P/L R/W  043470",C-RW-T,Compass 5 000
+AF36D7,AlignedDimension,"CNRL  P/L R/W  082 7985  054626",C-RW-T,Compass 5 000
+AF36D8,AlignedDimension,"CNRL  P/L R/W  054643",C-RW-T,Compass 5 000
+AF36D9,AlignedDimension,"CNRL  P/L R/W  091191",C-RW-T,Compass 5 000
+AF36DA,AlignedDimension,"CNRL  P/L R/W  100478",C-RW-T,Compass 5 000
+AF36DB,AlignedDimension,"CNRL  P/L R/W  100481",C-RW-T,Compass 5 000
+AF36DC,AlignedDimension,"CNRL  P/L R/W  100517",C-RW-T,Compass 5 000
+AF36DD,AlignedDimension,"CNRL  P/L R/W  100521",C-RW-T,Compass 5 000
+AF36DE,AlignedDimension,"CNRL  P/L R/W  101192",C-RW-T,Compass 5 000
+AF36DF,AlignedDimension,"CNRL  P/L R/W  110197",C-RW-T,Compass 5 000
+AF36E0,AlignedDimension,"CNRL 10.00 P/L R/W  121963",C-RW-T,Compass 5 000
+AF36E1,AlignedDimension,"CNRL  P/L R/W  140513",C-RW-T,Compass 5 000
+AF36E2,AlignedDimension,"Shell  P/L R/W  170496",F-RW-T,Compass 5 000
+AF36E3,AlignedDimension,"11.00 P/L R/W  912 0483  on PLSR)",F-RW-T,Compass 5 000
+AF36E4,AlignedDimension,"CNRL  P/L R/W  102 2088  060667",C-RW-T,Compass 5 000
+AF36E7,AlignedDimension,"ATCO  Vegetation Control R/W  080014",F-VCE-T,Compass 5 000
+AF36E8,MText,"CNRL 2-11 (Surface) MSL 040663",C-WS-T,9.999999999999968
+AF36E9,MText,"CNRL 5-11 (Surface) MSL 010560",C-WS-T,9.999999999999966
+AF36ED,MText,"CNRL 3-11 (Surface) MSL 091836",C-WS-T,9.999999999999968
+AF3704,BlockReference,"*U22",0,0.9996605799999981
+AF3718,AlignedDimension,"CPEC  P/L R/W  231041",F-RW-T,Compass 5 000
+AF5FDF,MText,"CPEC  15.00 A/R  LOC 141306",F-AR-T,9.999999999999966
+AF7508,AlignedDimension,"CPEC  P/L R/W  240117",F-RW-T,Compass 5 000
+AF9E8F,BlockReference,"Temp_Area5",P-TEMP-BLOCKS,0.999657
+AF9F31,MText,"SEE DETAIL",DETAIL-T,15.994511999999984
+AFA445,MText,"CNRL 5-11 (Surface) MSL 010560",C-WS-T,9.999999999999966
+AFA446,BlockReference,"GAS",C-WS-S,4.998284999999995
+AFA447,BlockReference,"GAS",C-WS-S,4.998284999999995
+AFC15C,AlignedDimension,"CNRL 10.00 P/L R/W  121963",C-RW-T,Compass 5 000
+AFF21E,MText,"(Abd.)",C-WS-T,9.999999999999966
+AFF70C,AlignedDimension,"ATCO  Line R/W  240066",F-EZE-T,Compass 5 000
+B00198,BlockReference,"*U58",AS-OWNER,0.999657
+B008AA,BlockReference,"*U59",P-TEMP-BLOCKS,0.999657
+B02E49,BlockReference,"GABD",F-WS-S,4.998285
+B0E37F,BlockReference,"Disclaimer_Legal",0,0.5

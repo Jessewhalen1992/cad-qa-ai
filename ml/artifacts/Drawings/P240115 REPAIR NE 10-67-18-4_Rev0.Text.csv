@@ -1,0 +1,30 @@
+Handle,ObjType,Content,Layer,Extra
+B04977,BlockReference,"L-SECLBL",L-SECLBL,1
+B0B51D,DBText,"N.E.1/4 Sec. 10-67-18-W.4M.",C-SYMBOL,20
+B11C0A,DBText,"Government Road Allowance",L-ROAD-T,10
+B11C0B,DBText,"(Undeveloped)",T-TEXT,10
+B16BBF,BlockReference,"GAS",F-WS-S,5
+B19924,MText,"Buried Telus Cable",AS-TELUS,10
+B19DEE,BlockReference,"*U17",AS-OWNER,1
+B21EA8,MText,"Cultivation",T-TEXT,10.000000000000009
+B3571A,MText,"Manitok 15-10",F-RW,10
+B35B8A,AlignedDimension,"Enbridge  P/L R/W  192 1882  57441-4)",F-RW-T,Compass 5 000
+B35BA9,AlignedDimension,"Enbridge  P/L R/W  092 8386  48998-5)",F-RW-T,Compass 5 000
+B35BC8,AlignedDimension,"Enbridge  P/L R/W  162 3476  54419-10)",F-RW-T,Compass 5 000
+B35BF9,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4514  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+B35C33,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.  P/L R/W  022 2276  33528-2, LS 7101)  33527-1, LS 7001)",P-PROPOSED-T,Compass 5 000
+B36101,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5733  54778-2, LS 7108)",P-PROPOSED-T,Compass 5 000
+B36120,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3739  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+B36F03,AlignedDimension,"Shaw  Fiber Optics Cable R/W  002 3876",F-RW-T,Compass 5 000
+B36F3D,AlignedDimension,"Nova  P/L R/W  872 2005  80551-1)",F-RW-T,Compass 5 000
+B373C5,AlignedDimension,"Suncor  P/L R/W  4625 NY  3907-143)",F-RW-T,Compass 5 000
+B3793F,AlignedDimension,"Pembina  P/L R/W  782 1469  042 0681  37742-61, 37742-256)",F-RW-T,Compass 5 000
+B38C37,MText,"Grand Rapids 35.00 P/L R/W Reg. #132 183 861 (AER 56699-20, 56673-14)",F-RW-T,10
+B38C70,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B390D9,AlignedDimension,"20.12 Road  3542 EU",L-TITLEDB-T,Compass 5 000
+B3A9D9,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.996949999999991
+B3A9DD,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B3A9DE,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B3AEB6,MText,"10.00 Proposed A/R (Temporary)",T-EXISTING TFA-T,10
+B402DD,AlignedDimension,"Nova  P/L R/W  762 0671  80240-44)",F-RW-T,Compass 5 000
+B45F27,BlockReference,"Disclaimer_Legal",0,0.25

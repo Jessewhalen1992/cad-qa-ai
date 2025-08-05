@@ -1,0 +1,24 @@
+Handle,ObjType,Content,Layer,Extra
+BE53AB,BlockReference,"RP",35,0.999706
+BE61CE,BlockReference,"L-SECLBL",L-SECLBL,0.999706
+BE61DD,MText,"L.S. 1",L-SECTION-LSD,9.99706000000005
+BE61DE,MText,"L.S. 2",L-SECTION-LSD,9.99706000000005
+BE61E0,MText,"L.S. 8",L-SECTION-LSD,9.99706000000005
+BE61E1,MText,"L.S. 7",L-SECTION-LSD,9.99706000000005
+BE61EB,BlockReference,"UT",L-UNS-T,0.999706
+BE61EC,MText,"Theor. S.E.1/4 Sec. 35-65-9-W.6M.",C-SYMBOL,19.9941200000001
+BE6E3C,AlignedDimension,"Cenovus  A/R  041307",F-AR-T,Compass 5 000
+BE6EBC,MText,"Cenovus 2-35 (Surface) MSL 035267",F-WS-T,9.997060000000046
+BE6EBD,AlignedDimension,"Cenovus  A/R  035267",F-AR-T,Compass 5 000
+BE750D,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.997060000000042
+BE7919,AlignedDimension,"Cenovus  A/R  800394",F-AR-T,Compass 5 000
+BF4B7B,BlockReference,"GAS",AS-DRILL-T,4.998530000000009
+C0766C,MText,"Borrow Pit",T-WATER-T,9.997060000000014
+C0921A,BlockReference,"*U25",P-TEMP-BLOCKS,0.999706
+C0BD11,AlignedDimension,"Cenovus  P/L R/W  051266",F-RW-T,Compass 5 000
+C0BD46,AlignedDimension,"Cenovus  P/L R/W  082 1832  050491",F-RW-T,Compass 5 000
+C0BD77,AlignedDimension,"Cenovus  P/L R/W  022 0889  003114",F-RW-T,Compass 5 000
+C0BDAC,AlignedDimension,"CNRL  P/L R/W  952 2918  920643",C-RW-T,Compass 5 000
+C0BDE1,AlignedDimension,"Cenovus  P/L R/W  052 1556  041967",F-RW-T,Compass 5 000
+C0F5C4,BlockReference,"*U31",DETAIL-T,0.999706
+C13C59,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.2

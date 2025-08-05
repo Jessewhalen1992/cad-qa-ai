@@ -1,0 +1,72 @@
+Handle,ObjType,Content,Layer,Extra
+AF355B,BlockReference,"GAS",C-WS-S,5
+AF355C,BlockReference,"GAS",C-WS-S,5
+AF3834,MText,"1.5km",0,8
+AF3837,BlockReference,"*U50",0,1
+AF3846,MText,"0.5km",0,8
+AF3997,MText,"SURFACE DEVELOPMENT SKETCH",0,20
+AF399B,BlockReference,"*U29",0,1
+AF39A9,BlockReference,"*U30",0,1
+AF4BCF,BlockReference,"res_occ",AS-RESIDENCE,5
+AF4BD0,BlockReference,"res_occ",AS-RESIDENCE,5
+AF565C,MText,"NEAREST RESIDENCE ±0.69 km S.E. (CABIN, N.W.15-49-12-5) NEAREST SURFACE DEVELOPMENT ±1.12 km N.E. (PLANT SITE, N.W 22-49-12-5) NEAREST URBAN CENTRE ±28.74 km S.E. (TOWN OF LODGEPOLE)",CG-NOTES,10.000000000000018
+AF7507,BlockReference,"*U32",P-PROPOSED,0.9991034910142819
+AF7512,BlockReference,"hwy_sec",AUX-LABELS,0.9991034910142819
+AF7515,MText,"ACCESS ROUTE MAP",DETAIL-T,19.982069820285563
+AF7517,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF7518,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF7519,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF751C,BlockReference,"*T33",CG-NOTES,1
+AF752D,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF752E,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF752F,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF7530,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF7531,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF7536,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF7539,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF753C,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF753F,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF7542,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF7545,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF7548,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF754B,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF754C,MText,"Rat Creek",T-WATER-T,9.9954883
+AF754D,MText,"Paddy Creek",T-WATER-T,9.995488299999998
+AF754F,BlockReference,"*U31",0,0.9991034910142819
+AF76C1,BlockReference,"*U34",0,1.0007256546997394
+AF9D34,BlockReference,"AA",CG-NOTES,0.9991034910142819
+AF9E27,BlockReference,"Route_Letters",CG-NOTES,0.9991034910142819
+AF9FC2,BlockReference,"*U35",ROUTE-MAP-LABELS,1
+AFBF67,BlockReference,"*U36",0,1.0007256546997398
+AFED52,BlockReference,"L-SECLBL",L-SECLBL,1
+AFED5B,MText,"L.S. 1",L-SECTION-LSD,10
+AFED5C,MText,"L.S. 2",L-SECTION-LSD,10
+AFED5E,MText,"L.S. 8",L-SECTION-LSD,10
+AFED5F,MText,"L.S. 7",L-SECTION-LSD,10
+AFEE39,AlignedDimension,"Fortis  Power Line R/W  120413",F-EZE-T,Compass 5 000
+AFEE7C,AlignedDimension,"Fortis  Power Line R/W  110109",F-EZE-T,Compass 5 000
+AFEFA9,AlignedDimension,"Mancal  A/R  041134",F-AR-T,Compass 5 000
+AFEFD5,AlignedDimension,"Obsidian  A/R  062401",C-AR-T,Compass 5 000
+AFF018,AlignedDimension,"Saturn  A/R  120700",F-AR-T,Compass 5 000
+AFF05B,MText,"Mancal 7-21 (Surface) MSL 041925",F-WS-T,10
+AFF134,MText,"Obsidian 8-21 (Surface) MSL 102756",C-WS-T,10
+AFF138,MText,"Saturn Riser Site PIL 120210",F-RW-T,10
+AFF139,MText,"Mancal Valve Site PIL 050104",F-RW-T,10
+AFF257,AlignedDimension,"Mancal  P/L R/W  062 6192  044642",F-RW-T,Compass 5 000
+AFF29A,AlignedDimension,"Obsidian  P/L R/W  065313",C-RW-T,Compass 5 000
+AFF325,AlignedDimension,"Obsidian  P/L R/W  110142",C-RW-T,Compass 5 000
+AFF83B,AlignedDimension,"Saturn  P/L R/W  112325",F-RW-T,Compass 5 000
+AFF875,AlignedDimension,"Saturn  P/L R/W  120397",F-RW-T,Compass 5 000
+AFF8D3,AlignedDimension,"Vermilion  P/L R/W  180795",F-RW-T,Compass 5 000
+AFF90D,AlignedDimension,"Keyera  P/L R/W  802 2078  800053",F-RW-T,Compass 5 000
+AFF950,AlignedDimension,"Obsidian  P/L R/W  812 1664  800761",C-RW-T,Compass 5 000
+AFFF4B,BlockReference,"GAS",F-WS-S,5
+AFFF4C,BlockReference,"GAS",C-WS-S,5
+AFFF4D,BlockReference,"GAS",C-WS-S,5
+B0042E,MText,"Fortis O/H Powerline",AS-POWER,10
+B00573,DBText,"Government Road Allowance",L-ROAD-T,10
+B00574,DBText,"(Undeveloped)",T-TEXT,10
+B079C9,MText,"100m",AUX-BUFFER,10
+B0B150,MText,"CLR010089 Weyerhaeuser",F-RW-T,10
+B109C0,MText,"Low Area",T-LOW-AREA-T,9.999999999999998
+B12885,BlockReference,"Disclaimer_Legal",0,0.7

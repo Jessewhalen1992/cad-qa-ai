@@ -1,0 +1,138 @@
+Handle,ObjType,Content,Layer,Extra
+AF4631,BlockReference,"L-SECLBL",L-SECLBL,1
+AF4637,BlockReference,"L-SECLBL",L-SECLBL,1
+AF463D,BlockReference,"L-SECLBL",L-SECLBL,1
+AF464C,BlockReference,"L-SECLBL",L-SECLBL,1
+AF4E3A,DBText,"Theor. N.E.1/4 Sec. 28-64-3-W.6M.",C-SYMBOL,20.000000000000004
+AF4E3B,DBText,"Theor. S.E.1/4 Sec. 28-64-3-W.6M.",C-SYMBOL,20.000000000000004
+AF4E3C,DBText,"Theor. N.W.1/4 Sec. 27-64-3-W.6M.",C-SYMBOL,20.000000000000004
+AF4E3E,DBText,"Theor. N.E.1/4 Sec. 21-64-3-W.6M.",C-SYMBOL,20.000000000000004
+AF6E99,AlignedDimension,"Crescent Point  A/R  160940",C-AR-T,Compass 5 000
+AF6E9A,AlignedDimension,"Crescent Point  P/L R/W  160738",C-RW-T,Compass 5 000
+AF6E9B,MText,"Crescent Point 9-28(Surface) MSL 160830",C-WS-T,10.004401236235998
+AF6E9D,BlockReference,"GAS",C-WS-S,5.002200618117947
+AF6EDD,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.000000000000002
+AF6EDE,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.000000000000002
+AF6EDF,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.000000000000002
+AF6EE2,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+AF6EE3,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+AF6EF1,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF6EF3,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF6EF5,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF6EF7,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF6EF9,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF6EFB,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.000000000000004
+AF773B,AlignedDimension,"CNRL  P/L R/W  000503",F-RW-T,Compass 5 000
+AF773D,MText,"CNRL 12-27(Surface) MSL 992356",F-WS-T,10.004401236235998
+AF773F,BlockReference,"GAS",F-WS-S,5.002200618117947
+AF7740,BlockReference,"GAS",F-WS-S,5.002200618117947
+AF77AA,AlignedDimension,"Crescent Point  A/R  160940",C-AR-T,Compass 5 000
+AF77E8,AlignedDimension,"Crescent Point  P/L R/W  160738",C-RW-T,Compass 5 000
+AF7807,AlignedDimension,"Crescent Point  A/R  991615",C-AR-T,Compass 5 000
+AF7845,AlignedDimension,"CNRL  A/R  031066",F-AR-T,Compass 5 000
+AF7910,MText,"CNRL Riser Site PIL 000130",F-WS-T,10.004401236235998
+AF81D4,AlignedDimension,"CNRL  A/R  031066",F-AR-T,Compass 5 000
+AF81F3,AlignedDimension,"CNRL  P/L R/W  000503",F-RW-T,Compass 5 000
+AF8212,AlignedDimension,"Crescent Point  P/L R/W  160738",C-RW-T,Compass 5 000
+AF823A,AlignedDimension,"Crescent Point  A/R  991615",C-AR-T,Compass 5 000
+AF8262,AlignedDimension,"PGI   P/L R/W  151378",F-RW-T,Compass 5 000
+AF8281,AlignedDimension,"PGI  P/L R/W  190452",F-RW-T,Compass 5 000
+AF82A0,AlignedDimension,"CNRL  P/L R/W  042 1617  991450",F-RW-T,Compass 5 000
+AF82BC,AlignedDimension,"Crescent Point  A/R  901296",C-AR-T,Compass 5 000
+AF82E0,AlignedDimension,"Crescent Point  Water Line R/W  200508",C-AR-T,Compass 5 000
+AF8312,AlignedDimension,"Crescent Point  A/R  170293",C-AR-T,Compass 5 000
+AF8BBE,MText,"PGI Riser Site PIL 220107",F-WS-T,10.004401236236019
+AF8C92,AlignedDimension,"Crescent Point  A/R  170293",C-AR-T,Compass 5 000
+AF8CB1,AlignedDimension,"Crescent Point 20.00 P/L R/W  151382",C-RW-T,Compass 5 000
+AF94C3,AlignedDimension,"Crescent Point  A/R  991615",C-AR-T,Compass 5 000
+AF94EB,AlignedDimension,"Crescent Point  P/L R/W  160738",C-RW-T,Compass 5 000
+AF950A,AlignedDimension,"PGI  P/L R/W  151378",F-RW-T,Compass 5 000
+AF953B,AlignedDimension,"Crescent Point  A/R  170293",C-AR-T,Compass 5 000
+AF9563,AlignedDimension,"PGI  P/L R/W  151384",F-RW-T,Compass 5 000
+AF958B,AlignedDimension,"Crescent Point  A/R  190549",C-AR-T,Compass 5 000
+AF9E45,MText,"CNRL 10-21(Surface) MSL 034164",F-WS-T,10.004401236236019
+AF9E47,BlockReference,"GAS",F-WS-S,5.002200618117947
+AF9EC4,AlignedDimension,"CNRL  P/L R/W  062 2045  050973",F-AR-T,Compass 5 000
+AF9EE3,AlignedDimension,"CNRL  A/R  032776",F-AR-T,Compass 5 000
+AF9F07,AlignedDimension,"PGI  P/L R/W  151384",F-RW-T,Compass 5 000
+AF9F2F,AlignedDimension,"CNRL  P/L R/W  052 0973  991453",F-RW-T,Compass 5 000
+AF9F57,AlignedDimension,"PGI  P/L R/W  190452",F-RW-T,Compass 5 000
+AF9F76,AlignedDimension,"Crescent Point  A/R  190549",C-AR-T,Compass 5 000
+AFA821,MText,"CNRL Riser Site PIL 000133",F-WS-T,10.004401236236019
+AFA824,MText,"CNRL 11-22(Surface) MSL 891259 (Expired)",F-WS-T,10.004401236236019
+AFA826,BlockReference,"GAS",F-WS-S,5.002200618117947
+AFA8F9,AlignedDimension,"Crescent Point  A/R  901296",C-AR-T,Compass 5 000
+AFA918,AlignedDimension,"CNRL  P/L R/W  042 1617  991450",F-RW-T,Compass 5 000
+AFA937,AlignedDimension,"Crescent Point  Water Line R/W  200508",C-AR-T,Compass 5 000
+AFA956,AlignedDimension,"Crescent Point  A/R  170293",C-AR-T,Compass 5 000
+AFA97E,AlignedDimension,"PGI  P/L R/W  190452",F-RW-T,Compass 5 000
+AFA99D,AlignedDimension,"PGI  P/L R/W  151384",F-RW-T,Compass 5 000
+AFA9C5,AlignedDimension,"CNRL  P/L R/W  052 0973  991453",F-RW-T,Compass 5 000
+AFB1DA,AlignedDimension,"Crescent Point  A/R  190549",C-AR-T,Compass 5 000
+AFB1F9,AlignedDimension,"CNRL  A/R  032778",F-RW-T,Compass 5 000
+AFB218,AlignedDimension,"CNRL  P/L R/W  042 1618  991454",F-RW-T,Compass 5 000
+AFCBBB,DBText,"Theor. S.W.1/4 Sec. 22-64-3-W.6M.",C-SYMBOL,20.00880247247179
+AFCBBC,MText,"UNSURVEYED TERRITORY",L-UNS-T,16.00704197797741
+AFCC58,AlignedDimension,"CNRL  A/R  032778",F-RW-T,Compass 5 000
+AFCC80,AlignedDimension,"CNRL  P/L R/W  042 1618  991454",F-RW-T,Compass 5 000
+AFCC9F,AlignedDimension,"Crescent Point  A/R  170293",C-AR-T,Compass 5 000
+AFCCC7,AlignedDimension,"PGI   P/L R/W  151384",F-RW-T,Compass 5 000
+AFCCEF,AlignedDimension,"Crescent Point  Water Line R/W  200508",C-AR-T,Compass 5 000
+AFCD29,AlignedDimension,"PGI   P/L R/W  190452",F-RW-T,Compass 5 000
+AFD7F3,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD802,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD811,BlockReference,"*U77",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD820,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD82F,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD83E,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD84D,BlockReference,"*U76",AS-WILDLIFE-BLOCK,1.000002621153126
+AFD87A,BlockReference,"HRV",CG-NOTES,1.0000049321698137
+AFD87E,BlockReference,"HRV",CG-NOTES,1.0000049321698137
+AFD882,BlockReference,"HRV",CG-NOTES,1.0000049321698137
+AFD886,BlockReference,"HRV",CG-NOTES,1.0000049321698137
+AFD88A,BlockReference,"*U71",F-RW-T,1.000440123623586
+AFD899,BlockReference,"*U70",F-RW-T,1.000440123623586
+AFD8A8,BlockReference,"*U73",0,1.000440123623586
+AFD8B7,BlockReference,"*U73",0,1.000440123623586
+AFD8C6,BlockReference,"*U74",0,1.000440123623586
+AFD8D5,BlockReference,"*U81",0,1.000440123623586
+AFD8E4,BlockReference,"*U75",0,1.000440123623586
+AFD8FD,MText,"800m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235895
+AFD8FF,MText,"500m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235895
+AFD901,MText,"800m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235893
+AFD903,MText,"500m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235895
+AFD906,AlignedDimension,"CNRL  P/L R/W  052 0973  991453",F-RW-T,Compass 5 000
+AFD92E,MText,"500m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235895
+AFD930,MText,"800m Trumpeter Swan Boundary",AS-WILDLIFE,10.004401236235893
+AFD932,BlockReference,"*U79",AS-WILDLIFE-BLOCK,1.000440123623586
+AFE1E8,BlockReference,"*U79",AS-WILDLIFE-BLOCK,1.000440123623586
+B00ED8,BlockReference,"*U79",AS-WILDLIFE-BLOCK,1.000440123623586
+B00EE7,BlockReference,"*U83",P-PROPOSED-T,0.9998790000000003
+B0904E,BlockReference,"Route_Letters",CG-NOTES,1
+B09051,BlockReference,"AA",CG-NOTES,1
+B09052,BlockReference,"Route_Letters",CG-NOTES,1
+B09055,BlockReference,"AA",CG-NOTES,1
+B09056,BlockReference,"Route_Letters",CG-NOTES,1
+B09059,BlockReference,"AA",CG-NOTES,1
+B0905A,BlockReference,"Route_Letters",CG-NOTES,1
+B0905D,BlockReference,"AA",CG-NOTES,1
+B0B43B,BlockReference,"xing2",P-CROSSINGS,1
+B0B442,BlockReference,"xing2",P-CROSSINGS,1
+B0B449,BlockReference,"xing2",P-CROSSINGS,1
+B0BD33,BlockReference,"xing2",P-CROSSINGS,1
+B0CEF5,BlockReference,"xing2",P-CROSSINGS,1
+B0D7D6,BlockReference,"xing2",P-CROSSINGS,1
+B0D7DD,BlockReference,"xing2",P-CROSSINGS,1
+B12670,BlockReference,"*U82",0,0.999563
+B1B3F2,AlignedDimension,"PGI  P/L R/W  190452",F-RW-T,Compass 5 000
+B25647,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10.000000000000002
+B25E84,BlockReference,"Route_Letters",CG-NOTES,1
+B25E87,BlockReference,"AA",CG-NOTES,1
+B26F1B,MText,"Theor. S.W.1/4 Sec. 27-64-3-W.6M.",C-SYMBOL,20.000000000000004
+B26F1C,MText,"Theor. N.W.1/4 Sec. 22-64-3-W.6M.",C-SYMBOL,20.000000000000004
+B26F1D,AlignedDimension,"Crescent Point  P/L R/W  ______",C-RW-T,Compass 5 000
+B26F72,AlignedDimension,"Crescent Point  P/L R/W  ______",C-RW-T,Compass 5 000
+B26F91,AlignedDimension,"Crescent Point  P/L R/W  ______",C-RW-T,Compass 5 000
+B26FAD,AlignedDimension,"Crescent Point  P/L R/W  ______",C-RW-T,Compass 5 000
+B26FFE,AlignedDimension,"Crescent Point  P/L R/W  ______",C-RW-T,Compass 5 000
+B2E0E7,BlockReference,"Disclaimer_Legal",0,0.5

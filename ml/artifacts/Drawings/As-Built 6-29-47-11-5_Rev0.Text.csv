@@ -1,0 +1,109 @@
+Handle,ObjType,Content,Layer,Extra
+AF2DAB,BlockReference,"L-SECLBL",L-SECLBL,0.99956752
+AF2DBC,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.9956752
+AF2DC2,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.9956752
+AF2DD1,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99308032
+AF2DD3,MText,"L.S. 3",L-SECTION-LSD,9.9956752
+AF2DD5,MText,"L.S. 4",L-SECTION-LSD,9.9956752
+AF2DD7,MText,"L.S. 6",L-SECTION-LSD,9.9956752
+AF2DD9,MText,"L.S. 5",L-SECTION-LSD,9.9956752
+AF2E96,MText,"Theor. S.W.1/4 Sec. 29-47-11-W.5M.",C-SYMBOL,19.9913504
+AF303E,BlockReference,"GAS",F-WS-S,4.9978376
+AF303F,BlockReference,"GAS",F-WS-S,4.9978376
+AF3040,BlockReference,"GAS",C-WS-S,4.9978376
+AF3041,BlockReference,"GAS",C-WS-S,4.9978376
+AF3042,BlockReference,"GAS",C-WS-S,4.9978376
+AF3043,BlockReference,"GAS",C-WS-S,4.9978376
+AF3044,BlockReference,"GAS",C-WS-S,4.9978376
+AF3045,BlockReference,"GAS",C-WS-S,4.9978376
+AF3046,BlockReference,"GAS",C-WS-S,4.9978376
+AF3047,BlockReference,"GAS",C-WS-S,4.9978376
+AF3048,BlockReference,"GAS",C-WS-S,4.9978376
+AF3049,BlockReference,"GAS",C-WS-S,4.9978376
+AF304A,BlockReference,"GAS",C-WS-S,4.9978376
+AF304B,BlockReference,"GAS",C-WS-S,4.9978376
+AF31DA,BlockReference,"GAS",C-WS-S,4.9978376
+AF31DB,BlockReference,"GAS",F-WS-S,4.9978376
+AF31EB,BlockReference,"GABD",F-WS-S,4.9978376
+AF31ED,BlockReference,"GAS",C-WS-S,4.9978376
+AF3385,BlockReference,"*U438",C-WS-S,0.99956752
+AF33AA,AlignedDimension,"Fortis  Power Line R/W  050283",F-EZE-T,Compass 5 000
+AF3574,AlignedDimension,"Fortis  Power Line R/W  060192",F-EZE-T,Compass 5 000
+AF35A0,AlignedDimension,"Fortis  Power Line R/W  130137",F-EZE-T,Compass 5 000
+AF35E3,AlignedDimension,"Sinopec  A/R  6122",C-AR-T,Compass 5 000
+AF3625,AlignedDimension,"Sinopec  A/R  040674",C-AR-T,Compass 5 000
+AF3656,AlignedDimension,"Sinopec  A/R  131813",C-AR-T,Compass 5 000
+AF3820,AlignedDimension,"Baccalieu  A/R  221360",F-AR-T,Compass 5 000
+AF43A6,MText,"Sinopec 4-29 (Surface) MSL 121621",C-AR-T,9.9956752
+AF43A7,MText,"Mancal 8-29 (Surface) MSL 160406",F-WS-T,9.9956752
+AF4537,MText,"Baccalieu 4-29 (Surface) MSL 220636",F-WS-T,9.9956752
+AF4538,MText,"Sinopec 6-29 (Surface) MSL 771358",C-AR-T,9.9956752
+AF4539,AlignedDimension,"Sinopec  A/R  791546",C-AR-T,Compass 5 000
+AF4712,MText,"Baytex Riser Site PIL 050603",F-RW-T,9.9956752
+AF4713,AlignedDimension,"Sinopec  P/L R/W  021716",C-RW-T,Compass 5 000
+AF48DB,AlignedDimension,"Sinopec  P/L R/W  042162",C-RW-T,Compass 5 000
+AF4917,AlignedDimension,"Sinopec  P/L R/W  102 4408  042592",C-RW-T,Compass 5 000
+AF4951,AlignedDimension,"Baytex  P/L R/W  043800",F-RW-T,Compass 5 000
+AF4982,AlignedDimension,"Sinopec  P/L R/W  051349",C-RW-T,Compass 5 000
+AF4B44,AlignedDimension,"Sinopec  P/L R/W  051548",C-RW-T,Compass 5 000
+AF4B87,AlignedDimension,"Baytex  P/L R/W  052815",F-RW-T,Compass 5 000
+AF4BE5,AlignedDimension,"Sinopec  P/L R/W  053068",C-RW-T,Compass 5 000
+AF4C31,AlignedDimension,"Sinopec  P/L R/W  062059",C-RW-T,Compass 5 000
+AF4E06,AlignedDimension,"Sinopec  P/L R/W  082 5743  072969",C-RW-T,Compass 5 000
+AF4E7D,AlignedDimension,"Sinopec  P/L R/W  120812",C-RW-T,Compass 5 000
+AF50C3,AlignedDimension,"Baytex  P/L R/W  120933",F-RW-T,Compass 5 000
+AF52DC,AlignedDimension,"Sinopec  P/L R/W  121535",C-RW-T,Compass 5 000
+AF66C3,AlignedDimension,"Sinopec  P/L R/W  130805",C-RW-T,Compass 5 000
+AF66E2,AlignedDimension,"Tidewater  P/L R/W  121922",F-RW-T,Compass 5 000
+AF6FD4,AlignedDimension,"Baccalieu  P/L R/W  220030",F-RW-T,Compass 5 000
+AF7056,AlignedDimension,"Baccalieu  P/L R/W  220159",F-RW-T,Compass 5 000
+AF70D2,AlignedDimension,"Baccalieu  P/L R/W  220576",F-RW-T,Compass 5 000
+AF7D50,AlignedDimension,"Baccalieu  P/L R/W  220731",F-RW-T,Compass 5 000
+AF8018,AlignedDimension,"Obsidian  P/L R/W  972 1479  960977",F-RW-T,Compass 5 000
+AFA6CF,BlockReference,"*U470",AS-SYMBOL,4.9978376
+AFA95D,AlignedDimension,"Keyera  P/L R/W  852 1260  830469",F-RW-T,Compass 5 000
+AFAB90,BlockReference,"GABD",F-WS-S,4.9978376
+AFAD25,MText,"Dugout",T-WATER-T,9.9956752
+AFCA1E,BlockReference,"FLARE",AS-SYMBOL,4.9978376
+AFCBAF,BlockReference,"FLARE",AS-SYMBOL,4.9978376
+AFCD6C,BlockReference,"TEMP",L-MON,4.9978376
+AFCD6D,BlockReference,"TEMP",L-MON,4.9978376
+AFCF73,MText,"SEE DETAIL",DETAIL-T,15.99308032
+AFD80A,BlockReference,"FLARE",AS-SYMBOL,4.9978376
+AFD80B,BlockReference,"*U473",AS-SYMBOL,4.9978376
+AFD818,BlockReference,"FLARE",AS-SYMBOL,4.9978376
+AFD819,BlockReference,"GABD",F-WS-S,4.9978376
+AFD81A,BlockReference,"GABD",F-WS-S,4.9978376
+AFD81B,BlockReference,"GAS",C-WS-S,4.9978376
+AFD81C,BlockReference,"TEMP",L-MON,4.9978376
+AFD81D,BlockReference,"TEMP",L-MON,4.9978376
+AFE122,MText,"4m High Grade Gravel Road",AS-ROAD-T,9.9956752
+AFE903,MText,"Buried Pipe",AS-PIPE-UG-T,9.9956752
+AFE904,MText,"Sinopec 6-29 (Surface) MSL 771358",C-AR-T,9.9956752
+AFE906,AlignedDimension,"Sinopec  A/R  791546",C-AR-T,Compass 5 000
+AFE93C,MText,"Flare (30.0m Tall)",T-TEXT,9.998104639446353
+AFE93E,MText,"Anchor",T-TEXT,9.995675200000012
+AFEA3C,MText,"Flare (26.0m Tall)",T-TEXT,9.998104639446353
+AFF231,AlignedDimension,"Sinopec  P/L R/W  053068",C-RW-T,Compass 5 000
+AFF245,AlignedDimension,"Sinopec  P/L R/W  051349",C-RW-T,Compass 5 000
+AFF259,AlignedDimension,"Sinopec  P/L R/W  062059",C-RW-T,Compass 5 000
+AFF265,AlignedDimension,"Sinopec  P/L R/W  051548",C-RW-T,Compass 5 000
+AFF279,AlignedDimension,"Keyera  P/L R/W  852 1260  830469",F-RW-T,Compass 5 000
+AFF28E,AlignedDimension,"Sinopec  P/L R/W  021716",C-RW-T,Compass 5 000
+AFF2A2,AlignedDimension,"Sinopec  P/L R/W  042162",C-RW-T,Compass 5 000
+AFFB59,AlignedDimension,"Sinopec  P/L R/W  112108",C-RW-T,Compass 5 000
+AFFB7D,AlignedDimension,"Baytex  P/L R/W  043800",F-RW-T,Compass 5 000
+B00388,MText,"30m Radius",P-BUFFER-PURPLE-T,9.9956752
+B004FE,AlignedDimension,"Sinopec  P/L R/W  102 4408  042592",C-RW-T,Compass 5 000
+B00513,AlignedDimension,"Sinopec  P/L R/W  082 5743  072969",C-RW-T,Compass 5 000
+B01572,MText,"6-29 (Abd.)",F-WS-S,9.9956752
+B01573,MText,"102/6-29 (Abd.)",F-WS-S,9.9956752
+B02343,DBText,"RP",35,9.9956752
+B02BDD,BlockReference,"*U491",P-TEMP-BLOCKS,0.99956752
+B02C32,BlockReference,"curve",P-WORKAREA,4.9978376
+B06BC7,MText,"Ephemeral Draw 8.0 Wide",T-WATER-T,9.9903849889004
+B06BC9,AlignedDimension,"Sinopec  P/L R/W  112108",C-RW-T,Compass 5 000
+B06BE8,MText,"Ephemeral Draw 8.0 Wide",T-WATER-T,9.9903849889004
+B06BF2,MText,"Creek",T-WATER-T,9.9903849889004
+B077F4,DBText,"177°09'",L-BD,9.9956752
+B0CE97,BlockReference,"Disclaimer_Legal",C-AR,0.2

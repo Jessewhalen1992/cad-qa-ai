@@ -1,0 +1,120 @@
+Handle,ObjType,Content,Layer,Extra
+BC883A,BlockReference,"FDI",L-MON,4.9980889
+BC883F,BlockReference,"FDI",L-MON,4.9980889
+BC884D,BlockReference,"FDI",L-MON,4.9980889
+BC8852,BlockReference,"FDI",L-MON,4.9980889
+BCBB0C,BlockReference,"L-SECLBL",L-SECLBL,0.99961778
+BCCC03,AlignedDimension,"Fortis  Power Line R/W  050296",F-EZE-T,Compass 5 000
+BCD463,MText,"Fortis Variable Width  Power Line R/W EZE 120143",F-EZE-T,9.9961778
+BCDC81,AlignedDimension,"Fortis  Power Line R/W  140120",F-EZE-T,Compass 5 000
+BCE501,AlignedDimension,"Fortis  Power Line R/W EZE 210028",F-EZE-T,Compass 5 000
+BCED5E,AlignedDimension,"Barrel  A/R  111986",F-AR-T,Compass 5 000
+BCED8B,MText,"Inplay 20.00 A/R LOC 210027",C-AR-T,9.9961778
+BCF5AB,MText,"Barrel Plant Site Plan 062 5588 MLL 050053",L-TITLEDB-T,9.9961778
+BCFDCD,MText,"Inplay 6-8 (Surface) MSL 198",F-WS-T,9.9961778
+BD05F1,AlignedDimension,"Inplay  A/R  4410",C-AR-T,Compass 5 000
+BD060D,MText,"Inplay Battery Site MSL 210030",C-WS-T,9.9961778
+BD0E35,MText,"Barrel Riser Site PIL 050529",F-RW-T,9.9961778
+BD165D,AlignedDimension,"Inplay  Flow Line R/W  1559",C-FLOWLINE-T,Compass 5 000
+BD167C,AlignedDimension,"Barrel  P/L R/W  062 6567  052215",F-RW-T,Compass 5 000
+BD1EE6,AlignedDimension,"Barrel  P/L R/W  062 4956  052862",F-RW-T,Compass 5 000
+BD2741,AlignedDimension,"Barrel  P/L R/W Plan 122 4708  111673",F-RW-T,Compass 5 000
+BD275D,AlignedDimension,"Barrel  P/L R/W  132 1608  121192",F-RW-T,Compass 5 000
+BD2FAC,AlignedDimension,"Inplay  P/L R/W PLA 210029",C-RW-T,Compass 5 000
+BD3817,AlignedDimension,"Inplay  P/L R/W  210041",C-RW-T,Compass 5 000
+BD3851,AlignedDimension,"Inplay  P/L R/W  210295",C-RW-T,Compass 5 000
+BD388B,AlignedDimension,"Inplay  P/L R/W PLA 210677",C-RW-T,Compass 5 000
+BD38A7,AlignedDimension,"Obsidian  P/L R/W Plan 912 0074  910510",F-RW-T,Compass 5 000
+BD4113,AlignedDimension,"Inplay  Vegetation Control R/W  230002",C-RW-T,Compass 5 000
+BD649B,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.9961778
+BD6DB2,AlignedDimension,"Barrel  A/R  111986",F-AR-T,Compass 5 000
+BD6DDA,MText,"Inplay Battery Site  MSL 198",C-WS-T,9.9961778
+BD7616,MText,"Barrel 2-8 (Surface)MSL112181",F-WS-T,9.9961778
+BD7F02,BlockReference,"GAS",C-WS-S,5.0000000000000115
+BDD2D0,AlignedDimension,"Barrel  A/R  051975",F-AR-T,Compass 5 000
+BE05E9,BlockReference,"TEMP",L-MON,4.9980889
+BE05EA,BlockReference,"TEMP",L-MON,4.9980889
+BE05EB,BlockReference,"TEMP",L-MON,4.9980889
+BE05EC,BlockReference,"TEMP",L-MON,4.9980889
+BE0F56,DBText,"58°28'25''",L-BD,9.9961778
+BE1C17,BlockReference,"TEMP",L-MON,4.9980889
+BE1C18,BlockReference,"TEMP",L-MON,4.9980889
+BE1C19,BlockReference,"TEMP",L-MON,4.9980889
+BE1C1A,BlockReference,"TEMP",L-MON,4.9980889
+BE1C24,MText,"15.39 40"",L-BD,9.9961778
+BE1C25,MText,"135°30'40'' 15.39",L-BD,9.9961778
+BE1C26,MText,"15.39 238°28'25''",L-BD,9.9961778
+BE1C27,MText,"28" 15.39",L-BD,9.9961778
+BE250D,MText,"25''  134.18",L-BD,9.9961778
+BE250E,MText,"135°30'40'' 148.60",L-BD,9.9961778
+BE2D43,AlignedDimension,"Inplay  Flow Line R/W  1559",C-FLOWLINE-T,Compass 5 000
+BE2D73,AlignedDimension,"Inplay  P/L R/W  210041",C-RW-T,Compass 5 000
+BE2D91,AlignedDimension,"Barrel  P/L R/W Plan 122 4708  111673",F-RW-T,Compass 5 000
+BE2DC2,MText,"Theor. Blind Line",L-ROAD-T,9.9961778
+BE35F4,AlignedDimension,"Obsidian  P/L R/W Plan 912 0074  910510",F-RW-T,Compass 5 000
+BE721A,MText,"Buried Pipe",AS-PIPE-UG-T,9.9961778
+BE7222,MText,"Buried Pipe",AS-PIPE-UG-T,9.9961778
+BE722A,MText,"Buried Pipe",AS-PIPE-UG-T,9.9961778
+BE7232,MText,"Buried Pipe",AS-PIPE-UG-T,9.9961778
+BE945D,AlignedDimension,"Fortis  Vegetation Control R/W  870642",F-EZE-T,Compass 5 000
+BE94A7,AlignedDimension,"Barrel  A/R LOC 051043",F-AR-T,Compass 5 000
+BE95B7,AlignedDimension,"Barrel  A/R  051975",F-AR-T,Compass 5 000
+BE95D3,AlignedDimension,"Barrel  A/R  111986",F-AR-T,Compass 5 000
+BE9DD8,MText,"Barrel 12-5 (Surface) MSL 051638",F-WS-T,9.9961778
+BE9DD9,AlignedDimension,"Inplay  Flow Line R/W  1559",C-FLOWLINE-T,Compass 5 000
+BEA5CE,AlignedDimension,"Barrel  P/L R/W  102 2492  052512",C-FLOWLINE-T,Compass 5 000
+BEAEEB,AlignedDimension,"Baccalieu  P/L R/W PLA 111111",F-RW-T,Compass 5 000
+BEB6ED,AlignedDimension,"Barrel  P/L R/W Plan 122 4708  111673",F-RW-T,Compass 5 000
+BEBEE2,AlignedDimension,"Inplay  P/L R/W  210041",C-RW-T,Compass 5 000
+BED110,MText,"Fd.I. c.s.",L-MON,9.9961778
+BED124,MText,"Fd.I. Mp.",L-MON,9.9961778
+BED125,MText,"High Grade Gravel Road",T-TEXT,9.9961778
+BEE99F,BlockReference,"L-SECLBL",L-SECLBL,0.99961778
+BEE9A5,BlockReference,"GAS",C-WS-S,4.9980889
+BEE9A6,BlockReference,"GAS",C-WS-S,4.9980889
+BF013F,MText,"Fd.I.",L-MON,9.9961778
+BF11EF,DBText,"Theor. N.W.1/4 Sec. 5-47-9-W.5M.",C-SYMBOL,19.9923556
+BF11F0,DBText,"Theor. S.W.1/4 Sec. 8-47-9-W.5M.",C-SYMBOL,19.9923556
+BF11FE,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99388448
+BF1206,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99388448
+BF6137,DBText,"RP",35,9.9961778
+BF6172,BlockReference,"*U63",DETAIL-T,0.99961778
+BFBDAD,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.9961778
+C08565,BlockReference,"TEMP",L-MON,4.9980889
+C099D3,MText,"L.S. 3",L-SECTION-LSD,9.9961778
+C099D5,MText,"L.S. 4",L-SECTION-LSD,9.9961778
+C099D7,MText,"L.S. 6",L-SECTION-LSD,9.9961778
+C099D9,MText,"L.S. 5",L-SECTION-LSD,9.9961778
+C1738A,MText,"L.S. 11",L-SECTION-LSD,9.9961778
+C1738C,MText,"L.S. 12",L-SECTION-LSD,9.9961778
+C1738E,MText,"L.S. 14",L-SECTION-LSD,9.9961778
+C1738F,MText,"L.S. 13",L-SECTION-LSD,9.9961778
+C17392,MText,"40cm Pine, Poplar & Spruce",T-BUSH-T,9.9961778
+C1739A,MText,"Poplar Re-growth 40cm Scattered Pine",T-BUSH-T,9.9961778
+C1785F,MText,"40cm Pine, Poplar & Spruce",T-BUSH-T,9.9961778
+C17860,MText,"Poplar Re-growth 40cm Scattered Pine",T-BUSH-T,9.9961778
+C1786B,MText,"40cm Pine, Poplar & Spruce",T-BUSH-T,9.9961778
+C178AC,BlockReference,"*U63",DETAIL-T,0.99961778
+C48EF0,BlockReference,"TEMP",L-MON,4.9980889
+C48EF1,BlockReference,"TEMP",L-MON,4.9980889
+C4975C,DBText,"135°",L-BD,9.9961778
+C4975E,DBText,"90°30'40''",L-BD,9.9961778
+C49760,BlockReference,"TEMP",L-MON,4.9980889
+C49761,BlockReference,"TEMP",L-MON,4.9980889
+C49762,BlockReference,"TEMP",L-MON,4.9980889
+C4A800,DBText,"358°31'",L-BD,9.9961778
+C4B8D4,AlignedDimension,"10.00 A/R",P-TXT,Compass 5 000
+C4D15E,BlockReference,"TEMP",L-MON,4.9980889
+C4D15F,BlockReference,"TEMP",L-MON,4.9980889
+C4D162,AlignedDimension,"A/R  051975",F-AR-T,Compass 5 000
+C54BB0,DBText,"30'",L-BD,9.9961778
+C587B3,BlockReference,"TEMP",L-MON,4.9980889
+C587B4,MText,"Fd. No Mk. Re-est. Position by Plan 122 4708",L-MON,9.9961778
+C587B5,MText,"231.87 58°28'25"",L-BD,9.9961778
+C58C72,MText,"185°54'10" 78.07 (Tie)",L-TIE-T,9.9961778
+C598C8,MText,"58°  231.87",L-BD,9.9961778
+C61E83,BlockReference,"FDI",L-MON,4.9980889
+C63E0C,MText,"Fd.I. Mp.",L-MON,9.9961778
+C6550B,BlockReference,"FDI",L-MON,5
+C69676,MText,"DETAIL SCALE 1:1000",DETAIL-T,20
+C696AD,BlockReference,"Disclaimer_Legal",C-AR,0.5

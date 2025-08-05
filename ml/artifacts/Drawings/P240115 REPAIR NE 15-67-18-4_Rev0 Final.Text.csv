@@ -1,0 +1,78 @@
+Handle,ObjType,Content,Layer,Extra
+AF30B3,BlockReference,"L-SECLBL",L-SECLBL,1
+AF32EB,BlockReference,"*U21",CG-NOTES,1
+AF470E,DBText,"Government Road Allowance",L-ROAD-T,10
+AF470F,DBText,"(Undeveloped)",T-TEXT,10
+AF5AAD,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3739  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+AF645B,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.  P/L R/W  022 2276  33528-2, LS 7101)  33527-1, LS 7001)",P-PROPOSED-T,Compass 5 000
+AF6495,AlignedDimension,"Nova  P/L R/W  762 0671  80240-44)",F-RW-T,Compass 5 000
+AF64D8,AlignedDimension,"Suncor  P/L R/W  4625 NY  3907-143)",F-RW-T,Compass 5 000
+AF6594,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4514  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+AF67A7,AlignedDimension,"Enbridge  P/L R/W  092 8386  48998-5)",F-RW-T,Compass 5 000
+AFB2E0,MText,"Buried Telus Cable",AS-TELUS,10
+AFB2E7,BlockReference,"res_occ",AS-RESIDENCE,5
+AFB487,BlockReference,"GABD",F-WS-S,5
+AFB496,MText,"Manitok 8-15 (Abd.)",F-RW,10
+AFD896,MText,"Fortis O/H Power Line",AS-POWER-T,10
+AFF548,MText,"Grand Rapids Pipeline Installation R/W Plan 142 1486",F-RW,10
+B0485C,AlignedDimension,"Pembina  P/L R/W  782 1469  042 0681  37742-61,",F-RW-T,Compass 5 000
+B0E6F9,AlignedDimension,"Nova  P/L R/W  872 2005  80551-1)",F-RW-T,Compass 5 000
+B0EFCE,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5733  54778-2, LS 7108)",P-PROPOSED-T,Compass 5 000
+B176CC,AlignedDimension,"Enbridge  P/L R/W  162 3476  54419-10)",F-RW-T,Compass 5 000
+B19754,AlignedDimension,"White Swan  P/L R/W  082 6890  57962-16)",F-RW,Compass 5 000
+B19F66,AlignedDimension,"Grand Rapids  P/L R/W  Plan by WSP Surveys  56699-20, 56673-14)",F-RW-T,Compass 5 000
+B21656,BlockReference,"res_occ",AS-RESIDENCE,5
+B21657,BlockReference,"res_occ",AS-RESIDENCE,5
+B21660,BlockReference,"res_other",AS-RESIDENCE,5
+B2166A,BlockReference,"res_other",AS-RESIDENCE,5
+B21674,BlockReference,"res_other",AS-RESIDENCE,5
+B21690,BlockReference,"res_other",AS-RESIDENCE,5
+B21692,BlockReference,"res_occ",AS-RESIDENCE,5
+B216A2,MText,"Residence (Typ.)",AS-RESIDENCE,10
+B22626,MText,"N.E.1/4Sec. 15-67-18-W.4M.",C-SYMBOL,20
+B22E2D,MText,"Lot 1 Block 1 Plan 152 4101",L-TITLEDB-T,10
+B235E7,MText,"Lot 2 Block 1 Plan 222 0153",L-TITLEDB-T,10
+B255AF,AlignedDimension,"Shaw  Fiber Optics Cable R/W  002 3876",F-RW-T,Compass 5 000
+B25E61,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B275B8,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B2858D,AlignedDimension,"Manitok  Road Plan  EU",L-TITLEDB-T,Compass 5 000
+B29D10,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B2A4D8,MText,"Grand Rapids Pipeline Installation R/W Plan 152 4102",F-RW,10
+B2BF36,BlockReference,"*U37",0,0.9993471061400016
+B2BF6F,BlockReference,"*U38",0,0.9993471061400016
+B2C7BA,DBText,"(Low Grade Gravel)",T-TEXT,10
+B2C7BB,DBText,"Rge. Road 182",L-ROAD-T,10
+B2FAC9,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.993441070549988
+B306CF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B306D7,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B306DF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CB1,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CB9,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CC1,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CC9,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CD9,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B30CE1,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B3B78A,MText,"Pasture",T-TEXT,9.996490000000007
+B3B78C,MText,"Pasture",T-TEXT,9.996490000000007
+B3B78D,MText,"Pasture",T-TEXT,9.996490000000007
+B3CEDE,BlockReference,"*U39",0,1
+B3D3D5,BlockReference,"*U40",0,1
+B3E760,BlockReference,"*U41",0,1
+B3E7A4,BlockReference,"*U42",0,0.9993471061400016
+B3ECEF,AlignedDimension,"Enbridge  P/L R/W  192 1882  57441-4)",F-RW-T,Compass 5 000
+B3ED17,BlockReference,"*U44",0,1
+B3ED8B,BlockReference,"*U45",0,1
+B3F2B3,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.993441070549988
+B3F779,MText,"Shrubby Swamp",WETLAND-T,9.995619700000056
+B3F77A,MText,"Wooded Coniferous Swamp",WETLAND-T,9.995619700000056
+B3F77B,MText,"Temporary Graminoid Marsh",WETLAND-T,9.995619700000056
+B3F77C,MText,"Shrubby Swamp",WETLAND-T,9.995619700000056
+B416BB,BlockReference,"Route_Letters",0,0.9987298961319185
+B416BF,BlockReference,"Route_Letters",0,0.9987298961319185
+B42074,BlockReference,"Route_Letters",0,0.9987298961319185
+B42078,BlockReference,"Route_Letters",0,0.9987298961319185
+B425DB,AlignedDimension,"Manitok  A/R",F-AR-T,Compass 5 000
+B4AF63,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B4AF71,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B4AF79,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B4DC60,BlockReference,"Disclaimer_Legal",0,0.25

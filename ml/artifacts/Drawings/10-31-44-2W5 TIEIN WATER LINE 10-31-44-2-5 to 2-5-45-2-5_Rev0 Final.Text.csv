@@ -1,0 +1,172 @@
+Handle,ObjType,Content,Layer,Extra
+AF4E7B,BlockReference,"502044",Parcel Mapping,1
+AF6111,BlockReference,"502045",Parcel Mapping,1
+AF978C,MText,"Lot 1  Block 1 Plan 062 7582",L-TITLEDB-T,10.000000000000002
+AF978E,DBText,"N.E.1/4 Sec. 31-44-2-W.5M.",C-SYMBOL,20
+AF9791,BlockReference,"*U17",AS-OWNER,0.9997440000000076
+AFAA67,MText,"Surge 14-32",F-WS-T,10.000000000000002
+AFAA69,MText,"Baytex 10-31",C-WS-T,10.000000000000002
+AFAA6B,MText,"Bonavista 9-31",F-WS-T,10.000000000000002
+AFAA6D,MText,"CNRL 12-32",F-WS-T,10.000000000000002
+AFB3D2,MText,"Bonavista 7-5",F-WS-T,10.000000000000002
+AFB3D4,MText,"Bonavista 7-5",F-WS-T,10.000000000000002
+AFBD3F,BlockReference,"L-SECLBL",L-SECLBL,1
+AFBD45,BlockReference,"L-SECLBL",L-SECLBL,1
+AFBD4B,BlockReference,"L-SECLBL",L-SECLBL,1
+AFBD64,MText,"Twp. 44",D-TXT,14
+AFBD65,MText,"Twp. 45",D-TXT,14
+AFBD66,DBText,"Paved Road",T-TEXT,10
+AFBD67,DBText,"Government Road Allowance",L-ROAD-T,10
+AFD039,MText,"Lot 1  Plan 942 2123",L-TITLEDB-T,10.000000000000002
+AFEC74,MText,"Approximate Location of  G.L.D.C. Co-op Ltd.",AS-PIPE-UG-T,10.00060251428212
+AFEC75,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.00060251428212
+AFF5DD,MText,"EQUS O/H Power Line",AS-POWER-EXISTING-T,9.992720725178364
+AFF5DE,MText,"EQUS O/H Power Line",AS-POWER-EXISTING-T,9.992720725178364
+AFF5E1,MText,"Baytex 7-5",C-WS-T,10.000000000000002
+AFF648,DBText,"N.W.1/4 Sec. 32-44-2-W.5M.",C-SYMBOL,20
+AFF676,DBText,"S.E.1/4 Sec. 5-45-2-W.5M.",C-SYMBOL,20
+AFF68D,DBText,"S.W.1/4 Sec. 5-45-2-W.5M.",C-SYMBOL,20
+B0001E,AlignedDimension,"Bonavista  A/R",F-RW-T,Compass 5 000
+B0001F,AlignedDimension,"Bonavista  P/L R/W  062 1613",F-RW-T,Compass 5 000
+B00235,MText,"C. of T.",L-TITLEDB-T,9.999999999999835
+B00236,MText,"C. of T.",L-TITLEDB-T,9.999999999999835
+B00237,MText,"C. of T.",L-TITLEDB-T,9.999999999999835
+B00238,MText,"N.E.1/4 Sec. 32-44-2-W.5M.",C-SYMBOL,20
+B00239,MText,"C. of T.",L-TITLEDB-T,9.999999999999835
+B0026E,AlignedDimension,"Bonavista  18.00 P/L R/W  062 4913",F-RW-T,Compass 5 000
+B00C68,AlignedDimension,"Bonavista  18.00 P/L R/W  062 4913",F-RW-T,Compass 5 000
+B01795,AlignedDimension,"CNRL  15.00 P/L R/W  992 0207",F-RW-T,Compass 5 000
+B017FE,AlignedDimension,"Bonavista  15.00 P/L R/W  082 1543",F-RW-T,Compass 5 000
+B02E29,BlockReference,"GAS",C-WS-T,5
+B02E2A,BlockReference,"GAS",C-WS-T,5
+B02E2B,BlockReference,"GAS",C-WS-T,5
+B02E2C,BlockReference,"GAS",C-WS-T,5
+B02E2D,BlockReference,"GAS",C-WS-T,5
+B02E2E,BlockReference,"GAS",C-WS-T,5
+B02E30,BlockReference,"GAS",F-WS-S,5
+B02E31,BlockReference,"GAS",F-WS-S,5
+B02E32,BlockReference,"GAS",F-WS-S,5
+B02E37,BlockReference,"GAS",F-WS-S,5
+B02E39,BlockReference,"GAS",C-WS-S,5
+B02E3A,BlockReference,"GAS",C-WS-S,5
+B02E3B,BlockReference,"GAS",C-WS-S,5
+B02E3C,BlockReference,"GAS",C-WS-S,5
+B02E5F,MText,"C. of T.",L-TITLEDB-T,9.999999999999835
+B02E61,AlignedDimension,"Surge  15.00 A/R",F-RW-T,Compass 5 000
+B02EC0,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+B02EC1,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+B02EC3,DBText,"Hwy. 611",L-ROAD-T,10
+B038B6,AlignedDimension,"Baytex  A/R",C-AR-T,Compass 5 000
+B038FA,AlignedDimension,"Baytex  25.00 A/R",C-AR-T,Compass 5 000
+B03946,AlignedDimension,"Baytex  Water Line",C-FLOWLINE-T,Compass 5 000
+B04FA6,MText,"Lot 1  Block 1 Plan 142 0591",L-TITLEDB-T,10.000000000000002
+B04FA8,MText,"Lot 1  Block 2 Plan 142 0592",L-TITLEDB-T,10.000000000000002
+B04FAC,AlignedDimension,"Surge  15.00 P/L R/W  072 3657",F-RW-T,Compass 5 000
+B04FEB,BlockReference,"res_occ",AS-RESIDENCE,5
+B04FEC,MText,"Residence",AS-RESIDENCE,10
+B04FED,BlockReference,"res_occ",AS-RESIDENCE,5
+B04FEE,MText,"Residence",AS-RESIDENCE,10
+B04FF2,AlignedDimension,"Silverleaf  15.00 P/L R/W  082 4488",F-RW-T,Compass 5 000
+B0502D,AlignedDimension,"CNRL  15.00 P/L R/W  882 1680",F-RW-T,Compass 5 000
+B05070,AlignedDimension,"Bonavista  18.00 P/L R/W  Plan 062 4913",F-RW-T,Compass 5 000
+B050AA,AlignedDimension,"Silverleaf  15.00 P/L R/W  042 0422",F-RW-T,Compass 5 000
+B050E5,AlignedDimension,"Bonavista  18.00 P/L R/W  122 2501",F-RW-T,Compass 5 000
+B0512D,AlignedDimension,"Baytex  A/R  Built)",C-AR-T,Compass 5 000
+B05AED,AlignedDimension,"Baytex  P/L R/W  by Caltech",C-RW-T,Compass 5 000
+B05B16,DBText,"Pasture",T-TEXT,10
+B05B68,MText,"Twp. 44",D-TXT,14
+B05B69,MText,"Twp. 45",D-TXT,14
+B064EE,DBText,"Paved Road",T-TEXT,10
+B064EF,DBText,"Government Road Allowance",L-ROAD-T,10
+B064F0,DBText,"Hwy. 611",L-ROAD-T,10
+B064F1,DBText,"High Grade Gravel Road",T-TEXT,10
+B064F2,DBText,"Government Road Allowance",L-ROAD-T,10
+B064FA,DBText,"High Grade Gravel Road",T-TEXT,10
+B064FB,DBText,"Government Road Allowance",L-ROAD-T,10
+B06EB7,MText,"Workspace = 0.164 ha  0.41 Ac.",L-AREAREQUIRED,11
+B07980,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+B07981,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+B07984,BlockReference,"xing2",P-CROSSINGS,1
+B0798B,BlockReference,"xing2",P-CROSSINGS,1
+B07992,BlockReference,"xing2",P-CROSSINGS,1
+B07999,BlockReference,"xing2",P-CROSSINGS,1
+B079A0,BlockReference,"xing2",P-CROSSINGS,1
+B079A7,BlockReference,"xing2",P-CROSSINGS,1
+B079AE,BlockReference,"xing2",P-CROSSINGS,1
+B079B5,BlockReference,"xing2",P-CROSSINGS,1
+B08EE4,BlockReference,"RP",C-RW-T,1
+B08EEF,AlignedDimension,"Bonavista  15.00 P/L R/W  Plan 082 6497",F-RW-T,Compass 5 000
+B08F6E,BlockReference,"POWERPOLE",AS-POWER-EXISTING-PP,5
+B08F6F,AlignedDimension,"Baytex  P/L R/W  by Caltech",C-RW-T,Compass 5 000
+B09175,AlignedDimension,"Bonavista  18.00 P/L R/W  Plan 062 4913",F-RW-T,Compass 5 000
+B091D5,AlignedDimension,"Surge  15.00 P/L R/W  Plan 072 3657",F-RW-T,Compass 5 000
+B0921A,MText,"Approximate Location of  G.L.D.C. Gas Co-op Ltd.",AS-PIPE-UG-T,10.00060251428212
+B0921D,MText,"Bonavista 7-31",F-WS-T,10.000000000000002
+B09B72,AlignedDimension,"CNRL  P/L R/W  012 0571",F-RW-T,Compass 5 000
+B09BB0,AlignedDimension,"CNRL  P/L R/W  012 0571",F-RW-T,Compass 5 000
+B09BF9,AlignedDimension,"Baytex  Water Line",C-AR-T,Compass 5 000
+B09C30,AlignedDimension,"Bonavista  15.00 A/R",F-RW-T,Compass 5 000
+B09C70,AlignedDimension,"Bonavista  20.00 A/R",F-RW-T,Compass 5 000
+B0A5EC,DBText,"Gate",T-TEXT,10
+B0A5EE,DBText,"Culvert",T-TEXT,10
+B0A5F6,MText,"Road  Plan 5658 RS",L-TITLEDB-T,10.000000000000002
+B0A5FA,MText,"Road  Plan 212 0780",L-TITLEDB-T,10.000000000000002
+B0A5FE,MText,"Road  Plan 5658 RS",L-TITLEDB-T,10.000000000000002
+B0A602,MText,"Road  Plan 2458 JY",L-TITLEDB-T,10.000000000000002
+B0A607,MText,"Road  Plan 5658 RS",L-TITLEDB-T,10.000000000000002
+B0A609,BlockReference,"res_occ",AS-RESIDENCE,5
+B0A60A,MText,"Residence",AS-RESIDENCE,10
+B0AF67,AlignedDimension,"Baytex  Water Line",C-AR-T,Compass 5 000
+B0DB7E,DBText,"Government Road Allowance",L-ROAD-T,10
+B0EA4D,BlockReference,"*U40",CG-NOTES,0.999081924950458
+B0EA61,BlockReference,"*U41",CG-NOTES,1.0001310171632478
+B0EA7F,BlockReference,"*U42",CG-NOTES,0.999081924950458
+B0EA93,BlockReference,"*U41",CG-NOTES,1.0001310171632478
+B0EB11,BlockReference,"*U44",AS-POWER-T,0.9998299877283919
+B0EB27,DBText,"EQUS O/H Power Line",AS-POWER-EXISTING-T,9.992720725178362
+B0EB3A,MText,"Bonavista 102/01-31",F-WS-T,10.000000000000002
+B0EB3C,AlignedDimension,"Bonavista  20.00 A/R",F-RW-T,Compass 5 000
+B0EB80,MText,"Buried Pipe",AS-PIPE-UG-T,10.00060251428212
+B0EB82,MText,"Buried Pipe",AS-PIPE-UG-T,10.00060251428212
+B0EB8D,MText,"Buried Pipe",AS-PIPE-UG-T,10.00060251428212
+B10388,DBText,"Government Road  Allowance",L-ROAD-T,10
+B10389,DBText,"Hwy. 611",L-ROAD-T,10
+B1038A,DBText,"Paved Road",T-TEXT,10
+B10408,BlockReference,"GAS",F-WS-S,5
+B1040A,BlockReference,"xing2",P-CROSSINGS,1
+B1043A,DBText,"Fortis O/H Power Line",AS-POWER-EXISTING-T,9.992720725178362
+B1043B,BlockReference,"xing2",P-CROSSINGS,1
+B10442,DBText,"Fortis O/H Power Line",AS-POWER-EXISTING-T,9.992720725178362
+B10444,BlockReference,"*U46",AS-POWER-T,0.9998299877283919
+B10E02,DBText,"EQUS O/H Power Line",AS-POWER-EXISTING-T,9.992720725178362
+B1274E,AlignedDimension,"Baytex  P/L R/W  by Caltech",C-AR-T,Compass 5 000
+B12DAB,BlockReference,"*U49",P-PROPOSED-WL2,1
+B12DCF,DBText,"High Grade Gravel Road",T-TEXT,10
+B12E21,DBText,"Dugout",WETLAND-T,10
+B12E6E,MText,"7-5 (Abd.)",F-WS-T,10.000000000000002
+B12EBC,BlockReference,"GAS",F-WS-S,5
+B12EBE,BlockReference,"GAS",F-WS-S,5
+B12EC2,BlockReference,"GAS",F-WS-S,5
+B12EC3,BlockReference,"GAS",F-WS-S,5
+B12EC4,BlockReference,"GAS",F-WS-S,5
+B12EC5,BlockReference,"GAS",F-WS-S,5
+B12EC6,BlockReference,"GAS",F-WS-S,5
+B134DF,AlignedDimension,"CNRL  A/R",F-RW-T,Compass 5 000
+B13B0F,BlockReference,"xing2",P-CROSSINGS,1
+B1686E,AlignedDimension,"Baytex  A/R",F-RW-T,Compass 5 000
+B168F7,MText,"WL2",P-PROPOSED-WL4,12
+B168F8,MText,"(3.0x654.5)",P-PROPOSED-WL4,9
+B1690B,AlignedDimension,"Bonavista  15.00 P/L R/W  162 2523",F-RW-T,Compass 5 000
+B1699A,BlockReference,"GAS",F-WS-S,5
+B169A2,MText,"WL1",P-PROPOSED-WL3,12
+B169A3,MText,"(3.0x909.0)",P-PROPOSED-WL3,9
+B169AB,BlockReference,"res_occ",AS-RESIDENCE,5
+B169AC,MText,"Residence",AS-RESIDENCE,10
+B169AD,DBText,"Fortis O/H Power Line",AS-POWER-EXISTING-T,9.992720725178362
+B169AE,BlockReference,"res_occ",AS-RESIDENCE,5
+B169AF,MText,"Residence",AS-RESIDENCE,10
+B169B0,BlockReference,"*U52",CG-NOTES,0.999081924950458
+B169C4,BlockReference,"*U41",CG-NOTES,1.0001310171632478
+B17354,BlockReference,"res_occ",AS-RESIDENCE,5
+B17355,MText,"Residence",AS-RESIDENCE,10
+B1C921,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.5

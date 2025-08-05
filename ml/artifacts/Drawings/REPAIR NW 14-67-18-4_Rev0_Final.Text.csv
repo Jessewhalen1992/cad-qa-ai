@@ -1,0 +1,58 @@
+Handle,ObjType,Content,Layer,Extra
+AF969A,BlockReference,"L-SECLBL",L-SECLBL,1
+AF96A0,DBText,"N.W.1/4 Sec. 14-67-18-W.4M.",C-SYMBOL,20
+AF96A1,AlignedDimension,"Enbridge  P/L R/W  092 8386  48998-5)",F-RW-T,Compass 5 000
+AF96C9,AlignedDimension,"Shaw  Fiber Optics Cable R/W  002 3876",F-RW-T,Compass 5 000
+AF96F1,AlignedDimension,"Pembina  P/L R/W  782 1469  042 0681  37742-61, 37742-256)",F-RW-T,Compass 5 000
+AF9EC4,AlignedDimension,"Suncor  P/L R/W  4625 NY  3907-143)",F-RW-T,Compass 5 000
+AF9F19,AlignedDimension,"Nova  P/L R/W  762 0671  80240-44)",F-RW-T,Compass 5 000
+AF9F5C,AlignedDimension,"Nova  P/L R/W  872 2005  80551-1)",F-RW-T,Compass 5 000
+AF9F96,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.  P/L R/W  022 2276  33528-2, LS 7101)  33527-1, LS 7001)",P-PROPOSED-T,Compass 5 000
+AFBE97,AlignedDimension,"Enbridge  P/L R/W  162 3476  54419-10)",F-RW-T,Compass 5 000
+AFBEBF,AlignedDimension,"Enbridge  P/L R/W  192 1882  57441-4)",F-RW-T,Compass 5 000
+AFD8D6,AlignedDimension,"CNRL  P/L R/W  972 0591  26983-2)",F-RW-T,Compass 5 000
+B008B0,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4514  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+B02FF7,BlockReference,"GAS",F-WS-S,5
+B035C3,MText,"Buried Telus Cable",AS-TELUS,10
+B04236,DBText,"(Low Grade Gravel)",T-TEXT,10
+B04237,DBText,"Rge. Road 182",L-ROAD-T,10
+B0426D,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B0426E,DBText,"(Undeveloped)",T-TEXT,9.999999999999998
+B04835,MText,"Fortis O/H Power Line",AS-POWER-T,10
+B0598C,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B059A4,AlignedDimension,"10.0x353.5 A/R",P-TEMP-T,Compass 5 000
+B06713,BlockReference,"*U32",AS-OWNER,1
+B08A62,MText,"CNRL 10-14",F-RW-T,10
+B08A63,AlignedDimension,"CNRL  A/R",F-AR-T,Compass 5 000
+B08A97,BlockReference,"xing2",P-CROSSINGS,1
+B090AF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B090B7,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B090BF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B090C7,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B090CF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B090D7,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B0CFE4,MText,"Lot 1 Block 1 Plan 152 4101",L-TITLEDB-T,10
+B0CFE6,AlignedDimension,"20.12 Road   3542 EU",L-TITLEDB-T,Compass 5 000
+B0F81B,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.996949999999991
+B11088,BlockReference,"*U35",0,1
+B11504,AlignedDimension,"10.06 Road   2939 MC",L-TITLEDB-T,Compass 5 000
+B134F9,MText,"Pasture",T-TEXT,9.996490000000007
+B13501,MText,"Cultivation",T-TEXT,9.996490000000007
+B13509,MText,"Cultivation",T-TEXT,9.996490000000007
+B1351A,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B1351B,MText,"Residence (Typ.)",AS-RESIDENCE,10
+B1351D,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B1351E,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B1351F,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B195B3,BlockReference,"*U37",0,1
+B19AAA,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B19AB6,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B19F5B,MText,"Lot 2 Block 1 Plan 222 0153",L-TITLEDB-T,10
+B19F8A,BlockReference,"*U38",0,1
+B1A48A,BlockReference,"*U39",0,1
+B1A503,BlockReference,"*U40",0,1
+B1A546,BlockReference,"*U41",0,1
+B1AA82,BlockReference,"GAS",F-WS-S,5
+B1AA83,AlignedDimension,"CNRL  A/R",F-WS-S,Compass 5 000
+B1AAC6,MText,"CNRL 5-14",F-WS-S,10
+B20E67,BlockReference,"Disclaimer_Legal",0,0.25

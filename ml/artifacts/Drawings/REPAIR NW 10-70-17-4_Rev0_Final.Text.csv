@@ -1,0 +1,62 @@
+Handle,ObjType,Content,Layer,Extra
+AF299C,BlockReference,"L-SECLBL",L-SECLBL,1
+AF29AF,DBText,"Government Road Allowance",L-ROAD-T,10
+AF29B0,DBText,"(Undeveloped)",T-TEXT,10
+AF29B1,DBText,"Government Road Allowance",L-ROAD-T,10
+AF29B2,DBText,"(Undeveloped)",T-TEXT,10
+AF29B3,DBText,"N.W.1/4 Sec. 10-70-17-W.4M.",C-SYMBOL,20
+AF2A06,BlockReference,"*U424",CG-NOTES,1
+AF4DBD,AlignedDimension,"Shaw  Fibre Optics Cable R/W  002 3887",F-RW-T,Compass 5 000
+AF4DF9,AlignedDimension,"Nova  P/L R/W  772 2904  80304-4)",F-RW-T,Compass 5 000
+AF4FBB,AlignedDimension,"Pembina  P/L R/W  772 2711  37742-56, 48121-4)",F-RW-T,Compass 5 000
+AF51A8,AlignedDimension,"Suncor  P/L R/W  3774 NY  3907-143)",F-RW-T,Compass 5 000
+AF51E4,AlignedDimension,"60.96 Road Plan  162 3631",L-TITLEDB-T,Compass 5 000
+AF5B25,MText,"Pembina Block Valve Site Plan 992 4008",F-RW,10
+AF5B29,MText,"Pembina Block Valve Site Plan 782 2378",F-RW,10
+AF80E9,MText,"Buried Telus Cable",AS-TELUS,10
+AF80EA,MText,"Fortis O/H Power Line",AS-POWER-T,10
+AF8B7C,BlockReference,"res_occ",AS-RESIDENCE,5
+AF8B7D,MText,"Residence",AS-RESIDENCE,10
+AF966F,AlignedDimension,"30.00 Road Plan  5731",L-TITLEDB-T,Compass 5 000
+AF99F5,AlignedDimension,"30.00 Road Plan  3640",L-TITLEDB-T,Compass 5 000
+B019A0,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.  P/L R/W  022 2100  33528-2, LS 7101)  33527-1, LS 7001)",P-PROPOSED-T,Compass 5 000
+B040DE,MText,"Approximate Location of Apex Gas Co-op.",AS-PIPE-UG-T,10.000000000000039
+B0D6AF,MText,"30.0x50.0 Laydown Area Option 'B' (Temporary)",P-TEMP-T,9.993441070549993
+B0FFC8,MText,"30.0x50.0 Laydown Area Option 'A' (Temporary)",P-TEMP-T,9.993441070549993
+B105B2,AlignedDimension,"10.0x256.2 A/R  'A'",P-TEMP-T,Compass 5 000
+B117A5,AlignedDimension,"10.0x72.3 A/R  'B'",P-TEMP-T,Compass 5 000
+B1411C,DBText,"Paved Road",T-TEXT,9.997255299999823
+B1411D,MText,"Hwy. 672",L-ROAD-T,9.997366799183322
+B14154,DBText,"High Grade Gravel Road",T-TEXT,10
+B14165,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1473F,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14749,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14751,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1475A,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1476C,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14D41,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14D4B,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B14D55,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15340,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15348,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15351,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15359,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15361,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B15940,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B16B2D,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B16B36,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1710C,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B1A46F,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.993441070549988
+B1E5EB,BlockReference,"*U449",0,1
+B1E604,BlockReference,"*U450",0,1
+B1E66C,BlockReference,"*U451",0,1
+B1ECB7,BlockReference,"*U452",0,1
+B1FC2C,MText,"Lot 1 Plan 922 0161",L-TITLEDB,10
+B202C4,DBText,"Cultivation",T-TEXT,10
+B202CC,DBText,"Cultivation",T-TEXT,10
+B25D53,BlockReference,"Route_Letters",0,0.9987298961319185
+B25D57,BlockReference,"Route_Letters",0,0.9987298961319185
+B29BFE,MText,"5.0x56.7 Workspace (Temporary)",P-TEMP-T,10
+B2A07F,MText,"5.0x352.8 Workspace (Temporary)",P-TEMP-T,10
+B2A4FC,MText,"5.0x202.2 Workspace (Temporary)",P-TEMP-T,10
+B2FB3D,BlockReference,"Disclaimer_Legal",0,0.25

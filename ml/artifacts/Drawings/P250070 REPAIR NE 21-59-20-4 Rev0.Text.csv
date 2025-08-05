@@ -1,0 +1,39 @@
+Handle,ObjType,Content,Layer,Extra
+BCAAF3,BlockReference,"L-SECLBL",L-SECLBL,1
+BCC14A,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3728  52321-3)",P-PROPOSED-T,Compass 5 000
+BCC16E,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4586  48184-4)",P-PROPOSED-T,Compass 5 000
+BCC192,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.   P/L R/W  022 2211  33528-2)  33527-1)",P-PROPOSED-T,Compass 5 000
+BCCA11,AlignedDimension,"Suncor  P/L R/W  4053 NY  3907-143)",F-RW-T,Compass 5 000
+BCCA7F,AlignedDimension,"Paramount  P/L R/W  072 6049  25660-26)",F-RW-T,Compass 5 000
+BCF424,AlignedDimension,"Grand Rapids  P/L R/W  by Focus  56699-20, 56673-17)",F-RW-T,Compass 5 000
+BD04E7,MText,"Lot 1 Block 1 Plan 102 1488",L-TITLEDB-T,10
+BD04E8,MText,"Lot 1 Block 1 Plan 122 5098",L-TITLEDB-T,10
+BD1674,AlignedDimension,"30.48 Road  1084 RS",L-TITLEDB-T,Compass 5 000
+BD16CD,DBText,"(High Grade Gravel)",T-TEXT,10
+BD16CE,DBText,"Government Road Allowance",L-ROAD-T,10
+BD16D0,DBText,"(High Grade Gravel)",T-TEXT,10
+BD16D1,DBText,"Government Road Allowance",L-ROAD-T,10
+BD4207,AlignedDimension,"Shaw  Fiber Optic Cable R/W  002 3797",F-RW-T,Compass 5 000
+BD4A38,BlockReference,"GABD",F-WS-S,5
+BD805E,BlockReference,"*U34",DETAIL-T,0.999522
+BD888D,MText,"N.E.1/4 Sec. 21-59-20-W.4M.",C-SYMBOL,20
+BD88AE,AlignedDimension,"Inter Pipeline Polaris Inc.   P/L R/W  162 0042  54778-1)",P-PROPOSED-T,Compass 5 000
+BDA0F4,MText,"16-21 (Abd.)",F-RW-T,10
+BDA925,MText,"Approximate Location of Thorhild County Gas Co-op",AS-PIPE-UG-T,9.99999999999998
+BDB125,BlockReference,"*U32",0,1
+BDB19A,BlockReference,"*U35",DETAIL-T,0.999522
+BDB1AC,BlockReference,"*U33",DETAIL-T,0.999522
+BDB1BE,BlockReference,"*U30",DETAIL-T,0.999522
+BDD802,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+BDD80B,DBText,"Twp. Rd. 594",L-ROAD-T,10
+BDD80C,DBText,"Rge. Rd. 203",L-ROAD-T,10
+BE6DC4,BlockReference,"*U36",AS-OWNER,1
+BE6E22,DBText,"Cultivation",T-TEXT,9.996519999999975
+BE6E23,DBText,"Cultivation",T-TEXT,9.996519999999975
+BE6E24,DBText,"Cultivation",T-TEXT,9.996519999999975
+BE6E25,DBText,"Cultivation",T-TEXT,9.996519999999975
+BE6E2F,BlockReference,"res_occ",AS-RESIDENCE,5
+BE6E30,MText,"Residence (Typ.)",AS-RESIDENCE,10
+BE7497,AlignedDimension,"Houston  P/L R/W  032 1057  50421-2)",F-RW-T,Compass 5 000
+BEC89D,MText,"Houston 16-21",F-RW-T,10
+BEC8A5,AlignedDimension,"Houston  A/R",F-RW-T,Compass 5 000

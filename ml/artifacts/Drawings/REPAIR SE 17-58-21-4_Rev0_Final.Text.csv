@@ -1,0 +1,56 @@
+Handle,ObjType,Content,Layer,Extra
+AF3CB3,BlockReference,"L-SECLBL",L-SECLBL,1
+AF54C0,DBText,"(High Grade Gravel)",T-TEXT,10
+AF54C1,DBText,"Government Road Allowance",L-ROAD-T,10
+AF54C2,DBText,"Rge. Rd. 214",L-ROAD-T,10
+AF54F9,DBText,"(High Grade Gravel)",T-TEXT,10
+AF54FA,DBText,"Government Road Allowance",L-ROAD-T,10
+AF54FB,DBText,"Twp. Rd. 582",L-ROAD-T,10
+AF5D70,BlockReference,"*U19",AS-OWNER,1
+AF65D8,BlockReference,"*U19",AS-OWNER,1
+AFB116,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op Ltd. (Abd.)",AS-PIPE-UG-T,10
+AFC09F,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+AFD819,AlignedDimension,"30.18 Road  6024 KS",L-TITLEDB-T,Compass 5 000
+AFE09A,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op Ltd.",AS-PIPE-UG-T,10
+AFE09C,MText,"Approximate Location of Apex Utilities Inc. Gas Co-op Ltd. (Abd.)",AS-PIPE-UG-T,10
+AFE09E,MText,"Approximate Location of Thorhild County Gas Co-op Ltd.",AS-PIPE-UG-T,10
+AFF060,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+AFF84F,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3727  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+B05B81,DBText,"Cultivation",T-TEXT,10
+B05B89,DBText,"Cultivation",T-TEXT,10
+B05B91,DBText,"Cultivation",T-TEXT,10
+B05B99,DBText,"Cultivation",T-TEXT,10
+B05BA2,MText,"20.0x70.0 Laydown Area  (Temporary)",P-TEMP-T,10
+B05BD2,AlignedDimension,"5.0x803.4",P-TEMP-T,Compass 5 000
+B074FE,MText,"Buried Telus Cable",AS-TELUS,10
+B07500,MText,"Fortis  O/H Power Line",AS-POWER-T,10
+B0896F,MText,"10.0x24.4 Access Road  (Temporary)",P-TEMP-T,10
+B0B120,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B128,MText,"Residence",AS-RESIDENCE,10
+B0B129,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12A,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12B,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12C,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12D,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12E,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B12F,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B130,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B131,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B132,BlockReference,"res_occ",AS-RESIDENCE,5
+B0B73B,MText,"Residence",AS-RESIDENCE,10
+B0B73C,MText,"Residence",AS-RESIDENCE,10
+B0B73D,MText,"Residence",AS-RESIDENCE,10
+B0BD8F,MText,"C. of T.",L-TITLEDB-T,10
+B0BD90,BlockReference,"res_occ",AS-RESIDENCE,5
+B0C9D3,BlockReference,"xing2",P-CROSSINGS,1
+B0E497,BlockReference,"GABD",F-WS-S,5
+B0E4A0,MText,"7-17 (Abd.)",F-WS-T,10
+B0EAAF,BlockReference,"GABD",F-WS-S,5
+B0EAB0,MText,"4-16 (Abd.)",F-WS-T,10
+B12E23,BlockReference,"*U24",0,1
+B180F2,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B180FA,MText,"E.1/2 of S.E.1/4 Sec. 17-58-21-W.4M.",C-SYMBOL,20
+B180FB,MText,"W.1/2 of S.E.1/4 Sec. 17-58-21-W.4M.",C-SYMBOL,20
+B19FD1,AlignedDimension,"5.0x709.0",P-TEMP-T,Compass 5 000
+B1C70C,BlockReference,"*U26",0,1
+B1D1ED,BlockReference,"Disclaimer_Legal",0,0.25

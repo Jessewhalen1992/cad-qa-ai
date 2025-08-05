@@ -1,0 +1,27 @@
+Handle,ObjType,Content,Layer,Extra
+AF2E4C,DBText,"RP",35,9.997309999999974
+AF43DD,BlockReference,"L-SECLBL",L-SECLBL,1
+AF43EA,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.996080000000111
+AF43FF,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.997549999999979
+AF45E2,BlockReference,"*U30",AS-SURFACE IMPACT,1
+AF4798,MText,"Whitecap Riser Site PIL 050556",F-WS-T,9.997549999999979
+AF47CE,BlockReference,"GAS",F-WS-S,5.000000000000021
+AF4C6C,AlignedDimension,"Whitecap  A/R  980469",F-AR-T,Compass 5 000
+AF4D0C,AlignedDimension,"Taqa  A/R  990692",F-RW-T,Compass 5 000
+AF4D0E,AlignedDimension,"Pembina  P/L R/W  200680",F-RW-T,Compass 5 000
+AF4D0F,AlignedDimension,"Whitecap  P/L R/W  862 1446  860263",F-RW-T,Compass 5 000
+AF4D10,AlignedDimension,"Whitecap  P/L R/W  062 1835  982096",F-RW-T,Compass 5 000
+AF4D11,AlignedDimension,"Whitecap  A/R  990013",F-RW-T,Compass 5 000
+AF4D12,AlignedDimension,"Taqa  P/L R/W  082 6667  012941",F-RW-T,Compass 5 000
+AF4D13,AlignedDimension,"Whitecap  P/L R/W  032 5738  990437",F-RW-T,Compass 5 000
+AF503B,MText,"Theor. S.E.1/4 Sec. 7-76-9-W.6M.",C-SYMBOL,20.000000000000103
+AF5273,AlignedDimension,"Whitecap  P/L R/W  072 2135  053022",F-RW-T,Compass 5 000
+AF5C99,AlignedDimension,"CSV  P/L R/W  231119",C-RW-T,Compass 5 000
+AF5E86,MText,"L.S. 1",L-SECTION-LSD,9.997309999999992
+AF5E87,MText,"L.S. 2",L-SECTION-LSD,9.997309999999992
+AF5E89,MText,"L.S. 8",L-SECTION-LSD,9.997309999999992
+AF5E8A,MText,"L.S. 7",L-SECTION-LSD,9.997309999999992
+AF68B5,BlockReference,"*U31",P-TEMP-BLOCKS,0.9997309999999999
+AFD532,MText,"Whitecap 2-7 (Surface) MSL 980654 (Expired)",F-WS-T,9.997309999999995
+AFFC54,BlockReference,"*U19",AS-WILDLIFE-BLOCK,1
+B016D1,BlockReference,"Disclaimer_Legal",0,0.5

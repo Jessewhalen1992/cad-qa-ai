@@ -1,0 +1,115 @@
+Handle,ObjType,Content,Layer,Extra
+BD8991,BlockReference,"L-SECLBL",L-SECLBL,0.9994814499999988
+BD8997,BlockReference,"L-SECLBL",L-SECLBL,0.9994814499999988
+BD89B3,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991703199999966
+BD89B5,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991703199999966
+BD89C4,BlockReference,"L-SECLBL",L-SECLBL,1
+BD89D7,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994829000000093
+BD89D8,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.994829000000093
+BD89DA,MText,"Special Access Zone Boundary",AS-WILDLIFE,9.999999999999964
+BD89FC,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991726399999983
+BD8A3C,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991726399999983
+BD8A4D,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.994814499999984
+BD8A4E,MText,"Wooded Mixedwood Swamp",WETLAND-T,9.986682699110732
+BD8A50,MText,"Shrubby Fen",WETLAND-T,9.986682699110732
+BD8A52,MText,"Wooded Coniferous Swamp",WETLAND-T,9.986682699110732
+BD8A54,MText,"Shallow Open Water",T-WATER,10.00006223279848
+BD8A57,MText,"Shrubby Swamp",WETLAND-T,9.986682699110732
+BD8A59,MText,"Wooded Coniferous Fen",WETLAND-T,9.986682699110732
+BD8A5B,MText,"Wooded Coniferous Fen",WETLAND-T,9.986682699110732
+BD8A5D,MText,"Theor. N.E.1/4 Sec. 3-63-18-W.5M.",C-SYMBOL,19.98962899999997
+BD914B,MText,"Small Permanent Creek 1.0 Wide 0.4 Deep",T-WATER,10.00006223279848
+BD914F,MText,"Small Permanent Creek 1.0-2.5 Wide 0.5 Deep",T-WATER,10.00006223279848
+BD9152,MText,"Small Permanent Creek 0.8-1.5 Wide 0.2 Deep",T-WATER,10.00006223279848
+BD9155,MText,"Small Permanent Creek 0.3 Wide 0.2 Deep",T-WATER,10.00006223279848
+BD9159,MText,"Intermittent Creek 0.3 Wide 0.2 Deep",T-WATER,10.00006223279848
+BD9160,MText,"Ephemeral Draw 6.0 Wide 0.4 Deep",T-WATER,10.00006223279848
+BD9164,MText,"Ephemeral Draw 2.6 Wide 0.2 Deep",T-WATER,10.00006223279848
+BD9169,MText,"Ephemeral Draw 2.0 Wide 0.1 Deep",T-WATER,10.00006223279848
+BD916E,MText,"Ephemeral Draw 5.0 Wide 0.4 Deep",T-WATER,10.00006223279848
+BD9172,MText,"Ephemeral Draw 5.0 Wide 0.4 Deep",T-WATER,10.00006223279848
+BD9175,MText,"Ephemeral Draw 2.0 Wide 0.1 Deep",T-WATER,10.00006223279848
+BD921C,AlignedDimension,"Whitecap  Water Line R/W  241177",C-AR-T,Compass 5 000
+BD921D,AlignedDimension,"Whitecap  Water Line R/W  241177",C-AR-T,Compass 5 000
+BD921E,AlignedDimension,"Whitecap  P/L R/W  131229",C-RW-T,Compass 5 000
+BD921F,AlignedDimension,"Whitecap  P/L R/W  250504",C-RW-T,Compass 5 000
+BD9220,AlignedDimension,"Whitecap  P/L R/W  250504",C-RW-T,Compass 5 000
+BD9221,AlignedDimension,"Whitecap  P/L R/W  131229",C-RW-T,Compass 5 000
+BD9222,MText,"Whitecap (FC820) 7-11 (Surface) MSL 250622",C-WS-T,9.99481449999999
+BD9224,MText,"Whitecap Riser Site PIL 240362",C-WS-T,9.99481449999999
+BD9227,MText,"Whitecap Riser Site PIL 240367",C-WS-T,9.99481449999999
+BD9229,AlignedDimension,"Paramount  A/R  992574",F-AR-T,Compass 5 000
+BD922A,AlignedDimension,"Paramount  A/R  992574",F-AR-T,Compass 5 000
+BD922B,AlignedDimension,"Paramount  A/R  801501",F-AR-T,Compass 5 000
+BD922C,AlignedDimension,"Northland  Trail  950182",F-AR-T,Compass 5 000
+BD922D,AlignedDimension,"Northland  Trail  950182",F-AR-T,Compass 5 000
+BD922E,AlignedDimension,"Paramount  P/L R/W  042 0936  000981",F-RW-T,Compass 5 000
+BD922F,AlignedDimension,"Paramount  P/L R/W  021246",F-RW-T,Compass 5 000
+BD9230,AlignedDimension,"Paramount  P/L R/W  052849",F-RW-T,Compass 5 000
+BD9231,AlignedDimension,"Saturn  P/L R/W  882 1531  880073",F-RW-T,Compass 5 000
+BD924B,AlignedDimension,"Paramount  P/L R/W  042 0959  981631",F-RW-T,Compass 5 000
+BD924C,AlignedDimension,"Paramount  P/L R/W  021246",F-RW-T,Compass 5 000
+BD924D,MText,"Paramount 14-2 (Surface) MSL 992181",F-WS-T,9.994814499999984
+BD924F,MText,"Paramount 16-3 (Surface) MSL 811362",F-WS-T,9.994814499999984
+BD9252,MText,"Paramount Riser Site PIL 020109",F-WS-T,9.994814499999984
+BD9254,MText,"16-3 (Abd.)",F-WS-T,9.994814499999984
+BD9256,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD9257,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD9258,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD9259,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD925A,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD925B,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD925C,MText,"Standing Burnt Area",T-TEXT,9.994791899999989
+BD925D,MText,"Small Permanent Watercourse",T-WATER-T,9.99481449999999
+BD9264,MText,"Pine Regrowth",T-BUSH-T,9.994805399999983
+BD92A3,BlockReference,"*U26",0,1
+BD92C4,BlockReference,"GAS",AS-SYMBOL,4.999999999999996
+BD92C5,BlockReference,"RISER",AS-SYMBOL,4.999999999999996
+BD92C6,BlockReference,"RISER",AS-SYMBOL,4.999999999999996
+BD92C7,BlockReference,"GABD",F-WS-S,4.997407249999995
+BD92C8,BlockReference,"GAS",F-WS-S,4.997407249999995
+BD92EF,MText,"Theor. S.W.1/4 Sec. 11-63-18-W.5M.",C-SYMBOL,19.999999999999982
+BD92F8,AlignedDimension,"Whitecap  P/L R/W  250320",C-RW-T,Compass 5 000
+BD935A,AlignedDimension,"Whitecap  P/L R/W  250320",C-RW-T,Compass 5 000
+BD9370,AlignedDimension,"Whitecap  A/R  250879",C-AR-T,Compass 5 000
+BD9371,AlignedDimension,"Paramount  P/L R/W  042 0959  981631",F-RW-T,Compass 5 000
+BD9388,AlignedDimension,"Paramount  P/L R/W  042 0959  981631",F-RW-T,Compass 5 000
+BD938D,AlignedDimension,"Whitecap  P/L R/W  250320",C-RW-T,Compass 5 000
+BD9390,AlignedDimension,"Whitecap  A/R  250879",C-AR-T,Compass 5 000
+BD9392,AlignedDimension,"Paramount  A/R  250475",F-VCE-T,Compass 5 000
+BDD781,MText,"Theor. S.E.1/4 Sec. 11-63-18-W.5M.",C-SYMBOL,19.999999999999982
+BDD782,MText,"Theor. N.W.1/4 Sec. 2-63-18-W.5M.",C-SYMBOL,19.98962899999998
+BE0CD3,AlignedDimension,"Whitecap  A/R  250879",C-AR-T,Compass 5 000
+BE176B,MText,"Whitecap 15.00 A/R LOC 242038",C-WS-T,9.99481449999999
+BE89A7,BlockReference,"*U53",P-TEMP-BLOCKS,0.99948
+BE8AD3,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD4,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD5,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD6,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD7,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD8,BlockReference,"WC",L-MON,4.997395949999996
+BE8AD9,BlockReference,"WC",L-MON,4.997395949999996
+BE8ADA,BlockReference,"WC",L-MON,4.997395949999996
+BE8ADB,BlockReference,"WC",L-MON,4.997395949999996
+BE965C,BlockReference,"*U54",CG-NOTES,0.9990722121599998
+BE9670,BlockReference,"*U55",CG-NOTES,0.99949463036596
+BEA559,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA560,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA567,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA56E,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA575,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA57C,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA595,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEA59D,BlockReference,"*U55",CG-NOTES,0.99949463036596
+BEAF34,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF46,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF4F,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF56,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF5D,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF65,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF6C,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF73,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAF8E,BlockReference,"xing2",P-CROSSINGS,0.99948
+BEAFDF,BlockReference,"*U57",CG-NOTES,0.9980242305857808
+BEB99C,BlockReference,"*U54",CG-NOTES,0.9990722121599998
+C06B4D,BlockReference,"Disclaimer_Legal",CG-NOTES,0.4

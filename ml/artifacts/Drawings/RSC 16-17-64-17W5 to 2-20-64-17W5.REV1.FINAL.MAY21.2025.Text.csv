@@ -1,0 +1,56 @@
+Handle,ObjType,Content,Layer,Extra
+BCF7AF,BlockReference,"L-SECLBL",L-SECLBL,1
+BCF7CD,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999922
+BCF7CE,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999764
+BCF8C6,AlignedDimension,"Paramount  A/R  901015",F-AR-T,Compass 5 000
+BCF8C7,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",F-AR-T,Compass 5 000
+BCF8C9,AlignedDimension,"Cenovus  A/R  030098",F-AR-T,Compass 5 000
+BCF8CA,MText,"Blue Ridge CLR050165",F-WS-T,10.00512082093844
+BCF9B5,MText,"Theor. N.E.1/4 Sec. 17-64-17-W.5M.",C-SYMBOL,19.999999999999844
+BD01E5,BlockReference,"RP",35,0.999482
+BD3728,AlignedDimension,"Cenovus  P/L R/W  031543",F-AR-T,Compass 5 000
+BD376B,AlignedDimension,"Murphy  P/L R/W  195039",C-RW-T,Compass 5 000
+BD498A,BlockReference,"TEMP",L-MON,4.99741000000002
+BD498B,BlockReference,"TEMP",L-MON,4.99741000000002
+BD498C,BlockReference,"TEMP",L-MON,4.99741000000002
+BD498E,BlockReference,"TEMP",L-MON,4.99741000000002
+BD653D,MText,"SEE DETAIL",DETAIL-T,15.991712000000113
+BEA152,MText,"35cm Spruce & Pine",T-BUSH-T,10.00512082093844
+BEA15C,MText,"35cm Spruce & Pine",T-BUSH-T,10.00512082093844
+BEA15E,MText,"35cm Spruce & Pine",T-BUSH-T,10.00512082093844
+BF2DCD,MText,"Wooded Mixedwood Swamp/ Coniferous Swamp",WETLAND,9.994820000000022
+BF3320,BlockReference,"L-SECLBL",L-SECLBL,0.999482
+BF3632,MText,"Paramount Riser Site PIL 940043 (Expired)",F-WS-T,10.005120820938394
+BF3698,AlignedDimension,"Canfor  A/R  920343",F-AR-T,Compass 5 000
+BF36C9,AlignedDimension,"Murphy  P/L R/W  195039",C-RW-T,Compass 5 000
+BF36E8,AlignedDimension,"Cenovus  A/R  030098",F-AR-T,Compass 5 000
+BF3704,AlignedDimension,"Paramount  A/R  901015",F-AR-T,Compass 5 000
+BF392E,AlignedDimension,"Paramount  A/R  930788",F-AR-T,Compass 5 000
+BF4097,MText,"Theor. S.E.1/4 Sec. 20-64-17-W.5M.",C-SYMBOL,20.000000000000032
+BF4098,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999764
+BF409A,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999922
+BF47BE,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",F-AR-T,Compass 5 000
+BF9303,AlignedDimension,"Murphy  P/L R/W  195039",C-RW-T,Compass 5 000
+BF9304,AlignedDimension,"Paramount  A/R  901015",F-AR-T,Compass 5 000
+BF9305,AlignedDimension,"Paramount  P/L R/W  992 3417  940050",F-AR-T,Compass 5 000
+BF9309,MText,"Paramount Riser Site PIL 940043 (Expired)",F-WS-T,9.99482
+BF930C,MText,"35cm Spruce & Pine",T-BUSH-T,9.99482
+BF930E,MText,"35cm Spruce & Pine",T-BUSH-T,9.99482
+BF9310,MText,"35cm Spruce & Pine",T-BUSH-T,9.99482
+BF9319,BlockReference,"TEMP",L-MON,4.99741
+BF931A,BlockReference,"TEMP",L-MON,4.99741
+BF931B,BlockReference,"TEMP",L-MON,4.99741
+BF931C,BlockReference,"TEMP",L-MON,4.99741
+BF942F,AlignedDimension,"Cenovus  P/L R/W  031543",F-AR-T,Compass 5 000
+BF98B5,MText,"Theoretic Blind Line",L-USEC,9.99482
+BF98BD,MText,"278°03' 380.5 (Tie)",L-BD,9.99482
+BF98BE,MText,"278°03' 380.5 (Tie)",L-BD,9.99482
+BF98BF,MText,"335°13' 739.1 (Tie)",L-BD,9.99482
+BFA983,MText,"DETAIL SCALE 1:2000",DETAIL-T,19.989640000000065
+BFAB6E,MText,"212.3 308°52'",L-BD,9.994819999999999
+BFAB6F,MText,"107.2 59°58'",L-BD,9.994819999999999
+BFAB70,MText,"128°53' 173.7",L-BD,9.99482
+BFAB73,MText,"100.0 218°52'",L-BD,9.99482
+BFBABF,MText,"335°13' 739.1 (Tie)",L-BD,9.99482
+BFBAC1,MText,"Wooded Mixedwood Swamp/ Coniferous Swamp",WETLAND,9.994820000000022
+BFD9C3,BlockReference,"Disclaimer_Legal",DISCLAIMER,0.2

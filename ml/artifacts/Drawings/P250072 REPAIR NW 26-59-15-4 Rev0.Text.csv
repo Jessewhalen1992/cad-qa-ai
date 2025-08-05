@@ -1,0 +1,24 @@
+Handle,ObjType,Content,Layer,Extra
+BCE2EA,BlockReference,"L-SECLBL",L-SECLBL,1
+BD0752,AlignedDimension,"40.00 Road  832 3148",L-TITLEDB-T,Compass 5 000
+BD075E,AlignedDimension,"CNRL  P/L R/W  002 1792  56208-10)",F-WS-T,Compass 5 000
+BD076B,AlignedDimension,"Cold Lake Pipeline Ltd.  Oil Resources Ltd.  P/L R/W  822 0136  21025-24, 19113-22)  19112-36)",P-PROPOSED-T2,Compass 5 000
+BD2C1D,MText,"C. of T.",L-TITLEDB-T,9.995059999999897
+BD9406,DBText,"N.W.1/4 Sec. 26-59-15-W.4M.",C-SYMBOL,19.990119999999795
+BD9407,BlockReference,"*U9",AS-OWNER,0.999506
+BDA366,MText,"Approximate Location of  Smoky Lake Natural Gas Co-op",AS-PIPE-UG-T,9.996369999999947
+BDA371,MText,"Approximate Location of  Apex Utilities Natural Gas Co-op",AS-PIPE-UG-T,9.996369999999947
+BDB766,DBText,"Government Road Allowance   Rge. Rd. 152",L-ROAD-T,9.990142430479933
+BDB767,DBText,"(Paved)",T-TEXT,9.990142430479933
+BDD320,BlockReference,"res_occ",AS-RESIDENCE,5
+BDD321,BlockReference,"res_occ",AS-RESIDENCE,5
+BDD322,BlockReference,"res_occ",AS-RESIDENCE,5
+BDD323,BlockReference,"res_occ",AS-RESIDENCE,5
+BE4EC3,MText,"Residence",AS-RESIDENCE,10
+BE96DB,MText,"Residence",AS-RESIDENCE,10
+BE96DD,MText,"Residence",AS-RESIDENCE,10
+BECC5B,BlockReference,"xing2",12,1
+BF2556,MText,"Residence",AS-RESIDENCE,10
+BFF0DC,BlockReference,"xing2",12,1
+C10657,BlockReference,"*U12",0,0.999506
+C10670,BlockReference,"*U13",0,0.999506

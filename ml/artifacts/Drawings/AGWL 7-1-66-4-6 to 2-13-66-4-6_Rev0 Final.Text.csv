@@ -1,0 +1,434 @@
+Handle,ObjType,Content,Layer,Extra
+AF7B8F,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7B95,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7B9B,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7BA1,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7BA7,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7BAD,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7BB3,BlockReference,"L-SECLBL",L-SECLBL,1
+AF7BCF,DBText,"Theor. N.W.1/4 Sec. 1-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD0,DBText,"Theor. S.W.1/4 Sec. 1-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD1,DBText,"Theor. S.E.1/4 Sec. 1-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD4,DBText,"Theor. S.W.1/4 Sec. 12-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD5,DBText,"Theor. N.W.1/4 Sec. 12-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD7,DBText,"Theor. N.W.1/4 Sec. 7-66-3-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD8,DBText,"Theor. S.W.1/4 Sec. 7-66-3-W.6M.",C-SYMBOL,20.000000000000004
+AF7BD9,DBText,"Theor. S.E.1/4 Sec. 13-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BDA,DBText,"Theor. N.E.1/4 Sec. 11-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BDC,DBText,"Theor. S.E.1/4 Sec. 14-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AF7BDD,DBText,"Theor. S.W.1/4 Sec. 14-66-4-W.6M.",C-SYMBOL,20.000000000000004
+AFA027,AlignedDimension,"CNRL  A/R  002241",F-AR-T,Compass 5 000
+AFA83A,AlignedDimension,"CNRL  A/R  031155",F-AR-T,Compass 5 000
+AFA862,AlignedDimension,"CNRL  A/R  031155",F-AR-T,Compass 5 000
+AFA893,AlignedDimension,"CNRL  A/R  121325",F-AR-T,Compass 5 000
+AFA8D6,MText,"CNRL 20.00 A/R LOC 122627",F-AR-T,10.000000000000002
+AFB0C0,AlignedDimension,"CNRL  A/R  130529",F-AR-T,Compass 5 000
+AFB0DC,AlignedDimension,"CNRL  A/R  130529",F-AR-T,Compass 5 000
+AFB8E3,MText,"Hammerhead 15.00 A/R LOC 131113",F-AR-T,10.000000000000002
+AFB8E5,MText,"CNRL 15.00 A/R LOC 131160",F-AR-T,10.000000000000002
+AFC0CF,AlignedDimension,"Hammerhead  A/R  131628",F-AR-T,Compass 5 000
+AFC104,AlignedDimension,"HWN  A/R  131674",F-AR-T,Compass 5 000
+AFC123,AlignedDimension,"HWN  A/R  131674",F-AR-T,Compass 5 000
+AFC154,AlignedDimension,"HWN  A/R  131674",F-AR-T,Compass 5 000
+AFC958,AlignedDimension,"CNRL  A/R  131881",F-AR-T,Compass 5 000
+AFC980,AlignedDimension,"CNRL  A/R  131881",F-AR-T,Compass 5 000
+AFC9A8,MText,"CNRL 5.00 A/R LOC 140253",F-AR-T,10.000000000000002
+AFC9AA,AlignedDimension,"CNRL  A/R  140449",F-AR-T,Compass 5 000
+AFD1B1,AlignedDimension,"HWN  A/R  141084",F-AR-T,Compass 5 000
+AFD1D9,AlignedDimension,"CNRL  A/R  141326",F-AR-T,Compass 5 000
+AFD20A,MText,"HWN Water Resevoir LOC 160294",F-AR-T,10.000000000000002
+AFDA20,MText,"Hammerhead 10.00 A/R LOC 160938",F-AR-T,10.000000000000002
+AFDA22,MText,"CNRL Water Resevoir LOC 190305",F-AR-T,10.000000000000002
+AFE221,MText,"Arc Water Intake LOC 190709",F-RW-T,9.999769911876083
+AFE257,AlignedDimension,"Arc  Waterline R/W  190712",F-RW-T,Compass 5 000
+AFE276,AlignedDimension,"CNRL  A/R  200525",F-AR-T,Compass 5 000
+AFEA87,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEAB8,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEAC4,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEAD0,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEADC,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEAE9,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEAF6,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEB03,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFEB10,AlignedDimension,"Hammerhead  Waterline R/W  210892",F-RW-T,Compass 5 000
+AFF3B4,MText,"Hammerhead Water Intake LOC 210899",F-RW-T,9.999769911876083
+AFF3B7,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFF3E8,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFF422,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFF44A,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFF469,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFF49A,AlignedDimension,"Hammerhead  A/R  210907",F-AR-T,Compass 5 000
+AFFCA3,AlignedDimension,"CNRL  A/R  880425",F-AR-T,Compass 5 000
+AFFCC2,AlignedDimension,"CNRL  A/R  880425",F-AR-T,Compass 5 000
+AFFCE1,AlignedDimension,"CNRL  A/R  880425",F-AR-T,Compass 5 000
+AFFD12,AlignedDimension,"CNRL  A/R  881104",F-AR-T,Compass 5 000
+AFFD2E,AlignedDimension,"CNRL  A/R  881104",F-AR-T,Compass 5 000
+AFFD4A,AlignedDimension,"CNRL  A/R  881104",F-AR-T,Compass 5 000
+B00548,MText,"CNRL Sump Site LOC 890420 (Expired)",F-AR-T,10.000000000000002
+B00D33,AlignedDimension,"CNRL  A/R  890935",F-VCE-T,Compass 5 000
+B00D52,AlignedDimension,"CNRL  A/R  890935",F-AR-T2,Compass 5 000
+B00D71,AlignedDimension,"CNRL  A/R  890935",F-AR-T,Compass 5 000
+B00D90,AlignedDimension,"CNRL  A/R  890935",F-AR-T,Compass 5 000
+B00DAF,AlignedDimension,"CNRL  A/R  890935",F-AR-T,Compass 5 000
+B00DCE,AlignedDimension,"CNRL  A/R  890935",F-AR-T,Compass 5 000
+B00DED,AlignedDimension,"CNRL  A/R  890935",F-AR-T,Compass 5 000
+B00E35,AlignedDimension,"CNRL  Access R/W  901395",F-AR-T,Compass 5 000
+B00E54,AlignedDimension,"CNRL  Access R/W  901395",F-AR-T,Compass 5 000
+B00E73,AlignedDimension,"CNRL  Access R/W  901395",F-AR-T,Compass 5 000
+B00E92,AlignedDimension,"CNRL  Access R/W  901395",F-AR-T,Compass 5 000
+B0169E,MText,"HWN Storage Site MLL 160098",F-WS-T,10.000000000000002
+B016A1,MText,"CNRL Storage Site MLL 160001",F-WS-T,10.000000000000002
+B01E97,MText,"CNRL 2-1 (Surface) MSL 003129",F-WS-T,10.000000000000002
+B01E98,MText,"CNRL 12-7 (Surface) MSL 031660",F-WS-T,10.000000000000002
+B02683,MText,"CNRL 6-12 (Surface) MSL 045549",F-WS-T,10.000000000000002
+B02684,AlignedDimension,"CNRL  A/R  045549",F-AR-T,Compass 5 000
+B026BE,MText,"Hammerhead 2-13 (Surface) MSL 111884",F-WS-T,10.000000000000002
+B02EA9,MText,"CNRL 16-1 (Surface) MSL 121332",F-WS-T,10.000000000000002
+B03694,MText,"CNRL 1-1 (Surface) MSL 122679",F-WS-T,10.000000000000002
+B03695,MText,"CNRL 8-12 (Surface) MSL 130512",F-WS-T,10.000000000000002
+B03696,MText,"Hammerhead 5-12 (Surface) MSL 131064",F-WS-T,10.000000000000002
+B03E81,MText,"CNRL 15-36 (Surface) MSL 131097",F-WS-T,10.000000000000002
+B03E82,MText,"CNRL 9-1 (Surface) MSL 131100",F-WS-T,10.000000000000002
+B0466D,MText,"HWN 16-12 (Surface) MSL 131286",F-WS-T,10.000000000000002
+B04680,MText,"CNRL 16-12 (Surface) MSL 131790",F-WS-T,10.000000000000002
+B04681,MText,"CNRL 13-36 (Surface) MSL 140487",F-WS-T,10.000000000000002
+B04E6C,MText,"HWN 13-7 (Surface) MSL 141118",F-WS-T,10.000000000000002
+B04E6D,MText,"Mancal 16-11 (Surface) MSL 141322",F-WS-T,9.999769911876083
+B0565A,MText,"Hammerhead 13-7 (Surface) MSL 160829",F-WS-T,10.000000000000002
+B05664,MText,"CNRL 14-1 (Surface) MSL 200426",F-WS-T,10.000000000000002
+B05665,MText,"Hammerhead 10-14 (Surface) MSL 221325",F-WS-T,10.000000000000002
+B05E51,MText,"Hammerhead 12-12 (Surface) MSL 221538",F-WS-T,9.999769911876083
+B05E53,MText,"CNRL 6-1 (Surface) MSL 871943",F-WS-T,10.000000000000002
+B05E54,MText,"CNRL 1-11 (Surface) MSL 881654",F-WS-T,10.000000000000002
+B05E55,MText,"CNRL 3-7 (Surface) MSL 901720",F-WS-T,10.000000000000002
+B06F28,MText,"Keyera 4-6 (Surface) MSL 220062",F-WS-T,10.000000000000002
+B06F29,MText,"CNRL Riser Site PIL 140119",F-WS-T,10.000000000000002
+B07721,MText,"CNRL Riser Site PIL 040247",F-WS-T,9.999769911876083
+B07724,MText,"CNRL Riser Site PIL 120439",F-WS-T,10.000000000000002
+B07726,MText,"Hammerhead Pump Station PIL 210219",F-WS-T,10.000000000000002
+B07F15,MText,"CNRL Riser Site PIL 020091",F-WS-T,10.000000000000002
+B07F17,MText,"HWN Riser Site PIL 150784",F-WS-T,10.000000000000002
+B07F19,MText,"HWN Riser Site PIL 160068",F-WS-T,10.000000000000002
+B08708,MText,"HWN Riser Site PIL 130509",F-WS-T,10.000000000000002
+B0870A,MText,"Hammerhead Pump Station PIL 210227",F-RW-T,9.999769911876083
+B0870D,MText,"Hammerhead Pump Station PIL 210231",F-WS-T,9.999769911876083
+B08EFF,MText,"Hammerhead Pump Station PIL 230189",F-WS-T,9.999769911876083
+B08F08,AlignedDimension,"PGI  P/L R/W  022 1872  001999",F-RW-T,Compass 5 000
+B09757,AlignedDimension,"PGI  P/L R/W  022 1872  001999",F-RW-T,Compass 5 000
+B0977F,AlignedDimension,"PGI  P/L R/W  022 1872  001999",F-RW-T,Compass 5 000
+B097C5,AlignedDimension,"CNRL  P/L R/W  020805",F-RW-T,Compass 5 000
+B097E4,AlignedDimension,"CNRL  P/L R/W  092 7847  032669",F-RW-T,Compass 5 000
+B09815,AlignedDimension,"CNRL  P/L R/W  032913",F-RW-T,Compass 5 000
+B0984A,AlignedDimension,"CNRL  P/L R/W  032913",F-RW-T,Compass 5 000
+B0A07E,AlignedDimension,"Mancal  P/L R/W  112169",F-RW-T,Compass 5 000
+B0A0B6,AlignedDimension,"Mancal  P/L R/W  112169",F-RW-T,Compass 5 000
+B0A125,AlignedDimension,"Mancal  P/L R/W  112169",F-RW-T,Compass 5 000
+B0A156,AlignedDimension,"CNRL  P/L R/W  121196",F-RW-T,Compass 5 000
+B0A175,AlignedDimension,"CNRL  P/L R/W  121196",F-VCE-T,Compass 5 000
+B0A98D,AlignedDimension,"HWN  P/L R/W  121940",F-RW-T,Compass 5 000
+B0A9A9,AlignedDimension,"HWN  P/L R/W  121940",F-RW-T,Compass 5 000
+B0A9C5,AlignedDimension,"HWN  P/L R/W  121940",F-RW-T,Compass 5 000
+B0A9E1,AlignedDimension,"CNRL  P/L R/W  130327",F-RW-T,Compass 5 000
+B0AA09,AlignedDimension,"CNRL  P/L R/W  130659",F-RW-T,Compass 5 000
+B0B221,AlignedDimension,"CNRL  P/L R/W  130991",F-RW-T,Compass 5 000
+B0B240,AlignedDimension,"CNRL  P/L R/W  130991",F-RW-T,Compass 5 000
+B0BA4F,AlignedDimension,"HWN  P/L R/W  131055",F-RW-T,Compass 5 000
+B0BA77,AlignedDimension,"HWN  P/L R/W  131055",F-VCE-T,Compass 5 000
+B0BA9F,AlignedDimension,"HWN  P/L R/W  131055",F-RW-T,Compass 5 000
+B0C2D2,AlignedDimension,"Keyera  P/L R/W  131091",F-RW-T,Compass 5 000
+B0C303,AlignedDimension,"Keyera  P/L R/W  131091",F-RW-T,Compass 5 000
+B0C32B,AlignedDimension,"Keyera  P/L R/W  131092",F-RW-T,Compass 5 000
+B0C365,AlignedDimension,"Keyera  P/L R/W  131092",F-RW-T,Compass 5 000
+B0CB94,AlignedDimension,"CNRL  P/L R/W  131818",F-RW-T,Compass 5 000
+B0CBB3,AlignedDimension,"CNRL  P/L R/W  131818",F-RW-T,Compass 5 000
+B0CBCF,AlignedDimension,"CNRL  P/L R/W  140332",F-RW-T,Compass 5 000
+B0CC1B,AlignedDimension,"CNRL  P/L R/W  140332",F-RW-T,Compass 5 000
+B0D464,AlignedDimension,"Hammerhead  P/L R/W  141279",F-RW-T,Compass 5 000
+B0D495,AlignedDimension,"CNRL  P/L R/W  141597",F-RW-T,Compass 5 000
+B0D4BD,AlignedDimension,"HWN  P/L R/W  151471",F-RW-T,Compass 5 000
+B0DCDE,AlignedDimension,"HWN  P/L R/W  151471",F-RW-T,Compass 5 000
+B0DD18,AlignedDimension,"HWN  P/L R/W  151471",F-RW-T,Compass 5 000
+B0DD40,AlignedDimension,"Hammerhead  P/L R/W  160828",F-RW-T,Compass 5 000
+B0DD68,AlignedDimension,"Hammerhead  P/L R/W  160830",F-RW-T,Compass 5 000
+B0E574,AlignedDimension,"Hammerhead  P/L R/W  170041",F-RW-T,Compass 5 000
+B0E5A5,AlignedDimension,"Hammerhead  P/L R/W  170041",F-VCE-T,Compass 5 000
+B0E5C4,AlignedDimension,"Hammerhead  P/L R/W  170041",F-RW-T,Compass 5 000
+B0E5E8,AlignedDimension,"Hammerhead  P/L R/W  170041",F-RW-T,Compass 5 000
+B0E60C,AlignedDimension,"Hammerhead  P/L R/W  170041",F-RW-T,Compass 5 000
+B0E628,AlignedDimension,"Hammerhead  P/L R/W  170447",F-RW-T,Compass 5 000
+B0E650,AlignedDimension,"Hammerhead  P/L R/W  170447",F-RW-T,Compass 5 000
+B0EE67,AlignedDimension,"Hammerhead  P/L R/W  180744",F-RW-T,Compass 5 000
+B0EE8F,AlignedDimension,"CNRL  P/L R/W  195153",F-RW-T,Compass 5 000
+B0EEDB,AlignedDimension,"Keyera  P/L R/W  200094",F-RW-T,Compass 5 000
+B0F6F6,AlignedDimension,"Keyera  P/L R/W  200094",F-RW-T,Compass 5 000
+B0F727,AlignedDimension,"Keyera  P/L R/W  200096",F-RW-T,Compass 5 000
+B0F74F,AlignedDimension,"CNRL  P/L R/W  200383",F-VCE-T,Compass 5 000
+B0F780,AlignedDimension,"CNRL  P/L R/W  200383",F-RW-T,Compass 5 000
+B0F79F,AlignedDimension,"CNRL  P/L R/W  200383",F-VCE-T,Compass 5 000
+B0FFFA,AlignedDimension,"HWN  P/L R/W  200392",F-RW-T,Compass 5 000
+B100BE,AlignedDimension,"Hammerhead  P/L R/W  220277",F-RW-T,Compass 5 000
+B100E2,AlignedDimension,"Hammerhead  P/L R/W  220277",F-RW-T,Compass 5 000
+B10106,AlignedDimension,"Hammerhead  P/L R/W  220277",F-RW-T,Compass 5 000
+B1012A,AlignedDimension,"Hammerhead  P/L R/W  220744",F-RW-T,Compass 5 000
+B1093E,AlignedDimension,"Hammerhead  P/L R/W  220744",F-RW-T,Compass 5 000
+B109A2,AlignedDimension,"Hammerhead  P/L R/W  220744",F-RW-T,Compass 5 000
+B109BE,AlignedDimension,"CNRL  P/L R/W  220903",F-RW-T,Compass 5 000
+B109DD,AlignedDimension,"CNRL  P/L R/W  220903",F-VCE-T,Compass 5 000
+B10A05,AlignedDimension,"CNRL  P/L R/W  220903",F-RW-T,Compass 5 000
+B10A3D,AlignedDimension,"CNRL  P/L R/W  220903",F-RW-T,Compass 5 000
+B1124C,AlignedDimension,"CNRL  P/L R/W  220903",F-RW-T,Compass 5 000
+B1126B,AlignedDimension,"CNRL  P/L R/W  902 1976  890719",F-RW-T,Compass 5 000
+B112B2,AlignedDimension,"CNRL  P/L R/W  902 1976  890719",F-RW-T,Compass 5 000
+B112E3,AlignedDimension,"CNRL  P/L R/W  902 2055  890721",F-RW-T,Compass 5 000
+B112FF,AlignedDimension,"CNRL  P/L R/W  902 2055  890721",F-RW-T,Compass 5 000
+B11B2A,AlignedDimension,"CNRL  P/L R/W  922 0802  900203",F-RW-T,Compass 5 000
+B11B49,AlignedDimension,"CNRL  P/L R/W  922 0620  920092",F-RW-T,Compass 5 000
+B11B71,AlignedDimension,"CNRL  P/L R/W  922 0620  920092",F-RW-T,Compass 5 000
+B11B99,AlignedDimension,"CNRL  P/L R/W  922 0620  920092",F-RW-T,Compass 5 000
+B11BC1,AlignedDimension,"CNRL  P/L R/W  922 0620  920092",F-RW-T,Compass 5 000
+B11BE0,AlignedDimension,"CNRL  P/L R/W  942 0857  940124",F-RW-T,Compass 5 000
+B11C08,AlignedDimension,"CNRL  P/L R/W  942 0857  940124",F-RW-T,Compass 5 000
+B11C39,AlignedDimension,"CNRL  P/L R/W  940124",F-RW-T,Compass 5 000
+B11C58,AlignedDimension,"CNRL  P/L R/W  940124",F-RW-T,Compass 5 000
+B11C89,AlignedDimension,"CNRL  P/L R/W  940124",F-RW-T,Compass 5 000
+B124A1,AlignedDimension,"CNRL  P/L R/W  940124",F-RW-T,Compass 5 000
+B124BD,AlignedDimension,"CNRL  P/L R/W  130940",F-RW-T,Compass 5 000
+B13661,BlockReference,"*U156",AS-SURFACE IMPACT,1
+B1369D,BlockReference,"*U155",AS-SURFACE IMPACT,1
+B136AC,BlockReference,"*U165",AS-SURFACE IMPACT,1
+B136BB,BlockReference,"*U157",AS-SURFACE IMPACT,1
+B136CA,BlockReference,"*U170",AS-SURFACE IMPACT,1
+B136D9,BlockReference,"*U169",AS-SURFACE IMPACT,1
+B136F7,BlockReference,"*U159",AS-SURFACE IMPACT,1
+B13715,BlockReference,"*U158",AS-SURFACE IMPACT,1
+B13742,BlockReference,"*U154",AS-SURFACE IMPACT,1
+B13760,BlockReference,"*U167",AS-SURFACE IMPACT,1
+B148A2,BlockReference,"*U168",AS-SURFACE IMPACT,1
+B148B1,BlockReference,"*U173",AS-SURFACE IMPACT,1
+B148C0,BlockReference,"*U171",AS-SURFACE IMPACT,1
+B1513D,BlockReference,"*U172",AS-SURFACE IMPACT,1
+B1514C,BlockReference,"*U166",AS-SURFACE IMPACT,1
+B15ABB,BlockReference,"*U161",AS-OWNER,1.000383146745203
+B15B18,AlignedDimension,"Alberta Rail Rock  A/R  012332",F-AR-T,Compass 5 000
+B15B34,AlignedDimension,"Alberta Rail Rock  A/R  012332",F-AR-T,Compass 5 000
+B15B73,AlignedDimension,"Alberta Rail Rock  A/R  012332",F-AR-T,Compass 5 000
+B15BB8,MText,"HWN Non-Manufacturing Clay SML 180026",F-WS-T,10.003831467451878
+B16427,BlockReference,"*U160",AS-SURFACE IMPACT,1
+B21FC6,AlignedDimension,"CNRL  P/L R/W  195153",F-RW-T,Compass 5 000
+B229B0,AlignedDimension,"Hammerhead  P/L R/W  141279",F-RW-T,Compass 5 000
+B23319,AlignedDimension,"CNRL  P/L R/W  052 4987  052315",F-RW-T,Compass 5 000
+B30054,BlockReference,"xing2",P-CROSSINGS,1
+B308E9,BlockReference,"xing2",P-CROSSINGS,1
+B308F2,BlockReference,"xing2",P-CROSSINGS,1
+B31187,BlockReference,"xing2",P-CROSSINGS,1
+B3581F,BlockReference,"xing2",P-CROSSINGS,1
+B35826,BlockReference,"xing2",P-CROSSINGS,1
+B3582D,BlockReference,"xing2",P-CROSSINGS,1
+B35834,BlockReference,"xing2",P-CROSSINGS,1
+B360C9,BlockReference,"xing2",P-CROSSINGS,1
+B360D0,BlockReference,"xing2",P-CROSSINGS,1
+B3696C,BlockReference,"xing2",P-CROSSINGS,1
+B36973,BlockReference,"xing2",P-CROSSINGS,1
+B3720F,BlockReference,"xing2",P-CROSSINGS,1
+B37216,BlockReference,"xing2",P-CROSSINGS,1
+B3721D,BlockReference,"xing2",P-CROSSINGS,1
+B384C6,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D13,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D15,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D17,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D19,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D20,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B38D2B,MText,"Grizzly Bear Zone Boundary",AS-WILDLIFE,10.000000000000002
+B39581,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.000000000000002
+B39583,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.000000000000002
+B39585,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.000000000000002
+B39587,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10.000000000000002
+B395BE,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B395CD,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B395DC,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B395EB,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B395FA,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39609,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39618,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39627,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39636,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39645,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39654,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39663,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39672,BlockReference,"*U177",AS-WILDLIFE-BLOCK,0.999617
+B39681,BlockReference,"*U178",AS-WILDLIFE-BLOCK,0.999617
+B396B4,BlockReference,"*U178",AS-WILDLIFE-BLOCK,0.999617
+B396C3,BlockReference,"*U178",AS-WILDLIFE-BLOCK,0.999617
+B39F83,BlockReference,"HRV",CG-NOTES,1
+B39F87,BlockReference,"HRV",CG-NOTES,1
+B39F8B,BlockReference,"HRV",CG-NOTES,1
+B39F8F,BlockReference,"HRV",CG-NOTES,1
+B39F93,BlockReference,"HRV",CG-NOTES,1
+B3A88D,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A88E,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A88F,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A890,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A891,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A892,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A893,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A894,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A895,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A896,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A897,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A898,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A899,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A89A,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A89B,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8AB,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8AC,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8AD,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8AE,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8AF,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B0,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B1,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B2,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B3,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B4,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B7,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B8,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8B9,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BA,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BB,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BC,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BD,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BE,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8BF,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C0,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C1,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C3,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C4,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C5,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C6,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C7,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C8,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8C9,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8CA,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8CB,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8CC,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8CE,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8CF,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8D0,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8D1,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8D2,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3A8D3,BlockReference,"GAS",F-WS-S,5.000000000000001
+B3B15B,BlockReference,"GABD",F-WS-S,5.000000000000001
+B4177E,MText,"WL1",CG-NOTES,12
+B4177F,MText,"Segment 1 (2.0x4534.4)",CG-NOTES,9
+B5010A,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B51339,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B5137C,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B513AD,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B513D5,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B51CDC,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B525F4,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B5261C,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B52638,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B5265C,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B52688,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+B52FB9,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B538F6,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B553E6,MText,"Rge. 3",D-TXT,14
+B553E7,MText,"Rge. 4",D-TXT,14
+B553E8,MText,"Rge. 3",D-TXT,14
+B553E9,MText,"Rge. 4",D-TXT,14
+B553EA,MText,"Rge. 3",D-TXT,14
+B553EB,MText,"Rge. 4",D-TXT,14
+B553EC,MText,"Rge. 3",D-TXT,14
+B553ED,MText,"Rge. 4",D-TXT,14
+B553EE,MText,"Rge. 3",D-TXT,14
+B553EF,MText,"Rge. 4",D-TXT,14
+B553F0,MText,"Twp. 65",D-TXT,14
+B553F2,MText,"Twp. 66",D-TXT,14
+B553F3,MText,"Twp. 65",D-TXT,14
+B553F4,MText,"Twp. 66",D-TXT,14
+B57099,BlockReference,"AA",0,0.9992111562800102
+B5709A,BlockReference,"Route_Letters",0,0.9992111562800102
+B5797F,BlockReference,"AA",0,0.9992111562800102
+B57980,BlockReference,"Route_Letters",0,0.9992111562800102
+B57983,BlockReference,"AA",0,0.9992111562800102
+B57984,BlockReference,"Route_Letters",0,0.9992111562800102
+B57987,BlockReference,"AA",0,0.9992111562800102
+B57988,BlockReference,"Route_Letters",0,0.9992111562800102
+B5798B,BlockReference,"AA",0,0.9992111562800102
+B5798C,BlockReference,"Route_Letters",0,0.9992111562800102
+B5798F,BlockReference,"AA",0,0.9992111562800102
+B57990,BlockReference,"Route_Letters",0,0.9992111562800102
+B703EB,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703ED,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703EF,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703F1,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703F3,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703F5,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703F7,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703F9,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703FB,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703FD,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B703FF,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B70401,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B70403,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B70405,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B70407,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B70409,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B710A6,MText,"6-1 (Abd.)",F-WS-T,10.000000000000002
+B71D45,BlockReference,"RP",0,1
+B72F7C,MText,"Theor. N.E.1/4 Sec. 1-66-4-W.6M.",C-SYMBOL,20.000000000000004
+B73C75,MText,"Theor. N.W.1/4 Sec. 6-66-3-W.6M.",C-SYMBOL,20.000000000000004
+B73CA1,AlignedDimension,"PGI  P/L R/W  022 1872  001999",F-RW-T,Compass 5 000
+B74966,MText,"Theor. N.E.1/4 Sec. 12-66-4-W.6M.",C-SYMBOL,20.000000000000004
+B7496E,AlignedDimension,"Mancal  P/L R/W  112169",F-RW-T,Compass 5 000
+B7498D,MText,"Theor. S.E.1/4 Sec. 12-66-4-W.6M.",C-SYMBOL,20.000000000000004
+B749B0,AlignedDimension,"CNRL  P/L R/W  220903",F-RW-T,Compass 5 000
+B75678,AlignedDimension,"CNRL  P/L R/W  902 2055  890721",F-RW-T,Compass 5 000
+B756BE,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+B763D8,MText,"Theor. N.W.1/4 Sec. 11-66-4-W.6M.",C-SYMBOL,20.000000000000004
+B7707D,MText,"Pit",T-WATER-T,10.000960494654771
+B7707F,MText,"Pit",T-WATER-T,10.000960494654771
+B77081,MText,"Smokey River",T-WATER-T,10.000960494654771
+B8923E,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89240,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89243,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89244,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89245,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89246,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89247,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89248,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89249,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B8924A,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B8924B,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B8924D,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B8924E,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B8924F,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999999
+B89251,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999997
+B89253,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999997
+B89254,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999997
+B89255,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999997
+B89256,DBText,"Theoretic Government Road Allowance",L-ROAD-T,9.995809999999997
+B8F124,MText,"WL1",CG-NOTES,11.988794589419989
+B8F125,MText,"Segment 2 (2.0x41.6)",CG-NOTES,8.991595942064992
+B93158,BlockReference,"*U199",CG-NOTES,0.9997119622670564
+B93167,BlockReference,"*U200",CG-NOTES,0.9986633096239037
+B97D2B,BlockReference,"*U199",CG-NOTES,0.9997119622670564
+B97D3A,BlockReference,"*U202",CG-NOTES,0.9986633096239037
+B97D4E,AlignedDimension,"HWN  P/L R/W  200392",F-RW-T,Compass 5 000
+BA30BA,BlockReference,"*U203",CG-NOTES,0.9986633096239037
+BA3101,BlockReference,"*U199",CG-NOTES,0.9997119622670564
+BA3AC3,BlockReference,"xing2",P-CROSSINGS,1
+BA4484,BlockReference,"xing2",P-CROSSINGS,1
+BA7836,BlockReference,"xing2",P-CROSSINGS,1
+BAC678,MText,"WL2",CG-NOTES,12
+BAC679,MText,"Segment 1 (2.0x618.9)",CG-NOTES,9
+BB4306,BlockReference,"xing2",P-CROSSINGS,1
+BB430D,BlockReference,"xing2",P-CROSSINGS,1
+BB431D,AlignedDimension,"Hammerhead  P/L R/W  220277",F-RW-T,Compass 5 000
+BC34E9,AlignedDimension,"Mancal  Water Line",P-TEMP-BLUE,Compass 5 000
+BC4805,AlignedDimension,"CNRL  Water Line",P-TEMP-BLUE,Compass 5 000
+BC8B40,BlockReference,"xing2",P-CROSSINGS,1
+BC9836,BlockReference,"xing2",P-CROSSINGS,1
+BC983D,BlockReference,"xing2",P-CROSSINGS,1
+BD09D1,BlockReference,"xing2",P-CROSSINGS,1
+BD7C93,BlockReference,"Disclaimer_Legal",0,1

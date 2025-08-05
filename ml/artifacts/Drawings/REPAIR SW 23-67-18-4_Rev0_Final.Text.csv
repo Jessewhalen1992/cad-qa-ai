@@ -1,0 +1,36 @@
+Handle,ObjType,Content,Layer,Extra
+AF5981,BlockReference,"L-SECLBL",L-SECLBL,1
+AF846D,AlignedDimension,"Shaw  Fiber Optics Cable R/W  002 3876",F-RW-T,Compass 5 000
+AF846E,AlignedDimension,"Pembina  P/L R/W  782 1469  042 0681  37742-61, 37742-256)",F-RW-T,Compass 5 000
+AF846F,AlignedDimension,"Nova  P/L R/W  762 0671  80240-44)",F-RW-T,Compass 5 000
+AF847D,AlignedDimension,"Inter Pipeline Polaris Inc.  Pipeline (Corridor) Inc.  P/L R/W  022 2276  33528-2, LS 7101)  33527-1, LS 7001)",P-PROPOSED-T,Compass 5 000
+AF847E,AlignedDimension,"Suncor  P/L R/W  4625 NY  3907-143)",F-RW-T,Compass 5 000
+AF8551,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4514  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+AF85B5,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3739  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+AF8605,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5733  54778-2, LS 7108)",P-PROPOSED-T,Compass 5 000
+AF8652,AlignedDimension,"Grand Rapids  P/L R/W  Plan by Focus  56699-20, 56673-14)",F-RW-T,Compass 5 000
+AF8E7C,DBText,"S.W.1/4 Sec. 23-67-18-W.4M.",C-SYMBOL,20
+AF967B,AlignedDimension,"Telus  Fiber Optics Cable R/W  032 5987",F-RW-T,Compass 5 000
+AFBECB,AlignedDimension,"Nova  P/L R/W  872 2005  80551-1)",F-RW-T,Compass 5 000
+AFCB24,MText,"Approximate Location of Apex Gas Co-op.",AS-PIPE-UG-T,10.000000000000039
+AFDFB5,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,9.996949999999991
+AFF13C,AlignedDimension,"10.00 Proposed A/R",T-EXISTING TFA-T,Compass 5 000
+AFF5D6,MText,"Buried Telus Cable",AS-TELUS,10
+AFF5D8,MText,"Fortis O/H Power Line",AS-POWER-T,10
+AFF68E,BlockReference,"*U30",0,1
+B00055,MText,"10.06 Road  Plan 2939 MC",L-TITLEDB-T,10
+B02C26,BlockReference,"*U31",AS-OWNER,1
+B04300,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B047DF,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B08AEC,DBText,"(Low Grade Gravel)",T-TEXT,10
+B08AED,DBText,"Rge. Road 182",L-ROAD-T,10
+B08AEE,DBText,"Government Road Allowance",L-ROAD-T,9.999999999999998
+B0EA17,MText,"Cultivation",T-TEXT,9.996490000000007
+B0EA1F,MText,"Cultivation",T-TEXT,9.996490000000007
+B0EA27,MText,"Cultivation",T-TEXT,9.996490000000007
+B10026,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B10113,BlockReference,"*U32",0,1
+B1012C,MText,"Lot 2 Block 1 Plan 222 0153",L-TITLEDB-T,10
+B11BAF,MText,"10.0x20.0 A/R (Temporary)",P-TEMP-T,10
+B120B2,BlockReference,"xing2",P-CROSSINGS,1.0001900940965782
+B17069,BlockReference,"Disclaimer_Legal",0,0.25

@@ -1,0 +1,53 @@
+Handle,ObjType,Content,Layer,Extra
+AF6626,AlignedDimension,"Inter Pipeline Offgas Ltd.  P/L R/W  132 3730  52321-3, LS 8002)",P-PROPOSED-T,Compass 5 000
+AF6643,AlignedDimension,"Inter Pipeline (Corridor) Inc.  P/L R/W  082 4569  48184-4, LS 7007)",P-PROPOSED-T,Compass 5 000
+AF6E4F,AlignedDimension,"Inter Pipeline (Corridor) Inc.,  Pipeline Polaris Inc.  P/L R/W  022 2209  33527-1, LS 7001)  33528-2, LS 7101)",P-PROPOSED-T,Compass 5 000
+AF6E73,AlignedDimension,"Suncor  P/L R/W  4054 NY  3907-143)",F-RW-T,Compass 5 000
+AF6E97,AlignedDimension,"Shaw  Fiber Optics Cable R/W  002 3817",F-RW-T,Compass 5 000
+AF6F0A,MText,"Lot1 Block 1 Plan 082 4796",L-TITLEDB-T,10
+AF76F5,AlignedDimension,"30.48 Road  2345 RS",L-TITLEDB-T,Compass 5 000
+AF8F0F,BlockReference,"L-SECLBL",L-SECLBL,1
+AFC1A7,BlockReference,"*U25",AS-OWNER,1
+B020F7,AlignedDimension,"Grand Rapids  P/L R/W  Plan by Focus  56673-17, 56699-20)",F-WS-T,Compass 5 000
+B02123,AlignedDimension,"Inter Pipeline Polaris Inc.  P/L R/W  152 5726  54778-1, LS 7108)",P-PROPOSED-T,Compass 5 000
+B09E64,DBText,"(High Grade Gravel)",T-TEXT,10
+B09E65,DBText,"Government Road Allowance",L-ROAD-T,10
+B09E66,DBText,"Rge. Rd. 203",L-ROAD-T,10
+B09E69,DBText,"(High Grade Gravel)",T-TEXT,10
+B09E6A,DBText,"Government Road Allowance",L-ROAD-T,10
+B09E6B,DBText,"Twp. Rd. 604",L-ROAD-T,10
+B0ADE8,BlockReference,"GABD",F-WS-S,5
+B0B238,AlignedDimension,"Nova  P/L R/W  932 0174  80271-6)",F-RW-T,Compass 5 000
+B0B260,AlignedDimension,"A.G.T.L.  P/L R/W  762 2239",F-RW-T,Compass 5 000
+B0B71F,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+B0BB78,MText,"30.0x50.0 Laydown Area (Temporary)",P-TEMP-T,9.993441070549993
+B0BB7C,AlignedDimension,"10.0x257.0 A/R",P-TEMP-T,Compass 5 000
+B0C50D,BlockReference,"*U33",0,1
+B0CDFB,MText,"S.E.1/4 Sec. 28-60-20-W.4M.",C-SYMBOL,20
+B0CE03,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B0CE0B,BlockReference,"res_occ",AS-RESIDENCE,4.998245000000003
+B0CE14,MText,"Residence (Typ.)",AS-RESIDENCE,10
+B0CE20,MText,"100m Wildlife Buffer",P-BUFFER-YELLOW-T,10
+B0D6EA,BlockReference,"xing2",P-CROSSINGS,1
+B0D6F1,BlockReference,"xing2",P-CROSSINGS,1
+B0D6F8,BlockReference,"xing2",P-CROSSINGS,1
+B0DBA6,BlockReference,"xing2",P-CROSSINGS,1
+B0E0BB,BlockReference,"xing2",P-CROSSINGS,1
+B0E505,BlockReference,"xing2",P-CROSSINGS,1
+B0E50D,BlockReference,"xing2",P-CROSSINGS,1
+B0E957,BlockReference,"xing2",P-CROSSINGS,1
+B0F76D,BlockReference,"xing2",P-CROSSINGS,1
+B0F77B,BlockReference,"xing2",P-CROSSINGS,1
+B0F783,BlockReference,"xing2",P-CROSSINGS,1
+B0F78B,BlockReference,"xing2",P-CROSSINGS,1
+B0F793,BlockReference,"xing2",P-CROSSINGS,1
+B0F79B,BlockReference,"xing2",P-CROSSINGS,1
+B0FBEB,BlockReference,"xing2",P-CROSSINGS,1
+B0FBF3,BlockReference,"xing2",P-CROSSINGS,1
+B22C40,BlockReference,"*U32",0,1
+B23141,BlockReference,"xing2",P-CROSSINGS,1
+B235CF,BlockReference,"xing2",P-CROSSINGS,1
+B235D8,BlockReference,"xing2",P-CROSSINGS,1
+B23EED,BlockReference,"xing2",P-CROSSINGS,1
+B23EF5,BlockReference,"xing2",P-CROSSINGS,1
+B3155F,BlockReference,"Disclaimer_Legal",0,0.25

@@ -1,0 +1,82 @@
+Handle,ObjType,Content,Layer,Extra
+AF21E2,BlockReference,"L-SECLBL",L-SECLBL,1
+AF21F9,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.999999999999893
+AF2204,BlockReference,"RP",L-SECLBL,1
+AF243A,MText,"Theor. N.W.1/4  Sec. 14-97-11-W.6M.",C-SYMBOL,19.999999999999844
+AF2F80,BlockReference,"*U25",P-75m DRAINAGE AREA,1
+AF2F9E,AlignedDimension,"ATCO  Power Line R/W  910380",F-EZE-T,Compass 5 000
+AF2FCF,AlignedDimension,"CNRL  A/R  900171",C-AR-T,Compass 5 000
+AF31B2,AlignedDimension,"CNRL  A/R  900311",C-AR-T,Compass 5 000
+AF3B2C,AlignedDimension,"CNRL  A/R  900171  Built)",C-AR-T,Compass 5 000
+AF3D38,AlignedDimension,"CNRL  A/R  900750",C-AR-T,Compass 5 000
+AF3D74,AlignedDimension,"CNRL  A/R  930579",C-AR-T,Compass 5 000
+AF3DA5,MText,"CNRL Storage Site MLL 030106 (Expired)",C-WS-T,9.997819999999924
+AF3DAE,MText,"CNRL 11-14 (Surface) Plan 922 1072 MSL 920143 (Expired)",C-WS-T,9.997819999999924
+AF3DAF,MText,"L.S. 11",L-SECTION-LSD,9.997819999999924
+AF3DB1,MText,"L.S. 12",L-SECTION-LSD,9.997819999999924
+AF3DB3,MText,"L.S. 14",L-SECTION-LSD,9.997819999999924
+AF3DB4,MText,"L.S. 13",L-SECTION-LSD,9.997819999999924
+AF3F46,AlignedDimension,"CNRL  P/L R/W  082 3465  002596",C-RW-T,Compass 5 000
+AF3F92,AlignedDimension,"Long  P/L R/W  010031",F-RW-T,Compass 5 000
+AF4151,AlignedDimension,"CNRL  P/L R/W  022 4985  PLA 010819",C-RW-T,Compass 5 000
+AF4179,AlignedDimension,"CNRL  P/L R/W  082 3495  012927",C-RW-T,Compass 5 000
+AF41B3,AlignedDimension,"CNRL  P/L R/W  PLA 020964",C-RW-T,Compass 5 000
+AF43C7,AlignedDimension,"CNRL  P/L R/W  030229",C-RW-T,Compass 5 000
+AF4413,AlignedDimension,"CNRL  P/L R/W  061215",C-RW-T,Compass 5 000
+AF4611,AlignedDimension,"Cassiar  P/L R/W  120354",F-RW-T,Compass 5 000
+AF46EA,AlignedDimension,"CNRL  P/L R/W  922 1072  920083",C-RW-T,Compass 5 000
+AF48B5,AlignedDimension,"CNRL  P/L R/W  922 2773  920325",C-RW-T,Compass 5 000
+AF4909,AlignedDimension,"CNRL  P/L R/W  932 3251  930366",C-RW-T,Compass 5 000
+AF494C,AlignedDimension,"CNRL  P/L R/W  942 1672  931352",C-RW-T,Compass 5 000
+AF4B06,AlignedDimension,"CNRL  P/L R/W  940937",C-RW-T,Compass 5 000
+AF4B89,AlignedDimension,"CNRL  P/L R/W  952 2019  950598",C-RW-T,Compass 5 000
+AF4D7D,AlignedDimension,"CNRL  P/L R/W  962 1139  951494",C-RW-T,Compass 5 000
+AF4DA1,AlignedDimension,"CNRL  P/L R/W  971411",C-RW-T,Compass 5 000
+AF4E02,AlignedDimension,"CNRL  P/L R/W  980992",C-RW-T,Compass 5 000
+AF4E7B,AlignedDimension,"CNRL  P/L R/W  982769",C-RW-T,Compass 5 000
+AF5092,AlignedDimension,"Quattro  P/L R/W  030032",F-RW-T,Compass 5 000
+AF550C,AlignedDimension,"CNRL  P/L R/W  074 0918  030228",C-RW-T,Compass 5 000
+AFC260,BlockReference,"*U52",AS-WILDLIFE-BLOCK,1
+AFC909,AlignedDimension,"CNRL  A/R  900311",C-AR-T,Compass 5 000
+AFC90A,AlignedDimension,"CNRL  A/R  900171",C-AR-T,Compass 5 000
+AFC911,AlignedDimension,"CNRL  P/L R/W  922 2773  920325",C-RW-T,Compass 5 000
+AFC912,AlignedDimension,"CNRL  P/L R/W  932 3251  930366",C-RW-T,Compass 5 000
+AFC913,AlignedDimension,"CNRL  P/L R/W  952 2019  950598",C-RW-T,Compass 5 000
+AFC914,AlignedDimension,"CNRL  P/L R/W  971411",C-RW-T,Compass 5 000
+AFC915,AlignedDimension,"CNRL  P/L R/W  982769",C-RW-T,Compass 5 000
+AFCFC1,AlignedDimension,"CNRL  A/R  900171  Built)",C-AR-T,Compass 5 000
+AFCFF1,AlignedDimension,"ATCO  Power Line R/W  910380",F-EZE-T,Compass 5 000
+AFD1A7,AlignedDimension,"Cassiar  P/L R/W  120354",F-RW-T,Compass 5 000
+AFD1B3,AlignedDimension,"CNRL  P/L R/W  030229",C-RW-T,Compass 5 000
+AFD1BF,AlignedDimension,"CNRL  P/L R/W  082 3495  012927",C-RW-T,Compass 5 000
+AFD1CB,AlignedDimension,"CNRL  P/L R/W  082 3465  002596",C-RW-T,Compass 5 000
+AFD1D7,AlignedDimension,"Long  P/L R/W  010031",F-RW-T,Compass 5 000
+AFD312,AlignedDimension,"CNRL  P/L R/W  980992",C-RW-T,Compass 5 000
+AFD339,AlignedDimension,"Quattro  P/L R/W  030032",F-RW-T,Compass 5 000
+AFD481,AlignedDimension,"CNRL  P/L R/W  074 0918  030228",C-RW-T,Compass 5 000
+AFD4AE,AlignedDimension,"CNRL  P/L R/W  920083",C-RW-T,Compass 5 000
+AFD4D5,AlignedDimension,"CNRL  P/L R/W  922 1072  920083",C-RW-T,Compass 5 000
+AFD514,AlignedDimension,"CNRL  P/L R/W  940937",C-RW-T,Compass 5 000
+AFD53B,AlignedDimension,"CNRL  P/L R/W  942 1672  931352",C-RW-T,Compass 5 000
+AFD6AD,MText,"SEE DETAIL",DETAIL-T,15.996511999999914
+AFD6AF,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+AFD6B2,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+AFD6C1,BlockReference,"Temp_Area5",P-TEMP-BLOCKS,1
+AFD8CC,BlockReference,"*U74",P-TEMP-BLOCKS,1
+AFDF94,BlockReference,"*U75",P-TEMP-BLOCKS,1
+B0811C,BlockReference,"xing2",P-CROSSINGS,0.999782
+B0828A,BlockReference,"xing2",P-CROSSINGS,0.999782
+B09009,MText,"CNRL 11-14 Ext. (Surface) Plan 942 0153 (Not on PLSR)",C-WS-T,9.997819999999924
+B0940E,AlignedDimension,"CNRL  P/L R/W  074 0918  030228",C-RW-T,Compass 5 000
+B0942A,MText,"CNRL 11-14 (Surface) Plan 922 1072 MSL 920143 (Expired)",C-WS-T,9.997819999999924
+B0942B,MText,"CNRL 11-14 Ext. (Surface) Plan 942 0153 (Not on PLSR)",C-WS-T,9.997819999999924
+B0B217,MText,"Theoretic Government Road Allowance",L-ROAD-T,9.999999999999922
+B0E080,BlockReference,"*U79",P-TEMP-BLOCKS,1
+B0F26F,AlignedDimension,"CNRL  P/L R/W  980050",C-RW-T,Compass 5 000
+B0F2CC,AlignedDimension,"CNRL  P/L R/W  080003",C-RW-T,Compass 5 000
+B0F365,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B0F368,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B1DBB9,BlockReference,"*U74",P-TEMP-BLOCKS,1
+B1DBD2,BlockReference,"*U74",P-TEMP-BLOCKS,1
+B2468B,MText,"DETAIL",DETAIL-T,19.999999999999982
+B2468D,BlockReference,"*U19",L-2,1

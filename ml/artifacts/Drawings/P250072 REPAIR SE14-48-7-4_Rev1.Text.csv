@@ -1,0 +1,42 @@
+Handle,ObjType,Content,Layer,Extra
+BC4A64,BlockReference,"L-SECLBL",L-SECLBL,1
+BC4A6A,DBText,"S.E.1/4 Sec. 14-48-7-W.4M.",C-SYMBOL,20
+BC4A7C,BlockReference,"GABD",F-WS-S,5
+BC4A84,MText,"1-14 (Abd.)",F-WS-T,10
+BC52AC,MText,"Lot 1 Block 1 Plan 012 4676",L-TITLEDB-T,10
+BC52AD,AlignedDimension,"30.48 Road  1791 RS",L-TITLEDB-T,Compass 5 000
+BC5B5E,BlockReference,"res_occ",AS-RESIDENCE,5
+BC5B5F,BlockReference,"res_occ",AS-RESIDENCE,5
+BC5B60,MText,"Residence",AS-RESIDENCE,10
+BC5B61,MText,"Residence",AS-RESIDENCE,10
+BC5B62,MText,"Fortis O/H Power Line",AS-POWER-T,10
+BC5B63,MText,"Buried Telus Cable",AS-TELEPHONE-T,10
+BC6395,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  022 0983  32247-3)",P-PROPOSED-T,Compass 5 000
+BC63B4,AlignedDimension,"Cold Lake Pipeline Ltd.  P/L R/W  152 2772  54759-1)",P-PROPOSED-T,Compass 5 000
+BC63E0,DBText,"(Trail)",T-TEXT,10
+BC63E1,DBText,"Government Road Allowance",L-ROAD-T,10
+BC63E8,DBText,"(High Grade Gravel)",T-TEXT,10
+BC63E9,DBText,"Government Road Allowance",L-ROAD-T,10
+BC6CBC,BlockReference,"*U13",AS-WILDLIFE-BLOCK,1
+BC6CCB,MText,"30.0x50.0 Laydown Yard (Option B)",P-TEMP-T,10
+BC6CCC,MText,"30.0x50.0 Laydown Yard (Option A)",P-TEMP-T,10
+BD081D,BlockReference,"*U15",AS-OWNER,1
+BD0E0B,MText,"Approximate Location of Minco Gas Co-op Ltd.",AS-PIPE-UG-T,10
+BD14BB,BlockReference,"*U14",0,0.999506
+BD14F4,BlockReference,"*U16",0,0.999506
+BD2764,AlignedDimension,"CNRL  P/L R/W  972 2081   29049-17)",F-RW-T,Compass 5 000
+BD41D5,AlignedDimension,"Cenovus  P/L R/W  Plan  18668-1)",F-RW-T,Compass 5 000
+BD8848,BlockReference,"*U19",DETAIL-T,1
+BD8879,BlockReference,"*U20",DETAIL-T,1
+BD8D2D,BlockReference,"*U21",DETAIL-T,1
+BD8D5E,BlockReference,"*U22",DETAIL-T,1
+BD8D8E,MText,"10.0x35.0 Access Road (Temporary) (Option A)",P-TEMP-BLUE-T,10
+BD91DA,BlockReference,"xing2",P-CROSSINGS,1
+BD91E1,BlockReference,"xing2",P-CROSSINGS,1
+BD91E8,BlockReference,"xing2",P-CROSSINGS,1
+BDDFA1,BlockReference,"xing2",P-CROSSINGS,1
+BDE424,BlockReference,"xing2",P-CROSSINGS,1
+BDEA9D,BlockReference,"xing2",P-CROSSINGS,1
+BE1DB9,BlockReference,"xing2",P-CROSSINGS,1
+BE1FDE,BlockReference,"xing2",P-CROSSINGS,1
+BE55C7,BlockReference,"Disclaimer_Legal",C-AR,1

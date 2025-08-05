@@ -1,0 +1,94 @@
+Handle,ObjType,Content,Layer,Extra
+AF2C6A,BlockReference,"L-SECLBL",L-SECLBL,1
+AF2C70,BlockReference,"L-SECLBL",L-SECLBL,1
+AF2FBA,MText,"L.S. 3",L-SECTION-LSD,9.9979
+AF2FBC,MText,"L.S. 4",L-SECTION-LSD,9.9979
+AF2FBE,MText,"L.S. 6",L-SECTION-LSD,9.9979
+AF2FC0,MText,"L.S. 5",L-SECTION-LSD,9.9979
+AF2FC2,MText,"L.S. 1",L-SECTION-LSD,9.9979
+AF2FC3,MText,"L.S. 2",L-SECTION-LSD,9.9979
+AF2FC5,MText,"L.S. 8",L-SECTION-LSD,9.9979
+AF2FC6,MText,"L.S. 7",L-SECTION-LSD,9.9979
+AF2FC8,MText,"L.S. 3",L-SECTION-LSD,9.9979
+AF2FCA,MText,"L.S. 4",L-SECTION-LSD,9.9979
+AF2FCC,MText,"L.S. 6",L-SECTION-LSD,9.9979
+AF2FCE,MText,"L.S. 5",L-SECTION-LSD,9.9979
+AF2FD0,MText,"L.S. 1",L-SECTION-LSD,9.9979
+AF2FD1,MText,"L.S. 2",L-SECTION-LSD,9.9979
+AF2FD3,MText,"L.S. 8",L-SECTION-LSD,9.9979
+AF2FD4,MText,"L.S. 7",L-SECTION-LSD,9.9979
+AF34B7,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+AF34B8,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+AF34B9,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+AF5083,BlockReference,"*U49",AS-WILDLIFE-BLOCK,0.99979
+AF5092,BlockReference,"*U20",C-SYMBOL,1
+AF50A0,BlockReference,"*U49",AS-WILDLIFE-BLOCK,0.99979
+AF50AF,BlockReference,"*U20",C-SYMBOL,1
+AF50BD,BlockReference,"*U48",AS-WILDLIFE-BLOCK,0.99979
+AF50CC,BlockReference,"*U20",C-SYMBOL,1
+AF50DA,BlockReference,"*U50",AS-WILDLIFE-BLOCK,0.99979
+AF50E9,BlockReference,"*U20",C-SYMBOL,1
+AF543B,AlignedDimension,"CNRL  A/R  890345  be Cancelled)",C-AR-T,Compass 5 000
+AF549A,AlignedDimension,"Quattro  P/L R/W  030032",F-RW-T,Compass 5 000
+AF5654,AlignedDimension,"CNRL  A/R  022929",C-RW-T,Compass 5 000
+AF5688,AlignedDimension,"CNRL  A/R  890345  be Cancelled)",C-AR-T,Compass 5 000
+AF56B9,AlignedDimension,"CNRL  A/R  890345  be Cancelled)",C-AR-T,Compass 5 000
+AF5893,AlignedDimension,"CNRL  P/L R/W  042 2650  022989",C-RW-T,Compass 5 000
+AF58BF,AlignedDimension,"CNRL  P/L R/W  042 4912  040078",C-AR-T,Compass 5 000
+AF591B,AlignedDimension,"CNRL  A/R  891027",C-AR-T,Compass 5 000
+AF593F,AlignedDimension,"Conoco  A/R  951965",F-AR-T,Compass 5 000
+AF5CA8,AlignedDimension,"CNRL  A/R  962268",C-AR-T,Compass 5 000
+AF5E70,AlignedDimension,"CNRL  A/R  962268",C-AR-T,Compass 5 000
+AF5EAA,AlignedDimension,"CNRL  A/R  962268",C-AR-T,Compass 5 000
+AF6138,DBText,"Theor. S.W.1/4 Sec. 21-99-11-W.6M.",C-SYMBOL,19.9958
+AF616F,AlignedDimension,"CNRL  P/L R/W  040083",C-RW-T,Compass 5 000
+AF632F,AlignedDimension,"CNRL  A/R  801177",C-AR-T,Compass 5 000
+AF6B53,AlignedDimension,"CNRL  P/L R/W  982 4633  980219",C-RW-T,Compass 5 000
+AF6B72,DBText,"Theor. S.E.1/4 Sec. 21-99-11-W.6M.",C-SYMBOL,20
+AF6B73,DBText,"Theor. S.W.1/4 Sec. 22-99-11-W.6M.",C-SYMBOL,20
+AF6B74,DBText,"Theor. S.E.1/4 Sec. 22-99-11-W.6M.",C-SYMBOL,20
+AF6E35,AlignedDimension,"Nuvista  A/R  931789",C-RW-T,Compass 5 000
+AF7B75,BlockReference,"L-SECLBL",L-SECLBL,0.99979
+AF7B82,MText,"L.S. 1",L-SECTION-LSD,9.9979
+AF7B83,MText,"L.S. 2",L-SECTION-LSD,9.9979
+AF7B85,MText,"L.S. 8",L-SECTION-LSD,9.9979
+AF7B86,MText,"L.S. 7",L-SECTION-LSD,9.9979
+AFA0C3,BlockReference,"TEMP",L-MON,5
+AFA0C4,BlockReference,"TEMP",L-MON,5
+AFA0C5,BlockReference,"TEMP",L-MON,5
+AFA1BA,DBText,"91°55'",L-BD,9.9979
+AFA34A,BlockReference,"TEMP",L-MON,4.99895
+AFA350,BlockReference,"TEMP",L-MON,4.99895
+AFA351,BlockReference,"TEMP",L-MON,4.99895
+AFA353,DBText,"92°42'",L-BD,9.9979
+AFA355,DBText,"92°42'",L-BD,9.9979
+AFA357,DBText,"92°42'",L-BD,9.9979
+AFA359,DBText,"92°42'",L-BD,9.9979
+AFD3CE,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99664
+AFD3D0,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99664
+AFD3D2,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99664
+AFD3D4,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99664
+AFD4D2,DBText,"RP",35,10
+AFD77F,DBText,"2°33'",L-BD,9.9979
+AFD92C,AlignedDimension,"12.00 A/R",P-TXT,Compass 5 000
+AFD961,AlignedDimension,"12.00 A/R",P-TXT,Compass 5 000
+AFD989,AlignedDimension,"12.00 A/R",P-TXT,Compass 5 000
+AFD9B1,AlignedDimension,"12.00 A/R",P-TXT,Compass 5 000
+AFDB75,AlignedDimension,"CNRL  A/R  890345  be Cancelled)",C-AR-T,Compass 5 000
+B0370A,BlockReference,"xing2",P-CROSSINGS,0.99979
+B0D9D8,AlignedDimension,"CNRL  P/L R/W  040083",C-RW-T,Compass 5 000
+B0DD4C,AlignedDimension,"CNRL  A/R  891030",C-AR-T,Compass 5 000
+B0DF1B,AlignedDimension,"CNRL  A/R  962268",C-AR-T,Compass 5 000
+B0E26F,DBText,"Theor. S.E.1/4 Sec. 20-99-11-W.6M.",C-SYMBOL,19.9958
+B0E270,BlockReference,"*U33",C-SYMBOL,1
+B0E40D,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.99664
+B0E40F,BlockReference,"*U19",AS-WILDLIFE-BLOCK,0.99979
+B0E5BE,AlignedDimension,"CNRL  P/L R/W  040083",C-RW-T,Compass 5 000
+B11D89,DBText,"116.1(Tie)",L-BD,9.9979
+B11D8A,DBText,"347°04'",L-BD,9.9979
+B11D8C,DBText,"97.3(Tie)",L-BD,9.9979
+B11D8D,DBText,"159°27'",L-BD,9.9979
+B11DCC,AlignedDimension,"CNRL  A/R  890345  be Cancelled)  Cert. 32549401)",C-AR-T,Compass 5 000
+B15ADE,BlockReference,"*U52",T-WATER-T,0.99979
+B163F8,DBText,"1°11'",L-BD,9.9979
+B1B711,BlockReference,"Disclaimer_Legal",0,0.6

@@ -1,0 +1,114 @@
+Handle,ObjType,Content,Layer,Extra
+B0C031,AlignedDimension,"Paramount  A/R  941989",F-AR-T,Compass 5 000
+B0C06C,AlignedDimension,"Canfor  A/R  3280",C-AR-T,Compass 5 000
+B0C09C,AlignedDimension,"PGI  P/L R/W  022 1857  001998",F-AR-T,Compass 5 000
+B0C0E8,AlignedDimension,"CNRL  Access R/W  812 1979  190039",C-AR-T,Compass 5 000
+B0C13D,AlignedDimension,"Pembina  P/L R/W  150673",F-AR-T,Compass 5 000
+B0CA51,AlignedDimension,"Pembina  P/L R/W  812 1910  810223",F-AR-T,Compass 5 000
+B0CAD3,MText,"Alliance Meter Station Site Plan 012 5734 DPI 980220 (Expired)",F-AR-T,10
+B0CAD4,MText,"Veren Storage Site MLL 230219",F-AR-T,10
+B0CAE7,AlignedDimension,"CNRL  P/L R/W  842 0494  840070",C-RW-T,Compass 5 000
+B0CB2D,AlignedDimension,"Veren  A/R",F-AR-T,Compass 5 000
+B0CB79,AlignedDimension,"CNRL  P/L R/W  082 5901  070435",C-RW-T,Compass 5 000
+B0D769,MText,"CNRL Plant Site Plan 812 1979 MLL 800132",C-RW-T,10
+B0D76A,AlignedDimension,"CNRL  Water P/L  210032",C-RW-T,Compass 5 000
+B0D7AB,MText,"CNRL Septic Field DML 210010",C-EZE-T,10
+B0D7AD,AlignedDimension,"Alliance  P/L R/W  012 1072  982152",F-RW-T,Compass 5 000
+B0D803,MText,"Keyera Flare Stack Area PIL 140251",F-AR-T,10
+B0D80B,MText,"CNRL Storage Site MLL 900152 (Expired)",C-AR-T,10
+B0D81E,AlignedDimension,"PGI  P/L R/W  190411",F-RW-T,Compass 5 000
+B0D862,AlignedDimension,"PGI  P/L R/W  150225",F-RW-T,Compass 5 000
+B0D8BE,AlignedDimension,"CNRL  P/L R/W  812 1105  800693",C-RW-T,Compass 5 000
+B0D90A,AlignedDimension,"CNRL  P/L R/W  832 1766  830013",C-RW-T,Compass 5 000
+B0D9C6,AlignedDimension,"CNRL  P/L R/W  852 1321  850283",C-RW-T,Compass 5 000
+B0E28D,AlignedDimension,"CNRL  P/L R/W  032753",C-RW-T,Compass 5 000
+B0E30F,AlignedDimension,"CNRL  P/L R/W  902 1977  890735",C-RW-T,Compass 5 000
+B0EEFF,AlignedDimension,"Keyera  P/L R/W  131093",F-RW-T,Compass 5 000
+B0EF42,AlignedDimension,"PGI  P/L R/W  150225",F-RW-T,Compass 5 000
+B0EFF1,MText,"Pembina 15.00 P/L R/W PLA150673",F-RW-T,10
+B0EFFF,MText,"Road Way RDS 210015",L-TITLEDB-T,10
+B0F000,AlignedDimension,"45.00 Road  192 3544  840048",L-TITLEDB-T,Compass 5 000
+B0F03B,MText,"Nova Meter Station Site Plan 812 2957 DPI 800057",F-AR-T,10
+B0F03C,AlignedDimension,"CNRL  P/L R/W  912 0416  900848",C-RW-T,Compass 5 000
+B0F09A,AlignedDimension,"CNRL  P/L R/W  882 3075  880775",C-RW-T,Compass 5 000
+B0F156,AlignedDimension,"CNRL  P/L R/W  832 1009  820705}",C-RW-T,Compass 5 000
+B0F1A9,MText,"Keyera 10.00 A/R LOC 140602",F-AR-T,10
+B0FA38,AlignedDimension,"CNRL  P/L R/W  890187",C-RW-T,Compass 5 000
+B0FA57,AlignedDimension,"CNRL  P/L R/W  991520",C-RW-T,Compass 5 000
+B0FAE2,AlignedDimension,"Spoke  P/L R/W  862 0930  840788",F-RW-T,Compass 5 000
+B1070C,AlignedDimension,"CNRL  P/L R/W  812 2783  800694",C-RW-T,Compass 5 000
+B1073B,MText,"CNRL Heater Site Plan 912 0459 PIL 900059",C-AR-T,10
+B1074F,AlignedDimension,"CNRL  P/L R/W  962 2004  960856",C-RW-T,Compass 5 000
+B107CF,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B107D7,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B1083C,BlockReference,"L-SECLBL",L-SECLBL,1
+B11996,MText,"L.S. 11",L-SECTION-LSD,10
+B11998,MText,"L.S. 12",L-SECTION-LSD,10
+B1199A,MText,"L.S. 14",L-SECTION-LSD,10
+B1199B,MText,"L.S. 13",L-SECTION-LSD,10
+B1199D,MText,"L.S. 9",L-SECTION-LSD,10
+B1199F,MText,"L.S. 10",L-SECTION-LSD,10
+B119A1,MText,"L.S. 16",L-SECTION-LSD,10
+B119A3,MText,"L.S. 15",L-SECTION-LSD,10
+B119A6,MText,"Theor. N.W.1/4  Sec. 10-65-2-W.6M.",C-SYMBOL,20
+B119A7,MText,"Theor. N.E.1/4  Sec. 10-65-2-W.6M.",C-SYMBOL,20
+B1255C,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B1255D,DBText,"Theoretic Government Road Allowance",L-ROAD-T,10
+B12594,BlockReference,"*U70",AS-SURFACE IMPACT,1
+B125C0,MText,"CNRL 5.00 A/R DLO 210031",C-AR-T,10
+B12FCF,AlignedDimension,"Pembina  P/L R/W  150673",F-AR-T,Compass 5 000
+B12FD0,AlignedDimension,"Pembina  P/L R/W  812 1910  810223",F-AR-T,Compass 5 000
+B12FD3,AlignedDimension,"CNRL  P/L R/W  082 5901  070435",C-RW-T,Compass 5 000
+B12FD4,MText,"CNRL Plant Site Plan 812 1979 MLL 800132",C-RW-T,10
+B12FD5,AlignedDimension,"CNRL  Water P/L  210032",C-RW-T,Compass 5 000
+B12FD6,MText,"CNRL Septic Field DML 210010",C-EZE-T,10
+B12FD8,AlignedDimension,"Alliance  P/L R/W  012 1072  982152",F-RW-T,Compass 5 000
+B12FE0,AlignedDimension,"CNRL  P/L R/W  032753",C-RW-T,Compass 5 000
+B12FE1,AlignedDimension,"CNRL  P/L R/W  890735",C-RW-T,Compass 5 000
+B13013,MText,"CNRL 5.00 A/R DLO 210031",C-AR-T,10
+B13015,MText,"CNRL Heater Site Plan 912 0459 PIL 900059",C-AR-T,10
+B13016,MText,"Alliance Meter Station Site Plan 012 5734 DPI 980220 (Expired)",F-AR-T,10
+B15764,BlockReference,"*U49",35,1
+B157DE,BlockReference,"*U50",AS-SURFACE IMPACT,1
+B157F3,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B157F5,MText,"UNSURVEYED TERRITORY",L-UNS-T,16
+B161E0,BlockReference,"*U11",P-TEMP-BLOCKS,1
+B161F5,BlockReference,"*U52",P-TEMP-BLOCKS,1
+B1621F,BlockReference,"*U63",P-TEMP-BLOCKS,1
+B16304,BlockReference,"*U51",P-TEMP-BLOCKS,1
+B186E5,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B1A0C0,AlignedDimension,"CNRL  P/L R/W  890187",C-RW-T,Compass 5 000
+B1A103,AlignedDimension,"CNRL  P/L R/W  852 1321  850283",C-RW-T,Compass 5 000
+B1A14E,AlignedDimension,"CNRL  P/L R/W  832 1766  830013",C-RW-T,Compass 5 000
+B1A189,AlignedDimension,"CNRL  P/L R/W  812 1105  800693",C-RW-T,Compass 5 000
+B1A1CB,AlignedDimension,"CNRL  Access R/W  812 1979  190039",C-RW-T,Compass 5 000
+B1A216,AlignedDimension,"Nova  P/L R/W  812 2957  800965",F-RW-T,Compass 5 000
+B1BA54,MText,"Key Wildlife and Biodiversity Zone Boundary",AS-WILDLIFE,10
+B1D1B0,AlignedDimension,"CNRL  A/R  912 0459  900059",C-RW-T,Compass 5 000
+B1D1F3,AlignedDimension,"CNRL  P/L R/W  882 3075  880775",C-RW-T,Compass 5 000
+B1D223,AlignedDimension,"CNRL  P/L R/W  842 0494  840070",C-RW-T,Compass 5 000
+B275CC,BlockReference,"Temp_Area5",P-TEMP-BLOCKS,1
+B275E9,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B275EC,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B2BB38,BlockReference,"xing2",P-CROSSINGS,1
+B2BB4D,BlockReference,"xing2",P-CROSSINGS,1
+B33A6F,BlockReference,"*U64",P-TEMP-BLOCKS,1
+B33A84,BlockReference,"*U65",P-TEMP-BLOCKS,1
+B340B1,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B340B4,BlockReference,"Temp_Area3",P-TEMP-BLOCKS,1
+B35227,MText,"N.S. 1/4 Line",L-QSEC,10
+B4240D,BlockReference,"*U11",P-TEMP-BLOCKS,1
+B42425,AlignedDimension,"CNRL  Access R/W  812 1979  190039",C-RW-T,Compass 5 000
+B42426,AlignedDimension,"Alliance  P/L R/W  012 1072  982152",F-RW-T,Compass 5 000
+B42427,BlockReference,"xing2",P-CROSSINGS,1
+B4249D,AlignedDimension,"CNRL  A/R  210031",C-AR-T,Compass 5 000
+B4250F,MText,"Fire Guard Within  Alliance R/W (2.9x4.3)",P-WORKAREA-T,10
+B42FDE,BlockReference,"*U69",DETAIL-T,1
+B43010,MText,"Fire Guard Within  Alliance R/W (0.101 ha)",P-WORKAREA-T,10
+B43011,MText,"N.S. 1/4 Line",L-QSEC,10
+B4301A,MText,"SEE INSET",DETAIL-T,16
+B430FB,BlockReference,"*U5",DETAIL-T,1
+B43109,MText,"INSET",DETAIL-T,20
+B450C4,BlockReference,"*U71",C-AR-T,1
+B4512C,BlockReference,"*U72",C-AR-T,1
+B47FA8,BlockReference,"Disclaimer_Legal",0,0.3

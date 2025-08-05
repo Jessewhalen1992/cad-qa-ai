@@ -1,0 +1,37 @@
+Handle,ObjType,Content,Layer,Extra
+AF65A2,AlignedDimension,"Cygnet  P/L R/W  112097",F-RW-T,Compass 5 000
+AF6616,DBText,"Theoretical Government Road Allowance",L-ROAD-T,9.994857499999792
+AF6617,MText,"UNSURVEYED TERRITORY",L-UNS-T,15.991771999999697
+AF6628,MText,"Theor. N.W.1/4 Sec. 1-64-25-W.5M.",C-SYMBOL,19.989714999999617
+AF681D,BlockReference,"L-SECLBL",L-SYMBOL,0.999485
+AF6837,MText,"Cygnet 4-12 (Surface) MSL 110404",F-AR-T,9.9999999999998
+AF6838,MText,"Cygnet Sump Site MSL 112786",F-AR-T,9.9999999999998
+AF6839,MText,"Cygnet 15.00 A/R LOC 112479",F-AR-T,9.9999999999998
+AF683B,AlignedDimension,"Cygnet  A/R  131875",F-AR-T,Compass 5 000
+AF683E,AlignedDimension,"Keyera  A/R  3184",F-AR-T,Compass 5 000
+AF6841,AlignedDimension,"ATCO  Anchor  030143",F-EZE-T,Compass 5 000
+AF6844,AlignedDimension,"ATCO  Anchor  030143",F-EZE-T,Compass 5 000
+AF6845,AlignedDimension,"ATCO  Power Line R/W  2117",F-EZE-T,Compass 5 000
+AF6849,MText,"Canfor CLR100042",F-WS-T,9.9999999999998
+AF6885,AlignedDimension,"ATCO  Power Line R/W  190176",F-EZE-T,Compass 5 000
+AF688B,AlignedDimension,"Cygnet  P/L R/W  200436",F-RW-T,Compass 5 000
+AF68DB,BlockReference,"GAS",F-WS-S,4.999999999999966
+AF68DC,BlockReference,"GAS",F-WS-S,4.999999999999966
+AF68DD,BlockReference,"GAS",F-WS-S,4.999999999999966
+AF7429,BlockReference,"*U39",35,0.999485
+AF7438,BlockReference,"*U30",AS-SURFACE IMPACT,0.999485
+AF9866,AlignedDimension,"ATCO  Width  Line R/W  070117",F-EZE-T,Compass 5 000
+AFA078,AlignedDimension,"ATCO  Width  Control R/W  860435",F-VCE-T,Compass 5 000
+AFA861,AlignedDimension,"Logan  A/R  050928",F-AR-T,Compass 5 000
+AFA891,AlignedDimension,"Logan  A/R  950625",F-AR-T,Compass 5 000
+AFBA42,BlockReference,"*U35",AS-WILDLIFE-BLOCK,0.999485
+AFD6AD,AlignedDimension,"Murphy  P/L R/W  231036",F-AR-T,Compass 5 000
+AFE722,MText,"L.S. 11",L-SECTION-LSD,9.994849999999978
+AFE724,MText,"L.S. 12",L-SECTION-LSD,9.994849999999978
+AFE726,MText,"L.S. 14",L-SECTION-LSD,9.994849999999978
+AFE727,MText,"L.S. 13",L-SECTION-LSD,9.994849999999978
+B004F6,BlockReference,"*U37",DETAIL-T,1
+B00508,BlockReference,"*U38",P-TEMP-BLOCKS,0.9989632688299973
+B35E14,BlockReference,"Well_proximity",P-CROSSINGS,0.999485
+B368AA,MText,"Existing Borrow Pit",AS-GENERAL,9.989632688299993
+B3B542,BlockReference,"Disclaimer_Legal",0,0.3

@@ -1,0 +1,46 @@
+Handle,ObjType,Content,Layer,Extra
+AF5FD2,BlockReference,"L-SECLBL",L-SECLBL,1
+AF5FDB,MText,"L.S. 1",L-SECTION-LSD,10
+AF5FDC,MText,"L.S. 2",L-SECTION-LSD,10
+AF5FDE,MText,"L.S. 8",L-SECTION-LSD,10
+AF5FDF,MText,"L.S. 7",L-SECTION-LSD,10
+AF7C7E,BlockReference,"*U19",AS-WILDLIFE-BLOCK,1
+AF7EA3,DBText,"Government Road Allowance",L-ROAD-T,10
+AF7EB2,DBText,"(High Grade Gravel)",T-TEXT,10
+AF7EB4,DBText,"Government Road Allowance",L-ROAD-T,10
+AF7EC3,DBText,"(Paved)",T-TEXT,10
+AF8052,DBText,"Highway 21",L-ROAD-T,10
+AF9260,MText,"Approximate Location of  APEX Utilities Inc.",AS-PIPE-UG-T,10
+AF9261,BlockReference,"GAS",C-WS-S,5
+AF926C,BlockReference,"GABD",F-WS-S,5
+AF926D,BlockReference,"GAS",F-WS-S,5
+AFAC4B,MText,"Lake No. 2",T-WATER-T,10
+AFAC4C,AlignedDimension,"Spark  P/L R/W  072 4672",C-RW-T,Compass 5 000
+AFAC6B,AlignedDimension,"Spark  P/L R/W  072 0533",C-RW-T,Compass 5 000
+AFAC97,AlignedDimension,"Spark  P/L R/W  072 0534",C-RW-T,Compass 5 000
+AFD2B7,AlignedDimension,"20.12 Road  3503 LZ",L-TITLEDB-T,Compass 5 000
+AFD2ED,AlignedDimension,"30.48 Transmission Line R/W  6148 NY",F-RW-T,Compass 5 000
+AFD34B,AlignedDimension,"Ember  P/L R/W  092 1031",F-RW-T,Compass 5 000
+AFD385,AlignedDimension,"CNRL  P/L R/W  822 1956",F-RW-T,Compass 5 000
+AFD3B6,AlignedDimension,"CNRL  Water Disposal P/L R/W  862 2213",F-RW-T,Compass 5 000
+B0031B,MText,"Well Site 102/7-28 = 1.488 ha  3.68 Ac.",L-AREAWORK,11
+B004AB,MText,"Access Road = 0.969 ha  2.39 Ac.",L-AREAWORK,11
+B004AC,MText,"S.E.1/4 Sec. 28-39-22-W.4M.",C-SYMBOL,20
+B00AF9,BlockReference,"res_occ",AS-RESIDENCE,5
+B00AFA,DBText,"High Grade Gravel Road",T-TEXT,10
+B013A7,DBText,"Pasture",T-TEXT,10
+B013A8,DBText,"Pasture",T-TEXT,10
+B013AA,DBText,"15cm Poplar",T-BUSH-T,10
+B01E05,MText,"Spark 102/7-28",C-WS-T,10
+B01E07,MText,"CNRL 7-28 (To be Reclaimed)",F-WS-T,10
+B0500D,MText,"Spark 1-28",C-WS-T,10
+B0500E,AlignedDimension,"45.72 Road  3503 LZ",L-TITLEDB-T,Compass 5 000
+B0504B,AlignedDimension,"20.12 A/R",L-TITLEDB-T,Compass 5 000
+B0ABDA,AlignedDimension,"Spark  A/R",C-AR-T,Compass 5 000
+B0DC39,MText,"Residence",AS-RESIDENCE,10
+B0DD27,DBText,"Pasture",T-TEXT,10
+B150B8,BlockReference,"Disclaimer_Legal",C-AR,0.3
+B159D8,BlockReference,"*U42",CG-NOTES,1
+B159ED,AlignedDimension,"ATCO  P/L R/W  902 3076",F-RW-T,Compass 5 000
+B159EE,AlignedDimension,"ATCO  P/L R/W  779 MC",F-RW-T,Compass 5 000
+B159EF,BlockReference,"*U41",CG-NOTES,1

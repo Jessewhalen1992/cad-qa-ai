@@ -1,0 +1,29 @@
+Handle,ObjType,Content,Layer,Extra
+BCE2EA,BlockReference,"L-SECLBL",L-SECLBL,1
+BD0777,AlignedDimension,"Cold Lake Pipeline Ltd.  Oil Resources Ltd.  P/L R/W  822 0136  21025-24, 19113-22)  19112-36)",P-PROPOSED-T,Compass 5 000
+BD0783,AlignedDimension,"CNRL  P/L R/W  062 6573  8033-10)",F-RW-T,Compass 5 000
+BD1760,MText,"10-26 (Abd.)",F-WS-T,9.996369999999944
+BD1762,BlockReference,"Gabd.15d85efd0b",F-WS-S,4.99818499999997
+BD1767,BlockReference,"GAS",F-WS-S,5
+BD30F7,MText,"CNRL 9-26 (Surface)",F-WS-T,9.996369999999954
+BD943F,BlockReference,"*U13",AS-OWNER,0.999506
+BD993B,DBText,"N.E.1/4 Sec. 26-59-15-W.4M.",C-SYMBOL,19.990119999999795
+BDA366,MText,"Approximate Location of  Smoky Lake Natural Gas Co-op",AS-PIPE-UG-T,9.996369999999947
+BDBD4E,DBText,"(High Grade Gravel)",T-TEXT,10
+BDBD4F,DBText,"Government Road Allowance Rge. Rd. 151",L-ROAD-T,10
+BDC897,MText,"30.0x50.0 Laydown (Temporary) (Option B)",P-TEMP_WORKSPACE,9.996369999999962
+BDCDEC,AlignedDimension,"10.0x230.8 A/R  B)",P-TEMP-T,Compass 5 000
+BDCE1A,MText,"12.0x20.0 A/R (Temporary) (Option B)",P-TEMP-BLUE,9.996369999999962
+BE9690,BlockReference,"*U15",0,1
+BE9CA4,BlockReference,"xing2",P-CROSSINGS,1
+BE9CBB,BlockReference,"*U16",DETAIL-T,1
+BEA842,BlockReference,"xing2",P-CROSSINGS,1
+BEA85F,BlockReference,"xing2",P-CROSSINGS,1
+BF3240,AlignedDimension,"CNRL  A/R",F-AR-T,Compass 5 000
+BF8288,MText,"C. of T.",L-TITLEDB-T,9.995059999999897
+BFD6FF,BlockReference,"xing2",P-CROSSINGS,1
+C09C84,BlockReference,"AA",CG-NOTES,1
+C09C85,BlockReference,"Route_Letters",CG-NOTES,1
+C0A2AA,BlockReference,"AA",CG-NOTES,1
+C0A2AB,BlockReference,"Route_Letters",CG-NOTES,1
+C10747,BlockReference,"*U19",0,0.999506
