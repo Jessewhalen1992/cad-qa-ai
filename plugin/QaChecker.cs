@@ -10,6 +10,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Text.Json;
+using System.Text.RegularExpressions;
 
 namespace CadQaPlugin
 {
@@ -20,7 +21,7 @@ namespace CadQaPlugin
         {
             public double ConfidenceThreshold { get; set; } = 0.60;
             public string[] IgnoreLayers { get; set; } =
-                { "DEFPOINTS", "VIEWPORTS", "0" };
+                { "DEFPOINTS", "VIEWPORTS"};
             public string OutputFolder { get; set; } = "%DWGDIR%";
             public bool VerboseReports { get; set; } = false;
         }
@@ -47,7 +48,7 @@ namespace CadQaPlugin
                         return JsonSerializer.Deserialize<QaConfig>(
                             File.ReadAllText(path)) ?? new QaConfig();
                     }
-                    catch { /* bad JSON → ignore */ }
+                    catch { /* ignore bad JSON */ }
                 }
             }
             return new QaConfig();  // defaults
@@ -98,35 +99,109 @@ namespace CadQaPlugin
             var db = doc.Database;
             using var tr = db.TransactionManager.StartTransaction();
 
-            // ---------- deterministic rules --------------------------------
+            // 1. Run deterministic rules (Block layer + Spell check)
             var issues = new RuleBase[]
             {
                 new BlockLayerRule(),
-                new AdvancedSpellCheckRule()        // switched from SpellCheckRule
+                new AdvancedSpellCheckRule()
             }
             .SelectMany(r => r.Evaluate(db, tr))
             .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
             .ToList();
-            // ----------------------------------------------------------------
 
-            // collect text for ML
-            var ids = new List<ObjectId>(); var texts = new List<string>();
-            var layers = new List<string>(); var xs = new List<double?>(); var ys = new List<double?>();
+            // 2. Build deterministic issues CSV: Type,X,Y,Layer,Token,Suggestion
+            var detRows = new List<string> { "Type,X,Y,Layer,Token,Suggestion" };
+            foreach (var issue in issues)
+            {
+                if (tr.GetObject(issue.EntityId, OpenMode.ForRead) is Entity ent2)
+                {
+                    // Skip Z-* or ignored layers
+                    if (ent2.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase) ||
+                        Cfg.IgnoreLayers.Contains(ent2.Layer, StringComparer.OrdinalIgnoreCase))
+                        continue;
+
+                    // Coordinates for text / mtext
+                    double ix = 0, iy = 0;
+                    if (ent2 is DBText dt2)
+                    {
+                        ix = dt2.Position.X;
+                        iy = dt2.Position.Y;
+                    }
+                    else if (ent2 is MText mt2)
+                    {
+                        ix = mt2.Location.X;
+                        iy = mt2.Location.Y;
+                    }
+
+                    // Parse message for wrong/suggested words
+                    string wrong = "", suggestion = "";
+                    var msg = issue.Message;
+                    if (msg.StartsWith("Possible misspelling"))
+                    {
+                        var m = Regex.Match(msg,
+                            @"Possible misspelling '(.+?)'\. Did you mean '(.+?)'\?");
+                        if (m.Success)
+                        {
+                            wrong = m.Groups[1].Value;
+                            suggestion = m.Groups[2].Value;
+                        }
+                    }
+                    else if (msg.StartsWith("Unrecognized text"))
+                    {
+                        var m = Regex.Match(msg,
+                            @"Unrecognized text '(.+?)'\.");
+                        if (m.Success)
+                        {
+                            wrong = m.Groups[1].Value;
+                            suggestion = "";
+                        }
+                    }
+                    else if (msg.StartsWith("Unexpected numeric value"))
+                    {
+                        var m = Regex.Match(msg,
+                            @"Unexpected numeric value '(.+?)'\.");
+                        if (m.Success)
+                        {
+                            wrong = m.Groups[1].Value;
+                            suggestion = "";
+                        }
+                    }
+                    else
+                    {
+                        wrong = msg;
+                        suggestion = "";
+                    }
+
+                    detRows.Add($"{issue.Type},{ix:F3},{iy:F3},{ent2.Layer},{wrong},{suggestion}");
+
+                    // Optionally print each issue if verbose
+                    if (Cfg.VerboseReports)
+                    {
+                        doc.Editor.WriteMessage("\n" + issue.Message);
+                    }
+                }
+            }
+
+            // 3. Collect text entities for ML (layer classifier)
+            var ids = new List<ObjectId>();
+            var texts = new List<string>();
+            var layers = new List<string>();
+            var xs = new List<double?>();
+            var ys = new List<double?>();
 
             var ms = (BlockTableRecord)tr.GetObject(
                         ((BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead))
                         [BlockTableRecord.ModelSpace], OpenMode.ForRead);
 
-            foreach (ObjectId id in ms)
+            foreach (var id in ms)
             {
                 if (selectedIds != null && !selectedIds.Contains(id)) continue;
                 if (tr.GetObject(id, OpenMode.ForRead) is not Entity ent) continue;
 
-                // ---------- IGNORE LIST + Z- rule ---------------------------
+                // Skip Z-* or ignored layers
                 if (ent.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase) ||
                     Cfg.IgnoreLayers.Contains(ent.Layer, StringComparer.OrdinalIgnoreCase))
                     continue;
-                // ------------------------------------------------------------
 
                 switch (ent)
                 {
@@ -143,9 +218,10 @@ namespace CadQaPlugin
                 }
             }
 
-            // ML suggestions
+            // 4. ML suggestions (layer classifier)
             double CONF = Cfg.ConfidenceThreshold;
-            int fixedCnt = 0; string? csvPath = null;
+            int fixedCnt = 0;
+            string? csvPath = null;
 
             if (texts.Count > 0)
             {
@@ -198,20 +274,35 @@ namespace CadQaPlugin
                 }
             }
 
-            // console summary
+            // 5. Write deterministic issues CSV
+            string? issuesPath = null;
+            if (detRows.Count > 1)
+            {
+                issuesPath = Stamp(Path.ChangeExtension(db.Filename, ".qa_issues.csv"));
+                File.WriteAllLines(issuesPath, detRows);
+            }
+
+            // 6. Console summary
             doc.Editor.WriteMessage($"\nDeterministic issues  : {issues.Count}");
             doc.Editor.WriteMessage($"\nAuto-fixed layers     : {fixedCnt}");
             if (csvPath != null)
                 doc.Editor.WriteMessage($"\nLayer review CSV      : {csvPath}");
+            if (issuesPath != null)
+                doc.Editor.WriteMessage($"\nIssues CSV            : {issuesPath}");
 
             tr.Commit();
         }
 
+        // Identify strings that are purely numeric (for layer classifier filtering)
         private static bool IsMostlyNumeric(string s)
         {
             if (string.IsNullOrWhiteSpace(s)) return true;
-            int d = 0, a = 0; foreach (char c in s)
-            { if (char.IsDigit(c)) d++; else if (char.IsLetter(c)) a++; }
+            int d = 0, a = 0;
+            foreach (char c in s)
+            {
+                if (char.IsDigit(c)) d++;
+                else if (char.IsLetter(c)) a++;
+            }
             return d > 0 && a == 0;
         }
     }
