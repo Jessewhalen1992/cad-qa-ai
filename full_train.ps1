@@ -41,6 +41,12 @@ Write-Host "`n=== LABELING master.csv => labeled.csv ===`n"
 python $labelScript --in $masterCsv --out $labeledCsv
 Write-Host "labeled.csv written to $labeledCsv"
 
+# ------ 2.5 generate allowed tokens ---------------------------------
+Write-Host "`n=== Generating allowed tokens list ===`n"
+python ml\generate_allowed_tokens.py --in $masterCsv --out spell_allowed_tokens.txt --min_count 10
+Write-Host "spell_allowed_tokens.txt generated/updated"
+
+
 # ------ 3. train ----------------------------------------------------
 Write-Host "`n=== TRAINING model.ipynb (nbconvert) ===`n"
 jupyter nbconvert --to notebook --execute "`"$notebook`"" --inplace
