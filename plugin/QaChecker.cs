@@ -21,7 +21,7 @@ namespace CadQaPlugin
         {
             public double ConfidenceThreshold { get; set; } = 0.60;
             public string[] IgnoreLayers { get; set; } =
-                { "DEFPOINTS", "VIEWPORTS"};
+                { "DEFPOINTS", "VIEWPORTS" };
             public string OutputFolder { get; set; } = "%DWGDIR%";
             public bool VerboseReports { get; set; } = false;
         }
@@ -46,7 +46,7 @@ namespace CadQaPlugin
                     try
                     {
                         return JsonSerializer.Deserialize<QaConfig>(
-                            File.ReadAllText(path)) ?? new QaConfig();
+                                   File.ReadAllText(path)) ?? new QaConfig();
                     }
                     catch { /* ignore bad JSON */ }
                 }
@@ -99,7 +99,7 @@ namespace CadQaPlugin
             var db = doc.Database;
             using var tr = db.TransactionManager.StartTransaction();
 
-            // 1. Run deterministic rules (Block layer + Spell check)
+            // 1. Deterministic rules (block layer + spell check)
             var issues = new RuleBase[]
             {
                 new BlockLayerRule(),
@@ -109,7 +109,7 @@ namespace CadQaPlugin
             .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
             .ToList();
 
-            // 2. Build deterministic issues CSV: Type,X,Y,Layer,Token,Suggestion
+            // 2. Build deterministic issues CSV
             var detRows = new List<string> { "Type,X,Y,Layer,Token,Suggestion" };
             foreach (var issue in issues)
             {
@@ -120,72 +120,41 @@ namespace CadQaPlugin
                         Cfg.IgnoreLayers.Contains(ent2.Layer, StringComparer.OrdinalIgnoreCase))
                         continue;
 
-                    // Coordinates for text / mtext
+                    // Coordinates
                     double ix = 0, iy = 0;
-                    if (ent2 is DBText dt2)
-                    {
-                        ix = dt2.Position.X;
-                        iy = dt2.Position.Y;
-                    }
-                    else if (ent2 is MText mt2)
-                    {
-                        ix = mt2.Location.X;
-                        iy = mt2.Location.Y;
-                    }
+                    if (ent2 is DBText dt2) { ix = dt2.Position.X; iy = dt2.Position.Y; }
+                    else if (ent2 is MText mt2) { ix = mt2.Location.X; iy = mt2.Location.Y; }
 
-                    // Parse message for wrong/suggested words
+                    // Parse message
                     string wrong = "", suggestion = "";
                     var msg = issue.Message;
                     if (msg.StartsWith("Possible misspelling"))
                     {
                         var m = Regex.Match(msg,
                             @"Possible misspelling '(.+?)'\. Did you mean '(.+?)'\?");
-                        if (m.Success)
-                        {
-                            wrong = m.Groups[1].Value;
-                            suggestion = m.Groups[2].Value;
-                        }
+                        if (m.Success) { wrong = m.Groups[1].Value; suggestion = m.Groups[2].Value; }
                     }
                     else if (msg.StartsWith("Unrecognized text"))
                     {
-                        var m = Regex.Match(msg,
-                            @"Unrecognized text '(.+?)'\.");
-                        if (m.Success)
-                        {
-                            wrong = m.Groups[1].Value;
-                            suggestion = "";
-                        }
+                        var m = Regex.Match(msg, @"Unrecognized text '(.+?)'\.");
+                        if (m.Success) wrong = m.Groups[1].Value;
                     }
                     else if (msg.StartsWith("Unexpected numeric value"))
                     {
-                        var m = Regex.Match(msg,
-                            @"Unexpected numeric value '(.+?)'\.");
-                        if (m.Success)
-                        {
-                            wrong = m.Groups[1].Value;
-                            suggestion = "";
-                        }
+                        var m = Regex.Match(msg, @"Unexpected numeric value '(.+?)'\.");
+                        if (m.Success) wrong = m.Groups[1].Value;
                     }
-                    else
-                    {
-                        wrong = msg;
-                        suggestion = "";
-                    }
+                    else { wrong = msg; }
 
                     detRows.Add($"{issue.Type},{ix:F3},{iy:F3},{ent2.Layer},{wrong},{suggestion}");
-
-                    // Optionally print each issue if verbose
-                    if (Cfg.VerboseReports)
-                    {
-                        doc.Editor.WriteMessage("\n" + issue.Message);
-                    }
+                    if (Cfg.VerboseReports) doc.Editor.WriteMessage("\n" + issue.Message);
                 }
             }
 
-            // 3. Collect text entities for ML (layer classifier)
+            // 3. Collect text entities for ML
             var ids = new List<ObjectId>();
-            var texts = new List<string>();
-            var layers = new List<string>();
+            var txts = new List<string>();
+            var lays = new List<string>();
             var xs = new List<double?>();
             var ys = new List<double?>();
 
@@ -196,52 +165,54 @@ namespace CadQaPlugin
             foreach (var id in ms)
             {
                 if (selectedIds != null && !selectedIds.Contains(id)) continue;
-                if (tr.GetObject(id, OpenMode.ForRead) is not Entity ent) continue;
+                if (tr.GetObject(id, OpenMode.ForRead) is not Entity e) continue;
 
-                // Skip Z-* or ignored layers
-                if (ent.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase) ||
-                    Cfg.IgnoreLayers.Contains(ent.Layer, StringComparer.OrdinalIgnoreCase))
+                if (e.Layer.StartsWith("Z-", StringComparison.OrdinalIgnoreCase) ||
+                    Cfg.IgnoreLayers.Contains(e.Layer, StringComparer.OrdinalIgnoreCase))
                     continue;
 
-                switch (ent)
+                switch (e)
                 {
-                    case DBText t when !string.IsNullOrWhiteSpace(t.TextString)
-                                      && !IsMostlyNumeric(t.TextString):
-                        ids.Add(id); texts.Add(t.TextString); layers.Add(t.Layer);
+                    case DBText t when !string.IsNullOrWhiteSpace(t.TextString) && !IsMostlyNumeric(t.TextString):
+                        ids.Add(id); txts.Add(t.TextString); lays.Add(t.Layer);
                         xs.Add(t.Position.X); ys.Add(t.Position.Y);
                         break;
-                    case MText m when !string.IsNullOrWhiteSpace(m.Text)
-                                      && !IsMostlyNumeric(m.Text):
-                        ids.Add(id); texts.Add(m.Text); layers.Add(m.Layer);
+                    case MText m when !string.IsNullOrWhiteSpace(m.Text) && !IsMostlyNumeric(m.Text):
+                        ids.Add(id); txts.Add(m.Text); lays.Add(m.Layer);
                         xs.Add(m.Location.X); ys.Add(m.Location.Y);
                         break;
                 }
             }
 
-            // 4. ML suggestions (layer classifier)
+            // 4. ML suggestions
             double CONF = Cfg.ConfidenceThreshold;
             int fixedCnt = 0;
             string? csvPath = null;
 
-            if (texts.Count > 0)
+            if (txts.Count > 0)
             {
                 if (!PythonEngine.IsInitialized) PythonEngine.Initialize();
                 using (Py.GIL())
                 {
                     dynamic joblib = Py.Import("joblib");
-                    dynamic model = joblib.load("ml/artifacts/layer_clf.pkl");
-                    dynamic preds = model.predict(texts.ToArray());
-                    dynamic probs = model.predict_proba(texts.ToArray());
+
+                    // hard-coded model path
+                    string modelPath = @"C:\Users\Jesse 2025\Desktop\CAD AI\ml\artifacts\layer_clf.pkl";
+                    if (!File.Exists(modelPath))
+                        throw new FileNotFoundException($"layer_clf.pkl not found at {modelPath}");
+
+                    dynamic model = joblib.load(modelPath);
+                    dynamic preds = model.predict(txts.ToArray());
+                    dynamic probs = model.predict_proba(txts.ToArray());
 
                     var rows = new List<string>
                     { "Text,X,Y,CurrentLayer,SuggestedLayer,Confidence,Status" };
 
-                    for (int i = 0; i < texts.Count; i++)
+                    for (int i = 0; i < txts.Count; i++)
                     {
-                        double best = ((double[])probs[i]
-                                       .AsManagedObject(typeof(double[]))).Max();
+                        double best = ((double[])probs[i].AsManagedObject(typeof(double[]))).Max();
                         string sugg = best >= CONF ? ((string)preds[i]).Trim() : "No Suggested Layer";
-                        string curr = layers[i] ?? "";
+                        string curr = lays[i] ?? "";
                         bool same = sugg.Equals(curr, StringComparison.OrdinalIgnoreCase);
 
                         bool willFix = applyFixes && !same &&
@@ -249,21 +220,18 @@ namespace CadQaPlugin
 
                         string status = willFix ? "Fixed" : (same ? "OK" : "Suggested");
 
-                        if (willFix)
+                        if (willFix && tr.GetObject(ids[i], OpenMode.ForWrite) is Entity entFix)
                         {
-                            if (tr.GetObject(ids[i], OpenMode.ForWrite) is Entity e)
-                                e.Layer = sugg;
+                            entFix.Layer = sugg;
                             fixedCnt++;
                         }
 
-                        if (status == "OK") continue;  // hide unchanged
+                        if (status == "OK") continue;   // hide unchanged
 
-                        string clean = texts[i].Replace(',', ' ')
-                                               .Replace('\r', ' ')
-                                               .Replace('\n', ' ');
-                        string sx = xs[i]?.ToString("F3") ?? "";
-                        string sy = ys[i]?.ToString("F3") ?? "";
-                        rows.Add($"{clean},{sx},{sy},{curr},{sugg},{best:0.00},{status}");
+                        string clean = txts[i].Replace(',', ' ')
+                                              .Replace('\r', ' ')
+                                              .Replace('\n', ' ');
+                        rows.Add($"{clean},{xs[i]:F3},{ys[i]:F3},{curr},{sugg},{best:0.00},{status}");
                     }
 
                     if (rows.Count > 1)
@@ -274,7 +242,7 @@ namespace CadQaPlugin
                 }
             }
 
-            // 5. Write deterministic issues CSV
+            // 5. deterministic issues CSV
             string? issuesPath = null;
             if (detRows.Count > 1)
             {
@@ -282,27 +250,21 @@ namespace CadQaPlugin
                 File.WriteAllLines(issuesPath, detRows);
             }
 
-            // 6. Console summary
+            // 6. summary
             doc.Editor.WriteMessage($"\nDeterministic issues  : {issues.Count}");
             doc.Editor.WriteMessage($"\nAuto-fixed layers     : {fixedCnt}");
-            if (csvPath != null)
-                doc.Editor.WriteMessage($"\nLayer review CSV      : {csvPath}");
-            if (issuesPath != null)
-                doc.Editor.WriteMessage($"\nIssues CSV            : {issuesPath}");
+            if (csvPath != null) doc.Editor.WriteMessage($"\nLayer review CSV      : {csvPath}");
+            if (issuesPath != null) doc.Editor.WriteMessage($"\nIssues CSV            : {issuesPath}");
 
             tr.Commit();
         }
 
-        // Identify strings that are purely numeric (for layer classifier filtering)
+        // true if a string is purely numeric
         private static bool IsMostlyNumeric(string s)
         {
             if (string.IsNullOrWhiteSpace(s)) return true;
             int d = 0, a = 0;
-            foreach (char c in s)
-            {
-                if (char.IsDigit(c)) d++;
-                else if (char.IsLetter(c)) a++;
-            }
+            foreach (char c in s) { if (char.IsDigit(c)) d++; else if (char.IsLetter(c)) a++; }
             return d > 0 && a == 0;
         }
     }
