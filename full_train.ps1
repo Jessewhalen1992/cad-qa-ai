@@ -3,7 +3,7 @@ full_train.ps1  –  one‑click pipeline
 ----------------------------------------------------------
  1) Merge   ml\artifacts\Drawings\*.features.csv -> ml\datasets\master.csv
  2) Label   master.csv -> labeled.csv
- 3) Train   ml\model.ipynb -> ml\artifacts\layer_clf.pkl
+ 3) Train   layer_model_training.ipynb -> ml\artifacts\layer_clf.pkl
 ----------------------------------------------------------
 #>
 
@@ -18,7 +18,6 @@ $datasetDir  = Join-Path $root 'ml\datasets'
 $masterCsv   = Join-Path $datasetDir 'master.csv'
 $labeledCsv  = Join-Path $datasetDir 'labeled.csv'
 $labelScript = Join-Path $root 'ml\labeling\label_with_rules.py'
-$notebook    = Join-Path $root 'ml\model.ipynb'
 
 # ------ 1. merge ----------------------------------------------------
 Write-Host "`n=== MERGING FEATURES => master.csv ===`n"
@@ -48,9 +47,44 @@ Write-Host "spell_allowed_tokens.txt generated/updated"
 
 
 # ------ 3. train ----------------------------------------------------
-Write-Host "`n=== TRAINING model.ipynb (nbconvert) ===`n"
-jupyter nbconvert --to notebook --execute "`"$notebook`"" --inplace
-Write-Host "layer_clf.pkl saved to ml\\artifacts\\layer_clf.pkl"
+Write-Host "=== TRAINING layer_model_training.ipynb ==="
+$jupyter = "jupyter"
+
+# execute notebook -> artifacts\model_run.ipynb
+& $jupyter nbconvert --to notebook --execute `
+    ".\layer_model_training.ipynb" `
+    --output "ml\artifacts\model_run.ipynb" `
+    --log-level=ERROR
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "nbconvert failed – training aborted."
+    pause; exit 1
+}
+
+# verify the generated model
+$model = "ml\artifacts\layer_clf.pkl"
+if (-not (Test-Path $model)) {
+    Write-Error "layer_clf.pkl not produced."
+    pause; exit 1
+}
+
+# quick Python guard – size + fitted flag
+python - << 'PY'
+import os, joblib, sys, pathlib
+p = pathlib.Path("ml/artifacts/layer_clf.pkl")
+size = os.path.getsize(p)
+try:
+    fitted = hasattr(joblib.load(p).named_steps["tfidf"], "vocabulary_")
+except Exception:
+    fitted = False
+if size < 100_000 or not fitted:
+    print(f"Model looks unfitted (size={size}, fitted={fitted})")
+    sys.exit(1)
+print("Model OK  ✓  (size =", size, "bytes)")
+PY
+if ($LASTEXITCODE -ne 0) {
+    Write-Error "Model verification failed – fix notebook."
+    pause; exit 1
+}
 
 # ------ done --------------------------------------------------------
 Write-Host ''
