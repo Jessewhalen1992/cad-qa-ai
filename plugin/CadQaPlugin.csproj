@@ -73,7 +73,13 @@
     </Reference>
   </ItemGroup>
 
-  <!-- ────── Post‑build: copy ML model beside every DLL ────── -->
+    <!-- Copy spell allowed tokens file to output directory -->
+  <ItemGroup>
+    <None Include="spell_allowed_tokens.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup><
+!-- ────── Post‑build: copy ML model beside every DLL ────── -->
   <Target Name="CopyModel" AfterTargets="Build">
     <!-- relative path to the model inside the repo -->
     <ItemGroup>
