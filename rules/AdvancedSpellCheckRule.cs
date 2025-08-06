@@ -1,183 +1,138 @@
+using Autodesk.AutoCAD.DatabaseServices;
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
-using System.IO;
-using Autodesk.AutoCAD.DatabaseServices;
 
-namespace CadQaPlugin
+namespace CadQa.Rules   // same namespace as RuleBase / BlockLayerRule
 {
     public class AdvancedSpellCheckRule : RuleBase
     {
         public override string Name => "Advanced SpellCheck";
 
-        private static HashSet<string> AllowedTokens = new HashSet<string>(StringComparer.OrdinalIgnoreCase)
-        {
-            // built-in tokens
-            "PLAN", "P/L", "R/W", "MSL", "LOC", "PLA", "SURFACE", "AMENDED"
-        };
+        // ---------------- Allowed tokens & widths -------------------------
+        private static readonly HashSet<string> BuiltInTokens =
+            new(StringComparer.OrdinalIgnoreCase)
+            {
+                "PLAN", "P/L", "R/W", "MSL", "LOC", "PLA",
+                "SURFACE", "AMENDED"
+            };
 
-        private static HashSet<string> AllowedWidths = new HashSet<string>
-        {
-            "5.00", "10.00", "12.00", "15.00", "20.00", "25.00", "30.00"
-        };
+        private static readonly HashSet<string> AllowedWidths =
+            new() { "5.00", "10.00", "12.00", "15.00",
+                    "20.00", "25.00", "30.00" };
+        // ------------------------------------------------------------------
 
         public override IEnumerable<QaIssue> Evaluate(Database db, Transaction tr)
         {
-            // merge built-in and additional tokens from external file
-            try
-            {
-                AllowedTokens.UnionWith(LoadAdditionalTokens());
-            }
-            catch
-            {
-                // ignore file errors
-            }
+            var allowed = new HashSet<string>(BuiltInTokens, StringComparer.OrdinalIgnoreCase);
+            allowed.UnionWith(LoadAdditionalTokens());
 
             var issues = new List<QaIssue>();
 
-            foreach (ObjectId id in GetModelSpaceEntities(db, tr))
+            foreach (ObjectId id in GetModelSpace(db, tr))   // helper below
             {
-                var ent = tr.GetObject(id, OpenMode.ForRead);
-                string text = null;
-                if (ent is DBText dt)
-                {
-                    text = dt.TextString;
-                }
-                else if (ent is MText mt)
-                {
-                    text = mt.Contents;
-                }
-                else if (ent is Dimension dim)
-                {
-                    text = dim.DimensionText;
-                }
-                if (string.IsNullOrWhiteSpace(text))
-                {
-                    continue;
-                }
+                if (tr.GetObject(id, OpenMode.ForRead) is not Entity ent) continue;
 
-                // basic cleaning: remove formatting codes etc.
-                string cleaned = Clean(text);
+                string? raw =
+                    ent is DBText dt ? dt.TextString :
+                    ent is MText mt ? mt.Contents :
+                    ent is Dimension d ? d.DimensionText :
+                    null;
+
+                if (string.IsNullOrWhiteSpace(raw)) continue;
+
+                string cleaned = Clean(raw);
                 var tokens = Regex.Split(cleaned, @"[\s,;/()\[\]{}]+");
+
                 bool afterDisposition = false;
 
-                foreach (var token in tokens)
+                foreach (string token in tokens)
                 {
-                    if (string.IsNullOrWhiteSpace(token))
-                    {
-                        continue;
-                    }
-                    var tok = token.Trim();
+                    if (string.IsNullOrWhiteSpace(token)) continue;
+                    string tok = token.Trim();
 
-                    // skip numeric tokens following disposition keywords like PLAN/MSL/LOC/PLA
-                    if (afterDisposition && IsNumeric(tok))
-                    {
-                        continue;
-                    }
+                    // skip numeric token right after disposition keywords
+                    if (afterDisposition && IsNumeric(tok)) continue;
 
-                    if (AllowedTokens.Contains(tok))
+                    if (allowed.Contains(tok))
                     {
-                        // if token is a disposition keyword, next numeric token should be ignored
-                        if (string.Equals(tok, "PLAN", StringComparison.OrdinalIgnoreCase) ||
-                            string.Equals(tok, "MSL", StringComparison.OrdinalIgnoreCase) ||
-                            string.Equals(tok, "LOC", StringComparison.OrdinalIgnoreCase) ||
-                            string.Equals(tok, "PLA", StringComparison.OrdinalIgnoreCase))
-                        {
+                        if (tok.Equals("PLAN", StringComparison.OrdinalIgnoreCase) ||
+                            tok.Equals("MSL", StringComparison.OrdinalIgnoreCase) ||
+                            tok.Equals("LOC", StringComparison.OrdinalIgnoreCase) ||
+                            tok.Equals("PLA", StringComparison.OrdinalIgnoreCase))
                             afterDisposition = true;
-                        }
                         continue;
                     }
 
-                    // reset flag if token is not numeric or disposition
                     afterDisposition = false;
 
+                    // numeric width check
                     if (IsNumeric(tok))
                     {
-                        // treat numeric tokens as possible width values
                         if (!AllowedWidths.Contains(tok))
-                        {
-                            issues.Add(new QaIssue
-                            {
-                                Id = Name,
-                                Type = IssueType.Spelling,
-                                EntityId = id,
-                                Message = $"Unexpected numeric value '{tok}' in entity {id}."
-                            });
-                        }
+                            issues.Add(MakeIssue(id, $"Unexpected numeric value '{tok}'."));
                         continue;
                     }
 
-                    // compute fuzzy match to suggest corrections
-                    string closest = GetClosestToken(tok, AllowedTokens);
-                    int distance = closest == null ? int.MaxValue : LevenshteinDistance(tok.ToUpperInvariant(), closest.ToUpperInvariant());
-                    if (distance <= 2)
-                    {
-                        issues.Add(new QaIssue
-                        {
-                            Id = Name,
-                            Type = IssueType.Spelling,
-                            EntityId = id,
-                            Message = $"Possible misspelling '{tok}' in entity {id}. Did you mean '{closest}'?"
-                        });
-                    }
+                    // fuzzy match
+                    string? closest = GetClosestToken(tok, allowed);
+                    int dist = closest == null ? int.MaxValue
+                                               : LevenshteinDistance(tok, closest);
+
+                    if (closest != null && dist <= 2)
+                        issues.Add(MakeIssue(id,
+                            $"Possible misspelling '{tok}'. Did you mean '{closest}'?"));
                     else
-                    {
-                        issues.Add(new QaIssue
-                        {
-                            Id = Name,
-                            Type = IssueType.Spelling,
-                            EntityId = id,
-                            Message = $"Unrecognized text '{tok}' in entity {id}."
-                        });
-                    }
+                        issues.Add(MakeIssue(id, $"Unrecognized text '{tok}'."));
                 }
             }
+
             return issues;
         }
 
-        private static bool IsNumeric(string s)
-        {
-            return double.TryParse(s, out var _);
-        }
+        // ---------------- Helpers -----------------------------------------
+
+        private static bool IsNumeric(string s) => double.TryParse(s, out _);
+
+        private static QaIssue MakeIssue(ObjectId id, string msg) =>
+            new QaIssue
+            {
+                // Id left unset (or set to an int if you prefer, e.g. Id = 3,)
+                Type = IssueType.Spelling,
+                EntityId = id,
+                Message = msg
+            };
 
         private static IEnumerable<string> LoadAdditionalTokens()
         {
-            var tokens = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
+            var set = new HashSet<string>(StringComparer.OrdinalIgnoreCase);
             try
             {
-                // locate file in the same directory as the assembly
-                string dir = Path.GetDirectoryName(System.Reflection.Assembly.GetExecutingAssembly().Location);
-                string path = Path.Combine(dir ?? string.Empty, "spell_allowed_tokens.txt");
+                string dir = Path.GetDirectoryName(
+                                System.Reflection.Assembly.GetExecutingAssembly().Location)!;
+                string path = Path.Combine(dir, "spell_allowed_tokens.txt");
                 if (File.Exists(path))
-                {
-                    foreach (var line in File.ReadLines(path))
-                    {
-                        var token = line.Trim();
-                        if (!string.IsNullOrEmpty(token))
-                        {
-                            tokens.Add(token);
-                        }
-                    }
-                }
+                    foreach (string line in File.ReadLines(path))
+                        if (!string.IsNullOrWhiteSpace(line))
+                            set.Add(line.Trim());
             }
-            catch
-            {
-                // ignore file errors
-            }
-            return tokens;
+            catch { /* ignore I/O errors */ }
+            return set;
         }
 
-        private static string GetClosestToken(string token, IEnumerable<string> allowed)
+        private static string? GetClosestToken(string token, IEnumerable<string> allowed)
         {
-            int minDist = int.MaxValue;
-            string closest = null;
-            foreach (var t in allowed)
+            string? closest = null;
+            int min = int.MaxValue;
+
+            foreach (string t in allowed)
             {
-                int dist = LevenshteinDistance(token.ToUpperInvariant(), t.ToUpperInvariant());
-                if (dist < minDist)
+                int d = LevenshteinDistance(token, t);
+                if (d < min)
                 {
-                    minDist = dist;feat: add AdvancedSpellCheckRule with dynamic token loading and fuzzy matching
+                    min = d;
                     closest = t;
                 }
             }
@@ -186,26 +141,36 @@ namespace CadQaPlugin
 
         private static int LevenshteinDistance(string s, string t)
         {
-            int n = s.Length;
-            int m = t.Length;
+            int n = s.Length, m = t.Length;
             var d = new int[n + 1, m + 1];
+
             for (int i = 0; i <= n; i++) d[i, 0] = i;
             for (int j = 0; j <= m; j++) d[0, j] = j;
+
             for (int i = 1; i <= n; i++)
             {
                 for (int j = 1; j <= m; j++)
                 {
                     int cost = s[i - 1] == t[j - 1] ? 0 : 1;
-                    d[i, j] = Math.Min(Math.Min(d[i - 1, j] + 1, d[i, j - 1] + 1), d[i - 1, j - 1] + cost);
+                    d[i, j] = Math.Min(
+                                  Math.Min(d[i - 1, j] + 1, d[i, j - 1] + 1),
+                                  d[i - 1, j - 1] + cost);
                 }
             }
             return d[n, m];
         }
 
-        private static string Clean(string text)
+        private static string Clean(string text) =>
+            text.Replace("\\P", " ")
+                .Replace("\\A1;", " ")
+                .Replace("\\H0.7;", " ")
+                .Trim();
+
+        private static IEnumerable<ObjectId> GetModelSpace(Database db, Transaction tr)
         {
-            // Here we could remove formatting codes; for now return the original text.
-            return text;
+            var bt = (BlockTable)tr.GetObject(db.BlockTableId, OpenMode.ForRead);
+            var ms = (BlockTableRecord)tr.GetObject(bt[BlockTableRecord.ModelSpace], OpenMode.ForRead);
+            foreach (ObjectId id in ms) yield return id;
         }
     }
 }

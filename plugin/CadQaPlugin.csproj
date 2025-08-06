@@ -2,7 +2,7 @@
 
   <!-- ───────────── Global settings ───────────── -->
   <PropertyGroup>
-    <!-- Build for legacy AutoCAD (net48) and AutoCAD 2025+ (net8.0‑windows) -->
+    <!-- Build for legacy AutoCAD (net48) and AutoCAD 2025+ (net8.0-windows) -->
     <TargetFrameworks>net48;net8.0-windows</TargetFrameworks>
     <Platforms>x64</Platforms>
     <AssemblyName>CadQaPlugin</AssemblyName>
@@ -14,7 +14,7 @@
     <LangVersion>latest</LangVersion>
     <Nullable>enable</Nullable>
 
-    <!-- .NET Framework: generate binding redirects automatically -->
+    <!-- .NET Framework: generate binding redirects automatically -->
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
 
@@ -26,11 +26,11 @@
 
   <!-- Shared NuGet packages -->
   <ItemGroup>
-    <!-- pythonnet 3.0.5 recognises Python 3.7‑3.13 ABIs -->
+    <!-- pythonnet 3.0.5 recognises Python 3.7-3.13 ABIs -->
     <PackageReference Include="pythonnet" Version="3.0.5" />
   </ItemGroup>
 
-  <!-- ────── .NET Framework 4.8 – AutoCAD 2022 DLLs ────── -->
+  <!-- ────── .NET Framework 4.8 – AutoCAD 2022 DLLs ────── -->
   <ItemGroup Condition="'$(TargetFramework)' == 'net48'">
     <!-- System.Text.Json isn’t in the BCL for net48 -->
     <PackageReference Include="System.Text.Json" Version="6.0.11" />
@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
 
-  <!-- ────── .NET 8.0‑windows – AutoCAD 2025 DLLs ────── -->
+  <!-- ────── .NET 8.0-windows – AutoCAD 2025 DLLs ────── -->
   <ItemGroup Condition="'$(TargetFramework)' == 'net8.0-windows'">
     <Reference Include="acdbmgd">
       <HintPath>$(ProgramFiles)\Autodesk\AutoCAD 2025\acdbmgd.dll</HintPath>
@@ -73,13 +73,14 @@
     </Reference>
   </ItemGroup>
 
-    <!-- Copy spell allowed tokens file to output directory -->
+  <!-- Copy spell_allowed_tokens.txt to output directory -->
   <ItemGroup>
     <None Include="spell_allowed_tokens.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-  </ItemGroup><
-!-- ────── Post‑build: copy ML model beside every DLL ────── -->
+  </ItemGroup>
+
+  <!-- ────── Post-build: copy ML model beside every DLL ────── -->
   <Target Name="CopyModel" AfterTargets="Build">
     <!-- relative path to the model inside the repo -->
     <ItemGroup>

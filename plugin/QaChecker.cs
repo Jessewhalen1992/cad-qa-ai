@@ -98,11 +98,16 @@ namespace CadQaPlugin
             var db = doc.Database;
             using var tr = db.TransactionManager.StartTransaction();
 
-            // deterministic rules (kept, but only summarised in console)
-            var issues = new RuleBase[] { new BlockLaye, new SpellCheckRule()rRule() }
-                .SelectMany(r => r.Evaluate(db, tr))
-                .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
-                .ToList();
+            // ---------- deterministic rules --------------------------------
+            var issues = new RuleBase[]
+            {
+                new BlockLayerRule(),
+                new AdvancedSpellCheckRule()        // switched from SpellCheckRule
+            }
+            .SelectMany(r => r.Evaluate(db, tr))
+            .Where(i => selectedIds == null || selectedIds.Contains(i.EntityId))
+            .ToList();
+            // ----------------------------------------------------------------
 
             // collect text for ML
             var ids = new List<ObjectId>(); var texts = new List<string>();
