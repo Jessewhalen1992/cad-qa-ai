@@ -1,7 +1,7 @@
 <#
 full_train.ps1  –  one‑click pipeline
 ----------------------------------------------------------
- 1) Merge   ml\artifacts\Drawings\*.features.csv -> ml\datasets\master.csv
+ 1) Merge   ml\artifacts\Drawings\*.Text.csv -> ml\datasets\master.csv
  2) Label   master.csv -> labeled.csv
  3) Train   layer_model_training.ipynb -> ml\artifacts\layer_clf.pkl
 ----------------------------------------------------------
@@ -22,7 +22,7 @@ $labelScript = Join-Path $root 'ml\labeling\label_with_rules.py'
 # ------ 1. merge ----------------------------------------------------
 Write-Host "`n=== MERGING FEATURES => master.csv ===`n"
 $csvs = Get-ChildItem -Path $drawingsDir -Filter *.Text.csv -File -Recurse
-if (!$csvs) { throw "No *.features.csv found in $drawingsDir" }
+if (!$csvs) { throw "No *.Text.csv found in $drawingsDir" }
 
 $first = $true
 foreach ($csv in $csvs) {
@@ -68,19 +68,7 @@ if (-not (Test-Path $model)) {
 }
 
 # quick Python guard – size + fitted flag
-python - << 'PY'
-import os, joblib, sys, pathlib
-p = pathlib.Path("ml/artifacts/layer_clf.pkl")
-size = os.path.getsize(p)
-try:
-    fitted = hasattr(joblib.load(p).named_steps["tfidf"], "vocabulary_")
-except Exception:
-    fitted = False
-if size < 100_000 or not fitted:
-    print(f"Model looks unfitted (size={size}, fitted={fitted})")
-    sys.exit(1)
-print("Model OK  ✓  (size =", size, "bytes)")
-PY
+python ml\verify_layer_model.py
 if ($LASTEXITCODE -ne 0) {
     Write-Error "Model verification failed – fix notebook."
     pause; exit 1
