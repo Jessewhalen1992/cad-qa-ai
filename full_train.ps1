@@ -1,5 +1,5 @@
 <#
-full_train.ps1  –  one‑click pipeline
+full_train.ps1 - one-click pipeline
 ----------------------------------------------------------
  1) Merge   ml\artifacts\Drawings\*.Text.csv -> ml\datasets\master.csv
  2) Label   master.csv -> labeled.csv
@@ -56,7 +56,7 @@ $jupyter = "jupyter"
     --output "ml\artifacts\model_run.ipynb" `
     --log-level=ERROR
 if ($LASTEXITCODE -ne 0) {
-    Write-Error "nbconvert failed – training aborted."
+    Write-Error "nbconvert failed - training aborted."
     pause; exit 1
 }
 
@@ -67,10 +67,10 @@ if (-not (Test-Path $model)) {
     pause; exit 1
 }
 
-# quick Python guard – size + fitted flag
+# quick Python guard - size + fitted flag
 python ml\verify_layer_model.py
 if ($LASTEXITCODE -ne 0) {
-    Write-Error "Model verification failed – fix notebook."
+    Write-Error "Model verification failed - fix notebook."
     pause; exit 1
 }
 
